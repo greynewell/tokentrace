@@ -1,6 +1,6 @@
 {
   "name": "claude-chef",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A dual-interface culinary platform: CLI plugin for Claude Code and a GEO-optimized static recipe site.",
   "main": "dist/generator/index.js",
   "bin": {

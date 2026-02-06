@@ -53,17 +53,15 @@ const makeRecipe = (overrides: Partial<ParsedRecipe['frontmatter']> = {}): Parse
 });
 
 describe('buildAllTaxonomies', () => {
-  it('should return eight taxonomies', () => {
+  it('should return six taxonomies', () => {
     const taxonomies = buildAllTaxonomies([]);
-    expect(taxonomies).toHaveLength(8);
+    expect(taxonomies).toHaveLength(6);
     expect(taxonomies[0].type).toBe('category');
     expect(taxonomies[1].type).toBe('cuisine');
     expect(taxonomies[2].type).toBe('ingredient');
-    expect(taxonomies[3].type).toBe('allergy');
-    expect(taxonomies[4].type).toBe('flavor');
-    expect(taxonomies[5].type).toBe('tool');
-    expect(taxonomies[6].type).toBe('skill_level');
-    expect(taxonomies[7].type).toBe('author');
+    expect(taxonomies[3].type).toBe('flavor');
+    expect(taxonomies[4].type).toBe('tool');
+    expect(taxonomies[5].type).toBe('skill_level');
   });
 
   it('should have correct labels', () => {
@@ -74,16 +72,12 @@ describe('buildAllTaxonomies', () => {
     expect(taxonomies[1].labelSingular).toBe('Cuisine');
     expect(taxonomies[2].label).toBe('Ingredients');
     expect(taxonomies[2].labelSingular).toBe('Ingredient');
-    expect(taxonomies[3].label).toBe('Allergies');
-    expect(taxonomies[3].labelSingular).toBe('Allergy');
-    expect(taxonomies[4].label).toBe('Flavors');
-    expect(taxonomies[4].labelSingular).toBe('Flavor');
-    expect(taxonomies[5].label).toBe('Tools');
-    expect(taxonomies[5].labelSingular).toBe('Tool');
-    expect(taxonomies[6].label).toBe('Skill Levels');
-    expect(taxonomies[6].labelSingular).toBe('Skill Level');
-    expect(taxonomies[7].label).toBe('Authors');
-    expect(taxonomies[7].labelSingular).toBe('Author');
+    expect(taxonomies[3].label).toBe('Flavors');
+    expect(taxonomies[3].labelSingular).toBe('Flavor');
+    expect(taxonomies[4].label).toBe('Tools');
+    expect(taxonomies[4].labelSingular).toBe('Tool');
+    expect(taxonomies[5].label).toBe('Skill Levels');
+    expect(taxonomies[5].labelSingular).toBe('Skill Level');
   });
 
   it('should return empty entries for empty input', () => {
@@ -159,32 +153,12 @@ describe('buildAllTaxonomies', () => {
     expect(ingredients.entries.find(e => e.slug === 'rice')).toBeDefined();
   });
 
-  it('should invert allergy grouping (recipes WITHOUT the allergen)', () => {
-    const r1 = makeRecipe({ title: 'R1', allergies: ['Soy', 'Dairy'] });
-    const r2 = makeRecipe({ title: 'R2', allergies: ['Soy'] });
-    const r3 = makeRecipe({ title: 'R3', allergies: [] });
-
-    const taxonomies = buildAllTaxonomies([r1, r2, r3]);
-    const allergies = taxonomies[3];
-    // "No Soy" should contain only r3 (the one without Soy)
-    const noSoy = allergies.entries.find(e => e.slug === 'soy');
-    expect(noSoy).toBeDefined();
-    expect(noSoy!.name).toBe('No Soy');
-    expect(noSoy!.recipes).toHaveLength(1);
-    expect(noSoy!.recipes[0].frontmatter.title).toBe('R3');
-    // "No Dairy" should contain r2 and r3
-    const noDairy = allergies.entries.find(e => e.slug === 'dairy');
-    expect(noDairy).toBeDefined();
-    expect(noDairy!.name).toBe('No Dairy');
-    expect(noDairy!.recipes).toHaveLength(2);
-  });
-
   it('should group recipes by flavor', () => {
     const r1 = makeRecipe({ title: 'R1', flavors: ['Sweet', 'Umami'] });
     const r2 = makeRecipe({ title: 'R2', flavors: ['Umami'] });
 
     const taxonomies = buildAllTaxonomies([r1, r2]);
-    const flavors = taxonomies[4];
+    const flavors = taxonomies[3];
     const umami = flavors.entries.find(e => e.slug === 'umami');
     expect(umami).toBeDefined();
     expect(umami!.recipes).toHaveLength(2);
@@ -195,7 +169,7 @@ describe('buildAllTaxonomies', () => {
     const r2 = makeRecipe({ title: 'R2', tools: ['Oven'] });
 
     const taxonomies = buildAllTaxonomies([r1, r2]);
-    const tools = taxonomies[5];
+    const tools = taxonomies[4];  // index 4 is tool
     const oven = tools.entries.find(e => e.slug === 'oven');
     expect(oven).toBeDefined();
     expect(oven!.recipes).toHaveLength(2);
@@ -207,7 +181,7 @@ describe('buildAllTaxonomies', () => {
     const r3 = makeRecipe({ title: 'R3', skill_level: 'Advanced' });
 
     const taxonomies = buildAllTaxonomies([r1, r2, r3]);
-    const skill = taxonomies[6];
+    const skill = taxonomies[5];  // index 5 is skill_level
     const easy = skill.entries.find(e => e.slug === 'easy');
     expect(easy).toBeDefined();
     expect(easy!.recipes).toHaveLength(2);
@@ -219,32 +193,15 @@ describe('buildAllTaxonomies', () => {
   it('should handle missing new taxonomy fields gracefully', () => {
     const r = makeRecipe({
       recipe_ingredients: undefined,
-      allergies: undefined,
       flavors: undefined,
       tools: undefined,
       skill_level: undefined,
     });
     const taxonomies = buildAllTaxonomies([r]);
-    // Indices 2-6 are ingredient, allergy, flavor, tool, skill_level (author always has a value)
-    for (let i = 2; i <= 6; i++) {
+    // Indices 2-5 are ingredient, flavor, tool, skill_level
+    for (let i = 2; i <= 5; i++) {
       expect(taxonomies[i].entries).toHaveLength(0);
     }
-  });
-
-  it('should group recipes by author', () => {
-    const r1 = makeRecipe({ title: 'R1', author: 'Alice' });
-    const r2 = makeRecipe({ title: 'R2', author: 'Alice' });
-    const r3 = makeRecipe({ title: 'R3', author: 'Bob' });
-
-    const taxonomies = buildAllTaxonomies([r1, r2, r3]);
-    const authors = taxonomies[7];
-    expect(authors.entries).toHaveLength(2);
-    const alice = authors.entries.find(e => e.slug === 'alice');
-    expect(alice).toBeDefined();
-    expect(alice!.recipes).toHaveLength(2);
-    const bob = authors.entries.find(e => e.slug === 'bob');
-    expect(bob).toBeDefined();
-    expect(bob!.recipes).toHaveLength(1);
   });
 
   it('should deduplicate ingredients by slug (case insensitive)', () => {
@@ -260,13 +217,13 @@ describe('buildAllTaxonomies', () => {
 });
 
 describe('TAXONOMY_CONFIGS', () => {
-  it('should have 8 configs', () => {
-    expect(TAXONOMY_CONFIGS).toHaveLength(8);
+  it('should have 6 configs', () => {
+    expect(TAXONOMY_CONFIGS).toHaveLength(6);
   });
 
   it('should have unique types', () => {
     const types = TAXONOMY_CONFIGS.map(c => c.type);
-    expect(new Set(types).size).toBe(8);
+    expect(new Set(types).size).toBe(6);
   });
 });
 
@@ -290,11 +247,9 @@ describe('taxonomy descriptions', () => {
     expect(byType.get('category')!.descriptions.hubTitle('Main Course')).toBe('Main Course Recipes');
     expect(byType.get('cuisine')!.descriptions.hubTitle('Japanese')).toBe('Japanese Recipes');
     expect(byType.get('ingredient')!.descriptions.hubTitle('Chicken')).toBe('Recipes with Chicken');
-    expect(byType.get('allergy')!.descriptions.hubTitle('No Soy')).toBe('No Soy Recipes');
     expect(byType.get('flavor')!.descriptions.hubTitle('Umami')).toBe('Umami Recipes');
     expect(byType.get('tool')!.descriptions.hubTitle('Skillet')).toBe('Recipes Using a Skillet');
     expect(byType.get('skill_level')!.descriptions.hubTitle('Easy')).toBe('Easy Recipes');
-    expect(byType.get('author')!.descriptions.hubTitle('Alice')).toBe('Recipes by Alice');
   });
 
   it('should produce subheading without pagination range', () => {

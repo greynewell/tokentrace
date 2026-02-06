@@ -80,7 +80,7 @@ describe('Template Renderer', () => {
 
     it('should include the footer CTA with install command', () => {
       const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
       expect(html).toContain('Your AI Sous Chef, Ready When You Are');
     });
 
@@ -479,16 +479,6 @@ describe('Template Renderer', () => {
       expect(html).toContain('Butter');
     });
 
-    it('should render linked allergy pills', () => {
-      const recipeWithAllergies = {
-        ...mockRecipe,
-        frontmatter: { ...mockRecipe.frontmatter, allergies: ['Soy', 'Dairy'] },
-      };
-      const html = renderRecipePage(recipeWithAllergies, mockJsonLd, 'abc123');
-      expect(html).toContain('href="/allergy/soy.html"');
-      expect(html).toContain('href="/allergy/dairy.html"');
-    });
-
     it('should render linked flavor pills', () => {
       const recipeWithFlavors = {
         ...mockRecipe,
@@ -497,16 +487,6 @@ describe('Template Renderer', () => {
       const html = renderRecipePage(recipeWithFlavors, mockJsonLd, 'abc123');
       expect(html).toContain('href="/flavor/sweet.html"');
       expect(html).toContain('href="/flavor/umami.html"');
-    });
-
-    it('should render linked sauce pills', () => {
-      const recipeWithSauces = {
-        ...mockRecipe,
-        frontmatter: { ...mockRecipe.frontmatter, sauces: ['Teriyaki'] },
-      };
-      const html = renderRecipePage(recipeWithSauces, mockJsonLd, 'abc123');
-      expect(html).toContain('href="/sauce/teriyaki.html"');
-      expect(html).toContain('Teriyaki');
     });
 
     it('should render linked tool pills', () => {
@@ -664,7 +644,7 @@ describe('Template Renderer', () => {
 
     it('should include the footer CTA', () => {
       const html = renderIndexPage([mockRecipe]);
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
     });
 
     it('should include canonical link on index', () => {
@@ -723,12 +703,9 @@ describe('Template Renderer', () => {
         { type: 'category', label: 'Categories', labelSingular: 'Category', entries: [{ name: 'Main Course', slug: 'main-course', recipes: [mockRecipe] }], descriptions: stubDescriptions },
         { type: 'cuisine', label: 'Cuisines', labelSingular: 'Cuisine', entries: [{ name: 'Italian', slug: 'italian', recipes: [mockRecipe] }], descriptions: stubDescriptions },
         { type: 'ingredient', label: 'Ingredients', labelSingular: 'Ingredient', entries: [{ name: 'Chicken', slug: 'chicken', recipes: [mockRecipe] }], descriptions: stubDescriptions },
-        { type: 'allergy', label: 'Allergies', labelSingular: 'Allergy', entries: [{ name: 'No Soy', slug: 'soy', recipes: [mockRecipe] }], descriptions: stubDescriptions },
         { type: 'flavor', label: 'Flavors', labelSingular: 'Flavor', entries: [{ name: 'Umami', slug: 'umami', recipes: [mockRecipe] }], descriptions: stubDescriptions },
-        { type: 'sauce', label: 'Sauces', labelSingular: 'Sauce', entries: [{ name: 'Teriyaki', slug: 'teriyaki', recipes: [mockRecipe] }], descriptions: stubDescriptions },
         { type: 'tool', label: 'Tools', labelSingular: 'Tool', entries: [{ name: 'Skillet', slug: 'skillet', recipes: [mockRecipe] }], descriptions: stubDescriptions },
         { type: 'skill_level', label: 'Skill Levels', labelSingular: 'Skill Level', entries: [{ name: 'Easy', slug: 'easy', recipes: [mockRecipe] }], descriptions: stubDescriptions },
-        { type: 'author', label: 'Authors', labelSingular: 'Author', entries: [{ name: 'Claude Chef Community', slug: 'claude-chef-community', recipes: [mockRecipe] }], descriptions: stubDescriptions },
       ];
       const html = renderIndexPage([mockRecipe], { taxonomies });
       expect(html).toContain('Browse Recipes');
@@ -739,18 +716,12 @@ describe('Template Renderer', () => {
       expect(html).toContain('Cuisines');
       expect(html).toContain('/ingredient/index.html');
       expect(html).toContain('Ingredients');
-      expect(html).toContain('/allergy/index.html');
-      expect(html).toContain('Allergies');
       expect(html).toContain('/flavor/index.html');
       expect(html).toContain('Flavors');
-      expect(html).toContain('/sauce/index.html');
-      expect(html).toContain('Sauces');
       expect(html).toContain('/tool/index.html');
       expect(html).toContain('Tools');
       expect(html).toContain('/skill_level/index.html');
       expect(html).toContain('Skill Levels');
-      expect(html).toContain('/author/index.html');
-      expect(html).toContain('Authors');
     });
 
     it('should not render Browse Recipes section when taxonomies are empty', () => {
@@ -934,7 +905,7 @@ describe('Template Renderer', () => {
 
     it('should include the footer CTA', () => {
       const html = renderHubPage('category', 'Category', entry);
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
     });
 
     it('should show recipe count', () => {
@@ -1182,7 +1153,7 @@ describe('Template Renderer', () => {
 
     it('should include the footer CTA', () => {
       const html = renderTaxonomyIndexPage(taxonomy);
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
     });
 
     it('should include About nav link', () => {
@@ -1320,7 +1291,7 @@ describe('Template Renderer', () => {
 
     it('should include CLI install command', () => {
       const html = renderAboutPage();
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
       expect(html).toContain('about-install');
     });
 
@@ -1669,7 +1640,7 @@ describe('Template Renderer', () => {
     it('should include the footer CTA', () => {
       const html = renderFavoritesPage([mockRecipe]);
       expect(html).toContain('Your AI Sous Chef, Ready When You Are');
-      expect(html).toContain('claude plugin install claude-chef');
+      expect(html).toContain('/plugin marketplace add greynewell/claude-chef');
     });
 
     it('should include site brand link back to index', () => {

@@ -13,8 +13,14 @@ const mockEnrichment: EnrichmentResult = {
   coachingPrompt: 'Step by step guide.',
 };
 
+// Mock returns batch format: { "slug": { ...enrichment } }
 const mockClient: LlmClient = {
-  complete: jest.fn().mockResolvedValue(JSON.stringify(mockEnrichment)),
+  complete: jest.fn().mockImplementation(() => {
+    return Promise.resolve(JSON.stringify({
+      'test-recipe': mockEnrichment,
+      'other-recipe': mockEnrichment,
+    }));
+  }),
 };
 
 const sampleRecipe = `---
@@ -73,7 +79,7 @@ describe('enrichCommand', () => {
       path.join(TEST_RECIPES_DIR, 'other-recipe.md'),
       sampleRecipe.replace('Test Recipe', 'Other Recipe')
     );
-    await enrichCommand(TEST_RECIPES_DIR, mockClient, 'test-recipe');
+    await enrichCommand(TEST_RECIPES_DIR, mockClient, { slug: 'test-recipe' });
     expect(mockClient.complete).toHaveBeenCalledTimes(1);
     expect(fs.existsSync(path.join(CACHE_DIR, 'test-recipe.json'))).toBe(true);
     expect(fs.existsSync(path.join(CACHE_DIR, 'other-recipe.json'))).toBe(false);
