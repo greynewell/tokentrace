@@ -7,6 +7,7 @@ on:
       - 'recipes/**'
       - 'src/**'
       - '.github/workflows/deploy-site.yml'
+  workflow_dispatch:
 
 permissions:
   contents: read
