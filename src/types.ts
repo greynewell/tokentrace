@@ -97,7 +97,7 @@ export interface ItemListJsonLd {
   }[];
 }
 
-export type TaxonomyType = 'category' | 'cuisine' | 'ingredient' | 'flavor' | 'sauce' | 'tool' | 'skill_level';
+export type TaxonomyType = 'category' | 'cuisine' | 'ingredient' | 'flavor' | 'sauce' | 'tool' | 'skill_level' | 'author';
 
 export interface TaxonomyDescriptions {
   hubTitle: (name: string) => string;

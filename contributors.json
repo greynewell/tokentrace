@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "grey-newell": {
+      "name": "Grey Newell",
+      "bio": "Creator of Claude Chef. Software engineer and home cook passionate about making AI accessible in the kitchen.",
+      "github": "greynewell",
+      "twitter": "greynewell",
+      "website": "https://greynewell.com"
+    },
+    "claude-chef-community": {
+      "name": "Claude Chef Community",
+      "bio": "Recipes contributed by the Claude Chef community. Want to add yours? Visit our contribute page!"
+    }
+  }
+}

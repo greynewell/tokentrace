@@ -1,7 +1,8 @@
-import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderAboutPage, renderContributePage, renderFavoritesPage, renderRecipeCard, RECIPES_PER_PAGE, computePagination, baseStyles, mainScript } from '../src/generator/template';
+import { renderRecipePage, renderIndexPage, renderHubPage, renderContributorProfilePage, renderTaxonomyIndexPage, renderAboutPage, renderContributePage, renderFavoritesPage, renderRecipeCard, RECIPES_PER_PAGE, computePagination, baseStyles, mainScript } from '../src/generator/template';
 import { ParsedRecipe, RecipeJsonLd, Taxonomy, TaxonomyDescriptions, TaxonomyEntry } from '../src/types';
 import { EnrichmentResult } from '../src/enrichment/types';
 import { AffiliateLink } from '../src/affiliates/types';
+import { ContributorProfile } from '../src/contributors';
 
 const mockRecipe: ParsedRecipe = {
   frontmatter: {
@@ -386,6 +387,14 @@ describe('Template Renderer', () => {
       expect(html).toContain('Copy link');
     });
 
+    it('should include favorite button with data-slug in share bar', () => {
+      const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
+      expect(html).toContain('data-favorite');
+      expect(html).toContain('data-slug="test-recipe"');
+      expect(html).toContain('Save to favorites');
+      expect(html).toContain('>Save</span>');
+    });
+
     it('should include canonical URL in share button data attributes', () => {
       const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
       expect(html).toContain('data-url="https://claudechef.com/test-recipe.html"');
@@ -599,6 +608,22 @@ describe('Template Renderer', () => {
       expect(js).toContain('[data-copy-list]');
       expect(js).toContain('[data-buy-all]');
       expect(js).toContain('navigator.clipboard');
+    });
+
+    it('should include favorites handler in mainScript', () => {
+      const js = mainScript();
+      expect(js).toContain('[data-favorite]');
+      expect(js).toContain('claudechef_favorites');
+      expect(js).toContain('localStorage');
+      expect(js).toContain('getFavorites');
+      expect(js).toContain('saveFavorites');
+      expect(js).toContain('toggleFavorite');
+    });
+
+    it('should include saved state CSS for favorite button', () => {
+      const css = baseStyles();
+      expect(css).toContain('.share-btn.saved');
+      expect(css).toContain('fill: #e25555');
     });
   });
 
@@ -1033,6 +1058,83 @@ describe('Template Renderer', () => {
       const html = renderHubPage('ingredient', 'Ingredient', bigEntry, { pagination, descriptions }, 'Ingredients');
       expect(html).toContain('Showing 1');
       expect(html).toContain('of 100 recipes with chicken');
+    });
+  });
+
+  describe('renderContributorProfilePage', () => {
+    const entry: TaxonomyEntry = {
+      name: 'Grey Newell',
+      slug: 'grey-newell',
+      recipes: [mockRecipe],
+    };
+
+    const mockProfile: ContributorProfile = {
+      name: 'Grey Newell',
+      bio: 'Creator of Claude Chef.',
+      github: 'greynewell',
+      twitter: 'greynewell',
+      website: 'https://greynewell.com',
+    };
+
+    it('should produce valid HTML with doctype', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toMatch(/^<!DOCTYPE html>/);
+    });
+
+    it('should include contributor name in title', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toContain('<title>1 Recipes by Grey Newell | Claude Chef</title>');
+    });
+
+    it('should include canonical URL with author path', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toContain('href="https://claudechef.com/author/grey-newell.html"');
+    });
+
+    it('should include breadcrumb with Contributors link', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toContain('class="breadcrumb"');
+      expect(html).toContain('Home');
+      expect(html).toContain('Contributors');
+      expect(html).toContain('/author/index.html');
+    });
+
+    it('should show profile card when profile is provided', () => {
+      const html = renderContributorProfilePage(entry, { profile: mockProfile });
+      expect(html).toContain('class="contributor-profile"');
+      expect(html).toContain('Creator of Claude Chef.');
+    });
+
+    it('should include GitHub avatar when profile has github', () => {
+      const html = renderContributorProfilePage(entry, { profile: mockProfile });
+      expect(html).toContain('https://github.com/greynewell.png?size=200');
+    });
+
+    it('should include social links when profile has them', () => {
+      const html = renderContributorProfilePage(entry, { profile: mockProfile });
+      expect(html).toContain('href="https://github.com/greynewell"');
+      expect(html).toContain('href="https://x.com/greynewell"');
+      expect(html).toContain('href="https://greynewell.com"');
+    });
+
+    it('should fall back to simple header when no profile', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toContain('class="taxonomy-header"');
+      expect(html).toContain('Recipes by Grey Newell');
+    });
+
+    it('should list recipes', () => {
+      const html = renderContributorProfilePage(entry);
+      expect(html).toContain('Test Recipe');
+      expect(html).toContain('/test-recipe.html');
+    });
+
+    it('should include contributor profile CSS', () => {
+      const css = baseStyles();
+      expect(css).toContain('.contributor-profile');
+      expect(css).toContain('.contributor-avatar');
+      expect(css).toContain('.contributor-bio');
+      expect(css).toContain('.contributor-links');
     });
   });
 

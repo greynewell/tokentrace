@@ -53,15 +53,16 @@ const makeRecipe = (overrides: Partial<ParsedRecipe['frontmatter']> = {}): Parse
 });
 
 describe('buildAllTaxonomies', () => {
-  it('should return six taxonomies', () => {
+  it('should return seven taxonomies', () => {
     const taxonomies = buildAllTaxonomies([]);
-    expect(taxonomies).toHaveLength(6);
+    expect(taxonomies).toHaveLength(7);
     expect(taxonomies[0].type).toBe('category');
     expect(taxonomies[1].type).toBe('cuisine');
     expect(taxonomies[2].type).toBe('ingredient');
     expect(taxonomies[3].type).toBe('flavor');
     expect(taxonomies[4].type).toBe('tool');
     expect(taxonomies[5].type).toBe('skill_level');
+    expect(taxonomies[6].type).toBe('author');
   });
 
   it('should have correct labels', () => {
@@ -217,13 +218,20 @@ describe('buildAllTaxonomies', () => {
 });
 
 describe('TAXONOMY_CONFIGS', () => {
-  it('should have 6 configs', () => {
-    expect(TAXONOMY_CONFIGS).toHaveLength(6);
+  it('should have 7 configs', () => {
+    expect(TAXONOMY_CONFIGS).toHaveLength(7);
   });
 
   it('should have unique types', () => {
     const types = TAXONOMY_CONFIGS.map(c => c.type);
-    expect(new Set(types).size).toBe(6);
+    expect(new Set(types).size).toBe(7);
+  });
+
+  it('should include author taxonomy', () => {
+    const authorConfig = TAXONOMY_CONFIGS.find(c => c.type === 'author');
+    expect(authorConfig).toBeDefined();
+    expect(authorConfig?.label).toBe('Contributors');
+    expect(authorConfig?.labelSingular).toBe('Contributor');
   });
 });
 

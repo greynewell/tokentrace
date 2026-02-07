@@ -105,6 +105,22 @@ export const TAXONOMY_CONFIGS: TaxonomyConfig[] = [
     indexDescription: 'Browse recipes by difficulty level.',
     collectionDescription: (name) => `${name} recipes from Claude Chef.`,
   },
+  {
+    type: 'author',
+    label: 'Contributors',
+    labelSingular: 'Contributor',
+    extract: (r) => r.frontmatter.author ? [r.frontmatter.author] : [],
+    hubTitle: (name) => `Recipes by ${name}`,
+    hubMetaDescription: (name) => `Browse recipes contributed by ${name} on Claude Chef.`,
+    hubSubheading: (name, count, start?, end?) => {
+      if (start !== undefined && end !== undefined) {
+        return `Showing ${formatNumber(start)}\u2013${formatNumber(end)} of ${formatNumber(count)} recipes by ${name}`;
+      }
+      return `${formatNumber(count)} recipe${count === 1 ? '' : 's'} by ${name}`;
+    },
+    indexDescription: 'Browse recipes by contributor.',
+    collectionDescription: (name) => `Recipes contributed by ${name} on Claude Chef.`,
+  },
 ];
 
 /**
