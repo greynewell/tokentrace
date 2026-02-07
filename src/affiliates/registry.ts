@@ -9,9 +9,8 @@ export function buildProviders(env: Record<string, string | undefined>): Affilia
     providers.push(new AmazonProvider(env.AMAZON_AFFILIATE_TAG));
   }
 
-  if (env.WALMART_AFFILIATE_ID) {
-    providers.push(new WalmartProvider(env.WALMART_AFFILIATE_ID));
-  }
+  // Always include Walmart - works with or without affiliate ID
+  providers.push(new WalmartProvider(env.WALMART_AFFILIATE_ID));
 
   return providers;
 }

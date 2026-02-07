@@ -306,6 +306,7 @@ export function baseStyles(): string {
     .pairing-item a:hover .pairing-title { color: var(--color-primary); }
     .pairing-desc { font-size: 0.875rem; color: var(--color-text-secondary); display: block; margin-top: 0.15rem; }
 
+    .shop-section, .gear-section { overflow-x: hidden; }
     .shop-section ul, .gear-section ul { list-style: none; padding-left: 0; }
     .shop-section li, .gear-section li {
       padding: 0.6rem 0;
@@ -313,7 +314,6 @@ export function baseStyles(): string {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      flex-wrap: wrap;
       gap: 0.5rem;
     }
     .shop-section li:last-child, .gear-section li:last-child { border-bottom: none; }
@@ -321,9 +321,12 @@ export function baseStyles(): string {
     .ingredient-name, .gear-name {
       font-weight: 500;
       color: var(--color-text);
+      flex: 1;
+      min-width: 0;
+      word-wrap: break-word;
     }
 
-    .affiliate-links { display: inline-flex; gap: 0.35rem; flex-wrap: wrap; align-items: center; }
+    .affiliate-links { display: flex; gap: 0.35rem; flex-wrap: nowrap; align-items: center; flex-shrink: 0; }
     .affiliate-link {
       display: inline-flex;
       align-items: center;
@@ -1107,24 +1110,25 @@ document.querySelectorAll('[data-buy-all]').forEach(function(btn) {
     var urls;
     try { urls = JSON.parse(btn.dataset.urls); } catch(e) { return; }
     if (!urls || urls.length === 0) return;
-    var provider = btn.dataset.provider || 'this store';
-    if (urls.length > 5) {
-      if (!confirm('This will open ' + urls.length + ' tabs on ' + provider + '. Continue?')) return;
-    }
-    var blocked = 0;
-    for (var i = 0; i < urls.length; i++) {
-      var w = window.open(urls[i], '_blank', 'noopener');
-      if (!w) blocked++;
-    }
+    var provider = btn.dataset.provider || 'store';
     var s = btn.querySelector('span');
     var o = s.textContent;
-    if (blocked > 0) {
-      s.textContent = blocked + ' blocked \\u2014 allow popups';
-      setTimeout(function() { s.textContent = o; }, 4000);
-    } else {
-      s.textContent = 'Opened!';
-      setTimeout(function() { s.textContent = o; }, 2000);
-    }
+    // Copy URLs to clipboard - more reliable than opening multiple tabs
+    var text = urls.join('\\n');
+    navigator.clipboard.writeText(text).then(function() {
+      s.textContent = urls.length + ' links copied!';
+      setTimeout(function() { s.textContent = o; }, 2500);
+    }).catch(function() {
+      // Fallback: open first link, copy rest
+      window.open(urls[0], '_blank', 'noopener');
+      if (urls.length > 1) {
+        navigator.clipboard.writeText(urls.slice(1).join('\\n')).catch(function(){});
+        s.textContent = 'Opened 1, copied ' + (urls.length - 1) + ' more';
+      } else {
+        s.textContent = 'Opened!';
+      }
+      setTimeout(function() { s.textContent = o; }, 2500);
+    });
   });
 });
 `;
@@ -1427,7 +1431,7 @@ function renderBuyAllActions(links: AffiliateLink[], listLabel: string): string 
       const domain = PROVIDER_DOMAINS[provider] || provider.toLowerCase() + '.com';
       const favicon = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
       const urlsAttr = JSON.stringify(urls).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
-      return `<button class="share-btn" data-buy-all data-provider="${provider}" data-urls="${urlsAttr}"><img src="${favicon}" alt="" width="14" height="14"><span>Buy all on ${provider}</span></button>`;
+      return `<button class="share-btn" data-buy-all data-provider="${provider}" data-urls="${urlsAttr}"><img src="${favicon}" alt="" width="14" height="14"><span>Copy ${provider} links</span></button>`;
     })
     .join('\n        ');
 
