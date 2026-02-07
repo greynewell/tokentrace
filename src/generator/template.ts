@@ -691,6 +691,17 @@ export function baseStyles(): string {
     }
     .footer-links a { color: var(--color-text-secondary); }
     .footer-links a:hover { color: var(--color-primary); }
+    .affiliate-statement {
+      text-align: center;
+      margin-top: 0.75rem;
+      font-size: 0.75rem;
+      color: var(--color-text-light);
+    }
+    .affiliate-disclosure {
+      font-size: 0.75rem;
+      color: var(--color-text-light);
+      margin: 0.25rem 0 0.5rem;
+    }
     .footer-gh {
       text-align: center;
       margin-top: 0.6rem;
@@ -1129,6 +1140,7 @@ export function footerCta(): string {
     <p class="cta-body">Have a recipe to share? <a href="/contribute.html">Contribute to Claude Chef</a></p>
   </div>
   <p class="created-by"><a href="/changelog.html">v${VERSION}</a> · <a href="https://github.com/greynewell/claude-chef/blob/main/LICENSE">Public Domain (CC0)</a> · Created by <a href="https://greynewell.com">Grey Newell</a> · <a href="/docs.html">Developer Docs</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=bug_report.md">Report a bug</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=feature_request.md">Request a feature</a></p>
+  <p class="affiliate-statement">As an Amazon Associate I earn from qualifying purchases.</p>
   <p class="footer-links"><a href="/sitemap.xml">Sitemap</a> · <a href="/llms.txt">llms.txt</a> · <a href="/feed.xml">RSS Feed</a></p>
   <div class="footer-gh"><a href="https://github.com/greynewell/claude-chef" target="_blank" rel="noopener" aria-label="Star on GitHub"><svg viewBox="0 0 16 16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/></svg>Star</a><a href="https://github.com/greynewell/claude-chef/fork" target="_blank" rel="noopener" aria-label="Fork on GitHub"><svg viewBox="0 0 16 16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"/></svg>Fork</a></div>
 </footer>`;
@@ -1460,7 +1472,7 @@ function renderShopSection(
 
   return `
     <div class="shop-section card">
-      <h2>Shop Ingredients</h2>${buyAllActions}
+      <h2>Shop Ingredients</h2><p class="affiliate-disclosure">(paid links)</p>${buyAllActions}
       <ul>
       ${items}
       </ul>
@@ -1495,7 +1507,7 @@ function renderGearSection(
 
   return `
     <div class="gear-section card">
-      <h2>Gear</h2>${buyAllActions}
+      <h2>Gear</h2><p class="affiliate-disclosure">(paid links)</p>${buyAllActions}
       <ul>
       ${items}
       </ul>
