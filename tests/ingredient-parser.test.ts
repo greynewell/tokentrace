@@ -138,4 +138,53 @@ describe('parseIngredient', () => {
     expect(result.unit).toBe('clove');
     expect(result.description).toBe('garlic');
   });
+
+  it('should parse Unicode fraction ½', () => {
+    const result = parseIngredient('½ teaspoon salt');
+    expect(result.quantity).toBe(0.5);
+    expect(result.unit).toBe('teaspoon');
+    expect(result.description).toBe('salt');
+  });
+
+  it('should parse Unicode fraction ¼', () => {
+    const result = parseIngredient('¼ cup sugar');
+    expect(result.quantity).toBe(0.25);
+    expect(result.unit).toBe('cup');
+    expect(result.description).toBe('sugar');
+  });
+
+  it('should parse Unicode fraction ¾', () => {
+    const result = parseIngredient('¾ cup flour');
+    expect(result.quantity).toBe(0.75);
+    expect(result.unit).toBe('cup');
+    expect(result.description).toBe('flour');
+  });
+
+  it('should parse mixed number with Unicode fraction 1 ½', () => {
+    const result = parseIngredient('1 ½ cups water');
+    expect(result.quantity).toBe(1.5);
+    expect(result.unit).toBe('cup');
+    expect(result.description).toBe('water');
+  });
+
+  it('should parse mixed number with Unicode fraction without space 1½', () => {
+    const result = parseIngredient('1½ teaspoons cinnamon');
+    expect(result.quantity).toBe(1.5);
+    expect(result.unit).toBe('teaspoon');
+    expect(result.description).toBe('cinnamon');
+  });
+
+  it('should parse Unicode fraction ⅓', () => {
+    const result = parseIngredient('⅓ cup milk');
+    expect(result.quantity).toBeCloseTo(0.333, 2);
+    expect(result.unit).toBe('cup');
+    expect(result.description).toBe('milk');
+  });
+
+  it('should parse mixed number with Unicode fraction 2 ¼', () => {
+    const result = parseIngredient('2 ¼ cups flour');
+    expect(result.quantity).toBe(2.25);
+    expect(result.unit).toBe('cup');
+    expect(result.description).toBe('flour');
+  });
 });
