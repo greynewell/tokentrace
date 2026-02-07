@@ -166,8 +166,8 @@ describe('Template Renderer', () => {
       expect(html).toContain('buy-all-actions');
       expect(html).toContain('data-copy-list');
       expect(html).toContain('data-buy-all');
-      expect(html).toContain('Buy all on Amazon');
-      expect(html).toContain('Buy all on Walmart');
+      expect(html).toContain('Copy Amazon links');
+      expect(html).toContain('Copy Walmart links');
       expect(html).toContain('data-urls');
     });
 
@@ -598,7 +598,7 @@ describe('Template Renderer', () => {
       const js = mainScript();
       expect(js).toContain('[data-copy-list]');
       expect(js).toContain('[data-buy-all]');
-      expect(js).toContain('window.open');
+      expect(js).toContain('navigator.clipboard');
     });
   });
 
