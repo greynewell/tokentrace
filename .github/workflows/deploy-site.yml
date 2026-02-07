@@ -6,6 +6,7 @@ on:
     paths:
       - 'recipes/**'
       - 'src/**'
+      - 'contributors.json'
       - '.github/workflows/deploy-site.yml'
   workflow_dispatch:
 
@@ -36,6 +37,11 @@ jobs:
         env:
           AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
           WALMART_AFFILIATE_ID: ${{ secrets.WALMART_AFFILIATE_ID }}
+          GISCUS_REPO: ${{ secrets.GISCUS_REPO }}
+          GISCUS_REPO_ID: ${{ secrets.GISCUS_REPO_ID }}
+          GISCUS_CATEGORY: ${{ secrets.GISCUS_CATEGORY }}
+          GISCUS_CATEGORY_ID: ${{ secrets.GISCUS_CATEGORY_ID }}
+          MAILCHIMP_URL: ${{ secrets.MAILCHIMP_URL }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

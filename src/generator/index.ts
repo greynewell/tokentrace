@@ -4,7 +4,8 @@ import * as crypto from 'crypto';
 import { execSync } from 'child_process';
 import { parseRecipeFile } from './parser';
 import { generateJsonLd, generateBreadcrumbJsonLd, generateWebSiteJsonLd, generateItemListJsonLd, generateCollectionPageJsonLd, generateTaxonomyIndexJsonLd, generateHubBreadcrumbJsonLd } from './structured-data';
-import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderLetterPage, groupEntriesByLetter, renderAboutPage, renderContributePage, renderFavoritesPage, renderInstallPage, RECIPES_PER_PAGE, computePagination, generateManifestJson, baseStyles, mainScript } from './template';
+import { renderRecipePage, renderIndexPage, renderHubPage, renderContributorProfilePage, renderTaxonomyIndexPage, renderLetterPage, groupEntriesByLetter, renderAboutPage, renderContributePage, renderFavoritesPage, renderInstallPage, RECIPES_PER_PAGE, computePagination, generateManifestJson, baseStyles, mainScript } from './template';
+import { loadContributors } from '../contributors';
 import { buildAllTaxonomies, toSlug } from './taxonomy';
 import { generateSitemap } from './sitemap';
 import { generateRobotsTxt } from './robots';
@@ -181,6 +182,10 @@ export async function buildSite(recipesDir: string, outputDir: string, force: bo
     // Missing file or bad JSON — treat as empty
   }
 
+  // Load contributor profiles from contributors.json
+  const projectRoot = path.resolve(recipesDir, '..');
+  const contributors = loadContributors(projectRoot);
+
   // Load enrichment data for ingredient normalization
   // This allows the LLM-normalized ingredient names to be used for taxonomy
   const ingredientOverrides = new Map<string, string[]>();
@@ -298,13 +303,28 @@ export async function buildSite(recipesDir: string, outputDir: string, force: bo
           taxonomy.type, pageEntry, BASE_URL, taxonomy.descriptions, totalRecipes
         );
         const hubBreadcrumbJsonLd = generateHubBreadcrumbJsonLd(taxonomy.type, taxonomy.label, entry.name, BASE_URL);
-        const hubHtml = renderHubPage(taxonomy.type, taxonomy.labelSingular, entry, {
-          collectionPageJsonLd,
-          breadcrumbJsonLd: hubBreadcrumbJsonLd,
-          favoriteSlugs,
-          pagination: totalPages > 1 ? pagination : null,
-          descriptions: taxonomy.descriptions,
-        }, taxonomy.label);
+
+        // Use contributor profile page for author taxonomy, standard hub page for others
+        let hubHtml: string;
+        if (taxonomy.type === 'author') {
+          const profile = contributors.get(entry.slug) || null;
+          hubHtml = renderContributorProfilePage(entry, {
+            collectionPageJsonLd,
+            breadcrumbJsonLd: hubBreadcrumbJsonLd,
+            favoriteSlugs,
+            pagination: totalPages > 1 ? pagination : null,
+            descriptions: taxonomy.descriptions,
+            profile,
+          });
+        } else {
+          hubHtml = renderHubPage(taxonomy.type, taxonomy.labelSingular, entry, {
+            collectionPageJsonLd,
+            breadcrumbJsonLd: hubBreadcrumbJsonLd,
+            favoriteSlugs,
+            pagination: totalPages > 1 ? pagination : null,
+            descriptions: taxonomy.descriptions,
+          }, taxonomy.label);
+        }
 
         const fileName = page === 1 ? `${entry.slug}.html` : `${entry.slug}-page-${page}.html`;
         await writeMinifiedHtml(path.join(typeDir, fileName), hubHtml);

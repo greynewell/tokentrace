@@ -7,6 +7,7 @@ import { AffiliateLink } from '../affiliates/types';
 import { sanitizeContent } from './sanitizer';
 import { toSlug } from './taxonomy';
 import { parseIngredient } from './ingredient-parser';
+import { ContributorProfile, getAvatarUrl } from '../contributors';
 
 const BASE_URL = 'https://claudechef.com';
 const DEFAULT_OG_IMAGE = 'https://claudechef.com/images/og-default.jpg';
@@ -678,6 +679,50 @@ export function baseStyles(): string {
       color: var(--color-primary);
     }
 
+    .newsletter-box {
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      padding: 1.5rem 2rem;
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+    .newsletter-title {
+      font-family: var(--font-heading);
+      font-size: 1.125rem;
+      color: var(--color-text);
+      margin-bottom: 0.35rem;
+    }
+    .newsletter-body {
+      color: var(--color-text-secondary);
+      font-size: 0.875rem;
+      margin-bottom: 1rem;
+    }
+    .newsletter-form {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .newsletter-form input[type="email"] {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      font-size: 0.875rem;
+      min-width: 200px;
+    }
+    .newsletter-form button {
+      background: var(--color-primary);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .newsletter-form button:hover { background: var(--color-primary-dark); }
+
     .created-by {
       text-align: center;
       margin-top: 1.5rem;
@@ -731,6 +776,72 @@ export function baseStyles(): string {
     .taxonomy-header p {
       color: var(--color-text-secondary);
       font-size: 1.0625rem;
+    }
+
+    /* Contributor profile pages */
+    .contributor-profile {
+      display: flex;
+      gap: 1.5rem;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+    }
+    .contributor-avatar {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+      border: 3px solid var(--color-primary-light);
+    }
+    .contributor-info { flex: 1; }
+    .contributor-info h1 {
+      margin-bottom: 0.5rem;
+      font-size: 2rem;
+    }
+    .contributor-bio {
+      color: var(--color-text-secondary);
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+    .contributor-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+    .contributor-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.875rem;
+      color: var(--color-text-secondary);
+      text-decoration: none;
+      padding: 0.35rem 0.75rem;
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 100px;
+      transition: all 0.15s ease;
+    }
+    .contributor-link:hover {
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    .contributor-link svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+    @media (max-width: 640px) {
+      .contributor-profile {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .contributor-links { justify-content: center; }
     }
 
     .taxonomy-grid {
@@ -945,6 +1056,8 @@ export function baseStyles(): string {
     .share-btn:hover { border-color: var(--color-primary); color: var(--color-primary); }
     .share-btn:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
     .share-btn svg { width: 14px; height: 14px; flex-shrink: 0; }
+    .share-btn.saved { border-color: #e25555; color: #e25555; background: #fff0f0; }
+    .share-btn.saved svg { fill: #e25555; }
 
     /* Pagination */
     .pagination {
@@ -1131,10 +1244,71 @@ document.querySelectorAll('[data-buy-all]').forEach(function(btn) {
     });
   });
 });
+
+// --- Favorites handler (localStorage) ---
+(function() {
+  var STORAGE_KEY = 'claudechef_favorites';
+  function getFavorites() {
+    try {
+      var data = localStorage.getItem(STORAGE_KEY);
+      return data ? JSON.parse(data) : [];
+    } catch(e) { return []; }
+  }
+  function saveFavorites(arr) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(arr)); } catch(e) {}
+  }
+  function isSaved(slug) {
+    return getFavorites().indexOf(slug) !== -1;
+  }
+  function toggleFavorite(slug) {
+    var favs = getFavorites();
+    var idx = favs.indexOf(slug);
+    if (idx === -1) { favs.push(slug); }
+    else { favs.splice(idx, 1); }
+    saveFavorites(favs);
+    return idx === -1; // returns true if now saved
+  }
+  document.querySelectorAll('[data-favorite]').forEach(function(btn) {
+    var slug = btn.dataset.slug;
+    if (!slug) return;
+    var span = btn.querySelector('span');
+    // Set initial state
+    if (isSaved(slug)) {
+      btn.classList.add('saved');
+      if (span) span.textContent = 'Saved';
+    }
+    btn.addEventListener('click', function() {
+      var nowSaved = toggleFavorite(slug);
+      if (nowSaved) {
+        btn.classList.add('saved');
+        if (span) span.textContent = 'Saved';
+      } else {
+        btn.classList.remove('saved');
+        if (span) span.textContent = 'Save';
+      }
+    });
+  });
+})();
 `;
 }
 
+const MAILCHIMP_URL = process.env.MAILCHIMP_URL || '';
+
+function renderNewsletterSignup(): string {
+  if (!MAILCHIMP_URL) return '';
+  return `
+  <div class="newsletter-box">
+    <p class="newsletter-title">Get New Recipes</p>
+    <p class="newsletter-body">Subscribe for weekly recipe updates and cooking tips.</p>
+    <form action="${MAILCHIMP_URL}" method="post" target="_blank" class="newsletter-form">
+      <input type="email" name="EMAIL" placeholder="your@email.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>`;
+}
+
 export function footerCta(): string {
+  const newsletter = renderNewsletterSignup();
   return `
 <footer class="cta">
   <div class="cta-box">
@@ -1142,8 +1316,8 @@ export function footerCta(): string {
     <p class="cta-body">Get real-time cooking guidance, ingredient swaps, and step-by-step coaching from Claude Chef.</p>
     <pre><code>/plugin marketplace add greynewell/claude-chef</code></pre>
     <p class="cta-body">Have a recipe to share? <a href="/contribute.html">Contribute to Claude Chef</a></p>
-  </div>
-  <p class="created-by"><a href="/changelog.html">v${VERSION}</a> · <a href="https://github.com/greynewell/claude-chef/blob/main/LICENSE">Public Domain (CC0)</a> · Created by <a href="https://greynewell.com">Grey Newell</a> · <a href="/docs.html">Developer Docs</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=bug_report.md">Report a bug</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=feature_request.md">Request a feature</a></p>
+  </div>${newsletter}
+  <p class="created-by"><a href="/changelog.html">v${VERSION}</a> · <a href="https://github.com/greynewell/claude-chef/blob/main/LICENSE">Public Domain (CC0)</a> · Created by <a href="https://greynewell.com">Grey Newell</a> · <a href="mailto:hello@claudechef.com">Contact</a> · <a href="/docs.html">Developer Docs</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=bug_report.md">Report a bug</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=feature_request.md">Request a feature</a></p>
   <p class="affiliate-statement">As an Amazon Associate I earn from qualifying purchases.</p>
   <p class="footer-links"><a href="/sitemap.xml">Sitemap</a> · <a href="/llms.txt">llms.txt</a> · <a href="/feed.xml">RSS Feed</a></p>
   <div class="footer-gh"><a href="https://github.com/greynewell/claude-chef" target="_blank" rel="noopener" aria-label="Star on GitHub"><svg viewBox="0 0 16 16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/></svg>Star</a><a href="https://github.com/greynewell/claude-chef/fork" target="_blank" rel="noopener" aria-label="Fork on GitHub"><svg viewBox="0 0 16 16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"/></svg>Fork</a></div>
@@ -1238,6 +1412,7 @@ export function renderRecipePage(
   const gearSection = renderGearSection(enrichment, affiliateLinks);
   const cookModeSection = renderCookModeSection(cookModePrompt);
   const pairingsSection = renderPairingsSection(pairings);
+  const commentsSection = renderCommentsSection(recipe.slug);
   const faqSection = renderFAQSection(recipe.faqs);
   const faqJsonLd = generateFAQPageJsonLd(recipe.faqs);
 
@@ -1330,9 +1505,10 @@ export function renderRecipePage(
     </div>
     <article data-base-servings="${recipe.frontmatter.servings}" data-base-calories="${recipe.frontmatter.calories}">
   ${ingredientsHtml}
-  ${restBodyHtml}</article>${shopSection}${gearSection}${cookModeSection}${pairingsSection}${faqSection}
+  ${restBodyHtml}</article>${shopSection}${gearSection}${cookModeSection}${pairingsSection}${commentsSection}${faqSection}
     <div class="share-bar">
       <span class="share-label">Share this recipe</span>
+      <button class="share-btn" data-favorite data-slug="${recipe.slug}" aria-label="Save to favorites"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg><span>Save</span></button>
       <button class="share-btn" data-share aria-label="Share recipe" data-url="${canonicalUrl}" data-title="${escapeAttr(recipe.frontmatter.title)}" data-text="${escapeAttr(recipe.frontmatter.description)}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg><span>Share</span></button>
       <button class="share-btn" data-copy-link aria-label="Copy link to recipe" data-url="${canonicalUrl}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Copy link</span></button>
     </div>
@@ -1551,6 +1727,38 @@ function renderPairingsSection(pairings: ParsedRecipe[] | null): string {
       <ul>
       ${items}
       </ul>
+    </div>`;
+}
+
+// Giscus config from environment variables
+const GISCUS_REPO = process.env.GISCUS_REPO || '';
+const GISCUS_REPO_ID = process.env.GISCUS_REPO_ID || '';
+const GISCUS_CATEGORY = process.env.GISCUS_CATEGORY || 'Recipe Comments';
+const GISCUS_CATEGORY_ID = process.env.GISCUS_CATEGORY_ID || '';
+
+function renderCommentsSection(slug: string): string {
+  if (!GISCUS_REPO || !GISCUS_REPO_ID || !GISCUS_CATEGORY_ID) return '';
+
+  return `
+    <div class="comments-section card">
+      <h2>Comments</h2>
+      <script src="https://giscus.app/client.js"
+        data-repo="${GISCUS_REPO}"
+        data-repo-id="${GISCUS_REPO_ID}"
+        data-category="${GISCUS_CATEGORY}"
+        data-category-id="${GISCUS_CATEGORY_ID}"
+        data-mapping="specific"
+        data-term="${slug}"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+      </script>
     </div>`;
 }
 
@@ -1822,6 +2030,168 @@ export function renderHubPage(
       <h1>${h1Title}</h1>
       <p>${subheading}</p>
     </div>
+    <ul class="recipe-grid">
+      ${recipeItems}
+    </ul>${paginationNav}
+  </main>
+${footerCta()}
+</body>
+</html>`;
+}
+
+export interface ContributorProfilePageOptions extends HubPageOptions {
+  profile?: ContributorProfile | null;
+}
+
+/**
+ * Render a contributor profile page with enhanced author information.
+ */
+export function renderContributorProfilePage(
+  entry: TaxonomyEntry,
+  options: ContributorProfilePageOptions = {}
+): string {
+  const { collectionPageJsonLd = null, breadcrumbJsonLd = null, favoriteSlugs = null, pagination = null, descriptions = null, profile = null } = options;
+
+  const favoriteSet = new Set(favoriteSlugs || []);
+
+  // Determine canonical URL (page 2+ gets -page-N suffix)
+  const canonicalSlug = pagination && pagination.currentPage > 1
+    ? `${entry.slug}-page-${pagination.currentPage}`
+    : entry.slug;
+  const canonicalUrl = `${BASE_URL}/author/${canonicalSlug}.html`;
+
+  const totalCount = entry.recipes.length;
+
+  // Page metadata
+  const h1Title = `Recipes by ${entry.name}`;
+  const pageTitle = `${totalCount} ${h1Title} | Claude Chef`;
+  const pageDescription = profile?.bio
+    ? `${profile.bio} Browse ${totalCount} recipes from ${entry.name}.`
+    : `Browse ${totalCount} recipes contributed by ${entry.name} on Claude Chef.`;
+
+  // Subheading
+  let subheading: string;
+  if (pagination && pagination.totalPages > 1) {
+    const start = pagination.startIndex + 1;
+    const end = pagination.endIndex;
+    subheading = `Showing ${start.toLocaleString()}\u2013${end.toLocaleString()} of ${totalCount.toLocaleString()} recipes`;
+  } else {
+    subheading = `${totalCount.toLocaleString()} recipe${totalCount === 1 ? '' : 's'}`;
+  }
+
+  let structuredDataScripts = '';
+  if (collectionPageJsonLd) {
+    structuredDataScripts += `\n  <script type="application/ld+json">${JSON.stringify(collectionPageJsonLd)}</script>`;
+  }
+  if (breadcrumbJsonLd) {
+    structuredDataScripts += `\n  <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>`;
+  }
+
+  // Slice recipes for current page when paginated
+  const displayRecipes = pagination
+    ? entry.recipes.slice(pagination.startIndex, pagination.endIndex)
+    : entry.recipes;
+
+  const recipeItems = displayRecipes
+    .map(r => renderRecipeCard(r, { absoluteHref: true, favorite: favoriteSet.has(r.slug) }))
+    .join('\n    ');
+
+  // Pagination nav
+  let paginationNav = '';
+  if (pagination && pagination.totalPages > 1) {
+    const prevLink = pagination.prevUrl
+      ? `<a class="pagination-link" href="${pagination.prevUrl}">&laquo; Prev</a>`
+      : `<span class="pagination-link disabled">&laquo; Prev</span>`;
+    const nextLink = pagination.nextUrl
+      ? `<a class="pagination-link" href="${pagination.nextUrl}">Next &raquo;</a>`
+      : `<span class="pagination-link disabled">Next &raquo;</span>`;
+
+    const pageLinks: string[] = [];
+    for (let p = 1; p <= pagination.totalPages; p++) {
+      if (p === pagination.currentPage) {
+        pageLinks.push(`<span class="pagination-current">${p}</span>`);
+      } else {
+        const url = p === 1 ? `/author/${entry.slug}.html` : `/author/${entry.slug}-page-${p}.html`;
+        pageLinks.push(`<a class="pagination-link" href="${url}">${p}</a>`);
+      }
+    }
+
+    paginationNav = `
+    <nav class="pagination" aria-label="Pagination">
+      ${prevLink}
+      ${pageLinks.join('\n      ')}
+      ${nextLink}
+    </nav>`;
+  }
+
+  // Build profile section
+  let profileSection = '';
+  if (profile) {
+    const avatarUrl = getAvatarUrl(profile);
+    const avatarHtml = avatarUrl
+      ? `<img class="contributor-avatar" src="${avatarUrl}" alt="${entry.name}" loading="lazy">`
+      : '';
+
+    const links: string[] = [];
+    if (profile.github) {
+      links.push(`<a class="contributor-link" href="https://github.com/${profile.github}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a>`);
+    }
+    if (profile.twitter) {
+      links.push(`<a class="contributor-link" href="https://x.com/${profile.twitter}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>X</a>`);
+    }
+    if (profile.instagram) {
+      links.push(`<a class="contributor-link" href="https://instagram.com/${profile.instagram}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>Instagram</a>`);
+    }
+    if (profile.website) {
+      links.push(`<a class="contributor-link" href="${profile.website}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>Website</a>`);
+    }
+
+    const linksHtml = links.length > 0
+      ? `<div class="contributor-links">${links.join('')}</div>`
+      : '';
+
+    const bioHtml = profile.bio
+      ? `<p class="contributor-bio">${profile.bio}</p>`
+      : '';
+
+    profileSection = `
+    <div class="contributor-profile">
+      ${avatarHtml}
+      <div class="contributor-info">
+        <h1>${entry.name}</h1>
+        ${bioHtml}
+        ${linksHtml}
+      </div>
+    </div>
+    <p style="color: var(--color-text-secondary); margin-bottom: 1.5rem;">${subheading}</p>`;
+  } else {
+    // Fallback to simple header if no profile
+    profileSection = `
+    <div class="taxonomy-header">
+      <h1>${h1Title}</h1>
+      <p>${subheading}</p>
+    </div>`;
+  }
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${pageTitle}</title>
+  <meta name="description" content="${pageDescription}">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#5B7B5E">
+  <link rel="canonical" href="${canonicalUrl}">${structuredDataScripts}
+  ${googleFonts()}
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  ${renderHeader('contributor')}
+  <main id="main-content">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Home</a> <span class="breadcrumb-sep">/</span> <a href="/author/index.html">Contributors</a> <span class="breadcrumb-sep">/</span> <span>${entry.name}</span></nav>
+    ${profileSection}
     <ul class="recipe-grid">
       ${recipeItems}
     </ul>${paginationNav}

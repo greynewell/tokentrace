@@ -78,6 +78,7 @@ This is by far the largest file. It contains:
 - **`renderRecipePage()`** — Full recipe page HTML
 - **`renderIndexPage()`** — Homepage with recipe grid
 - **`renderHubPage()`** — Taxonomy category pages (e.g., "Main Course Recipes")
+- **`renderContributorProfilePage()`** — Enhanced author pages with profile cards
 - **`renderTaxonomyIndexPage()`** — Taxonomy listing pages
 - **`renderAboutPage()`**, **`renderContributePage()`**, **`renderFavoritesPage()`**
 - **`renderRecipeCard()`** — Reusable recipe card component
@@ -117,6 +118,36 @@ Defined in `src/generator/taxonomy.ts` via `TAXONOMY_CONFIGS` array. Each config
 Current types: `category`, `cuisine`, `ingredient`, `allergy`, `flavor`, `sauce`, `tool`, `skill_level`, `author`
 
 Adding a new taxonomy: add a new entry to `TAXONOMY_CONFIGS` and add the corresponding frontmatter field to `RecipeFrontmatter` in `types.ts`.
+
+## Contributor Profiles
+
+Contributors (recipe authors) can have enhanced profile pages with bios, avatars, and social links. Profile data is stored in `contributors.json` at the project root.
+
+```json
+{
+  "profiles": {
+    "author-slug": {
+      "name": "Display Name",
+      "bio": "Short bio or description",
+      "github": "username",
+      "twitter": "handle",
+      "instagram": "handle",
+      "website": "https://example.com",
+      "avatar": "https://example.com/photo.jpg"
+    }
+  }
+}
+```
+
+- The key (`author-slug`) must match the slugified author name from recipe frontmatter
+- If `avatar` is omitted but `github` is provided, the GitHub profile picture is used
+- Authors without a profile entry get a simple fallback header
+- Profile pages are generated at `/author/{slug}.html`
+
+Related files:
+- `contributors.json` — Profile data
+- `src/contributors/` — Profile loader and types
+- `src/generator/template.ts` — `renderContributorProfilePage()` function
 
 ## Recipe Format
 
