@@ -1626,7 +1626,7 @@ describe('Template Renderer', () => {
       expect(html).toContain('<script>');
       expect(html).toContain('recipe-form');
       expect(html).toContain('github.com/greynewell/claude-chef/issues/new');
-      expect(html).toContain('recipe-submission');
+      expect(html).toContain("var labels = ['recipe']");
       expect(html).toContain('buildDuration');
       expect(html).toContain('mergeWithCustom');
     });
