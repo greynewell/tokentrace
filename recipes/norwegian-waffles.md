@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 374
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - norwegian

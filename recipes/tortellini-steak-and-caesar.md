@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 671
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - caesar
   - salad

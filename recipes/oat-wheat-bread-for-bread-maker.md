@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 158
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - maker

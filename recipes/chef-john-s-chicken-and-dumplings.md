@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 4
 calories: 750
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chef
   - chicken

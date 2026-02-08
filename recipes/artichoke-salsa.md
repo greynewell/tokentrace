@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 52
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - artichoke

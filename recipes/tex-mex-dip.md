@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 390
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - dip

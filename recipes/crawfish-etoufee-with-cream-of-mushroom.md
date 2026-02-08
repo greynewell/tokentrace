@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 425
 recipe_category: Soup
+cuisine: American
 keywords:
   - crawfish
   - cream

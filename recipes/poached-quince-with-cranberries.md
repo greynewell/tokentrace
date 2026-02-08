@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 307
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cranberries
   - dessert

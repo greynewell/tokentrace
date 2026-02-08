@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 130
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - bark

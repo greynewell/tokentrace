@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 24
 calories: 210
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT3H40M
 servings: 10
 calories: 282
 recipe_category: Salad
+cuisine: American
 keywords:
   - german
   - hot

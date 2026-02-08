@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 124
 recipe_category: Dessert
+cuisine: American
 keywords:
   - aunt
   - chocolate

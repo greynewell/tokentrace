@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 8
 calories: 581
 recipe_category: Main Course
+cuisine: American
 keywords:
   - adobo
   - chicken

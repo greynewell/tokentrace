@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 155
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cobbler

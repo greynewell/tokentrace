@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 313
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - chocolate

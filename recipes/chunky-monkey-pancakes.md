@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 195
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chunky

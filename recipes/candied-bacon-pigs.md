@@ -7,6 +7,7 @@ cook_time: PT4H40M
 servings: 10
 calories: 291
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - bacon
   - candied

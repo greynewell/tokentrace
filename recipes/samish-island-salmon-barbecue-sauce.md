@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 18
 calories: 104
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - barbecue
   - dish

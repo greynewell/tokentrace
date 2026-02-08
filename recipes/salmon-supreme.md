@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 262
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - main

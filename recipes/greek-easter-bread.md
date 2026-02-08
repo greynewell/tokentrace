@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 312
 recipe_category: Bread
+cuisine: Mediterranean
 keywords:
   - bread
   - easter

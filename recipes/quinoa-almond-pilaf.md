@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 3
 calories: 303
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - almond
   - course

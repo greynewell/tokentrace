@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 32
 calories: 43
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dog

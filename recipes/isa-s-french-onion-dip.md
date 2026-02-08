@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 117
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - dip

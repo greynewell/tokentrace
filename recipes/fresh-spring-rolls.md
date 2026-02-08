@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 25
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - fresh

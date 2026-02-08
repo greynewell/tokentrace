@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 156
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cookies
   - course

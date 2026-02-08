@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 185
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - carrot
   - soup

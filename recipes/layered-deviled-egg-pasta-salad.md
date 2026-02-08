@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 6
 calories: 355
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - deviled
   - egg

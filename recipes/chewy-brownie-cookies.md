@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 25
 calories: 199
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownie
   - chewy

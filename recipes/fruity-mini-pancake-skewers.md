@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 97
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - fruity

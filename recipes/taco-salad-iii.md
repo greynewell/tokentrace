@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 945
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - salad
   - taco

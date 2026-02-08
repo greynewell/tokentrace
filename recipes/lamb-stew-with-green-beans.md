@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 363
 recipe_category: Soup
+cuisine: American
 keywords:
   - beans
   - green

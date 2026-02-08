@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 8
 calories: 133
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - beans
   - cooker

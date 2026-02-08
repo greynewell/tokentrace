@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 51
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - cough

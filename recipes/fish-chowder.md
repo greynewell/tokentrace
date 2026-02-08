@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 386
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - fish

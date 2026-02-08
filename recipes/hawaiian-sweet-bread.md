@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 150
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - hawaiian

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 281
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - bread

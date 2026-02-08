@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 342
 recipe_category: Soup
+cuisine: American
 keywords:
   - kale
   - soup

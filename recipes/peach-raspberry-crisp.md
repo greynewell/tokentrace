@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 10
 calories: 399
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crisp
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 2
 calories: 664
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

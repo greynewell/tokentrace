@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 196
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cream
   - cupcakes

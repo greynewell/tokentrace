@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 48
 calories: 145
 recipe_category: Bread
+cuisine: American
 keywords:
   - aebleskiver
   - bread

@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 6
 calories: 367
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheese
   - dish

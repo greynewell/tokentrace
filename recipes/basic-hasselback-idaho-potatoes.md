@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 4
 calories: 104
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - basic
   - dish

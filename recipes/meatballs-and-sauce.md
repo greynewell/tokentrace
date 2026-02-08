@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 427
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - meatballs

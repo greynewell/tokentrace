@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 226
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - noodle

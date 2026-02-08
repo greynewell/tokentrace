@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 397
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - ham

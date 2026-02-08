@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 132
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

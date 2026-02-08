@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 486
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - italian
   - potato

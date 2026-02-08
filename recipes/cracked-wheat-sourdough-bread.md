@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 200
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cracked

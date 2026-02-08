@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 12
 calories: 344
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - grandmother
   - gumbo

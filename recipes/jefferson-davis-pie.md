@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 447
 recipe_category: Dessert
+cuisine: American
 keywords:
   - davis
   - dessert

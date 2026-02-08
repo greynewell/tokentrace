@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 369
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - cake
   - chinese

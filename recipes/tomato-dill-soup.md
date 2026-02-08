@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 128
 recipe_category: Soup
+cuisine: American
 keywords:
   - dill
   - soup

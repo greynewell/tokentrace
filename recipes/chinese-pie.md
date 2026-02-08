@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 412
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chinese
   - course

@@ -7,6 +7,7 @@ cook_time: PT59M
 servings: 4
 calories: 119
 recipe_category: Soup
+cuisine: Japanese
 keywords:
   - chicken
   - green

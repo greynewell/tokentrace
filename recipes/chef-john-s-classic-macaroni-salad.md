@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 12
 calories: 294
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - chef
   - classic

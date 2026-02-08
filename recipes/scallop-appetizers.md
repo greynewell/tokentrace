@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 215
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - appetizers

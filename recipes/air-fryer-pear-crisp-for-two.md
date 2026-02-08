@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 234
 recipe_category: Dessert
+cuisine: American
 keywords:
   - air
   - crisp

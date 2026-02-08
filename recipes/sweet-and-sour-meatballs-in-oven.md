@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 533
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - meatballs

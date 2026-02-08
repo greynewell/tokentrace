@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 255
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - chicken

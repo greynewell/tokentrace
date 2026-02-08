@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 95
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - amazing
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 138
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - cheese
   - dish

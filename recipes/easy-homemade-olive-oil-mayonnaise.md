@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 129
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - mayonnaise

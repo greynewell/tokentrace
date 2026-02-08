@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 182
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bites

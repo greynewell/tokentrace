@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 16
 calories: 117
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - heavenly

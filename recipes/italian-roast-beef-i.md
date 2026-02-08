@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 8
 calories: 618
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - course

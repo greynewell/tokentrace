@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 466
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - arugula
   - beans

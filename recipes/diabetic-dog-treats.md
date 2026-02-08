@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 36
 calories: 31
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - diabetic

@@ -7,6 +7,7 @@ cook_time: PT3H40M
 servings: 8
 calories: 251
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - leek

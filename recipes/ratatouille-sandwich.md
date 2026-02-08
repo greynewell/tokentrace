@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 2
 calories: 524
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - main

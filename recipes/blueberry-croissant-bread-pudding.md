@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 378
 recipe_category: Dessert
+cuisine: French
 keywords:
   - blueberry
   - bread

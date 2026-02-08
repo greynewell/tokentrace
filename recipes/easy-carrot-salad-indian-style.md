@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 41
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - carrot
   - indian

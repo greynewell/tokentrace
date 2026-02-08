@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 2
 calories: 718
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - benedict

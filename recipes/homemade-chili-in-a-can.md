@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 242
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - can
   - chili

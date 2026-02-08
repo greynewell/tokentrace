@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 26
 calories: 119
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesy
   - chex

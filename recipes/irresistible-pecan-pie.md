@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 452
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - irresistible

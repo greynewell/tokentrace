@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 15
 calories: 270
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bread

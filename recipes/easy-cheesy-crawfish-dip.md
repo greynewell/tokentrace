@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 25
 calories: 199
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheesy

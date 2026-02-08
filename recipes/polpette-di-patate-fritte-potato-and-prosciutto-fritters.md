@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 341
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - fritte

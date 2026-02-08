@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 101
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - beer

@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 18
 calories: 261
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

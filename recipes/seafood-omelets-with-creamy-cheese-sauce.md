@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 3
 calories: 652
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cheese

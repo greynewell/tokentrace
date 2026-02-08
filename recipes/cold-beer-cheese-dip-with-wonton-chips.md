@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 395
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - beer

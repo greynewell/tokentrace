@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 459
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - banoffee

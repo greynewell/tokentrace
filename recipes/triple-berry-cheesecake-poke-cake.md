@@ -7,6 +7,7 @@ cook_time: PT42M
 servings: 12
 calories: 603
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - cake

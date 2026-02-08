@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 158
 recipe_category: Salad
+cuisine: American
 keywords:
   - cauliflower
   - egg

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 164
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - coyote

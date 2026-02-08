@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 317
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - fry

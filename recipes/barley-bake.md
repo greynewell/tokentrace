@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 6
 calories: 280
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bake
   - barley

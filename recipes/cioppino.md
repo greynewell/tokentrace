@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 13
 calories: 318
 recipe_category: Soup
+cuisine: American
 keywords:
   - cioppino
   - soup

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 100
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - agua
   - course

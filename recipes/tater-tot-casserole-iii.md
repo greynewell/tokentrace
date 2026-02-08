@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 404
 recipe_category: Main Course
+cuisine: French
 keywords:
   - casserole
   - course

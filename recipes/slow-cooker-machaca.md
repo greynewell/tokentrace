@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 10
 calories: 563
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cooker
   - course

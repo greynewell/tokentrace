@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 426
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

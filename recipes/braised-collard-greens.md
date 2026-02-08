@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 582
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - braised
   - collard

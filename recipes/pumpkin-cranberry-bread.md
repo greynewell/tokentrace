@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 360
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cranberry

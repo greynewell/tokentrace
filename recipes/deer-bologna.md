@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 160
 calories: 179
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bologna
   - course

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 15
 calories: 801
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apricot
   - brown

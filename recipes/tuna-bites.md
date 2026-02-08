@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 12
 calories: 134
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bites

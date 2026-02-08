@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 4
 calories: 148
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - eggplant

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 393
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - delight

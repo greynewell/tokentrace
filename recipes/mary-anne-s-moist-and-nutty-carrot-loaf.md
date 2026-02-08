@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 339
 recipe_category: Bread
+cuisine: American
 keywords:
   - anne
   - bread

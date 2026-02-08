@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 50
 calories: 125
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - chewy

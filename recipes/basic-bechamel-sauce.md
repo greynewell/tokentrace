@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 139
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - basic
   - bechamel

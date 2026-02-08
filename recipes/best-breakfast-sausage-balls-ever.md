@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 45
 calories: 76
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - balls
   - breakfast

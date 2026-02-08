@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 476
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - chicken
   - pasta

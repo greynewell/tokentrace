@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 590
 recipe_category: Dessert
+cuisine: American
 keywords:
   - birthday
   - cake

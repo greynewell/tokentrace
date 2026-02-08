@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 469
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - country
   - jar

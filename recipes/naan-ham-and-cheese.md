@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 400
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - cheese
   - course

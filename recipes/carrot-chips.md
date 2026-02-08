@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 50
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - carrot

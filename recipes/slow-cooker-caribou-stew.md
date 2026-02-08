@@ -7,6 +7,7 @@ cook_time: PT8H5M
 servings: 8
 calories: 327
 recipe_category: Soup
+cuisine: American
 keywords:
   - caribou
   - cooker

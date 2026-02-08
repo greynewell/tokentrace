@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 351
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - fried

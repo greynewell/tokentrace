@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 280
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - garlic

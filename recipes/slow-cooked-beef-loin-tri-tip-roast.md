@@ -7,6 +7,7 @@ cook_time: PT4H25M
 servings: 6
 calories: 430
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cooked

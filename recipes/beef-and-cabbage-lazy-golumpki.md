@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 287
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cabbage

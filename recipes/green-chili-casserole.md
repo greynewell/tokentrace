@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 136
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

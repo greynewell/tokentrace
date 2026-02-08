@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 11
 calories: 241
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - cherokee

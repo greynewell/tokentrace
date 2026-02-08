@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 18
 calories: 223
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - butter

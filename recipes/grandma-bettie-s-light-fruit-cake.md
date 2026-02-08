@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 20
 calories: 429
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bettie
   - cake

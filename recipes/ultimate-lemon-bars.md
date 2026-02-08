@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 24
 calories: 95
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bars
   - course

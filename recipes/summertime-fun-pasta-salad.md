@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 6
 calories: 366
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - fun
   - pasta

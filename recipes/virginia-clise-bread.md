@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 40
 calories: 263
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - clise

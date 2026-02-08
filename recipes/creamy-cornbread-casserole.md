@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 254
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - casserole

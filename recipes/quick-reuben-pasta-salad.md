@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 248
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - reuben

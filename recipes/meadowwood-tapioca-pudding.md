@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 8
 calories: 190
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - meadowwood

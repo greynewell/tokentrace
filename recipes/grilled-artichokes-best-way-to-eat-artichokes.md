@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 2
 calories: 234
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - artichokes

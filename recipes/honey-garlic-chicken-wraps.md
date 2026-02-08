@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 375
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

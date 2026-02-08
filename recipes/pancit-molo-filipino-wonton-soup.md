@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 372
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - filipino
   - molo

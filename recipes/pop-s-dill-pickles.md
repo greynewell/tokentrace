@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 35
 calories: 35
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dill
   - dish

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 80
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - eggs

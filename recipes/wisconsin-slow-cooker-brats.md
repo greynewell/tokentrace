@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 8
 calories: 377
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brats
   - cooker

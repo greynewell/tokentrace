@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 510
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bowl
   - chicken

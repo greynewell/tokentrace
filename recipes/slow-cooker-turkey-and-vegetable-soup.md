@@ -7,6 +7,7 @@ cook_time: PT5H10M
 servings: 8
 calories: 302
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - slow

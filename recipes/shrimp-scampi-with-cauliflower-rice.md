@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 316
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - cauliflower
   - dish

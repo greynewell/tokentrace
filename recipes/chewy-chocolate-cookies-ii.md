@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 48
 calories: 116
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chewy
   - chocolate

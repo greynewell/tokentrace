@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 32
 calories: 32
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cinnamon
   - crisps

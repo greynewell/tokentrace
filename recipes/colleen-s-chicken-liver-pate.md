@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 6
 calories: 253
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

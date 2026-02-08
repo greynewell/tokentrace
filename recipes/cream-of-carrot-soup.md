@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 169
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - carrot
   - cream

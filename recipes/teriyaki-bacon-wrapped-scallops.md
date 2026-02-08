@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 145
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - bacon
   - course

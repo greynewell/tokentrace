@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 490
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cold
   - course

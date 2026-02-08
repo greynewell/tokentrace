@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 4
 calories: 612
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - cream

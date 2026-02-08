@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 755
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cookies
   - course

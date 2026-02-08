@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 205
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - texas

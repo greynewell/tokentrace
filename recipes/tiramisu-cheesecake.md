@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 528
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - cheesecake
   - dessert

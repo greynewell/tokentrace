@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 161
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - chocolate
   - cookies

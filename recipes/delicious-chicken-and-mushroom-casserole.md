@@ -7,6 +7,7 @@ cook_time: PT44M
 servings: 8
 calories: 209
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - chicken

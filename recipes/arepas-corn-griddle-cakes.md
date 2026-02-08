@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 8
 calories: 103
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - arepas
   - breakfast

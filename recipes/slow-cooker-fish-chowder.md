@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 9
 calories: 235
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - cooker

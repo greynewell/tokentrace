@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 278
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - cornbread

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 278
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cookies
   - delicious

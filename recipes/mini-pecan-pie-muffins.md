@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 130
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - mini

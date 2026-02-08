@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 346
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - caprese
   - roasted

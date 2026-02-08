@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 25
 recipe_category: Soup
+cuisine: Japanese
 keywords:
   - japanese
   - onion

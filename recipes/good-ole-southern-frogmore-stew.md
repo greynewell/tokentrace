@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 1037
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - frogmore
   - ole

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 40
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - turkey

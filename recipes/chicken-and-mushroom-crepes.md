@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 5
 calories: 496
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - chicken

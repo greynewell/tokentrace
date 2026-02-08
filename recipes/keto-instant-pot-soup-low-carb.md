@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 6
 calories: 347
 recipe_category: Soup
+cuisine: American
 keywords:
   - carb
   - instant

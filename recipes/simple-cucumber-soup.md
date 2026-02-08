@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 3
 calories: 150
 recipe_category: Soup
+cuisine: American
 keywords:
   - cucumber
   - soup

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 70
 calories: 82
 recipe_category: Main Course
+cuisine: American
 keywords:
   - anything
   - becel

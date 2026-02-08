@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 4
 calories: 714
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

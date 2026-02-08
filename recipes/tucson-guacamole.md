@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 272
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - guacamole

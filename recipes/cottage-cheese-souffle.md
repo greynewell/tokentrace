@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 421
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - cheese
   - cottage

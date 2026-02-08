@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 84
 calories: 90
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apricot
   - cheese

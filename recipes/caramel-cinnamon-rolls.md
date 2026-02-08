@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 27
 calories: 327
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - caramel

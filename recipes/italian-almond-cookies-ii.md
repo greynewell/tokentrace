@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 72
 calories: 116
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - almond
   - cookies

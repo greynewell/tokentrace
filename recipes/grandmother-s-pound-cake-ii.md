@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 30
 calories: 264
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

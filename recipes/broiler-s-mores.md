@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 208
 recipe_category: Dessert
+cuisine: American
 keywords:
   - broiler
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 4
 calories: 687
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - asparagus
   - coconut

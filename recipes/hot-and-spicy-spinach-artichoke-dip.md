@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 131
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - artichoke

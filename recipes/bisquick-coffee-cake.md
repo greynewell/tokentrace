@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 233
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bisquick
   - cake

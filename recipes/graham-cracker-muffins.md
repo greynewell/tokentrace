@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 10
 calories: 143
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cracker

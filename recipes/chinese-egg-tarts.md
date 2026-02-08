@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 179
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - chinese
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 2057
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - horseshoe

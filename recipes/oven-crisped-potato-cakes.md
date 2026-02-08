@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 87
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cakes
   - crisped

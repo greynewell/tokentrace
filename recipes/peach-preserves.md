@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 64
 calories: 59
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - peach

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 203
 recipe_category: Main Course
+cuisine: American
 keywords:
   - caribbean
   - course

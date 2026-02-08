@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 11
 calories: 257
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chicken
   - rotini

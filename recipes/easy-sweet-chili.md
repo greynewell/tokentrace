@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 6
 calories: 567
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - soup

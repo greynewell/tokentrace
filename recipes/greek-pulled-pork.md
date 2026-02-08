@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 146
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - greek

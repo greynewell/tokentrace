@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 358
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - butter
   - chip

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 329
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - moak

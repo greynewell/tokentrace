@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 257
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - ground

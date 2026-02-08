@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 48
 calories: 104
 recipe_category: Bread
+cuisine: American
 keywords:
   - basic
   - bread

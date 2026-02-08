@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 209
 recipe_category: Soup
+cuisine: French
 keywords:
   - chile
   - pumpkin

@@ -670,6 +670,9 @@ export function baseStyles(): string {
     }
     .cta pre {
       display: inline-block;
+      max-width: 100%;
+      overflow-x: auto;
+      box-sizing: border-box;
       background: var(--color-surface);
       border: 1px solid var(--color-border);
       padding: 0.6rem 1.25rem;
@@ -1111,6 +1114,11 @@ export function baseStyles(): string {
         font-size: 0.6875rem;
         padding: 0.2rem 0.45rem;
       }
+      .cta pre,
+      .about-install pre {
+        font-size: 0.6875rem;
+        padding: 0.5rem 0.75rem;
+      }
     }
   `;
 }
@@ -1338,6 +1346,7 @@ export interface RecipePageOptions {
   breadcrumbJsonLd?: BreadcrumbJsonLd | null;
   pairings?: ParsedRecipe[] | null;
   categoryBreadcrumb?: { name: string; slug: string } | null;
+  validTaxonomySlugs?: Map<string, Set<string>> | null;
 }
 
 function formatQuantityDisplay(qty: number): string {
@@ -1403,7 +1412,7 @@ export function renderRecipePage(
   commitHash: string,
   options: RecipePageOptions = {}
 ): string {
-  const { enrichment = null, affiliateLinks = null, cookModePrompt = null, breadcrumbJsonLd = null, pairings = null, categoryBreadcrumb = null } = options;
+  const { enrichment = null, affiliateLinks = null, cookModePrompt = null, breadcrumbJsonLd = null, pairings = null, categoryBreadcrumb = null, validTaxonomySlugs = null } = options;
   const ingredientsHtml = renderIngredientsHtml(recipe.ingredients);
   const restBodyHtml = renderBodyWithoutIngredients(recipe.body);
   const jsonLdString = JSON.stringify(jsonLd);
@@ -1460,7 +1469,12 @@ export function renderRecipePage(
     for (const value of values) {
       const slug = toSlug(value);
       if (slug) {
-        tagPills.push(`<a class="meta-pill tax-${type}" href="/${type}/${slug}.html">${value}</a>`);
+        const hasPage = !validTaxonomySlugs || validTaxonomySlugs.get(type)?.has(slug);
+        if (hasPage) {
+          tagPills.push(`<a class="meta-pill tax-${type}" href="/${type}/${slug}.html">${value}</a>`);
+        } else {
+          tagPills.push(`<span class="meta-pill tax-${type}">${value}</span>`);
+        }
       }
     }
   }
@@ -2436,6 +2450,9 @@ function aboutStyles(): string {
     }
     .about-install pre {
       display: inline-block;
+      max-width: 100%;
+      overflow-x: auto;
+      box-sizing: border-box;
       background: var(--color-surface);
       border: 1px solid var(--color-border);
       padding: 0.6rem 1.25rem;

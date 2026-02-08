@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 405
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - layered
   - salad

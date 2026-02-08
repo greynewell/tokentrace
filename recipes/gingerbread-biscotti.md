@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 48
 calories: 70
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscotti
   - course

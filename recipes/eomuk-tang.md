@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 131
 recipe_category: Soup
+cuisine: Korean
 keywords:
   - eomuk
   - soup

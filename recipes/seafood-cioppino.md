@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 8
 calories: 303
 recipe_category: Soup
+cuisine: American
 keywords:
   - cioppino
   - seafood

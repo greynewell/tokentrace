@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 3
 calories: 370
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - faced

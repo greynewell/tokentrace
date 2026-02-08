@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 56
 recipe_category: Salad
+cuisine: American
 keywords:
   - coleslaw
   - fennel

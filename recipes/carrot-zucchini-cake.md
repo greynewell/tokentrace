@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 740
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - carrot

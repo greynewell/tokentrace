@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 9
 calories: 338
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - muffins

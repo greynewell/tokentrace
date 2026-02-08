@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 509
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - doritos

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 15
 calories: 155
 recipe_category: Bread
+cuisine: Mediterranean
 keywords:
   - banana
   - bread

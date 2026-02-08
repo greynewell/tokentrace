@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 112
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - perfect

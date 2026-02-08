@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 96
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - crowder
   - dish

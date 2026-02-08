@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 284
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - baked
   - course

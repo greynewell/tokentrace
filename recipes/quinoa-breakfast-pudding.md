@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 202
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breakfast
   - course

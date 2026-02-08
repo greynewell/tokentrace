@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 559
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - avocado
   - lime

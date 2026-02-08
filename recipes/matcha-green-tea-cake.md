@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 184
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cake
   - course

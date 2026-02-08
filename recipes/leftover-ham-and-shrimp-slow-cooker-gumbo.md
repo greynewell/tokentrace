@@ -7,6 +7,7 @@ cook_time: PT4H40M
 servings: 12
 calories: 241
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - cooker
   - gumbo

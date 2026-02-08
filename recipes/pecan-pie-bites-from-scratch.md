@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 106
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bites
   - course

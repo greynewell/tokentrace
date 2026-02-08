@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 395
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - baked
   - breakfast

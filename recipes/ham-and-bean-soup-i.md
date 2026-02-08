@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 10
 calories: 826
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bean
   - ham

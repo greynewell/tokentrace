@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 199
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - kale

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 117
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - deidra

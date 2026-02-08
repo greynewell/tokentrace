@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 155
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - butternut
   - sherry

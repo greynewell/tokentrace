@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 28
 calories: 183
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - patties

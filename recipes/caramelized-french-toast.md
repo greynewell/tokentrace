@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 248
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - caramelized

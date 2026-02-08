@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 5
 calories: 379
 recipe_category: Salad
+cuisine: American
 keywords:
   - autumn
   - berry

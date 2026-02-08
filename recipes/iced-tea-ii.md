@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 76
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - iced

@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 50
 calories: 462
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - jambalaya
   - new

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 7
 calories: 369
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - city

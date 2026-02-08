@@ -7,6 +7,7 @@ cook_time: PT8H25M
 servings: 24
 calories: 446
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - italiano

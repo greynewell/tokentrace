@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 173
 recipe_category: Dessert
+cuisine: American
 keywords:
   - creamy
   - dessert

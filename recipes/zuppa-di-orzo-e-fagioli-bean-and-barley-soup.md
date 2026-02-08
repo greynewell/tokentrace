@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 536
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - barley
   - bean

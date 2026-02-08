@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 10
 calories: 884
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - cake

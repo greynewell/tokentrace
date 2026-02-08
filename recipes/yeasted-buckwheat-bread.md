@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 12
 calories: 188
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buckwheat

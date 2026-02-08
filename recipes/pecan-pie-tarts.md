@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 209
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pecan

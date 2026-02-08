@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 44
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bread
   - buns

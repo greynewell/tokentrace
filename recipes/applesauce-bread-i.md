@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 24
 calories: 251
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - applesauce
   - bread

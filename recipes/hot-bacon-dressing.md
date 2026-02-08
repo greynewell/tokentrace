@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 278
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - dish

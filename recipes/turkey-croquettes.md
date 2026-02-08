@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 3
 calories: 346
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - croquettes

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 295
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - crisp

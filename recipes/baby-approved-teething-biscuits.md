@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 30
 calories: 63
 recipe_category: Dessert
+cuisine: American
 keywords:
   - approved
   - baby

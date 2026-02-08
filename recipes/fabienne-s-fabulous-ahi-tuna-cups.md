@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 201
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - ahi
   - cups

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 293
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bierocks
   - course

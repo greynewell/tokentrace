@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 423
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - cake
   - course

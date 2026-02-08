@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 848
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - crunch
   - dessert

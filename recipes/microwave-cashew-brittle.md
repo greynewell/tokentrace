@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 740
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brittle
   - cashew

@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 335
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breasts
   - chicken

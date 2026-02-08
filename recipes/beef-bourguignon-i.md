@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 458
 recipe_category: Main Course
+cuisine: French
 keywords:
   - beef
   - bourguignon

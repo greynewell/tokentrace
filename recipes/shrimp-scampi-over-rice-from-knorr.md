@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 299
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - knorr

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 301
 recipe_category: Main Course
+cuisine: American
 keywords:
   - ahi
   - course

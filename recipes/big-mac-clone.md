@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 2
 calories: 2395
 recipe_category: Main Course
+cuisine: American
 keywords:
   - big
   - clone

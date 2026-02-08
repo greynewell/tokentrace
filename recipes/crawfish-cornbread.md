@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 209
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - cornbread
   - crawfish

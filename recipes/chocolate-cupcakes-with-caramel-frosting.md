@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 362
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - chocolate

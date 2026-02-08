@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 315
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - potato

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 97
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - course

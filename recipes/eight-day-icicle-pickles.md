@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 128
 calories: 78
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - day
   - dish

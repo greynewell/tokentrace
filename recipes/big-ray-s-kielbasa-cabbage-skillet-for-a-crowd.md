@@ -7,6 +7,7 @@ cook_time: PT1H3M
 servings: 4
 calories: 897
 recipe_category: Main Course
+cuisine: American
 keywords:
   - big
   - cabbage

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 300
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - chicken

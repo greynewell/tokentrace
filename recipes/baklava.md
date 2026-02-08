@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 214
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - baklava
   - course

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 346
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cold
   - course

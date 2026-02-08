@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 270
 recipe_category: Salad
+cuisine: American
 keywords:
   - mom
   - mustard

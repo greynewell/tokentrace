@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 12
 calories: 334
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - acorn
   - bisque

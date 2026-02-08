@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 187
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - asiago

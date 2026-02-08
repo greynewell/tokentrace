@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 30
 calories: 176
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cookie

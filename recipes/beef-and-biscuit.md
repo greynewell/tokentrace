@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 306
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - biscuit

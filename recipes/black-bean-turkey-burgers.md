@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 238
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - bean
   - black

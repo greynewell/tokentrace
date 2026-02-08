@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 133
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - mustard

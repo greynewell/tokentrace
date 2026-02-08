@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 12
 calories: 360
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - buttercream
   - dessert

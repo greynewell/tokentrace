@@ -7,6 +7,7 @@ cook_time: PT56M
 servings: 8
 calories: 452
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - left

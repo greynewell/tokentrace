@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 9
 calories: 391
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cherry

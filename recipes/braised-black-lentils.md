@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 500
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - black
   - braised

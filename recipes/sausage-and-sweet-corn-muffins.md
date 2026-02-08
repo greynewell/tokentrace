@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 12
 calories: 223
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - corn

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 582
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - amelia
   - macaroni

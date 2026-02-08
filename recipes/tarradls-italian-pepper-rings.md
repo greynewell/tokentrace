@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 248
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - italian

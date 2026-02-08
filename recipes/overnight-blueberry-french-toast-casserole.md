@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 494
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - blueberry
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 36
 calories: 62
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - dessert

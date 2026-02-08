@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 337
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - coconut
   - dish

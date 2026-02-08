@@ -7,6 +7,7 @@ cook_time: PT1H34M
 servings: 6
 calories: 378
 recipe_category: Soup
+cuisine: American
 keywords:
   - gerry
   - irish

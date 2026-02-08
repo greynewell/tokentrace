@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 8
 calories: 529
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - chicken
   - rice

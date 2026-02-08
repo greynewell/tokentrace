@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 525
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - almond
   - breakfast

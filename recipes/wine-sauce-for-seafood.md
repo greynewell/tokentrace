@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 103
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - sauce

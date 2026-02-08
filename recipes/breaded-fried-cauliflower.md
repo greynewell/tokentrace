@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 6
 calories: 262
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - breaded
   - cauliflower

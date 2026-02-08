@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 138
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chef

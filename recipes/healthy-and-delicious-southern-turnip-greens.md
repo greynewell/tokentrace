@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 105
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - delicious
   - dish

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 7
 calories: 450
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - salad

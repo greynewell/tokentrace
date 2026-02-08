@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 119
 recipe_category: Salad
+cuisine: Korean
 keywords:
   - carrot
   - korean

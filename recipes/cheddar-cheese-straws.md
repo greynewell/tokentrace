@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 67
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cheddar

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 301
 recipe_category: Salad
+cuisine: French
 keywords:
   - amy
   - barbecue

@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 294
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - candied
   - classic

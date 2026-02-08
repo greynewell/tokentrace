@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 99
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chick

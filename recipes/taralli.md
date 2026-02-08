@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 96
 calories: 94
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - taralli

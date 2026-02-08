@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 414
 recipe_category: Soup
+cuisine: American
 keywords:
   - canadian
   - chowder

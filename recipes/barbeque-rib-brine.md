@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 71
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - barbeque
   - brine

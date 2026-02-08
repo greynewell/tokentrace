@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 227
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - delicious

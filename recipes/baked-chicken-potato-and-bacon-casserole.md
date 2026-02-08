@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 363
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - baked

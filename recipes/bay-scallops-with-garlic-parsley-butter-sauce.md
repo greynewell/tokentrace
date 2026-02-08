@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 528
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bay

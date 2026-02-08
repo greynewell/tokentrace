@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 12
 calories: 423
 recipe_category: Soup
+cuisine: American
 keywords:
   - aunt
   - chicken

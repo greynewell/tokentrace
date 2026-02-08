@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 6
 calories: 71
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - lemon

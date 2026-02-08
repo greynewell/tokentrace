@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 6
 calories: 484
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - course

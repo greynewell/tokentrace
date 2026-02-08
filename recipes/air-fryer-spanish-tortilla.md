@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 222
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - air
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 8
 calories: 281
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - cooker

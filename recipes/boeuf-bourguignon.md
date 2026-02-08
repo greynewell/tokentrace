@@ -7,6 +7,7 @@ cook_time: PT2H14M
 servings: 8
 calories: 350
 recipe_category: Soup
+cuisine: French
 keywords:
   - boeuf
   - bourguignon

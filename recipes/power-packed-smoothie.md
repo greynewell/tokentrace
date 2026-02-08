@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 100
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - packed

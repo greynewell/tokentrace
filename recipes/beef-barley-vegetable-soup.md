@@ -7,6 +7,7 @@ cook_time: PT5H30M
 servings: 10
 calories: 321
 recipe_category: Soup
+cuisine: American
 keywords:
   - barley
   - beef

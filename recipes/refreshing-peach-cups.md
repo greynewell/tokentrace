@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 233
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cups
   - dessert

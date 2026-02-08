@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 337
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - different

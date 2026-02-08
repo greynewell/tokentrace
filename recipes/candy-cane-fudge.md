@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 64
 calories: 89
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candy
   - cane

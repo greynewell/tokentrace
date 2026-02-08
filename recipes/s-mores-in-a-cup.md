@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 42
 calories: 154
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cup
   - dessert

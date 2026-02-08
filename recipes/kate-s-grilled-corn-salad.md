@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 8
 calories: 136
 recipe_category: Salad
+cuisine: American
 keywords:
   - corn
   - grilled

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 860
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - jambalasta

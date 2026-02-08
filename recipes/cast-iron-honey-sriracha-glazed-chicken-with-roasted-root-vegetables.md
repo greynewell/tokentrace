@@ -7,6 +7,7 @@ cook_time: PT53M
 servings: 8
 calories: 427
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cast
   - chicken

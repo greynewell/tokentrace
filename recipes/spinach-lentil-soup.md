@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 150
 recipe_category: Soup
+cuisine: American
 keywords:
   - lentil
   - soup

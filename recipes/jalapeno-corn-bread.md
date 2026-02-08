@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 312
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - corn

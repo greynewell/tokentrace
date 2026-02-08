@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 769
 recipe_category: Main Course
+cuisine: American
 keywords:
   - butter
   - cake

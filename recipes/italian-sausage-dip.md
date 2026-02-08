@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 32
 calories: 96
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - dip

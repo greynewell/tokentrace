@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 210
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - dough

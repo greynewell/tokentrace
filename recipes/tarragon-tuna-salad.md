@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 485
 recipe_category: Salad
+cuisine: French
 keywords:
   - salad
   - tarragon

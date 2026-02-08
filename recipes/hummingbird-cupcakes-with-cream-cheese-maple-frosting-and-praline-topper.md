@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 30
 calories: 547
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cheese
   - cream

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 220
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - pumpkin

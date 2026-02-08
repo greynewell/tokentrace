@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 16
 calories: 455
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chef
   - course

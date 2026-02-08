@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 40
 calories: 104
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - preserves

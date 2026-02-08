@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 180
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - applesauce
   - bites

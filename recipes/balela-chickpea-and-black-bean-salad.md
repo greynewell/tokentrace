@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 300
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - balela
   - bean

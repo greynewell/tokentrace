@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 968
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - cheese

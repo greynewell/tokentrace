@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 272
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butternut
   - dish

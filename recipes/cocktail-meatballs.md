@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 10
 calories: 193
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cocktail

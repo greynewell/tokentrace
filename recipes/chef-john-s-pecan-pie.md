@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 10
 calories: 527
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - chef
   - dessert

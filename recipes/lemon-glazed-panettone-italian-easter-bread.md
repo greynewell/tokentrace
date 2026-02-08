@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 247
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - easter

@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 8
 calories: 121
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

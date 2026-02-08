@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 6
 calories: 460
 recipe_category: Soup
+cuisine: French
 keywords:
   - american
   - french

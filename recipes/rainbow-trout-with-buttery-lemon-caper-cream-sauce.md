@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 238
 recipe_category: Main Course
+cuisine: French
 keywords:
   - buttery
   - caper

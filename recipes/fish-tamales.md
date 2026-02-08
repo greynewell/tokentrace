@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 25
 calories: 267
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - fish

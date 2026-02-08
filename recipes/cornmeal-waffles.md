@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 130
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - cornmeal

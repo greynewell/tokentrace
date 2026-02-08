@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 98
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 320
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chicken
   - instant

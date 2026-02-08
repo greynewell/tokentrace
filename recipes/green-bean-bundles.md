@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 90
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bean

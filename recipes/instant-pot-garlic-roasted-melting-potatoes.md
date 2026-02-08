@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 601
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - garlic

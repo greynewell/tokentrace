@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 317
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - clamicken

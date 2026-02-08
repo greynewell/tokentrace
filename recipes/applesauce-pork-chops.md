@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 399
 recipe_category: Main Course
+cuisine: American
 keywords:
   - applesauce
   - chops

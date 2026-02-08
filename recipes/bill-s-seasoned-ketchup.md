@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 45
 calories: 19
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bill
   - dish

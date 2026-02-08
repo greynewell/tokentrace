@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 2
 calories: 20
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - course

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 55
 recipe_category: Soup
+cuisine: American
 keywords:
   - shrimp
   - soup

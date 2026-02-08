@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 2
 calories: 626
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ginger

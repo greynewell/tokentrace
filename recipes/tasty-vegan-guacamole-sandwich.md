@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 601
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - guacamole

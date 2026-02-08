@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 16
 calories: 61
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crabby

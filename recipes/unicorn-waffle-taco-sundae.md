@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 818
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - dessert
   - sundae

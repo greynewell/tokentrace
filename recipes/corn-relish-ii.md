@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 112
 calories: 16
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - corn
   - dish

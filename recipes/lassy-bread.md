@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 496
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - lassy

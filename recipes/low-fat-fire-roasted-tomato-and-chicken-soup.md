@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 5
 calories: 182
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - fat

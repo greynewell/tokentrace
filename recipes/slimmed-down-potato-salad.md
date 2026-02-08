@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 240
 recipe_category: Salad
+cuisine: American
 keywords:
   - down
   - potato

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 412
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - farfel

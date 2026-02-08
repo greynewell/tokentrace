@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 665
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - ham

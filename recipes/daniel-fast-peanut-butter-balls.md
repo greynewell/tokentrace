@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 24
 calories: 217
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - balls

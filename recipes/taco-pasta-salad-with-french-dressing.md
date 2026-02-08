@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 523
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - dressing
   - french

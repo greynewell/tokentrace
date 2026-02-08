@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 16
 calories: 174
 recipe_category: Main Course
+cuisine: American
 keywords:
   - artichoke
   - cheese

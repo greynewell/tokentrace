@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 36
 calories: 248
 recipe_category: Dessert
+cuisine: American
 keywords:
   - balls
   - butter

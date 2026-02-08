@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 328
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - basil
   - breakfast

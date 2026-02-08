@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 100
 calories: 36
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chip
   - chocolate

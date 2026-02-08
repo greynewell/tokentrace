@@ -7,6 +7,7 @@ cook_time: PT2H25M
 servings: 10
 calories: 672
 recipe_category: Soup
+cuisine: American
 keywords:
   - irish
   - lamb

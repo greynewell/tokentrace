@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 1058
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - baked

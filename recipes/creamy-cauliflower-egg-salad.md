@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 236
 recipe_category: Salad
+cuisine: American
 keywords:
   - cauliflower
   - creamy

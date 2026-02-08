@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 249
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - banana
   - dessert

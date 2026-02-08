@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 36
 calories: 347
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - beef
   - course

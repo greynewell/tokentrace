@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 237
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beefy
   - soup

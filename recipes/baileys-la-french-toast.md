@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 800
 recipe_category: Main Course
+cuisine: French
 keywords:
   - baileys
   - course

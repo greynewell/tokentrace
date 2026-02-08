@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 12
 calories: 344
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - chef

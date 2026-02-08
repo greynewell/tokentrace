@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 196
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - kathy

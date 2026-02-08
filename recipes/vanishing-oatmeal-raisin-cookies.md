@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 48
 calories: 96
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cookies
   - course

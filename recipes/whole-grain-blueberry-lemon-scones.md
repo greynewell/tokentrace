@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 192
 recipe_category: Bread
+cuisine: American
 keywords:
   - blueberry
   - bread

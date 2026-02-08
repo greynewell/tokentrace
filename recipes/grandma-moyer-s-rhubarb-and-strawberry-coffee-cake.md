@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 270
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coffee

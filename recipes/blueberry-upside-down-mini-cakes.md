@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 6
 calories: 404
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cakes

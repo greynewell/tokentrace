@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 8
 calories: 354
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - bbq
   - cooker

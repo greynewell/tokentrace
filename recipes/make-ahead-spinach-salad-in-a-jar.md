@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 396
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - ahead
   - jar

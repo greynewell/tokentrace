@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 288
 recipe_category: Soup
+cuisine: American
 keywords:
   - delicious
   - kale

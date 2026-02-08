@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 393
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - crunchy
   - romaine

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 162
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheese
   - course

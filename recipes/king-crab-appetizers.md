@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 299
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - appetizers

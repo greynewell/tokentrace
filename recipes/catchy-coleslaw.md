@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 201
 recipe_category: Salad
+cuisine: American
 keywords:
   - catchy
   - coleslaw

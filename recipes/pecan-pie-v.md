@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 313
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pecan

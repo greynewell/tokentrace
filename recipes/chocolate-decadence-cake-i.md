@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 425
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chocolate

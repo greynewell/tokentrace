@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 393
 recipe_category: Salad
+cuisine: American
 keywords:
   - avocado
   - beet

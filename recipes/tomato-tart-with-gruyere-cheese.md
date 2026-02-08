@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 414
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - cheese

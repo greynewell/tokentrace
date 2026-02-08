@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 4
 calories: 760
 recipe_category: Soup
+cuisine: American
 keywords:
   - creamy
   - pork

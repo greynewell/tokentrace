@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 235
 recipe_category: Soup
+cuisine: American
 keywords:
   - carrot
   - celery

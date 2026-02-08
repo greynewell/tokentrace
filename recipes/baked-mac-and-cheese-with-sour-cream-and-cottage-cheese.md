@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 415
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - cheese

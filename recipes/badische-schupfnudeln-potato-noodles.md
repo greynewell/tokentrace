@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 215
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - badische
   - dish

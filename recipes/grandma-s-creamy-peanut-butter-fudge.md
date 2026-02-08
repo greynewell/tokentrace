@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 64
 calories: 95
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - creamy

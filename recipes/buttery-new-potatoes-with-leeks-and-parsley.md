@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 6
 calories: 196
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buttery
   - course

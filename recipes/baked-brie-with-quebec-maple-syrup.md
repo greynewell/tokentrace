@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 197
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - baked

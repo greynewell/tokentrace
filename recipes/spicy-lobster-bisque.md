@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 4
 calories: 501
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - bisque
   - lobster

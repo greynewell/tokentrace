@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 8
 calories: 433
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacalhau
   - cod

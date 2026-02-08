@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 139
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - flatbread

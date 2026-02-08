@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 48
 calories: 100
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candy
   - dessert

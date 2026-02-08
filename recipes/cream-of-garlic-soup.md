@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 5
 calories: 399
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - garlic

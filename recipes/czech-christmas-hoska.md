@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 30
 calories: 177
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - christmas

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 274
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - lemon

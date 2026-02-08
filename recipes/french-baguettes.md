@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 113
 recipe_category: Bread
+cuisine: French
 keywords:
   - baguettes
   - bread

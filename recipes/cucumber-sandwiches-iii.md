@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 35
 calories: 123
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - cucumber

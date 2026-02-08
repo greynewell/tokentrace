@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 36
 calories: 172
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buttermilk

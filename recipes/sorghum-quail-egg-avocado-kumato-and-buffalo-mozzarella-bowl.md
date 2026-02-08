@@ -7,6 +7,7 @@ cook_time: PT1H4M
 servings: 2
 calories: 870
 recipe_category: Main Course
+cuisine: American
 keywords:
   - avocado
   - bowl

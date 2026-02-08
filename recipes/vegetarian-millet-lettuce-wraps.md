@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 1
 calories: 273
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - lettuce

@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 4
 calories: 218
 recipe_category: Main Course
+cuisine: American
 keywords:
   - corn
   - course

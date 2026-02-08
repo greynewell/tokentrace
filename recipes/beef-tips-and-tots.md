@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 4
 calories: 750
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 357
 recipe_category: Salad
+cuisine: American
 keywords:
   - avocado
   - lobster

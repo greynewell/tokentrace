@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 325
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - jasmine

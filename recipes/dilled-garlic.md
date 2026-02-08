@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 64
 calories: 22
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dilled
   - dish

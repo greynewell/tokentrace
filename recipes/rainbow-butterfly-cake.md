@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 14
 calories: 179
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butterfly
   - cake

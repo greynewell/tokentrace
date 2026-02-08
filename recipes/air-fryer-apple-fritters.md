@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 297
 recipe_category: Bread
+cuisine: American
 keywords:
   - air
   - apple

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 783
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cheese
   - course

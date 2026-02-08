@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 211
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - side

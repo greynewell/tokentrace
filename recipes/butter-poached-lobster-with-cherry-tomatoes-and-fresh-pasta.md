@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 6
 calories: 414
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - butter
   - cherry

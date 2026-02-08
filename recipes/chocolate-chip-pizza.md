@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 316
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - chip
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 348
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fritters

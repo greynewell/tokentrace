@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 332
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - cake

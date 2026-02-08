@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 195
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - bread
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 222
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cups

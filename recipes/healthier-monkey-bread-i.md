@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 15
 calories: 312
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - healthier

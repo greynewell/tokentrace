@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 229
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - artichokes
   - dish

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 514
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cake
   - cornbread

@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 8
 calories: 630
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - authentic
   - beans

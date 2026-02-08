@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 22
 calories: 75
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 30
 calories: 216
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - finnish

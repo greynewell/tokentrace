@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 190
 recipe_category: Salad
+cuisine: American
 keywords:
   - lentil
   - moroccan

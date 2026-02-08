@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 4
 calories: 236
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cauliflower
   - course

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 1326
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - chocolat

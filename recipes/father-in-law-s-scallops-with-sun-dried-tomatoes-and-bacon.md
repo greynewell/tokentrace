@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 520
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 245
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bake
   - bars

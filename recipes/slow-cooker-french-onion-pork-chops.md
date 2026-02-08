@@ -7,6 +7,7 @@ cook_time: PT8H15M
 servings: 5
 calories: 205
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chops
   - cooker

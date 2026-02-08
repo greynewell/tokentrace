@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 299
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - ahoy
   - alma

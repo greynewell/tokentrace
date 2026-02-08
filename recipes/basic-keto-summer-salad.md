@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 693
 recipe_category: Salad
+cuisine: American
 keywords:
   - basic
   - keto

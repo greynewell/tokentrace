@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 453
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - chocolate

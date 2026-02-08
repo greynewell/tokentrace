@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 273
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 310
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - sourdough

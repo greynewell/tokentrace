@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 649
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cheese
   - course

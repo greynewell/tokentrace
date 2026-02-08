@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 426
 recipe_category: Salad
+cuisine: American
 keywords:
   - accidental
   - chicken

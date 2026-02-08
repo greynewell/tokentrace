@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 365
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 56
 calories: 219
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bars
   - breakfast

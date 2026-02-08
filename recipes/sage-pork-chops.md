@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 159
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chops
   - course

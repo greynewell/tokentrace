@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 290
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - broccoli

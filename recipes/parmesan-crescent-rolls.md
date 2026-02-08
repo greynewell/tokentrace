@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 184
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crescent

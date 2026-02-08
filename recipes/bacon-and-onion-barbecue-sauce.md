@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 54
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - barbecue

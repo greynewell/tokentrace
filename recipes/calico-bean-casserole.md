@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 617
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bean
   - calico

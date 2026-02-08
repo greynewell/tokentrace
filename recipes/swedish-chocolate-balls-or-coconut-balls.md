@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 90
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balls
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 233
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - ahead
   - bars

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 382
 recipe_category: Soup
+cuisine: French
 keywords:
   - fish
   - sexy

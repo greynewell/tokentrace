@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 40
 calories: 93
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - bbq

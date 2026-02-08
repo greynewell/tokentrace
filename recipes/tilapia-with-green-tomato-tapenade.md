@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 4
 calories: 241
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - green

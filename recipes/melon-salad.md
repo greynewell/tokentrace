@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 280
 recipe_category: Salad
+cuisine: American
 keywords:
   - melon
   - salad

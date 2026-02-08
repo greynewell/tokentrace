@@ -7,6 +7,7 @@ cook_time: PT8H5M
 servings: 8
 calories: 258
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - bacon
   - browns

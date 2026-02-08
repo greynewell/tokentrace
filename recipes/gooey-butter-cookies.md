@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 24
 calories: 168
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

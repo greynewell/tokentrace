@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 486
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - buttery

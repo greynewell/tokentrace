@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 15
 calories: 521
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - glazed

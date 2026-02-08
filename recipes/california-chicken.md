@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 541
 recipe_category: Main Course
+cuisine: American
 keywords:
   - california
   - chicken

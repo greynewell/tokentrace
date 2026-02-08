@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 245
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - blackened
   - course

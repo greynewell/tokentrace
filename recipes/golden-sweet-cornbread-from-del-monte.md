@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 202
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cornbread
   - course

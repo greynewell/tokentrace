@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 30
 calories: 139
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - spelt

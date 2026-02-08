@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 6
 calories: 427
 recipe_category: Soup
+cuisine: American
 keywords:
   - chickpea
   - cooker

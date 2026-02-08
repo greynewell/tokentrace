@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 72
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - english

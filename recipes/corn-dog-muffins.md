@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 18
 calories: 246
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - corn

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 16
 calories: 119
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - butter

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 238
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - free

@@ -7,6 +7,7 @@ cook_time: PT3H40M
 servings: 20
 calories: 39
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - soup

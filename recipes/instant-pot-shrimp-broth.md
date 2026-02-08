@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 19
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - instant

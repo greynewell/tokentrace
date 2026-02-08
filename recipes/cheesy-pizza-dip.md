@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 56
 calories: 51
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cheesy

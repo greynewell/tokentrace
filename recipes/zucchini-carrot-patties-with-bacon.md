@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 2
 calories: 355
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - bacon
   - carrot

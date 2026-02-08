@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 107
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - cajun

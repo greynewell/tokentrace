@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 14
 calories: 400
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crushed
   - dessert

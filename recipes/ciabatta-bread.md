@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 73
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - ciabatta

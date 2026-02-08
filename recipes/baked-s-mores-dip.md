@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 6
 calories: 465
 recipe_category: Dessert
+cuisine: American
 keywords:
   - baked
   - dessert

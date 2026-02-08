@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 274
 recipe_category: Salad
+cuisine: American
 keywords:
   - orange
   - salad

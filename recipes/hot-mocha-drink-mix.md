@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 66
 calories: 28
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - drink

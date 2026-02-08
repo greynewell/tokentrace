@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 502
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cabbage
   - roll

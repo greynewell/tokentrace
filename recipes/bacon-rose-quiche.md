@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 404
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bacon
   - breakfast

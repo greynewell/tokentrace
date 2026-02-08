@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 32
 calories: 129
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bread
   - buns

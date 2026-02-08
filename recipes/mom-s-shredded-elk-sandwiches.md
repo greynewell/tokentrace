@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 10
 calories: 361
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - elk

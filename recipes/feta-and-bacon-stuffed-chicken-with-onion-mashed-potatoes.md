@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 1498
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chicken

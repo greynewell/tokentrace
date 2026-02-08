@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 11
 calories: 288
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - hot

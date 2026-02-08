@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 266
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - cold
   - cucumber

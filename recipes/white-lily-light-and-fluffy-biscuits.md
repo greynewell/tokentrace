@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 126
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscuits
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 131
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - camp

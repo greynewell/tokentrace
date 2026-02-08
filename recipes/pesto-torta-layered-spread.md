@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 364
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - layered

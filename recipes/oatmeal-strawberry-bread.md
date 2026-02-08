@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 24
 calories: 285
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - oatmeal

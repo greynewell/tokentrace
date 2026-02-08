@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 9
 calories: 332
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cooker

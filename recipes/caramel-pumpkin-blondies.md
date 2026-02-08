@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 375
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - blondies
   - caramel

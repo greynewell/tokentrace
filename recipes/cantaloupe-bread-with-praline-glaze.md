@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 366
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cantaloupe

@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 2
 calories: 225
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - ethiopian

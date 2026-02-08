@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 227
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - ajillo
   - appetizer

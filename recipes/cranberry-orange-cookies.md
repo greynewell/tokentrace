@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 48
 calories: 110
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - cranberry

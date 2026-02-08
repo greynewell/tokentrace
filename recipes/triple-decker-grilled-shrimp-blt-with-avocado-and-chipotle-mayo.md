@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 1433
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - avocado
   - blt

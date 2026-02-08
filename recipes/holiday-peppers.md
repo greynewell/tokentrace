@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 114
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - holiday

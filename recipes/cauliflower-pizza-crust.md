@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 59
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cauliflower

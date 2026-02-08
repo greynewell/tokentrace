@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 330
 recipe_category: Salad
+cuisine: American
 keywords:
   - broccoli
   - raisin

@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 20
 calories: 93
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - brown

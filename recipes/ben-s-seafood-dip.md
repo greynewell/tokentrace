@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 48
 calories: 28
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - ben

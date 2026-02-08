@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 20
 calories: 307
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bake
   - butter

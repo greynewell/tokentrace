@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 372
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - broccoli

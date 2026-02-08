@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 46
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - apple

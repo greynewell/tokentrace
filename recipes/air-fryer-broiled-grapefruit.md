@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 150
 recipe_category: Dessert
+cuisine: American
 keywords:
   - air
   - broiled

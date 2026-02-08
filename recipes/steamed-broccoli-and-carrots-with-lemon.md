@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 35
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - broccoli
   - carrots

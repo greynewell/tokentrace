@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 63
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - icing

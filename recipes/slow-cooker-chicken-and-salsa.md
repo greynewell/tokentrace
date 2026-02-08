@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 6
 calories: 534
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chicken
   - cooker

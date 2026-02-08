@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 192
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - breakfast

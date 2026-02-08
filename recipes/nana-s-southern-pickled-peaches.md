@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 32
 calories: 110
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - nana

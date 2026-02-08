@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 320
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cracker
   - crunch

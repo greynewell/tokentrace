@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 598
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bowls
   - chicken

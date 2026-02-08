@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 32
 calories: 403
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - boiled

@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 8
 calories: 360
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - alabama
   - bbq

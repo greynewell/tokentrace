@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 189
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

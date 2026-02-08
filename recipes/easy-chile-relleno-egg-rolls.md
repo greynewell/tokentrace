@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 24
 calories: 175
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - chile

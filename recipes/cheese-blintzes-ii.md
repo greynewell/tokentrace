@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 392
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - blintzes
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 144
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - alfredo
   - appetizer

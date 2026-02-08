@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 14
 calories: 96
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - england

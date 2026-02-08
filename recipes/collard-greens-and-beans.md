@@ -7,6 +7,7 @@ cook_time: PT2H25M
 servings: 4
 calories: 163
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - beans
   - collard

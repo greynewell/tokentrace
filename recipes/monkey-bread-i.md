@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 15
 calories: 418
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

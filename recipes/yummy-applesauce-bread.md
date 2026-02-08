@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 9
 calories: 348
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - applesauce
   - bread

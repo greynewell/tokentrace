@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 12
 calories: 292
 recipe_category: Soup
+cuisine: American
 keywords:
   - brunswick
   - soup

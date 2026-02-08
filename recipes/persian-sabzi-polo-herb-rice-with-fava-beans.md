@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 234
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - dish

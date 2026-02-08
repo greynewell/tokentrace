@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 50
 calories: 83
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

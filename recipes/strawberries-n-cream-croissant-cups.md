@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 279
 recipe_category: Dessert
+cuisine: French
 keywords:
   - cream
   - croissant

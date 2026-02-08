@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 14
 calories: 206
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - kay

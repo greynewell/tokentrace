@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 355
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - aioli
   - country

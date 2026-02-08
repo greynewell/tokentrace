@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 12
 calories: 249
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bread

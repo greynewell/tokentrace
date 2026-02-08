@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 473
 recipe_category: Dessert
+cuisine: American
 keywords:
   - basic
   - bread

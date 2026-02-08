@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 653
 recipe_category: Soup
+cuisine: American
 keywords:
   - beans
   - billionaire

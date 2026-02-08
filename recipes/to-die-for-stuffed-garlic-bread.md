@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 247
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bread

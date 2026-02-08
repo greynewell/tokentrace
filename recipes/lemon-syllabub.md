@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 223
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - lemon

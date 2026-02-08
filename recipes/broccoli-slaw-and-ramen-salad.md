@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 149
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - broccoli
   - ramen

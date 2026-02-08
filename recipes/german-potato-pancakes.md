@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 283
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - german

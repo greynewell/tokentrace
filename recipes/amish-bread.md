@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 58
 recipe_category: Bread
+cuisine: American
 keywords:
   - amish
   - bread

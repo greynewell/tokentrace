@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 379
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - garden
   - gazpacho

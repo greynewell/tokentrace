@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 524
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - chicken
   - course

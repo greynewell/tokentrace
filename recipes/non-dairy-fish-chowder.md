@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 380
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - dairy

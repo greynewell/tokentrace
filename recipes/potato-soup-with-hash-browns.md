@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 6
 calories: 389
 recipe_category: Soup
+cuisine: American
 keywords:
   - browns
   - hash

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 30
 calories: 197
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blue

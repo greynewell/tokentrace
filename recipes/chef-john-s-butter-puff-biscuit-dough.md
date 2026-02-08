@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 266
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuit
   - bread

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 5
 calories: 186
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chips

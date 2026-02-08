@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 1144
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 4
 calories: 443
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

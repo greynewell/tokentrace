@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 206
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - brownies
   - course

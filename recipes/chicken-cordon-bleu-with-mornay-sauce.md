@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 2
 calories: 1040
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bleu
   - chicken

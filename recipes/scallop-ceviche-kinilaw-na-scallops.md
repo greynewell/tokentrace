@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 101
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - appetizer
   - ceviche

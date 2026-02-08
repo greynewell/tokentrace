@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 345
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bread
   - breakfast

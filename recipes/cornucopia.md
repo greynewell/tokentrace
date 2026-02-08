@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 1
 calories: 2639
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cornucopia
   - course

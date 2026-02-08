@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 291
 recipe_category: Soup
+cuisine: American
 keywords:
   - ground
   - rice

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 97
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - layered

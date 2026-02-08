@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 8
 calories: 73
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - barbecue
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 578
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lemak

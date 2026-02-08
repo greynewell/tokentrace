@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 216
 recipe_category: Beverage
+cuisine: Southern
 keywords:
   - beverage
   - boiled

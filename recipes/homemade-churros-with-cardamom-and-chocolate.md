@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 528
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - cardamom

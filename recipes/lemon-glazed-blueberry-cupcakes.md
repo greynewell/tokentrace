@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 160
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cupcakes

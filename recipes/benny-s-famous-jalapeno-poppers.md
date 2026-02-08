@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 168
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - benny

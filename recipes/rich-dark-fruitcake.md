@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 40
 calories: 451
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dark
   - dessert

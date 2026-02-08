@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 8
 calories: 385
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crostini

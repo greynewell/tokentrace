@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 10
 calories: 170
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - big

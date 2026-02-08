@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 7
 calories: 636
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - hot

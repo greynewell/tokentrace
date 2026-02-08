@@ -7,6 +7,7 @@ cook_time: PT4H16M
 servings: 16
 calories: 258
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - carb

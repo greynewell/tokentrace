@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 61
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - angeled
   - appetizer

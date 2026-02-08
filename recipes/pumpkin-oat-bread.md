@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 22
 calories: 206
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - oat

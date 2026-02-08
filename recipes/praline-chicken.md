@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 756
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chicken

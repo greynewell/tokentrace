@@ -7,6 +7,7 @@ cook_time: PT10H15M
 servings: 10
 calories: 548
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - awesome
   - bbq

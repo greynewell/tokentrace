@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 688
 recipe_category: Main Course
+cuisine: American
 keywords:
   - attack
   - casserole

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 20
 recipe_category: Bread
+cuisine: American
 keywords:
   - bagel
   - bread

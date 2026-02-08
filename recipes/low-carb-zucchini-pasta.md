@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 157
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - carb
   - dish

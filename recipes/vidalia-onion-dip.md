@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 32
 calories: 64
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

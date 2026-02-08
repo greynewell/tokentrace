@@ -7,6 +7,7 @@ cook_time: PT4H15M
 servings: 8
 calories: 322
 recipe_category: Main Course
+cuisine: American
 keywords:
   - afternoon
   - cooked

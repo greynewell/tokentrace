@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 338
 recipe_category: Bread
+cuisine: American
 keywords:
   - babka
   - basic

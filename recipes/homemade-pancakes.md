@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 126
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - pancakes

@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 8
 calories: 374
 recipe_category: Soup
+cuisine: American
 keywords:
   - ham
   - pea

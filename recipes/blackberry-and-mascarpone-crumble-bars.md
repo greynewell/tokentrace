@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 325
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - blackberry

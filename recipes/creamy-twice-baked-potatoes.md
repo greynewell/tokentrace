@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 2
 calories: 450
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - creamy

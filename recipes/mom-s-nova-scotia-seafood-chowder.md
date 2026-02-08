@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 20
 calories: 525
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - mom

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 28
 calories: 84
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bread
   - butter

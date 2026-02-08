@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 482
 recipe_category: Soup
+cuisine: American
 keywords:
   - pork
   - potato

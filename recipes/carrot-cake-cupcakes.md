@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 263
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - carrot

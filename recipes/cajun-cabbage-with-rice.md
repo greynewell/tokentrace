@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 384
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cabbage
   - cajun

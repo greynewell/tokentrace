@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 60
 calories: 188
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - mix

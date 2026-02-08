@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 556
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - spinach

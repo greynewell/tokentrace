@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 491
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - burgers
   - dish

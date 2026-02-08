@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 471
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - asparagus
   - casserole

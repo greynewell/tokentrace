@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 445
 recipe_category: Soup
+cuisine: French
 keywords:
   - bisque
   - crawfish

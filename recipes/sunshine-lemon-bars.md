@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 175
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bars
   - course

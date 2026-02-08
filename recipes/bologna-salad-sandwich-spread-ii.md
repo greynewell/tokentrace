@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 123
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bologna
   - course

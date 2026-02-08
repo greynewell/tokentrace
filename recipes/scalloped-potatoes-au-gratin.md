@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 8
 calories: 411
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - gratin

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 482
 recipe_category: Main Course
+cuisine: American
 keywords:
   - andouille
   - course

@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 10
 calories: 389
 recipe_category: Soup
+cuisine: American
 keywords:
   - awesome
   - chicago

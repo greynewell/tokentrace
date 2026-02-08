@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 9
 calories: 474
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - burgundy

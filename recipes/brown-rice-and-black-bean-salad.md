@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 24
 calories: 87
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - bean
   - black

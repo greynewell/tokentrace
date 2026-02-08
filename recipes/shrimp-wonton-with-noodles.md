@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 829
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - noodles
   - shrimp

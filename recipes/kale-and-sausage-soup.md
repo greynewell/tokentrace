@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 352
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - kale
   - sausage

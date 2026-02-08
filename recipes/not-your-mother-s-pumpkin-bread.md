@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 36
 calories: 227
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - mother

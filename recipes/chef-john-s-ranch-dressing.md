@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 145
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - chef
   - dish

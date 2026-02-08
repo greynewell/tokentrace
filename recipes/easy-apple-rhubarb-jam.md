@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 48
 calories: 38
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - dish

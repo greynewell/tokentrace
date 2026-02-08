@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 32
 calories: 11
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - carrots
   - dish

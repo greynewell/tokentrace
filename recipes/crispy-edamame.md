@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 141
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - crispy

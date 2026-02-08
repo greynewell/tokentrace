@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 392
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - halaya

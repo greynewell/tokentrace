@@ -7,6 +7,7 @@ cook_time: PT37M
 servings: 4
 calories: 348
 recipe_category: Soup
+cuisine: American
 keywords:
   - day
   - new

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 119
 recipe_category: Salad
+cuisine: American
 keywords:
   - crowd
   - potato

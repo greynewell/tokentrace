@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 7
 calories: 463
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - corned

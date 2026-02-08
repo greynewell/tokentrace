@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 250
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apples
   - cabbage

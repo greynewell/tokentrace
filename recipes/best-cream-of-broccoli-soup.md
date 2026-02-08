@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 207
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - cream

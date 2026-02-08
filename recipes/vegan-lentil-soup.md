@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 8
 calories: 204
 recipe_category: Soup
+cuisine: American
 keywords:
   - lentil
   - soup

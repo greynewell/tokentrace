@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 40
 calories: 194
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bars
   - chocolate

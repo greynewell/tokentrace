@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 270
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - bavarian

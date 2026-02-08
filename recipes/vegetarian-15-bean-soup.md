@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 20
 calories: 159
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - soup

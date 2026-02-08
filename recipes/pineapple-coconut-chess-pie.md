@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 472
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chess
   - coconut

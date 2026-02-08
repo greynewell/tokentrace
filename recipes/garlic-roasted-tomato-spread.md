@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 144
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - garlic

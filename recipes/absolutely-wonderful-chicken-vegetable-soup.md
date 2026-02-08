@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 15
 calories: 275
 recipe_category: Soup
+cuisine: American
 keywords:
   - absolutely
   - chicken

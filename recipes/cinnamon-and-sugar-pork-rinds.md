@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 2
 calories: 262
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cinnamon
   - dessert

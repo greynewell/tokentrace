@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 36
 calories: 243
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolate

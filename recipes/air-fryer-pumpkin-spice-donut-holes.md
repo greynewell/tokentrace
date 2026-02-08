@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 24
 calories: 58
 recipe_category: Bread
+cuisine: American
 keywords:
   - air
   - bread

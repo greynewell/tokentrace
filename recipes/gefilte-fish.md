@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 8
 calories: 513
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - fish

@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 2
 calories: 240
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - basil
   - course

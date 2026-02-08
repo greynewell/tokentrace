@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 213
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cashews

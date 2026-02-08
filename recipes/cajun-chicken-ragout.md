@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 512
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - cajun
   - chicken

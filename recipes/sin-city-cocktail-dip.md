@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 22
 calories: 53
 recipe_category: Main Course
+cuisine: American
 keywords:
   - city
   - cocktail

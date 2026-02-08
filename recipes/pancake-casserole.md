@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 311
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

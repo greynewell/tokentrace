@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 413
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - gary

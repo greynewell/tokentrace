@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 15
 calories: 429
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - caramel

@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 8
 calories: 515
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - beef
   - dumplings

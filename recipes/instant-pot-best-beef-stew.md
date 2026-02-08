@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 352
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - instant

@@ -7,6 +7,7 @@ cook_time: PT44M
 servings: 8
 calories: 539
 recipe_category: Dessert
+cuisine: American
 keywords:
   - derby
   - dessert

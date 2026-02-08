@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 2
 calories: 331
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - main

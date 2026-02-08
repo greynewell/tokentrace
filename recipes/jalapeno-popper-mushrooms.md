@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 151
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - jalapeno

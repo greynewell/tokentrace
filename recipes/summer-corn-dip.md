@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 36
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - appetizer
   - corn

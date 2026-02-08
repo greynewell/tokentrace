@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 7
 calories: 798
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pudding

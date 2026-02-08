@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 440
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fried

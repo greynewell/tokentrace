@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 179
 recipe_category: Dessert
+cuisine: French
 keywords:
   - brisee
   - dessert

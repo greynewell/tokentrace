@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 4
 calories: 527
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - hot

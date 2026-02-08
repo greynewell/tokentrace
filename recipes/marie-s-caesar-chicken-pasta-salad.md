@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 536
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - caesar
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 36
 calories: 210
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chip

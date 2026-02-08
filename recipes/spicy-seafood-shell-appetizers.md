@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 218
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - appetizers

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 30
 calories: 160
 recipe_category: Bread
+cuisine: American
 keywords:
   - amish
   - banana

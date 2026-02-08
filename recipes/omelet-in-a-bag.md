@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 1
 calories: 484
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bag
   - breakfast

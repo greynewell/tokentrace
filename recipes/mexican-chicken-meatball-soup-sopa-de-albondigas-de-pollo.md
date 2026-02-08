@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 233
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - albondigas
   - chicken

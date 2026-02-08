@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 193
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - bars

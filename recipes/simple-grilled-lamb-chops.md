@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 519
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chops
   - course

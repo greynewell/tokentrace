@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 314
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bread
   - naan

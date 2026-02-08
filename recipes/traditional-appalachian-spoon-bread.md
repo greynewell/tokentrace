@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 220
 recipe_category: Bread
+cuisine: American
 keywords:
   - appalachian
   - bread

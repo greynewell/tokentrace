@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 233
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - baked
   - caprese

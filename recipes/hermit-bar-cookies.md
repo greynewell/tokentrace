@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 20
 calories: 202
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bar
   - cookies

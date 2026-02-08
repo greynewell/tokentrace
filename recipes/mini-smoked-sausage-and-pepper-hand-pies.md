@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 295
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - hand

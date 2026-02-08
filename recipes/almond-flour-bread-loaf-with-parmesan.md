@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 226
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - almond
   - bread

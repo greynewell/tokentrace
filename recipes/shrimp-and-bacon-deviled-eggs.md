@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 62
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - bacon

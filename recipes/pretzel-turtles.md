@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 20
 calories: 82
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pretzel

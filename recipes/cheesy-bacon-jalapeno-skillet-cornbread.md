@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 389
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bacon
   - bread

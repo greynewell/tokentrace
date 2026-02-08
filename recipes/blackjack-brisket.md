@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 16
 calories: 650
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blackjack
   - brisket

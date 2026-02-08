@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 16
 calories: 525
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheesecake
   - dessert

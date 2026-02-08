@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 464
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - andouille
   - appetizer

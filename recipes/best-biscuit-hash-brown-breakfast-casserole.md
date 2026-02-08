@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 534
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - biscuit
   - breakfast

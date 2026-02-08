@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 60
 calories: 99
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - roasted

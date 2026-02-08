@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 192
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - mango

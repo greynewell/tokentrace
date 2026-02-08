@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 476
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - cheesy

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 406
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - boy

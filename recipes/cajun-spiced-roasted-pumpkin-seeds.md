@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 80
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - cajun

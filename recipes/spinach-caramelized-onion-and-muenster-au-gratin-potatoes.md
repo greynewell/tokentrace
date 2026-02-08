@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 426
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - caramelized
   - dish

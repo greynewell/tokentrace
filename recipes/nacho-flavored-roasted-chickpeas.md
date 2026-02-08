@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 28
 calories: 46
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - chickpeas

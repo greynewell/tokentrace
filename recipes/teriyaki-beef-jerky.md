@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 12
 calories: 207
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - beef

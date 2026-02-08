@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 12
 calories: 127
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - sopapillas

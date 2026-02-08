@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 11
 calories: 694
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecue
   - course

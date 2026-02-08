@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 286
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cheese
   - course

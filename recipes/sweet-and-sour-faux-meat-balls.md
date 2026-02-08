@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 462
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - balls
   - course

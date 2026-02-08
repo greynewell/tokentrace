@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 12
 calories: 587
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - around
   - darn

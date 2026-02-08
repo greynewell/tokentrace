@@ -7,6 +7,7 @@ cook_time: PT52M
 servings: 8
 calories: 631
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - corn

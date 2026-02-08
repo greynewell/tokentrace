@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 6
 calories: 608
 recipe_category: Soup
+cuisine: American
 keywords:
   - irish
   - soup

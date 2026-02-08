@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 328
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - course

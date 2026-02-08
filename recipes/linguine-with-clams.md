@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 12
 calories: 323
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - clams
   - course

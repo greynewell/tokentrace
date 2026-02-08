@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 270
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - roll

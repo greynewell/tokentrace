@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 6
 calories: 323
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - cauliflower

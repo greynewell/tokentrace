@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 768
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - aunt
   - bev

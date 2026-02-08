@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 287
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - muhammara

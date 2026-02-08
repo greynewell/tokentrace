@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 719
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - gorilla

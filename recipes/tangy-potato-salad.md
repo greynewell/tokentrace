@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 228
 recipe_category: Salad
+cuisine: American
 keywords:
   - potato
   - salad

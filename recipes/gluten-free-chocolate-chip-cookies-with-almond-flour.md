@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 32
 calories: 156
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - chip

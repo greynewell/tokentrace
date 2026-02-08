@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 2
 calories: 560
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - flatbread

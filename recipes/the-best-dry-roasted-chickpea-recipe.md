@@ -7,6 +7,7 @@ cook_time: PT44M
 servings: 4
 calories: 105
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - chickpea

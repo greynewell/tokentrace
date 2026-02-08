@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 15
 calories: 93
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - caulipower

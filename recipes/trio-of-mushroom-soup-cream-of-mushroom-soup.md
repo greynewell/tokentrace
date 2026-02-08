@@ -7,6 +7,7 @@ cook_time: PT36M
 servings: 8
 calories: 260
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - mushroom

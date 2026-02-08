@@ -7,6 +7,7 @@ cook_time: PT31M
 servings: 30
 calories: 153
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

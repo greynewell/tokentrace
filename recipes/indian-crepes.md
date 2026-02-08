@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 125
 recipe_category: Breakfast
+cuisine: Indian
 keywords:
   - breakfast
   - crepes

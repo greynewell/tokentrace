@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 278
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - mushrooms

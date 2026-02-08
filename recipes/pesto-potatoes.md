@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 177
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - pesto

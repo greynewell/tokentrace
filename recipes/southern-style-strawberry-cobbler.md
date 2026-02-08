@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 228
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cobbler
   - dessert

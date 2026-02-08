@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 30
 calories: 274
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chip
   - chocolate

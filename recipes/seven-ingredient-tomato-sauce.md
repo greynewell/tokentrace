@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 14
 calories: 92
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - ingredient

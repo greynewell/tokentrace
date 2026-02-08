@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 688
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - biscuits
   - casserole

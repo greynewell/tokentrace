@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 97
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beef
   - corned

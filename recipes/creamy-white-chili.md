@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 334
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - creamy

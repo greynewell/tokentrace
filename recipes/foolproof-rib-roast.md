@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 6
 calories: 576
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - foolproof

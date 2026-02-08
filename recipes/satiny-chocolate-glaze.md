@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 242
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - dessert

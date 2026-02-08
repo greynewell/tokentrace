@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 378
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ground

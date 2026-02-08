@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 156
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - creamy

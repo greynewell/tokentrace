@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 301
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - easiest

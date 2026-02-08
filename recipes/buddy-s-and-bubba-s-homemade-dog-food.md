@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 10
 calories: 400
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bubba
   - buddy

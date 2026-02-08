@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 6
 calories: 228
 recipe_category: Breakfast
+cuisine: Japanese
 keywords:
   - breakfast
   - matcha

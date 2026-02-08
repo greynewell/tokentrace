@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 2
 calories: 493
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - bowl

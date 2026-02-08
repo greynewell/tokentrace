@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 7
 calories: 256
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - meatball
   - soup

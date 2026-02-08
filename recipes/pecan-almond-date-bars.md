@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 18
 calories: 140
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - almond
   - appetizer

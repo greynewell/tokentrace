@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 79
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baby
   - beans

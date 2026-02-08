@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 70
 calories: 48
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - christmas

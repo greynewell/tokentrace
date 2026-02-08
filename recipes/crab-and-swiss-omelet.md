@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 796
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - crab

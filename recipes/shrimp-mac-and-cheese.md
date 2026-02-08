@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 232
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cheese
   - course

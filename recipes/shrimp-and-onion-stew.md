@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 4
 calories: 302
 recipe_category: Soup
+cuisine: American
 keywords:
   - onion
   - shrimp

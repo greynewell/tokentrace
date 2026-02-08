@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 123
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cinnamon

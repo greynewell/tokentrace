@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 157
 recipe_category: Soup
+cuisine: American
 keywords:
   - pepper
   - rainbow

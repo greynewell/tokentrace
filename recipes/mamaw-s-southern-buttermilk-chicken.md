@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 10
 calories: 514
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - buttermilk
   - chicken

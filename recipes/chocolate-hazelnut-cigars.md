@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 25
 calories: 97
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cigars

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 15
 calories: 316
 recipe_category: Main Course
+cuisine: American
 keywords:
   - athans
   - course

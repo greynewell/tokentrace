@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 531
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - better
   - chicken

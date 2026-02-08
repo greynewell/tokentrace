@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 650
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - pickled

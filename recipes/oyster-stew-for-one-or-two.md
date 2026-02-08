@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 325
 recipe_category: Soup
+cuisine: American
 keywords:
   - one
   - oyster

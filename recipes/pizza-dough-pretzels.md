@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 6
 calories: 221
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - dough

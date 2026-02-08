@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 364
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - fugi
   - salad

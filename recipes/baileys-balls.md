@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 90
 calories: 130
 recipe_category: Dessert
+cuisine: American
 keywords:
   - baileys
   - balls

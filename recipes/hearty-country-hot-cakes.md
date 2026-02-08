@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 6
 calories: 293
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cakes

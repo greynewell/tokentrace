@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 98
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dijon
   - dish

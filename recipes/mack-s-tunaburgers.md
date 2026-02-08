@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 2
 calories: 241
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - mack

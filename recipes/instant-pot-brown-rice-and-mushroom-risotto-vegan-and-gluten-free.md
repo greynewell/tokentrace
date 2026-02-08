@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 3
 calories: 413
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - brown
   - course

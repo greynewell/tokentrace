@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 298
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - chicago

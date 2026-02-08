@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 558
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - soup
   - tuscan

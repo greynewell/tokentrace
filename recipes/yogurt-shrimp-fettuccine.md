@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 443
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - fettuccine

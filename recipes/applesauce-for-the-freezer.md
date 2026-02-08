@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 63
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - applesauce
   - dish

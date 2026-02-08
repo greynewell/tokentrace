@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 264
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baby
   - blintz

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 103
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - brik

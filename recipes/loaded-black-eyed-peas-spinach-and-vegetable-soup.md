@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 10
 calories: 177
 recipe_category: Soup
+cuisine: American
 keywords:
   - black
   - eyed

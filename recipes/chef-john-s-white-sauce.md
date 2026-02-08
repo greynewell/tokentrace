@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 192
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chef
   - dish

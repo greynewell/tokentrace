@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 9
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - blackened
   - dish

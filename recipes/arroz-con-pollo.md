@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 8
 calories: 535
 recipe_category: Main Course
+cuisine: American
 keywords:
   - arroz
   - con

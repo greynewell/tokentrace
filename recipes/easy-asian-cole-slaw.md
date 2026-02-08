@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 126
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - asian
   - cole

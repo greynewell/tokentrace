@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 8
 calories: 455
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grillades

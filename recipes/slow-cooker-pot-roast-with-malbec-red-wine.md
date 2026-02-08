@@ -7,6 +7,7 @@ cook_time: PT5H10M
 servings: 6
 calories: 350
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cooker
   - course

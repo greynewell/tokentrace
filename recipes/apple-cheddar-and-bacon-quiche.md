@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 414
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - apple
   - bacon

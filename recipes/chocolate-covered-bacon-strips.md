@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 126
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chocolate

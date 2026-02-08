@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 315
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - grilled
   - mishwiya

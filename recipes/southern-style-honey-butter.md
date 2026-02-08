@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 78
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - butter
   - dish

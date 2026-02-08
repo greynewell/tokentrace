@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 336
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - kraut

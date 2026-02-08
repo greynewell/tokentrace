@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 6
 calories: 413
 recipe_category: Salad
+cuisine: American
 keywords:
   - american
   - hatch

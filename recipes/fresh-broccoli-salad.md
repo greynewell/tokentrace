@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 374
 recipe_category: Salad
+cuisine: American
 keywords:
   - broccoli
   - fresh

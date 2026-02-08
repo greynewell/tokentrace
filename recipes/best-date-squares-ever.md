@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 251
 recipe_category: Dessert
+cuisine: American
 keywords:
   - date
   - dessert

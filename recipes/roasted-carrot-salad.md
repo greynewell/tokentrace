@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 295
 recipe_category: Salad
+cuisine: American
 keywords:
   - carrot
   - roasted

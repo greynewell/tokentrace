@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 72
 calories: 115
 recipe_category: Bread
+cuisine: American
 keywords:
   - bran
   - bread

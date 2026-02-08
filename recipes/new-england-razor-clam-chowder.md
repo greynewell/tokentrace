@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 575
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - clam

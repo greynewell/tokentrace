@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 306
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - quiche

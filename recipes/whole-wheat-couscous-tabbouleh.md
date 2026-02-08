@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 177
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - couscous
   - salad

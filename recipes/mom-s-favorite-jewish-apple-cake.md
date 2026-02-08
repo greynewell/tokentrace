@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 484
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - cake

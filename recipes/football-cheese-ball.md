@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 120
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - ball

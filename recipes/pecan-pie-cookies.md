@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 185
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cookies
   - dessert

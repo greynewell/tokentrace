@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 84
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - bunny

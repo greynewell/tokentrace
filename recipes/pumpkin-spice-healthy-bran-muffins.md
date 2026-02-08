@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 24
 calories: 152
 recipe_category: Bread
+cuisine: American
 keywords:
   - bran
   - bread

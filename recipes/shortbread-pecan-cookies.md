@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 30
 calories: 196
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 235
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bread
   - corn

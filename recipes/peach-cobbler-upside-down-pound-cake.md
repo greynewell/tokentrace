@@ -7,6 +7,7 @@ cook_time: PT2H25M
 servings: 14
 calories: 746
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cobbler

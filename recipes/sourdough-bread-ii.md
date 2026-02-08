@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 30
 calories: 116
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - sourdough

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 309
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - crunch
   - grandma

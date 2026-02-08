@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 6
 calories: 352
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dynamites

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 81
 recipe_category: Soup
+cuisine: Korean
 keywords:
   - baechu
   - bean

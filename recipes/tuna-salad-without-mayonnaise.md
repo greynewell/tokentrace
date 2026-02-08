@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 173
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - mayonnaise
   - salad

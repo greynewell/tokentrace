@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 449
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

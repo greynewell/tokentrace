@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 54
 calories: 188
 recipe_category: Main Course
+cuisine: American
 keywords:
   - banana
   - cake

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 112
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - christmas
   - dish

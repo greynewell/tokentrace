@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 115
 recipe_category: Salad
+cuisine: American
 keywords:
   - gorgonzola
   - salad

@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 16
 calories: 289
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 12
 calories: 42
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - broth

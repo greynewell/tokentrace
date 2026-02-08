@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 263
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - drink

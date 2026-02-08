@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 16
 calories: 402
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - cooker

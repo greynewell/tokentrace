@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 7
 calories: 480
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - mom

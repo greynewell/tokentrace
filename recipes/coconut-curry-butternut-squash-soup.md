@@ -7,6 +7,7 @@ cook_time: PT1H33M
 servings: 6
 calories: 315
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - butternut
   - coconut

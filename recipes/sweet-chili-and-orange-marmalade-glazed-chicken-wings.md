@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 288
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

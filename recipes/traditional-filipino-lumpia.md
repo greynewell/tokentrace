@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 15
 calories: 168
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - filipino

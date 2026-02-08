@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 279
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broccoli
   - cheesy

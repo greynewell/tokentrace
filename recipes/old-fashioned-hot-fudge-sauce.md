@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 175
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - fudge

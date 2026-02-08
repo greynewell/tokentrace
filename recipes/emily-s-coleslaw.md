@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 286
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - coleslaw
   - emily

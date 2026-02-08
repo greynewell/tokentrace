@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 300
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boiled
   - casserole

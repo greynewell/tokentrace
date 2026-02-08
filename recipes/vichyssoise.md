@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 281
 recipe_category: Soup
+cuisine: French
 keywords:
   - soup
   - vichyssoise

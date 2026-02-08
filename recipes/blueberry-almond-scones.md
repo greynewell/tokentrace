@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 179
 recipe_category: Bread
+cuisine: American
 keywords:
   - almond
   - blueberry

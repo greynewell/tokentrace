@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 625
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - bean
   - black

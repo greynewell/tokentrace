@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 295
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - braided
   - bread

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 230
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - caesar

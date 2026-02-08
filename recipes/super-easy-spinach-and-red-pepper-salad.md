@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 128
 recipe_category: Salad
+cuisine: American
 keywords:
   - pepper
   - red

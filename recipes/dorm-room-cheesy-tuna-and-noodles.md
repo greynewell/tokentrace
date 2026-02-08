@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 334
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cheesy
   - course

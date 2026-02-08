@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 614
 recipe_category: Soup
+cuisine: American
 keywords:
   - leek
   - potato

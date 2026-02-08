@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 256
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cheesecake

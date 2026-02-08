@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 174
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cream

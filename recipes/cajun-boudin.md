@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 18
 calories: 188
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - boudin
   - cajun

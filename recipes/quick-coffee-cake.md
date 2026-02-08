@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 268
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coffee

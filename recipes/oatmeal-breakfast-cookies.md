@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 24
 calories: 88
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cookies

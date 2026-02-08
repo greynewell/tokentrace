@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 10
 calories: 393
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bites

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 5
 calories: 642
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - black

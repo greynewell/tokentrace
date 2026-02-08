@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 5
 calories: 253
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cinnamon

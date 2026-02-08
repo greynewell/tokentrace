@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 244
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - caramelized
   - dish

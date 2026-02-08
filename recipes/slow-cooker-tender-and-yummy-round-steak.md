@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 6
 calories: 393
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

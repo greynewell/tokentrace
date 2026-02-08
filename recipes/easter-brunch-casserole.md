@@ -7,6 +7,7 @@ cook_time: PT4H20M
 servings: 10
 calories: 573
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brunch

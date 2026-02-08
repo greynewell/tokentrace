@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 6
 calories: 9
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - broth

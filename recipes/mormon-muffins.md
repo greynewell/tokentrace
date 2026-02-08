@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 60
 calories: 114
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - mormon

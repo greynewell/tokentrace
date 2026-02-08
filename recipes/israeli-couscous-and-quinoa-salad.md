@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 202
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - couscous
   - israeli

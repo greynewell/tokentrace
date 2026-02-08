@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 15
 calories: 169
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - baked

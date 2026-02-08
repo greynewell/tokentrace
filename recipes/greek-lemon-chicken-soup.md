@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 124
 recipe_category: Soup
+cuisine: Mediterranean
 keywords:
   - chicken
   - greek

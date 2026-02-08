@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 477
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - cupcakes
   - dessert

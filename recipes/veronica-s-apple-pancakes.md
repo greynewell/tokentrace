@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 322
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

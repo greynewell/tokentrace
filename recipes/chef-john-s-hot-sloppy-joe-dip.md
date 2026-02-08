@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 230
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chef

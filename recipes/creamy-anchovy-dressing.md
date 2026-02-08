@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 190
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - anchovy
   - creamy

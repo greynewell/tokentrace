@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 12
 calories: 176
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - chocolate

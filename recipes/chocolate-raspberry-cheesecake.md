@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 415
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesecake
   - chocolate

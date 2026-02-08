@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 167
 recipe_category: Bread
+cuisine: American
 keywords:
   - angel
   - biscuits

@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 1
 calories: 482
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - asparagus

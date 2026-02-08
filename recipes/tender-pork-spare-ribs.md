@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 943
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - main

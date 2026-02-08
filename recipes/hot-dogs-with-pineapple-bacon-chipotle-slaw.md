@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 499
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bacon
   - chipotle

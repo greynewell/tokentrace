@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 487
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - breaded
   - course

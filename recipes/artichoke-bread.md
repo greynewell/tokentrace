@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 211
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - artichoke

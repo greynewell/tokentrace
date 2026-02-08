@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 4
 calories: 482
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - burgundy

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 1077
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - casserole

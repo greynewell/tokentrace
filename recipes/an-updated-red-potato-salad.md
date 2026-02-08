@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 273
 recipe_category: Salad
+cuisine: American
 keywords:
   - potato
   - red

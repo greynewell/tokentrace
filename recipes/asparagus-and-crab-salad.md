@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 173
 recipe_category: Salad
+cuisine: American
 keywords:
   - asparagus
   - crab

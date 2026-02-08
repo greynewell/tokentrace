@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 32
 calories: 73
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buffalo
   - chicken

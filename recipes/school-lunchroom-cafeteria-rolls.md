@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 22
 calories: 282
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cafeteria

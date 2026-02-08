@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 12
 calories: 497
 recipe_category: Soup
+cuisine: American
 keywords:
   - dominican
   - latin

@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 201
 recipe_category: Soup
+cuisine: American
 keywords:
   - cauliflower
   - chicken

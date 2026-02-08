@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 42
 calories: 115
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cafeteria

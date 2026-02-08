@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 2
 calories: 449
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fillets

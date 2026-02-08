@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 393
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - caramelized

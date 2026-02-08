@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 574
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - skyline

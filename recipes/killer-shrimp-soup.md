@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 497
 recipe_category: Soup
+cuisine: French
 keywords:
   - killer
   - shrimp

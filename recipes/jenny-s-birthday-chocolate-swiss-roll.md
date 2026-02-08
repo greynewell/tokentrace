@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 14
 calories: 251
 recipe_category: Dessert
+cuisine: American
 keywords:
   - birthday
   - chocolate

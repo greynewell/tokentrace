@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 3
 calories: 415
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - creole

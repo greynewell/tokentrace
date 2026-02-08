@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 1
 calories: 150
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - dish

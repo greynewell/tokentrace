@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 14
 calories: 150
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - jalapeno

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 418
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chocolate

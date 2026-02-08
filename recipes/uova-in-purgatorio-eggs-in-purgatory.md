@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 245
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - eggs

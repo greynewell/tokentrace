@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 79
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - clean

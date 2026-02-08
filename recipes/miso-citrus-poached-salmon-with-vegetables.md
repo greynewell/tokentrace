@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 377
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - citrus
   - course

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 36
 calories: 53
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - antipasto
   - dish

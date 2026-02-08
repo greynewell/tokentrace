@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 16
 calories: 444
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - cake

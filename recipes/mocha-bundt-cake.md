@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 375
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bundt
   - cake

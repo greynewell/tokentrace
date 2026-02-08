@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 8
 calories: 732
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - gooey

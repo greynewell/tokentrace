@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 12
 calories: 1164
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - soup

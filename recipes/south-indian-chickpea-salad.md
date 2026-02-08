@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 221
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - chickpea
   - indian

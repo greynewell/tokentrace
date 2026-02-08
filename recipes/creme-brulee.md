@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 561
 recipe_category: Main Course
+cuisine: French
 keywords:
   - brulee
   - course

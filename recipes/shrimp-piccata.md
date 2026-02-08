@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 4
 calories: 769
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

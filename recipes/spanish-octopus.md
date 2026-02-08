@@ -7,6 +7,7 @@ cook_time: PT1H12M
 servings: 2
 calories: 513
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

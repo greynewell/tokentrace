@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 182
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

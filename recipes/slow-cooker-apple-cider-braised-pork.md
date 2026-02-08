@@ -7,6 +7,7 @@ cook_time: PT6H30M
 servings: 8
 calories: 388
 recipe_category: Main Course
+cuisine: French
 keywords:
   - apple
   - braised

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 428
 recipe_category: Dessert
+cuisine: French
 keywords:
   - chocolate
   - dessert

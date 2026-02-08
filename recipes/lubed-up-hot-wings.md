@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 15
 calories: 287
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - hot

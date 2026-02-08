@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 450
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - butter

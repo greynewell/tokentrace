@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 731
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - fancy

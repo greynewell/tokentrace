@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 6
 calories: 316
 recipe_category: Salad
+cuisine: American
 keywords:
   - colorful
   - potato

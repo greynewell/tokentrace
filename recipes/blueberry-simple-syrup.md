@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 72
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - blueberry
   - dish

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 159
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - mock

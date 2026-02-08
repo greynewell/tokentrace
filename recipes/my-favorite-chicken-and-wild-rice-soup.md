@@ -7,6 +7,7 @@ cook_time: PT3H17M
 servings: 6
 calories: 411
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - rice

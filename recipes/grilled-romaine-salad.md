@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 8
 calories: 622
 recipe_category: Salad
+cuisine: American
 keywords:
   - grilled
   - romaine

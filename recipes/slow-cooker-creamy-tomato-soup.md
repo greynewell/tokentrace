@@ -7,6 +7,7 @@ cook_time: PT3H20M
 servings: 8
 calories: 199
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cooker
   - creamy

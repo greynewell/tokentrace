@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 229
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - corn

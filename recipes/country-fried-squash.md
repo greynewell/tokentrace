@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 501
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - country
   - dish

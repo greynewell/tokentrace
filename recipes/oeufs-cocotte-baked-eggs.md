@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 447
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baked
   - breakfast

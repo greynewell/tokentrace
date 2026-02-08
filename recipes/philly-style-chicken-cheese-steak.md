@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 2
 calories: 894
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - chicken

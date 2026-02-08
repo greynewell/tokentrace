@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 124
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - lemon
   - soup

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 18
 calories: 258
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pretzel

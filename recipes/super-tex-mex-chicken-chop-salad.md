@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 970
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - chicken
   - chop

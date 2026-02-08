@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 144
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cabbage
   - potato

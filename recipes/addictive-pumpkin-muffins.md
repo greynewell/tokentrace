@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 36
 calories: 207
 recipe_category: Bread
+cuisine: American
 keywords:
   - addictive
   - bread

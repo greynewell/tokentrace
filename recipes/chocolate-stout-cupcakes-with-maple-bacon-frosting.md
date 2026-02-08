@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 336
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chocolate

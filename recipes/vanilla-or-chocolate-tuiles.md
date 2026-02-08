@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 12
 calories: 156
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chocolate
   - course

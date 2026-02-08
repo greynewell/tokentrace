@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 273
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - oktoberfest

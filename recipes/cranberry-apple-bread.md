@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 179
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - bread

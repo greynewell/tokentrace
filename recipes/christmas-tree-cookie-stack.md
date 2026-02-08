@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 60
 calories: 75
 recipe_category: Dessert
+cuisine: American
 keywords:
   - christmas
   - cookie

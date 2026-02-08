@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 18
 calories: 108
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - ciabatta

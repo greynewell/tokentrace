@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 9
 calories: 236
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - navy

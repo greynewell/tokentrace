@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 16
 calories: 226
 recipe_category: Soup
+cuisine: American
 keywords:
   - city
   - kansas

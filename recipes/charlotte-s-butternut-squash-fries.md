@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 3
 calories: 276
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butternut
   - charlotte

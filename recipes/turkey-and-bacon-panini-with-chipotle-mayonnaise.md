@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 699
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bacon
   - chipotle

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 32
 calories: 168
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - butterhorn

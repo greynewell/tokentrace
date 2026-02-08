@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 66
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chef
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 48
 calories: 106
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

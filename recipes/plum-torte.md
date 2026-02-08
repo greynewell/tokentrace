@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 275
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - plum

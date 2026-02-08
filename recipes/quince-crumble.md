@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 471
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crumble
   - dessert

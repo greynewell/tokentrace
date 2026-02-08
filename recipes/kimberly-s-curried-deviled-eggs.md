@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 73
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - curried

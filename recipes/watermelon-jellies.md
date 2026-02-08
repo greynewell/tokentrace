@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 20
 calories: 32
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - jellies

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 624
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - baked

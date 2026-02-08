@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 138
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - beans
   - green

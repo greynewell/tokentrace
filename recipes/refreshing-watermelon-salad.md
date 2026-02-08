@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 94
 recipe_category: Salad
+cuisine: American
 keywords:
   - refreshing
   - salad

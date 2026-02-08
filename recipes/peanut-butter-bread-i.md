@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 15
 calories: 209
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - butter

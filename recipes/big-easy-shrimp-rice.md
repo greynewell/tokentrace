@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 408
 recipe_category: Main Course
+cuisine: French
 keywords:
   - big
   - course

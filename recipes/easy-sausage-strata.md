@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 401
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - sausage

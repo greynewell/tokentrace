@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 1
 calories: 687
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - foil

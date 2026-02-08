@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 10
 calories: 257
 recipe_category: Bread
+cuisine: American
 keywords:
   - beet
   - bread

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 90
 recipe_category: Soup
+cuisine: American
 keywords:
   - bulgarian
   - cold

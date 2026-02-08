@@ -7,6 +7,7 @@ cook_time: PT7H20M
 servings: 4
 calories: 438
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - lamb

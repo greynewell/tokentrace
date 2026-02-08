@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 234
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - grilled

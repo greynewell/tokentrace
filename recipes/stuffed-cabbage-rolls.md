@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 223
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cabbage
   - course

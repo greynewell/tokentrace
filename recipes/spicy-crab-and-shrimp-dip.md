@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 40
 calories: 101
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - crab

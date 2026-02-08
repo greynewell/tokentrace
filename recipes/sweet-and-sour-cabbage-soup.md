@@ -7,6 +7,7 @@ cook_time: PT5H30M
 servings: 12
 calories: 247
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - cabbage
   - soup

@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 4
 calories: 696
 recipe_category: Main Course
+cuisine: American
 keywords:
   - braised
   - cider

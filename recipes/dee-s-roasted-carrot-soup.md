@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 9
 calories: 143
 recipe_category: Soup
+cuisine: American
 keywords:
   - carrot
   - dee

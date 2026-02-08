@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 224
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bars
   - chocolate

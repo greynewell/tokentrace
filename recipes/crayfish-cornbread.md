@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 8
 calories: 261
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cornbread
   - course

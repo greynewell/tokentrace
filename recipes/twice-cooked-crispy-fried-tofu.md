@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 2
 calories: 280
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooked
   - course

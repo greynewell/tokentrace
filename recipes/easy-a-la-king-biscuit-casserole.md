@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 401
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscuit
   - casserole

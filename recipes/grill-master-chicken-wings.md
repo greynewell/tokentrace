@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 181
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - chicken

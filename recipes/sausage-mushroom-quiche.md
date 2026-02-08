@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 612
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - mushroom

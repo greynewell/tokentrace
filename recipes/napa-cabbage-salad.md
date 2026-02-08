@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 632
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cabbage
   - napa

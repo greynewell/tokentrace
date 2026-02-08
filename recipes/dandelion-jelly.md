@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 40
 calories: 90
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dandelion
   - dish

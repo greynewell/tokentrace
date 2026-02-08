@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 32
 calories: 126
 recipe_category: Soup
+cuisine: American
 keywords:
   - celery
   - cream

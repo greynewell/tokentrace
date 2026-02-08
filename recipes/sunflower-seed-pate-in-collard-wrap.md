@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 563
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - collard
   - course

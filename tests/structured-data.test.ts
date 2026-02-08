@@ -46,6 +46,11 @@ describe('Structured Data (JSON-LD)', () => {
     expect(jsonLd.datePublished).toBe('2024-06-20');
   });
 
+  it('should normalize invalid datePublished to a valid ISO 8601 date', () => {
+    const jsonLd = generateJsonLd(mockRecipe, 'not-a-date');
+    expect(jsonLd.datePublished).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+  });
+
   it('should include prep and cook times in ISO 8601 duration', () => {
     const jsonLd = generateJsonLd(mockRecipe, '2024-01-15');
     expect(jsonLd.prepTime).toBe('PT10M');
@@ -63,15 +68,28 @@ describe('Structured Data (JSON-LD)', () => {
     expect(jsonLd.recipeIngredient).toEqual(['200g spaghetti', '150g guanciale', '4 egg yolks']);
   });
 
-  it('should format instructions as HowToStep objects with positions', () => {
-    const jsonLd = generateJsonLd(mockRecipe, '2024-01-15');
+  it('should format instructions as HowToStep objects with positions, names, and urls', () => {
+    const jsonLd = generateJsonLd(mockRecipe, '2024-01-15', 'https://claudechef.com');
     expect(jsonLd.recipeInstructions).toHaveLength(3);
     expect(jsonLd.recipeInstructions[0]).toEqual({
       '@type': 'HowToStep',
       text: 'Boil the pasta.',
+      name: 'Boil the pasta.',
+      url: 'https://claudechef.com/test-carbonara.html#step-1',
       position: 1,
     });
     expect(jsonLd.recipeInstructions[2].position).toBe(3);
+    expect(jsonLd.recipeInstructions[2].url).toBe('https://claudechef.com/test-carbonara.html#step-3');
+  });
+
+  it('should truncate long instruction text for step name', () => {
+    const longRecipe = {
+      ...mockRecipe,
+      instructions: ['In a large pot, bring water to a rolling boil then carefully add the pasta and cook until al dente, stirring occasionally to prevent sticking.'],
+    };
+    const jsonLd = generateJsonLd(longRecipe, '2024-01-15');
+    expect(jsonLd.recipeInstructions[0].name.length).toBeLessThanOrEqual(81); // 80 + ellipsis
+    expect(jsonLd.recipeInstructions[0].text).toBe(longRecipe.instructions[0]);
   });
 
   it('should include keywords with Claude Chef branding', () => {

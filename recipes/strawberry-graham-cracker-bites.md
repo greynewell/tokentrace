@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 144
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bites
   - cracker

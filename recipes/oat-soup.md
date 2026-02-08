@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 218
 recipe_category: Soup
+cuisine: American
 keywords:
   - oat
   - soup

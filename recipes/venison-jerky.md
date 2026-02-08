@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 15
 calories: 81
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - jerky

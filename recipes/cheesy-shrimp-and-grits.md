@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 449
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - cheesy
   - dish

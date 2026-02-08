@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 11
 calories: 216
 recipe_category: Soup
+cuisine: American
 keywords:
   - authentic
   - pepper

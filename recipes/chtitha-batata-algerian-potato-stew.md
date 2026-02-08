@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 206
 recipe_category: Main Course
+cuisine: American
 keywords:
   - algerian
   - batata

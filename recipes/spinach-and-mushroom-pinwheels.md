@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 30
 calories: 106
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mushroom

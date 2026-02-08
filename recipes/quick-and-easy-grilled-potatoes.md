@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 4
 calories: 203
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - grilled

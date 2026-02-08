@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 16
 calories: 526
 recipe_category: Dessert
+cuisine: American
 keywords:
   - applesauce
   - cake

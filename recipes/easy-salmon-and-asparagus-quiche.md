@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 401
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - asparagus
   - breakfast

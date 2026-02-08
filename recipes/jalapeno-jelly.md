@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 32
 calories: 109
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - jalapeno

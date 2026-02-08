@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 2
 calories: 319
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bake
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 8
 calories: 301
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - fish
   - macaroni

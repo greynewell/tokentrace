@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 75
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - marinara

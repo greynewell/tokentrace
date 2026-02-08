@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 10
 calories: 326
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - artichoke
   - asparagus

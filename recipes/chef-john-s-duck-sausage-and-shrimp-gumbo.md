@@ -7,6 +7,7 @@ cook_time: PT5H55M
 servings: 8
 calories: 485
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chef
   - duck

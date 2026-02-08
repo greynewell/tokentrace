@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 72
 calories: 31
 recipe_category: Main Course
+cuisine: American
 keywords:
   - banana
   - brie

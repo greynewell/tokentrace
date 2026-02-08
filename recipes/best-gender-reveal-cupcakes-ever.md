@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 24
 calories: 774
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cupcakes
   - dessert

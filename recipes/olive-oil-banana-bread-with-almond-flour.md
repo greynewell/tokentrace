@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 443
 recipe_category: Bread
+cuisine: American
 keywords:
   - almond
   - banana

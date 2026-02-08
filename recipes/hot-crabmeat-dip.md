@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 78
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crabmeat

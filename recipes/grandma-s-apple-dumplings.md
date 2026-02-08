@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 315
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - apple
   - dessert

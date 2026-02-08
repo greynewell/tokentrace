@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 60
 calories: 105
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookies

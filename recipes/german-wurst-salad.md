@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 765
 recipe_category: Salad
+cuisine: American
 keywords:
   - german
   - salad

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 405
 recipe_category: Main Course
+cuisine: French
 keywords:
   - canadian
   - course

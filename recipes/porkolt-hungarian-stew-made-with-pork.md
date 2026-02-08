@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 14
 calories: 323
 recipe_category: Soup
+cuisine: American
 keywords:
   - hungarian
   - made

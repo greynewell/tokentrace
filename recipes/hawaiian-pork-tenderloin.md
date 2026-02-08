@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 224
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - hawaiian

@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 8
 calories: 114
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - birthday
   - cake

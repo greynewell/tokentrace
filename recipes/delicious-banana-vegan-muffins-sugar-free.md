@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 274
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bread

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 4
 calories: 263
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cooker

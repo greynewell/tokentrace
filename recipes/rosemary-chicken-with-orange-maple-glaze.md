@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 398
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

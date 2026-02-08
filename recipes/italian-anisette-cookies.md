@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 265
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - anisette
   - cookies

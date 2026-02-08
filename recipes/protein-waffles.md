@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 3
 calories: 254
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - protein

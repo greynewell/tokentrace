@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 32
 calories: 173
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - deb

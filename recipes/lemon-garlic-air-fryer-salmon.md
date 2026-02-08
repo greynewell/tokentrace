@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 293
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - course

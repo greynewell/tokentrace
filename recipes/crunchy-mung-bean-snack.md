@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 605
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - appetizer
   - bean

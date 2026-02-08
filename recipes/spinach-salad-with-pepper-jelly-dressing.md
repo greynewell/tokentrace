@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 2
 calories: 354
 recipe_category: Salad
+cuisine: American
 keywords:
   - dressing
   - jelly

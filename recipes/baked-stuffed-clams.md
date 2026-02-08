@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 258
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - baked

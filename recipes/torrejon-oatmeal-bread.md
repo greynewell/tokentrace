@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 207
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - oatmeal

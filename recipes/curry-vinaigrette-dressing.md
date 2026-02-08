@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 137
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - curry
   - dish

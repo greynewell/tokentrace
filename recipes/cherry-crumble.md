@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 189
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - crumble

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 214
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - fish
   - nadine

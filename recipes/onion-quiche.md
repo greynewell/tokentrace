@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 212
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - onion

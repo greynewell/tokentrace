@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 13
 calories: 240
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - mexican

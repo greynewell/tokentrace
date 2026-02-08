@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 324
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - cocktail

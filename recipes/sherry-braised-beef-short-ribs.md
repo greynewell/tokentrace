@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 8
 calories: 490
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - braised

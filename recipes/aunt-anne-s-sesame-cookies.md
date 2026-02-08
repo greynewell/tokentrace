@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 60
 calories: 72
 recipe_category: Main Course
+cuisine: American
 keywords:
   - anne
   - aunt

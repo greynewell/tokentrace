@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 557
 recipe_category: Main Course
+cuisine: American
 keywords:
   - clams
   - course

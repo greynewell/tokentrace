@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 52
 calories: 75
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheesy

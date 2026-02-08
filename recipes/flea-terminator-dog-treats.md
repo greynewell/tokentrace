@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 36
 calories: 46
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dog

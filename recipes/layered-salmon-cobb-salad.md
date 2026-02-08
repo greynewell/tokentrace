@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 6
 calories: 374
 recipe_category: Salad
+cuisine: American
 keywords:
   - cobb
   - layered

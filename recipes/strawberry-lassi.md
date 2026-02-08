@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 111
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - lassi

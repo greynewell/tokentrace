@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 7
 calories: 313
 recipe_category: Salad
+cuisine: American
 keywords:
   - potato
   - salad

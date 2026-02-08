@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 375
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

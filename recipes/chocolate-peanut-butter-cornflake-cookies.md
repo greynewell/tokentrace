@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 108
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - chocolate

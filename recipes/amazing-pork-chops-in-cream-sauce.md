@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 349
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amazing
   - chops

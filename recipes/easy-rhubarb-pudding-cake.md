@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 18
 calories: 222
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

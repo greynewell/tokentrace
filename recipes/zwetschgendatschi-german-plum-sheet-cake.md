@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 381
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cake
   - course

@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 9
 calories: 402
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - hawaiian

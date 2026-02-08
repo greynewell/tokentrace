@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 256
 recipe_category: Soup
+cuisine: American
 keywords:
   - fish
   - soup

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 10
 calories: 270
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - eaton

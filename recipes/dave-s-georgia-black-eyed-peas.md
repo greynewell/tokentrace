@@ -7,6 +7,7 @@ cook_time: PT8H20M
 servings: 16
 calories: 431
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - black
   - dave

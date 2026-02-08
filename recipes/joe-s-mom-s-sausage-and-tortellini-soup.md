@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 8
 calories: 307
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - joe
   - mom

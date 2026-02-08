@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 280
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - jambalaya
   - salad

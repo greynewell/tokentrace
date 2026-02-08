@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 743
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chile
   - course

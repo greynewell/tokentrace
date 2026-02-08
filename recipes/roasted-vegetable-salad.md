@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 193
 recipe_category: Salad
+cuisine: American
 keywords:
   - roasted
   - salad

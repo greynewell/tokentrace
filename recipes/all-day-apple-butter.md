@@ -7,6 +7,7 @@ cook_time: PT11H
 servings: 128
 calories: 34
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - all
   - apple

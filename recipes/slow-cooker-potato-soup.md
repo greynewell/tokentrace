@@ -7,6 +7,7 @@ cook_time: PT7H40M
 servings: 8
 calories: 443
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - potato

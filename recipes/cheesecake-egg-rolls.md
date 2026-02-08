@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 206
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cheesecake

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 161
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - breaded

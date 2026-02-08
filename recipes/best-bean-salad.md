@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 167
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - salad

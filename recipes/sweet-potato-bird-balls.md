@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 80
 calories: 16
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balls
   - bird

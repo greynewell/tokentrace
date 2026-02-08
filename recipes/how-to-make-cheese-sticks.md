@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 184
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

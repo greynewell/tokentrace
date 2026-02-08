@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 362
 recipe_category: Salad
+cuisine: American
 keywords:
   - blue
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 358
 recipe_category: Dessert
+cuisine: American
 keywords:
   - buttercream
   - chocolate

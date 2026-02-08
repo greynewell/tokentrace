@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 6
 calories: 262
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - dough

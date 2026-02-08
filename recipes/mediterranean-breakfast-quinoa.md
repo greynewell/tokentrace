@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 327
 recipe_category: Breakfast
+cuisine: Mediterranean
 keywords:
   - breakfast
   - mediterranean

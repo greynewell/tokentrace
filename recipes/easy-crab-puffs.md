@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 233
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - crab

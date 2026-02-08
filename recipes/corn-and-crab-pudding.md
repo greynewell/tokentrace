@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 245
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - corn
   - crab

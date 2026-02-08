@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 36
 calories: 163
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookie
   - dessert

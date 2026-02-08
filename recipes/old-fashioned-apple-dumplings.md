@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 899
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - apple
   - dessert

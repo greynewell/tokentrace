@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 607
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crustless

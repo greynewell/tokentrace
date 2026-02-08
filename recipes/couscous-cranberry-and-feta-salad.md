@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 216
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - couscous
   - cranberry

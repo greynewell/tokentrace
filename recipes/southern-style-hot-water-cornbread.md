@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 237
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cornbread

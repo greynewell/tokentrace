@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 2
 calories: 318
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - butter

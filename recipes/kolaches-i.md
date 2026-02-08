@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 72
 calories: 73
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - kolaches

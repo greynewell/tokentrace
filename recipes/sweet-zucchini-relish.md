@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 112
 calories: 47
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - relish

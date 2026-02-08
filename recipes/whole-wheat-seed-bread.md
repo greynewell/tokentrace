@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 48
 calories: 144
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - seed

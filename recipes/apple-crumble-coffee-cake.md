@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 631
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - cake

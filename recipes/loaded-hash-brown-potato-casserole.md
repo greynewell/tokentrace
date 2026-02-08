@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 394
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brown
   - casserole

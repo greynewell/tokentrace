@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 2
 calories: 281
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - butternut

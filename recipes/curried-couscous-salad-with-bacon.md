@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 212
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - bacon
   - couscous

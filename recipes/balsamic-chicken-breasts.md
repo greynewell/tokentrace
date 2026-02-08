@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 2
 calories: 379
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balsamic
   - breasts

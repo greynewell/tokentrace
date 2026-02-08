@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 6
 calories: 204
 recipe_category: Soup
+cuisine: American
 keywords:
   - lentil
   - pepper

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 450
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - artichokes

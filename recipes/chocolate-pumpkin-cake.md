@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 265
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - chocolate

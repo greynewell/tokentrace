@@ -7,6 +7,7 @@ cook_time: PT47M
 servings: 6
 calories: 633
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - cornell

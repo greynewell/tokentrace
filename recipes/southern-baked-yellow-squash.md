@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 162
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - baked
   - dish

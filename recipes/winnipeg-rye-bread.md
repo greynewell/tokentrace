@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 45
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rye

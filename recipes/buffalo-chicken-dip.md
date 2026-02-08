@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 284
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

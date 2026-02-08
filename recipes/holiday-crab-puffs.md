@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 40
 calories: 173
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - crab

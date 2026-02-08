@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 369
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - granola

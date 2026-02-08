@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 120
 calories: 18
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blinis

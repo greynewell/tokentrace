@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 1012
 recipe_category: Main Course
+cuisine: American
 keywords:
   - burger
   - course

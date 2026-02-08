@@ -7,6 +7,7 @@ cook_time: PT46M
 servings: 4
 calories: 447
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - bacon

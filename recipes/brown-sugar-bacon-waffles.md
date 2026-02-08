@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 790
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

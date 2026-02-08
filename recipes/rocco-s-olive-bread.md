@@ -7,6 +7,7 @@ cook_time: PT2H55M
 servings: 15
 calories: 142
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - olive

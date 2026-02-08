@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 929
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - hearty

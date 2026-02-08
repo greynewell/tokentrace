@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 441
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - beaumont
   - potato

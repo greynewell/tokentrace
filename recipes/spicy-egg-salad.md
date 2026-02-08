@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 245
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - egg
   - salad

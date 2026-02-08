@@ -7,6 +7,7 @@ cook_time: PT9H
 servings: 6
 calories: 209
 recipe_category: Main Course
+cuisine: American
 keywords:
   - carolina
   - course

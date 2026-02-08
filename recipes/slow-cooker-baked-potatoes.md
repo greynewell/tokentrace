@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 4
 calories: 254
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 751
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - grits

@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 255
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - georgian

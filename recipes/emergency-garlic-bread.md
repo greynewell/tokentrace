@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 160
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bread

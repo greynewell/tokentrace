@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 54
 calories: 80
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bites

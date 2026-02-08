@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 15
 calories: 138
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - party

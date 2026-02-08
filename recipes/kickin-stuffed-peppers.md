@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 318
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - kickin

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 266
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - buttermilk

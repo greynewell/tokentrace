@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 24
 calories: 48
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - eggs

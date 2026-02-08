@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 110
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - dish
   - fried

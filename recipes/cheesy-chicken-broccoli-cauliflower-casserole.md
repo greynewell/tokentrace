@@ -7,6 +7,7 @@ cook_time: PT41M
 servings: 6
 calories: 330
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broccoli
   - casserole

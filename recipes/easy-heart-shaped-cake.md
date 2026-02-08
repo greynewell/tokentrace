@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 778
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 654
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

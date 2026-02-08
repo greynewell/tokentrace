@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 291
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - barley
   - casserole

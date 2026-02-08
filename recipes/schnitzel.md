@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 677
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

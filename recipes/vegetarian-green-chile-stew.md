@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 193
 recipe_category: Soup
+cuisine: American
 keywords:
   - chile
   - green

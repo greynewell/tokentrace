@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 273
 recipe_category: Soup
+cuisine: American
 keywords:
   - beet
   - crab

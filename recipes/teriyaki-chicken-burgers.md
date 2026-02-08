@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 134
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - burgers
   - chicken

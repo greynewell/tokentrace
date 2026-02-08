@@ -7,6 +7,7 @@ cook_time: PT3H36M
 servings: 20
 calories: 339
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

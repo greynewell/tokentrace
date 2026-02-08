@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 72
 calories: 136
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

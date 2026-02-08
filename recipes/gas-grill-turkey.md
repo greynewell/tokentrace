@@ -7,6 +7,7 @@ cook_time: PT3H35M
 servings: 8
 calories: 1422
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - gas

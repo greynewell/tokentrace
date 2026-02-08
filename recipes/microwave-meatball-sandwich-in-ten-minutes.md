@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 5
 calories: 892
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

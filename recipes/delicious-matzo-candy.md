@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 48
 calories: 128
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candy
   - delicious

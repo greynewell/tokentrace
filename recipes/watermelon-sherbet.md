@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 226
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - sherbet

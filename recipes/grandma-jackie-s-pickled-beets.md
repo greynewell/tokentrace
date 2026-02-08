@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 20
 calories: 153
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beets
   - dish

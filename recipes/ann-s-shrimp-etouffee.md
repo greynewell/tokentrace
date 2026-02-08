@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 20
 calories: 205
 recipe_category: Soup
+cuisine: American
 keywords:
   - ann
   - etouffee

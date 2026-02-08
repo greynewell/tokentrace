@@ -7,6 +7,7 @@ cook_time: PT51M
 servings: 4
 calories: 552
 recipe_category: Soup
+cuisine: American
 keywords:
   - congee
   - filipino

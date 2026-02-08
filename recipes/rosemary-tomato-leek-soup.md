@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 214
 recipe_category: Soup
+cuisine: American
 keywords:
   - leek
   - rosemary

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 66
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - dish

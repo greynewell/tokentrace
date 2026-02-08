@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 409
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - course

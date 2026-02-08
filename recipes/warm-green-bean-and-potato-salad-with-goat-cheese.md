@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 252
 recipe_category: Salad
+cuisine: French
 keywords:
   - bean
   - cheese

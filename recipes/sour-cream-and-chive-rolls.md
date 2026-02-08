@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 48
 calories: 77
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chive

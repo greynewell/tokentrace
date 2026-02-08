@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 56
 calories: 255
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pralines

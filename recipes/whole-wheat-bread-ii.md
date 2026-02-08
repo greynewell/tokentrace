@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 48
 calories: 86
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - wheat

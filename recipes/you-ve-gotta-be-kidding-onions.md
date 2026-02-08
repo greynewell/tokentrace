@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 245
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - gotta

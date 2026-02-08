@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 7
 calories: 574
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - clinton

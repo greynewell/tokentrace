@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 12
 calories: 124
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - marinated

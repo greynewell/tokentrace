@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 82
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fig

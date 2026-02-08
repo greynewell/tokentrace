@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 738
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bacon
   - breakfast

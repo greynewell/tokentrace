@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 184
 recipe_category: Main Course
+cuisine: French
 keywords:
   - apple
   - course

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 452
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - quiche

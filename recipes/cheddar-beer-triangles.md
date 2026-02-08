@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 109
 recipe_category: Bread
+cuisine: American
 keywords:
   - beer
   - bread

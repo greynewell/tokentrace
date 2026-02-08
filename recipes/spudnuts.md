@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 80
 calories: 86
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - spudnuts

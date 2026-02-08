@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 48
 calories: 101
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - rugelach

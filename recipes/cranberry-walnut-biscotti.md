@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 40
 calories: 104
 recipe_category: Dessert
+cuisine: American
 keywords:
   - biscotti
   - cranberry

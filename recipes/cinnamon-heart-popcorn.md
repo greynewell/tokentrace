@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 242
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cinnamon

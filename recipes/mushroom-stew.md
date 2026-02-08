@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 424
 recipe_category: Soup
+cuisine: American
 keywords:
   - mushroom
   - soup

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 317
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - andie
   - appetizer

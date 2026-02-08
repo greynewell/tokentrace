@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 14
 calories: 170
 recipe_category: Bread
+cuisine: American
 keywords:
   - blue
   - bread

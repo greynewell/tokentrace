@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 186
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beans
   - garlic

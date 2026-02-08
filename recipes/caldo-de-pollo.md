@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 8
 calories: 606
 recipe_category: Soup
+cuisine: American
 keywords:
   - caldo
   - pollo

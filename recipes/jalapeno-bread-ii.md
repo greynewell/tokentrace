@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 34
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - jalapeno

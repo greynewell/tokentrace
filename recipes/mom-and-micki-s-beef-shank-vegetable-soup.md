@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 8
 calories: 336
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - micki

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 436
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - instant

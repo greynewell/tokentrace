@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 2
 calories: 386
 recipe_category: Soup
+cuisine: American
 keywords:
   - mussel
   - noodles

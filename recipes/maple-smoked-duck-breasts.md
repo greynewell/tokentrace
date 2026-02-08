@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 64
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - breasts

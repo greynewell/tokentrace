@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 192
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

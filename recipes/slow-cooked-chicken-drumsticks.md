@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 352
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - cooked

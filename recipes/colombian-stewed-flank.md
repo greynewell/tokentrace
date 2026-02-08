@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 4
 calories: 236
 recipe_category: Main Course
+cuisine: American
 keywords:
   - colombian
   - course

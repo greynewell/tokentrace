@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 330
 recipe_category: Salad
+cuisine: American
 keywords:
   - beef
   - olivier

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 112
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - breaded
   - brussels

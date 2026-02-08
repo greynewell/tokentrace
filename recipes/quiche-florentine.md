@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 277
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - florentine

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 305
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cristo

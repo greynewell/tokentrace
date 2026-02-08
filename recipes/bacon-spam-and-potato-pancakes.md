@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 8
 calories: 328
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - dish

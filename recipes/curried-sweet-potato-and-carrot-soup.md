@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 5
 calories: 131
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - carrot
   - curried

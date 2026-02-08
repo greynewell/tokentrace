@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 200
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - soup
   - zucchini

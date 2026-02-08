@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 54
 calories: 166
 recipe_category: Bread
+cuisine: American
 keywords:
   - bran
   - bread

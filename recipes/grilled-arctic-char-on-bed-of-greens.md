@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 667
 recipe_category: Salad
+cuisine: American
 keywords:
   - arctic
   - bed

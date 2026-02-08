@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 341
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bread

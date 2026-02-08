@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 301
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cinnamon

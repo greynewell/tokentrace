@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 64
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - salsa
   - soup

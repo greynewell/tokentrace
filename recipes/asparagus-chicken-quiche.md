@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 418
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - asparagus
   - breakfast

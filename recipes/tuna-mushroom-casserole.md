@@ -7,6 +7,7 @@ cook_time: PT53M
 servings: 6
 calories: 298
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - casserole
   - course

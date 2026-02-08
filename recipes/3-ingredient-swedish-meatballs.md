@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 167
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - ingredient

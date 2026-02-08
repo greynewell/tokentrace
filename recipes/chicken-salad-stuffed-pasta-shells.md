@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 118
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - chicken
   - pasta

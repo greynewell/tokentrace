@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 128
 calories: 35
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - peach

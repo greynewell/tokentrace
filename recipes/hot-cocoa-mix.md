@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 45
 calories: 175
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - cocoa

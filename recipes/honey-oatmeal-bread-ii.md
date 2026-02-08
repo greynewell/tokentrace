@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 20
 calories: 160
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - honey

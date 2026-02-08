@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 365
 recipe_category: Soup
+cuisine: French
 keywords:
   - bouillabaisse
   - soup

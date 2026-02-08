@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 6
 calories: 344
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - asparagus
   - course

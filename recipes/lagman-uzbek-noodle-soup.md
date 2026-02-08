@@ -7,6 +7,7 @@ cook_time: PT1H21M
 servings: 4
 calories: 677
 recipe_category: Soup
+cuisine: American
 keywords:
   - lagman
   - noodle

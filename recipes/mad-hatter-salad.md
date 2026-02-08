@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 395
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - hatter
   - mad

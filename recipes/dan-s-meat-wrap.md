@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 1
 calories: 699
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - dan

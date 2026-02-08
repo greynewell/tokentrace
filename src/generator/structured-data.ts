@@ -5,6 +5,30 @@ const BRANDED_KEYWORDS = ['Claude Chef', 'AI Cooking', 'Home Cooking'];
 const DEFAULT_IMAGE = 'https://claudechef.com/images/og-default.jpg';
 
 /**
+ * Extract a short name/summary from an instruction step.
+ * Uses the first sentence, or truncates at ~80 chars on a word boundary.
+ */
+function stepName(text: string): string {
+  const firstSentence = text.match(/^[^.!]+[.!]/);
+  if (firstSentence && firstSentence[0].length <= 80) {
+    return firstSentence[0].trim();
+  }
+  if (text.length <= 80) return text;
+  const truncated = text.slice(0, 80);
+  const lastSpace = truncated.lastIndexOf(' ');
+  return (lastSpace > 20 ? truncated.slice(0, lastSpace) : truncated) + '…';
+}
+
+/**
+ * Ensure a date string is in ISO 8601 date format (YYYY-MM-DD).
+ * Returns as-is if already valid, otherwise returns today's date.
+ */
+function normalizeDate(date: string): string {
+  if (/^\d{4}-\d{2}-\d{2}$/.test(date)) return date;
+  return new Date().toISOString().split('T')[0];
+}
+
+/**
  * Parse an ISO 8601 duration (e.g. PT4H30M) into total minutes.
  */
 function parseDurationMinutes(iso: string): number {
@@ -36,9 +60,14 @@ export function computeTotalTime(prepTime: string, cookTime: string): string {
  * Generate a JSON-LD structured data object for a recipe.
  */
 export function generateJsonLd(recipe: ParsedRecipe, datePublished: string, baseUrl?: string, pairings?: ParsedRecipe[]): RecipeJsonLd {
+  const resolvedBaseUrl = baseUrl || 'https://claudechef.com';
+  const recipeUrl = `${resolvedBaseUrl}/${recipe.slug}.html`;
+
   const instructions: HowToStep[] = recipe.instructions.map((text, index) => ({
     '@type': 'HowToStep',
     text,
+    name: stepName(text),
+    url: `${recipeUrl}#step-${index + 1}`,
     position: index + 1,
   }));
 
@@ -55,9 +84,9 @@ export function generateJsonLd(recipe: ParsedRecipe, datePublished: string, base
     author: {
       '@type': 'Person',
       name: recipe.frontmatter.author,
-      url: `${baseUrl || 'https://claudechef.com'}/author/${toSlug(recipe.frontmatter.author)}.html`,
+      url: `${resolvedBaseUrl}/author/${toSlug(recipe.frontmatter.author)}.html`,
     },
-    datePublished,
+    datePublished: normalizeDate(datePublished),
     description: recipe.frontmatter.description,
     image: images,
     prepTime: recipe.frontmatter.prep_time,
@@ -74,7 +103,7 @@ export function generateJsonLd(recipe: ParsedRecipe, datePublished: string, base
   };
 
   if (baseUrl) {
-    jsonLd.url = `${baseUrl}/${recipe.slug}.html`;
+    jsonLd.url = recipeUrl;
   }
 
   if (recipe.frontmatter.recipe_category) {
@@ -86,7 +115,6 @@ export function generateJsonLd(recipe: ParsedRecipe, datePublished: string, base
   }
 
   if (pairings && pairings.length > 0) {
-    const resolvedBaseUrl = baseUrl || 'https://claudechef.com';
     jsonLd.isRelatedTo = pairings.map(p => ({
       '@type': 'Recipe' as const,
       name: p.frontmatter.title,

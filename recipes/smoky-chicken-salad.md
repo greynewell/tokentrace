@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 429
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - salad

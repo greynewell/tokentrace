@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 9
 calories: 348
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - braid
   - breakfast

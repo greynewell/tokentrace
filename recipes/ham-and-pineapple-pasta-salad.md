@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 357
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - ham
   - pasta

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 305
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - cooker

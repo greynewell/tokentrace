@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 497
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - course

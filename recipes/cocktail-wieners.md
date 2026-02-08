@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 10
 calories: 389
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cocktail

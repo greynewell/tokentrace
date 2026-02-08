@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 20
 calories: 328
 recipe_category: Bread
+cuisine: American
 keywords:
   - barbie
   - blueberry

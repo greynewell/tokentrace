@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 556
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheese
   - chipotle

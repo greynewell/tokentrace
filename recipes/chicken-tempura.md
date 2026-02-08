@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 287
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - chicken
   - course

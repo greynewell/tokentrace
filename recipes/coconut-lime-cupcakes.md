@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 159
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - cupcakes

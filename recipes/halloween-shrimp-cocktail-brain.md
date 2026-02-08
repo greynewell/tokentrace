@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 77
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - brain

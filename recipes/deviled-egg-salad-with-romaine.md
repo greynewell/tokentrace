@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 287
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - deviled
   - egg

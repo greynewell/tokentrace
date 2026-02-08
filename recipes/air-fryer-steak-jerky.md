@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 4
 calories: 147
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

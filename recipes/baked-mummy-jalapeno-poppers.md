@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 188
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - baked

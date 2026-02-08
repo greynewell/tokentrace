@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 148
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - farls

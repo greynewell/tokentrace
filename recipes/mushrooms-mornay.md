@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 144
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mornay

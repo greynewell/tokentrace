@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 509
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - cornbread
   - overnight

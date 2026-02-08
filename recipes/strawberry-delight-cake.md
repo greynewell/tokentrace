@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 15
 calories: 358
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - delight

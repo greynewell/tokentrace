@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 656
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

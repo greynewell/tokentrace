@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 130
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - amazing
   - brussels

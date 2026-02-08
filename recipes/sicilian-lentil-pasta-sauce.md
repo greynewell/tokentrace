@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 145
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - lentil

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 4
 calories: 404
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

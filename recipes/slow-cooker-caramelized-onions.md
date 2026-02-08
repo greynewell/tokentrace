@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 16
 calories: 71
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - caramelized
   - cooker

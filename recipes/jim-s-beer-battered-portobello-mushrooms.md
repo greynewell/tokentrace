@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 574
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - battered

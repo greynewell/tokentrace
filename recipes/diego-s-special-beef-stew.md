@@ -7,6 +7,7 @@ cook_time: PT8H15M
 servings: 6
 calories: 272
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - diego

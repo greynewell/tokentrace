@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 12
 calories: 1294
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - course

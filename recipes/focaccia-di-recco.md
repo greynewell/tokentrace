@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 186
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - focaccia

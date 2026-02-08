@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 32
 calories: 36
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chili

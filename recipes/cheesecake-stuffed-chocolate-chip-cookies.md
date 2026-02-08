@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 263
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesecake
   - chip

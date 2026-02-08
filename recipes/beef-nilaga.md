@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 5
 calories: 983
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - nilaga

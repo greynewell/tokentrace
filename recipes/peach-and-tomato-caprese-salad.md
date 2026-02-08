@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 254
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - caprese
   - peach

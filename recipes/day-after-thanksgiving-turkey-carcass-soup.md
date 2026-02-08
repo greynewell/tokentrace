@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 10
 calories: 370
 recipe_category: Soup
+cuisine: American
 keywords:
   - after
   - carcass

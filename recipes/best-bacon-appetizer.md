@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 92
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bacon

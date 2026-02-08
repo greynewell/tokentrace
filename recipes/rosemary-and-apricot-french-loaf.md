@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 12
 calories: 184
 recipe_category: Bread
+cuisine: French
 keywords:
   - apricot
   - bread

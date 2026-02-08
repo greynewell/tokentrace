@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 217
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - candied

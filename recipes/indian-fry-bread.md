@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 10
 calories: 123
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bread
   - fry

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 434
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bacon
   - bbq

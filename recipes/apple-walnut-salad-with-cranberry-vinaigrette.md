@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 274
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - cranberry

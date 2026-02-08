@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 174
 recipe_category: Beverage
+cuisine: American
 keywords:
   - amanda
   - beverage

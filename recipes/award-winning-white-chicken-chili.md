@@ -7,6 +7,7 @@ cook_time: PT8H3M
 servings: 10
 calories: 179
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - award
   - chicken

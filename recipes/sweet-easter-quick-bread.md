@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 48
 calories: 258
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - easter

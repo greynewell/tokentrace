@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 395
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - almond
   - bread

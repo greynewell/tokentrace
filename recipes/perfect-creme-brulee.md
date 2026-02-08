@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 333
 recipe_category: Main Course
+cuisine: French
 keywords:
   - brulee
   - course

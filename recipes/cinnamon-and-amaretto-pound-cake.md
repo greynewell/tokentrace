@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 562
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amaretto
   - cake

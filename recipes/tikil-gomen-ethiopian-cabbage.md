@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 4
 calories: 166
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cabbage
   - dish

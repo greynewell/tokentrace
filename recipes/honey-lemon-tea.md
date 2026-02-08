@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 63
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - honey

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 24
 calories: 193
 recipe_category: Dessert
+cuisine: American
 keywords:
   - better
   - cake

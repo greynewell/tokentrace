@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 4
 calories: 290
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - broccoli

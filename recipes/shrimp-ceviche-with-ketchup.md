@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 318
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - ceviche

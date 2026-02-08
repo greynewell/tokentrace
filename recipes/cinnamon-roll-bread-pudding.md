@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 544
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bread
   - cinnamon

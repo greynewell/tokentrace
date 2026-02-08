@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 333
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cream

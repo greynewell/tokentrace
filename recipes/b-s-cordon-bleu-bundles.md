@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 687
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bleu

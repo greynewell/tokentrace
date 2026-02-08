@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 361
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - apple
   - baked

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 287
 recipe_category: Bread
+cuisine: American
 keywords:
   - bolo
   - bread

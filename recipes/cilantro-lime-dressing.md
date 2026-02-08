@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 106
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cilantro
   - dish

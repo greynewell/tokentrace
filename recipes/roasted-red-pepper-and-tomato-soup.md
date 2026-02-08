@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 6
 calories: 170
 recipe_category: Soup
+cuisine: American
 keywords:
   - pepper
   - red

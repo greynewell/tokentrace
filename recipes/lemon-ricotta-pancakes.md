@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 554
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - lemon

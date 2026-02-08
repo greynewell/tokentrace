@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 354
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fish

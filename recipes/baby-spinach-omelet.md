@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 1
 calories: 186
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baby
   - breakfast

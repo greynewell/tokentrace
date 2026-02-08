@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 4
 calories: 1098
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - louis

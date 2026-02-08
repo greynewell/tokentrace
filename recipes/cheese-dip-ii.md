@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 48
 calories: 109
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cheese

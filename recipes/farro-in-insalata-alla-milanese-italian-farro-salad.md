@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 360
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - alla
   - farro

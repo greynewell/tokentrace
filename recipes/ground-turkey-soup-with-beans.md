@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 399
 recipe_category: Soup
+cuisine: American
 keywords:
   - beans
   - ground

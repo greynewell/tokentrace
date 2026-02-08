@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 322
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - potato

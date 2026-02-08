@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 96
 calories: 90
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pecan

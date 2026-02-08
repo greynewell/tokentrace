@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 24
 calories: 663
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

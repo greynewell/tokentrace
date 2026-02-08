@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 752
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - oven

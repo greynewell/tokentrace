@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 12
 calories: 271
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - camembert

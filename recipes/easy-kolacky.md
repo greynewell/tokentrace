@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 36
 calories: 126
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - kolacky

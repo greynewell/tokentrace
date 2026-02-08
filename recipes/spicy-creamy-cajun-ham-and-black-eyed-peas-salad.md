@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 10
 calories: 162
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - black
   - cajun

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 504
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chip

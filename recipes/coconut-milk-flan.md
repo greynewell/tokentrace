@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 373
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - dessert

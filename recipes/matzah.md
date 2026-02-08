@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 8
 calories: 63
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - matzah

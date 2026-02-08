@@ -7,6 +7,7 @@ cook_time: PT6H10M
 servings: 8
 calories: 380
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cooker
   - hamburger

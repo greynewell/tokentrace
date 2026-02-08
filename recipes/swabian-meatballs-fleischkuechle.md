@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 195
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - fleischkuechle

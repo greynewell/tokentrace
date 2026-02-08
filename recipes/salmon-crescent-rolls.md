@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 208
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crescent

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 323
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolate

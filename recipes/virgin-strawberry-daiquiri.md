@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 287
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - daiquiri

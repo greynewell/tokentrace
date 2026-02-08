@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 24
 calories: 181
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - milwaukee

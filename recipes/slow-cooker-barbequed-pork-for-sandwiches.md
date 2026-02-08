@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 12
 calories: 224
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbequed
   - cooker

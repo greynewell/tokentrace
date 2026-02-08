@@ -7,6 +7,7 @@ cook_time: PT1H8M
 servings: 12
 calories: 536
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apricot
   - cheesecake

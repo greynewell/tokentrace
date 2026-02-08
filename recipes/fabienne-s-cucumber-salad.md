@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 76
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - cucumber
   - fabienne

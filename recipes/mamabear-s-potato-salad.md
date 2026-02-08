@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 518
 recipe_category: Salad
+cuisine: American
 keywords:
   - mamabear
   - potato

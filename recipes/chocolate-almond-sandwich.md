@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 473
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - chocolate

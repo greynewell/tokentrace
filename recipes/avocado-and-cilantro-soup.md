@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 375
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - avocado
   - cilantro

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 15
 calories: 428
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 181
 recipe_category: Dessert
+cuisine: French
 keywords:
   - creme
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 359
 recipe_category: Beverage
+cuisine: Southern
 keywords:
   - beverage
   - bourbon

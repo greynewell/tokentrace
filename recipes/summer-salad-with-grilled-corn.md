@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 2
 calories: 468
 recipe_category: Salad
+cuisine: American
 keywords:
   - corn
   - grilled

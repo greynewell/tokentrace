@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 117
 calories: 53
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramels
   - dessert

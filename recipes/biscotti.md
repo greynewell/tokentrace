@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 42
 calories: 83
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscotti
   - course

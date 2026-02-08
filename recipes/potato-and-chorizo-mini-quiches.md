@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 132
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - breakfast
   - chorizo

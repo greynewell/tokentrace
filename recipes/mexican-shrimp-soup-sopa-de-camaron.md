@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 226
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - camaron
   - mexican

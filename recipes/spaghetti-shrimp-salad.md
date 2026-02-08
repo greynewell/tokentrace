@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 613
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - salad
   - shrimp

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 163
 recipe_category: Main Course
+cuisine: American
 keywords:
   - coaled
   - course

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 127
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - inspired

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 704
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - halibut

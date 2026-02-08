@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 11
 calories: 266
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - chicken
   - chinese

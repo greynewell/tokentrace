@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 349
 recipe_category: Main Course
+cuisine: American
 keywords:
   - carolyn
   - casserole

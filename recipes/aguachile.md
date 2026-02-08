@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 480
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - aguachile
   - course

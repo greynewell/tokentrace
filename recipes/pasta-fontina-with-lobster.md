@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 10
 calories: 688
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - fontina

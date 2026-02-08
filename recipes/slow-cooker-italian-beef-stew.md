@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 8
 calories: 398
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beef
   - cooker

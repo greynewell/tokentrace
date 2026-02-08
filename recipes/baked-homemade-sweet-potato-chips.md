@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 129
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - baked
   - chips

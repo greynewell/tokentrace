@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 4
 calories: 879
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - flank

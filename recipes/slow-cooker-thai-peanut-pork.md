@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 8
 calories: 209
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - cooker
   - course

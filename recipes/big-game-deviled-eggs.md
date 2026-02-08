@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 60
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - big

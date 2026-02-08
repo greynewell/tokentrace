@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 508
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - waldorf

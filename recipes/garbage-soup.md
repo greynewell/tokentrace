@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 947
 recipe_category: Soup
+cuisine: American
 keywords:
   - garbage
   - soup

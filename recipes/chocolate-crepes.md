@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 434
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 48
 calories: 8
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - crisp

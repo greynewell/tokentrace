@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 422
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baked
   - blueberry

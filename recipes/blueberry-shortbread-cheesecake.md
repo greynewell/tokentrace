@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 613
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cheesecake

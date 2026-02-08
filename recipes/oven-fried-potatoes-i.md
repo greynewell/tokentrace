@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 545
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - fried

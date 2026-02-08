@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 1340
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - creamy

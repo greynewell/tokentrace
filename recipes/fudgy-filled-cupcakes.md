@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 30
 calories: 171
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cupcakes
   - dessert

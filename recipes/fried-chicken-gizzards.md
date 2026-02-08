@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 287
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - course

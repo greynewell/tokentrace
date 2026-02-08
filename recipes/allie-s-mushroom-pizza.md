@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 275
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - allie
   - course

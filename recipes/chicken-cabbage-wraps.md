@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 5
 calories: 88
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - cabbage

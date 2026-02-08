@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 4
 calories: 136
 recipe_category: Salad
+cuisine: American
 keywords:
   - carrot
   - gingery

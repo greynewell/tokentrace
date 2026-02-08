@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 203
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crumble
   - dessert

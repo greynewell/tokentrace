@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 12
 calories: 198
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - bread

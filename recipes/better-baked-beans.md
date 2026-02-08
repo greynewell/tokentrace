@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 192
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - beans

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 275
 recipe_category: Main Course
+cuisine: French
 keywords:
   - awesome
   - casserole

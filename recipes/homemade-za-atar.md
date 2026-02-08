@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 29
 recipe_category: Main Course
+cuisine: American
 keywords:
   - atar
   - course

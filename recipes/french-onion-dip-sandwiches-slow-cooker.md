@@ -7,6 +7,7 @@ cook_time: PT7H11M
 servings: 8
 calories: 615
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cooker
   - course

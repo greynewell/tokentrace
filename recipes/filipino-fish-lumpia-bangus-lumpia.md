@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 25
 calories: 91
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bangus

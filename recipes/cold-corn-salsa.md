@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 354
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cold

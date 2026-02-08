@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 8
 calories: 280
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

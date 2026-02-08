@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 36
 calories: 90
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cookies
   - cranberry

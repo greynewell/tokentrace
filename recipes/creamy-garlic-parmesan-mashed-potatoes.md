@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 278
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - creamy
   - dish

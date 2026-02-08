@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 2379
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bake
   - cheese

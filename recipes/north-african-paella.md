@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 519
 recipe_category: Soup
+cuisine: American
 keywords:
   - african
   - north

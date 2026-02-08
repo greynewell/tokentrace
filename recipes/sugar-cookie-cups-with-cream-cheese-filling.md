@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 176
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - cookie

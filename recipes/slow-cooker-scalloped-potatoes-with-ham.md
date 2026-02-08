@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 265
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cooker
   - dish

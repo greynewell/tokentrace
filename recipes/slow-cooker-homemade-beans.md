@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 12
 calories: 296
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - cooker

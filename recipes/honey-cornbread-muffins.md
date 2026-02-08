@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 208
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cornbread
   - course

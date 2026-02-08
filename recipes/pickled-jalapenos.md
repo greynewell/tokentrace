@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 5
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - jalapenos

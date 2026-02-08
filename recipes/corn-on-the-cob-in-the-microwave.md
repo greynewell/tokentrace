@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 77
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cob
   - corn

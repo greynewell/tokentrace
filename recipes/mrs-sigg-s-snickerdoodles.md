@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 48
 calories: 92
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - mrs

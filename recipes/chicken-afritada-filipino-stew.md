@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 6
 calories: 594
 recipe_category: Soup
+cuisine: American
 keywords:
   - afritada
   - chicken

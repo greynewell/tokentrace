@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 10
 calories: 290
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

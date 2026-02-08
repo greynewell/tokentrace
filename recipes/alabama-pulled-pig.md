@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 16
 calories: 363
 recipe_category: Main Course
+cuisine: American
 keywords:
   - alabama
   - course

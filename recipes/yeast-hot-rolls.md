@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 40
 calories: 118
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - hot

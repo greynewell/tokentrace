@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 689
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - macaroni
   - pickles

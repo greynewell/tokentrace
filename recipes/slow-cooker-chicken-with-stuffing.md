@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 4
 calories: 356
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - cooker

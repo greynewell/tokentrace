@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 1
 calories: 836
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

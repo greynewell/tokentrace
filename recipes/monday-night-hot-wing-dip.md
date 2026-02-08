@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 847
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

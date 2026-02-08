@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 20
 calories: 406
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - kabobs

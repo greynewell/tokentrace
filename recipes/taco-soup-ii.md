@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 669
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - soup
   - taco

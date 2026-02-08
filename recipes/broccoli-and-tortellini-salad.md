@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 322
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - broccoli
   - salad

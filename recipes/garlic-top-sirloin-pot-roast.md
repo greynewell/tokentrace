@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 8
 calories: 378
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - garlic

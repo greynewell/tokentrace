@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 208
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - bread
   - breakfast

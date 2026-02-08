@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 641
 recipe_category: Soup
+cuisine: American
 keywords:
   - pea
   - smoked

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 4
 calories: 339
 recipe_category: Soup
+cuisine: American
 keywords:
   - bamia
   - egyptian

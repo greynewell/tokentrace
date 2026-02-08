@@ -7,6 +7,7 @@ cook_time: PT4H20M
 servings: 10
 calories: 125
 recipe_category: Soup
+cuisine: American
 keywords:
   - seafood
   - sophia

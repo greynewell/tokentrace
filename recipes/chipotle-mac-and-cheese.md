@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 384
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheese
   - chipotle

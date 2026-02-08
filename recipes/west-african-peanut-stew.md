@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 731
 recipe_category: Soup
+cuisine: American
 keywords:
   - african
   - peanut

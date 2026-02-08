@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 12
 calories: 373
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - mexican
   - posole

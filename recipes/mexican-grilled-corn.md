@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 265
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - corn
   - dish

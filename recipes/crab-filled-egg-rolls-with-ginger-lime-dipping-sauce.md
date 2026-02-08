@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 45
 calories: 37
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - crab

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 366
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - awesome
   - dish

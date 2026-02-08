@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 177
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candied
   - crystallized

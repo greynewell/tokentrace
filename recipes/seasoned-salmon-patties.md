@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 205
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - patties

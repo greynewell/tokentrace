@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 183
 recipe_category: Salad
+cuisine: American
 keywords:
   - cold
   - lentil

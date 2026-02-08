@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 24
 calories: 207
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - cola

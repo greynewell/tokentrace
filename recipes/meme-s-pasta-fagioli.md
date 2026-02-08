@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 299
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - fagioli
   - meme

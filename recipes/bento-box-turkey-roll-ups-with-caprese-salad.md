@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 2348
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - bento
   - box

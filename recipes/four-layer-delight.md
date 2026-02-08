@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 343
 recipe_category: Dessert
+cuisine: American
 keywords:
   - delight
   - dessert

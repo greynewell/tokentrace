@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 187
 recipe_category: Soup
+cuisine: American
 keywords:
   - butternut
   - soup

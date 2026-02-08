@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 6
 calories: 151
 recipe_category: Salad
+cuisine: American
 keywords:
   - boats
   - egg

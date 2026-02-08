@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 20
 calories: 211
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chef

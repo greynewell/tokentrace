@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 412
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beer
   - course

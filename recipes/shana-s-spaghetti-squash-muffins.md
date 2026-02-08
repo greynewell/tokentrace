@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 12
 calories: 233
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - muffins

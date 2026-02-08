@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 16
 calories: 87
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - black
   - dish

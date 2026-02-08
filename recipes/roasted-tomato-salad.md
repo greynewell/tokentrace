@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 158
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - roasted
   - salad

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 133
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - cauliflower
   - dish

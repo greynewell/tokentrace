@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 292
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - fideos
   - sopa

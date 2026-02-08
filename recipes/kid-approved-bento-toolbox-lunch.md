@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 548
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - approved
   - bento

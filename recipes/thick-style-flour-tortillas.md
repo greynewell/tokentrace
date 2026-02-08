@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 14
 calories: 166
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - flour

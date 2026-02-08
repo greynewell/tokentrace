@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 382
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - crostini

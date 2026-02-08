@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 106
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - cottage

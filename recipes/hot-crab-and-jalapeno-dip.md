@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 32
 calories: 82
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - crab

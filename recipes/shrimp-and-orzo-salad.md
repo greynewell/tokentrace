@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 177
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - orzo
   - salad

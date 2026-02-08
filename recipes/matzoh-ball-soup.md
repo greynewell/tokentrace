@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 583
 recipe_category: Soup
+cuisine: American
 keywords:
   - ball
   - matzoh

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 1816
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - aioli
   - dill

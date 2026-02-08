@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 155
 recipe_category: Soup
+cuisine: American
 keywords:
   - acorn
   - roasted

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 466
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - butter
   - chocolate

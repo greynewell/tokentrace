@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 266
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - baked
   - cheesy

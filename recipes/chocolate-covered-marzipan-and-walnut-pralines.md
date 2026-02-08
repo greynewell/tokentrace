@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 50
 calories: 113
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - chocolate
   - covered

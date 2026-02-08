@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 464
 recipe_category: Salad
+cuisine: American
 keywords:
   - avocado
   - buckwheat

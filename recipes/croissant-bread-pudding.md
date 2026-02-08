@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 14
 calories: 678
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bread
   - croissant

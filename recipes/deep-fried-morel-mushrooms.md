@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 296
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - deep

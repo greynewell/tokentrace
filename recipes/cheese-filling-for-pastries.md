@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 116
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cheese

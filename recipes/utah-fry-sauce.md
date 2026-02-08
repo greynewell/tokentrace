@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 124
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - fry

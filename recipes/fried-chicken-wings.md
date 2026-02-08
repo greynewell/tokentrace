@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 531
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chicken

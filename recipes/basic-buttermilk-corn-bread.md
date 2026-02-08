@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 240
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - basic
   - bread

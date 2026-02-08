@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 261
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - dressing

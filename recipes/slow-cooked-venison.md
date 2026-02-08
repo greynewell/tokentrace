@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 4
 calories: 225
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooked
   - course

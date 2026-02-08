@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 778
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cheesecake

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 619
 recipe_category: Bread
+cuisine: American
 keywords:
   - bibingka
   - bread

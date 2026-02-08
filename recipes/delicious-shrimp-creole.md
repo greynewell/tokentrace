@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 243
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - creole
   - delicious

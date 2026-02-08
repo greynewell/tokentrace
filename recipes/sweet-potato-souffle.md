@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 516
 recipe_category: Dessert
+cuisine: French
 keywords:
   - dessert
   - potato

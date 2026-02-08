@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 65
 calories: 207
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - julep

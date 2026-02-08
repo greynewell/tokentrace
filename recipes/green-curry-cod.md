@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 403
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - cod
   - course

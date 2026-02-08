@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 320
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - beef
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 283
 recipe_category: Salad
+cuisine: American
 keywords:
   - raw
   - salad

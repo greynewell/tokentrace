@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 259
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cookies

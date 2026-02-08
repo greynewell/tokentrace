@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 117
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - sangria

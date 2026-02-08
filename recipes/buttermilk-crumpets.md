@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 254
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buttermilk

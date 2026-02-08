@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 386
 recipe_category: Dessert
+cuisine: American
 keywords:
   - boston
   - cake

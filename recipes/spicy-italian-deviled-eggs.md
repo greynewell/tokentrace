@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 74
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - deviled

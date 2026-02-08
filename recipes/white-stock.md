@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 12
 calories: 111
 recipe_category: Soup
+cuisine: American
 keywords:
   - soup
   - stock

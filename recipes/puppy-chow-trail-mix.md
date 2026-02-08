@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 30
 calories: 265
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chow

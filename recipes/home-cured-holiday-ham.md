@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 16
 calories: 484
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cured

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 669
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - course
   - curry

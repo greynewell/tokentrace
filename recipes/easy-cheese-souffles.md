@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 438
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cheese

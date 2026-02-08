@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 671
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - bean
   - cajun

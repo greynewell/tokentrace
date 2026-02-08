@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 506
 recipe_category: Dessert
+cuisine: American
 keywords:
   - delight
   - dessert

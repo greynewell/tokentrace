@@ -7,6 +7,7 @@ cook_time: PT7H5M
 servings: 8
 calories: 210
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - chicken
   - cooked

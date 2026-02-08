@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 12
 calories: 662
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 357
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - egg
   - harissa

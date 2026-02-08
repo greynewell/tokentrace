@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 1
 calories: 132
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breast
   - course

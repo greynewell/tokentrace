@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 10
 calories: 319
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - rolls

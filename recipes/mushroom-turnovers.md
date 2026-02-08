@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 366
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mushroom

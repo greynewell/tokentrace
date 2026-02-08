@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 434
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - large

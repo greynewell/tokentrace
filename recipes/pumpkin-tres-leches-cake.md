@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 624
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - dish

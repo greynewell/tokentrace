@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 8
 calories: 185
 recipe_category: Soup
+cuisine: American
 keywords:
   - hamburger
   - soup

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 182
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - incredible

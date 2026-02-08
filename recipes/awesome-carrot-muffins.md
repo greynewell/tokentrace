@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 223
 recipe_category: Bread
+cuisine: American
 keywords:
   - awesome
   - bread

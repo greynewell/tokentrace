@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 12
 calories: 138
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - curd
   - dish

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 48
 calories: 23
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - antipasto
   - appetizer

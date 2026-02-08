@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 30
 calories: 111
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

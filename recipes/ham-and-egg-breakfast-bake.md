@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 379
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bake
   - breakfast

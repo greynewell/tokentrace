@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 30
 calories: 138
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - pizza

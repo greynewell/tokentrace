@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 4
 calories: 375
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - chops

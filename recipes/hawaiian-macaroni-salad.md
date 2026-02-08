@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 465
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - hawaiian
   - macaroni

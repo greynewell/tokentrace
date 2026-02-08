@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 8
 calories: 272
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - bean
   - casserole

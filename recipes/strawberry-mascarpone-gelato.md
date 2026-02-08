@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 306
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - gelato

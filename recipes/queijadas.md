@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 18
 calories: 148
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

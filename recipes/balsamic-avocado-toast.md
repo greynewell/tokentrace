@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 1
 calories: 169
 recipe_category: Main Course
+cuisine: French
 keywords:
   - avocado
   - balsamic

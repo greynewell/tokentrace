@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 54
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - air
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 363
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cake

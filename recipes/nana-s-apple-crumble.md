@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 277
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crumble

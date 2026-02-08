@@ -7,6 +7,7 @@ cook_time: PT1H8M
 servings: 10
 calories: 403
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - cream

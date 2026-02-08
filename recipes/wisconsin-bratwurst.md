@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 558
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bratwurst
   - course

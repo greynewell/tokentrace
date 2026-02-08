@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 401
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - daisy

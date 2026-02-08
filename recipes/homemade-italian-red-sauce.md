@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 12
 calories: 149
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - italian

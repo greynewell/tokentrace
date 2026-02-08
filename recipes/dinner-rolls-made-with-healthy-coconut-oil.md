@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 24
 calories: 153
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - coconut

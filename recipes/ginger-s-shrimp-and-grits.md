@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 8
 calories: 422
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - ginger

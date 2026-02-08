@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 1
 calories: 584
 recipe_category: Main Course
+cuisine: American
 keywords:
   - basil
   - course

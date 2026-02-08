@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 163
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - blondies

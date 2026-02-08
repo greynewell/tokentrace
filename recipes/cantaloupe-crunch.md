@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 9
 calories: 423
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cantaloupe
   - crunch

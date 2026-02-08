@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 106
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brownies
   - course

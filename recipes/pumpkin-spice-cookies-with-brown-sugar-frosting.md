@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 36
 calories: 140
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brown
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 237
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - halibut

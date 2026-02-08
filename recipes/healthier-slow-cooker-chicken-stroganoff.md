@@ -7,6 +7,7 @@ cook_time: PT5H30M
 servings: 4
 calories: 330
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 8
 calories: 107
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - kohlrabi

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 155
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cod
   - course

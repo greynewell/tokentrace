@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 245
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bread
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 280
 recipe_category: Main Course
+cuisine: American
 keywords:
   - african
   - candy

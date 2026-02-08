@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 248
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - gratin

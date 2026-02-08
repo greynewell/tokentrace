@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 12
 calories: 426
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - cooker

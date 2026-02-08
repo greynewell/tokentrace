@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 5
 calories: 461
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cheese

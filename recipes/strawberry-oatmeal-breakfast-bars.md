@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 299
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bars
   - breakfast

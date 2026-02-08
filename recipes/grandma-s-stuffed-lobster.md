@@ -7,6 +7,7 @@ cook_time: PT31M
 servings: 2
 calories: 1544
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grandma

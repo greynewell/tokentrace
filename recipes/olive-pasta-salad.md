@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 8
 calories: 352
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - olive
   - pasta

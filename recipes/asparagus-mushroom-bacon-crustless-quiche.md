@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 290
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - asparagus
   - bacon

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 7
 calories: 341
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - soup

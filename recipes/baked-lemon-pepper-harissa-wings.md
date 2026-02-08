@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 249
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - baked

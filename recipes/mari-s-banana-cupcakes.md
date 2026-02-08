@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 14
 calories: 346
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - cupcakes

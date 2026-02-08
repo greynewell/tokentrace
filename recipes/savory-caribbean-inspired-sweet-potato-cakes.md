@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 4
 calories: 289
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

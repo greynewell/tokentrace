@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 20
 calories: 248
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - corn
   - course

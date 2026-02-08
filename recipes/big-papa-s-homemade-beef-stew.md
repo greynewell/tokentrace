@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 6
 calories: 274
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - big

@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 12
 calories: 344
 recipe_category: Main Course
+cuisine: French
 keywords:
   - campbell
   - cooked

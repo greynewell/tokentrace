@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 174
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bacon

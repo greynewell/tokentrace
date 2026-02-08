@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 430
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - flan

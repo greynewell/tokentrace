@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 491
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - danielle

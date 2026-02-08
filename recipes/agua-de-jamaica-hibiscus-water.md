@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 97
 recipe_category: Main Course
+cuisine: American
 keywords:
   - agua
   - course

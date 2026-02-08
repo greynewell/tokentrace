@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 437
 recipe_category: Dessert
+cuisine: American
 keywords:
   - custard
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 490
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bleu
   - chicken

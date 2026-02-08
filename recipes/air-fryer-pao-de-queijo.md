@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 97
 recipe_category: Bread
+cuisine: American
 keywords:
   - air
   - bread

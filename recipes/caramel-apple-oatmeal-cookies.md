@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 116
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - caramel

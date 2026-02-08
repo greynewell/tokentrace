@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 405
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - baked
   - banana

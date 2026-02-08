@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 427
 recipe_category: Soup
+cuisine: American
 keywords:
   - bisque
   - seafood

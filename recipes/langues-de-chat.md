@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 83
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chat
   - course

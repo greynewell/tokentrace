@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 8
 calories: 370
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - potatoes

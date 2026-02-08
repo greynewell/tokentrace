@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 449
 recipe_category: Soup
+cuisine: American
 keywords:
   - cheesy
   - potato

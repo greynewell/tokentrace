@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 434
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - dish

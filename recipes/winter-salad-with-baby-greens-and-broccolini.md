@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 2
 calories: 71
 recipe_category: Salad
+cuisine: American
 keywords:
   - baby
   - broccolini

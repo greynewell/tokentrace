@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 152
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

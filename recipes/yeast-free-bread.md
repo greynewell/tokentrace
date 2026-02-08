@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 116
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - free

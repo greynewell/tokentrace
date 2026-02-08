@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 239
 recipe_category: Soup
+cuisine: American
 keywords:
   - creamy
   - light

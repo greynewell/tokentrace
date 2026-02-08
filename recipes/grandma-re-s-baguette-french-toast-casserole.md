@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 462
 recipe_category: Main Course
+cuisine: French
 keywords:
   - baguette
   - casserole

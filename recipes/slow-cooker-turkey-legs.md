@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 12
 calories: 217
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

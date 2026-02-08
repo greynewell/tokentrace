@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 86
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - carb

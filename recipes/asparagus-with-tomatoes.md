@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 63
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - asparagus
   - dish

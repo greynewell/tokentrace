@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 482
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - main

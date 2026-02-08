@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 24
 calories: 231
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - beef

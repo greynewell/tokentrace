@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 223
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - corn
   - roasted

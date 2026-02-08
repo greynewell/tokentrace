@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 8
 calories: 331
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

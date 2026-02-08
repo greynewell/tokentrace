@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 304
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - blueberry
   - bowl

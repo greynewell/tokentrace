@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 710
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

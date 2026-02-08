@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 111
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - lemon

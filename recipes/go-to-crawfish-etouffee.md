@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 236
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - crawfish
   - etouffee

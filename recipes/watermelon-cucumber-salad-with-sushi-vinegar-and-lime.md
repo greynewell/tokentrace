@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 65
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cucumber
   - lime

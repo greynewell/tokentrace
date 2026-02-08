@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 12
 calories: 432
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 363
 recipe_category: Main Course
+cuisine: American
 keywords:
   - candied
   - carrots

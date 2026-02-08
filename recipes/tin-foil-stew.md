@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 1
 calories: 776
 recipe_category: Soup
+cuisine: American
 keywords:
   - foil
   - soup

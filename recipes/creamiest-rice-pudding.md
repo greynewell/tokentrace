@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 228
 recipe_category: Dessert
+cuisine: American
 keywords:
   - creamiest
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 16
 calories: 151
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butterfinger
   - copycat

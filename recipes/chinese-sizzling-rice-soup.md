@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 294
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chinese
   - rice

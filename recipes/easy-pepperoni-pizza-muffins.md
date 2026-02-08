@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 126
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - muffins

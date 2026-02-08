@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 84
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beet

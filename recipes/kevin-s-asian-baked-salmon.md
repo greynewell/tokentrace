@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 428
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - asian
   - baked

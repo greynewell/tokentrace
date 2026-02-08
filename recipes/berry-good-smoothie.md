@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 118
 recipe_category: Beverage
+cuisine: American
 keywords:
   - berry
   - beverage

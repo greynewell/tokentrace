@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 290
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

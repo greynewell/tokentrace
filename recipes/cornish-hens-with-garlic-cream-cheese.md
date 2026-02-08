@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 4
 calories: 566
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - cornish

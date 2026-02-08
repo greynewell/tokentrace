@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 232
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - country

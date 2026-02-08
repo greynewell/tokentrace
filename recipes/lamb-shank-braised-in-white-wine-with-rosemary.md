@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 4
 calories: 369
 recipe_category: Main Course
+cuisine: American
 keywords:
   - braised
   - course

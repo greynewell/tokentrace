@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 198
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - avocado
   - persian

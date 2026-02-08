@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 203
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - broth
   - chicken

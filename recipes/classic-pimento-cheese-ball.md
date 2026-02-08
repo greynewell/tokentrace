@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 6
 calories: 546
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - ball
   - cheese

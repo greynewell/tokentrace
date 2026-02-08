@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 117
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cowboy

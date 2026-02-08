@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 412
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - gelatin

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 238
 recipe_category: Bread
+cuisine: American
 keywords:
   - baked
   - banana

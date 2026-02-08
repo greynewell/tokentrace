@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 15
 calories: 148
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pumpkin

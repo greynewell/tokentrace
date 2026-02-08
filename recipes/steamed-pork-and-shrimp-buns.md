@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 18
 calories: 212
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - buns
   - course

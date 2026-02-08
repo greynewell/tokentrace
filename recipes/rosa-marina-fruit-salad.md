@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 196
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - fruit
   - marina

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 102
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - ice

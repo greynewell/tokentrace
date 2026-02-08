@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 552
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

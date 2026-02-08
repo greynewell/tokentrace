@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 178
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bacon
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 265
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - cream

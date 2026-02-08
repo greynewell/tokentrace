@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 168
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - cookies
   - dessert

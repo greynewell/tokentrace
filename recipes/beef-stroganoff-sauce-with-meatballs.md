@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 436
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - course

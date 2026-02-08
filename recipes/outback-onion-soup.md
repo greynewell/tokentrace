@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 4
 calories: 533
 recipe_category: Soup
+cuisine: American
 keywords:
   - onion
   - outback

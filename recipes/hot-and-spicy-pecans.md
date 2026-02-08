@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 118
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - hot

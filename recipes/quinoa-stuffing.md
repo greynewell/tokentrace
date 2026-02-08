@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 387
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - quinoa

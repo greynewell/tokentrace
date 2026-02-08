@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 4
 calories: 267
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - crusted

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 415
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bake
   - course

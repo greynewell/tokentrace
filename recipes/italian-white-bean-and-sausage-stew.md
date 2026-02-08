@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 668
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bean
   - italian

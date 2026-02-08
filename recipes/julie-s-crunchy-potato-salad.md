@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 660
 recipe_category: Salad
+cuisine: American
 keywords:
   - crunchy
   - julie

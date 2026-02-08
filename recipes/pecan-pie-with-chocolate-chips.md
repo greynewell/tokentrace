@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 490
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - chips
   - chocolate

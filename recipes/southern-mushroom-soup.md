@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 494
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - mushroom
   - soup

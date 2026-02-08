@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 118
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - creamy
   - dish

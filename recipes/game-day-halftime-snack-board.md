@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 617
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - board

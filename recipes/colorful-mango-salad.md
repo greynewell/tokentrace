@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 60
 recipe_category: Salad
+cuisine: American
 keywords:
   - colorful
   - mango

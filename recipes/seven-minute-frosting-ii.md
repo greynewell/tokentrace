@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 18
 calories: 99
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - frosting

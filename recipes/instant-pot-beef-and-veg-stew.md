@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 4
 calories: 465
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - instant

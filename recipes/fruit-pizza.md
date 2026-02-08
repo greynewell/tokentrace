@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 235
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - fruit

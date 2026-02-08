@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 303
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - medley

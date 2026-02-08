@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 95
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - mini

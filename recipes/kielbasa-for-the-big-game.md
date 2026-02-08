@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 32
 calories: 262
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - big

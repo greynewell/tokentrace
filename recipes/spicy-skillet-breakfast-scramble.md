@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 2
 calories: 475
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - scramble

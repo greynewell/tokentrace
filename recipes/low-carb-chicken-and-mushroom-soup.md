@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 6
 calories: 531
 recipe_category: Soup
+cuisine: American
 keywords:
   - carb
   - chicken

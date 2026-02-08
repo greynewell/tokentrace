@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 102
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - course
   - curry

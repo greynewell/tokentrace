@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 9
 calories: 115
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - french

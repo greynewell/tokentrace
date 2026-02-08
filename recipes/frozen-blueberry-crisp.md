@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 218
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - crisp

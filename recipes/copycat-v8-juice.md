@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 60
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - copycat

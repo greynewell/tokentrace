@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 229
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - buckwheat

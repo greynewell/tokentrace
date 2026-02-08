@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 8
 calories: 720
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chin

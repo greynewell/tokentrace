@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 138
 recipe_category: Soup
+cuisine: American
 keywords:
   - african
   - cabbage

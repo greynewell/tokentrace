@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 687
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - big

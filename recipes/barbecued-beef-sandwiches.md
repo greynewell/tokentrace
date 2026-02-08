@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 280
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecued
   - beef

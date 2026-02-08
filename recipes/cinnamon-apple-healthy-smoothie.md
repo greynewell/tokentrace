@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 149
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

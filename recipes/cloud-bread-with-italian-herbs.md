@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 34
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cloud

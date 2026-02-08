@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 135
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crust

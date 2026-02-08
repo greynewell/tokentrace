@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 160
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - dumplings

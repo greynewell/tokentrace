@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 315
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - buttermilk
   - chef

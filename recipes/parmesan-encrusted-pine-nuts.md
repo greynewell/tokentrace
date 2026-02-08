@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 196
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - encrusted

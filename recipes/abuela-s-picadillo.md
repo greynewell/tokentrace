@@ -7,6 +7,7 @@ cook_time: PT1H7M
 servings: 8
 calories: 378
 recipe_category: Main Course
+cuisine: American
 keywords:
   - abuela
   - course

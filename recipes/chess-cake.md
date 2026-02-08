@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 18
 calories: 378
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chess

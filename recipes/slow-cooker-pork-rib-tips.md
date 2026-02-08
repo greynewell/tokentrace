@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 4
 calories: 453
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cooker
   - course

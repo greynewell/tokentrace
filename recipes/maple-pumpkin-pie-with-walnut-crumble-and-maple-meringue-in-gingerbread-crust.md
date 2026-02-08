@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 585
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - crumble
   - crust

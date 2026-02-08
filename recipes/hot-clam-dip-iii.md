@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 67
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - clam

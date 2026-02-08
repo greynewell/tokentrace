@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 12
 calories: 424
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

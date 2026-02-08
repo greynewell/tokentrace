@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 137
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pretzels

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 482
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - balushka
   - cabbage

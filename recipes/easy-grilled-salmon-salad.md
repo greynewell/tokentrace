@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 287
 recipe_category: Salad
+cuisine: American
 keywords:
   - grilled
   - salad

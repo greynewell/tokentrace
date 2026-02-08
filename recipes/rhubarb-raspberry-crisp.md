@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 434
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crisp
   - dessert

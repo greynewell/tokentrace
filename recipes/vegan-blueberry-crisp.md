@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 241
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - crisp

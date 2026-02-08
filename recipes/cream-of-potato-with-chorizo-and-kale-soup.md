@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 376
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - chorizo
   - cream

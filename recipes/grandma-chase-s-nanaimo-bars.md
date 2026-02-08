@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 90
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bars
   - chase

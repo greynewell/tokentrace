@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 252
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cheese

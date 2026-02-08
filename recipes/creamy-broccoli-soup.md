@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 161
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - creamy

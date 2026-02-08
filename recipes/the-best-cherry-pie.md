@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 8
 calories: 395
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - dessert

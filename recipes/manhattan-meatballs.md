@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 300
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - manhattan

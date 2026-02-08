@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 398
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

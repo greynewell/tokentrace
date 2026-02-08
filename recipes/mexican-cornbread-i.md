@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 209
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - cornbread

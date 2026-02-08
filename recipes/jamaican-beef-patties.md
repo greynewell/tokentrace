@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 371
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - beef
   - course

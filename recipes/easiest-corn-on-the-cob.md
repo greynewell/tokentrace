@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 113
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cob
   - corn

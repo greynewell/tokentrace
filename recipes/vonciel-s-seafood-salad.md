@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 30
 calories: 132
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - seafood

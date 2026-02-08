@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 8
 calories: 638
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

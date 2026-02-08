@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 315
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

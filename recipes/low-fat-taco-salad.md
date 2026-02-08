@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 687
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - fat
   - low

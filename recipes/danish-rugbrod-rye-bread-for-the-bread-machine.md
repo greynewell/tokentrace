@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 24
 calories: 80
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - danish

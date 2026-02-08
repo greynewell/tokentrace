@@ -7,6 +7,7 @@ cook_time: PT3H45M
 servings: 4
 calories: 421
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 510
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - freeze

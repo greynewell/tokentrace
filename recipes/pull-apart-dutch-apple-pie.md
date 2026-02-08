@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 489
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apart
   - apple

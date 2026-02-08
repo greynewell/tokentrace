@@ -7,6 +7,7 @@ cook_time: PT8H5M
 servings: 16
 calories: 241
 recipe_category: Soup
+cuisine: American
 keywords:
   - pumpkin
   - soup

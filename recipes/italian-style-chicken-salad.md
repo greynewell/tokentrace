@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 540
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - chicken
   - italian

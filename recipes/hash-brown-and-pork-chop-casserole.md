@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 5
 calories: 523
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brown
   - casserole

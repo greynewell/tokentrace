@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 168
 calories: 9
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bayou
   - bodacious

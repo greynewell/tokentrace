@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 412
 recipe_category: Salad
+cuisine: American
 keywords:
   - african
   - potato

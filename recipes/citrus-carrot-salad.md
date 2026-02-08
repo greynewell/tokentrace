@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 2
 calories: 92
 recipe_category: Salad
+cuisine: American
 keywords:
   - carrot
   - citrus

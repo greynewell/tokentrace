@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 10
 calories: 186
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - green

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 250
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bass

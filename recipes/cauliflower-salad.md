@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 290
 recipe_category: Salad
+cuisine: American
 keywords:
   - cauliflower
   - salad

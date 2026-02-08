@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 8
 calories: 415
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

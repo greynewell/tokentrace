@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 9
 calories: 211
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - banana
   - bars

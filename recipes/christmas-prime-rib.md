@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 12
 calories: 410
 recipe_category: Main Course
+cuisine: American
 keywords:
   - christmas
   - course

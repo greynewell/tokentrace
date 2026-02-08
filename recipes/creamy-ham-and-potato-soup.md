@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 255
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - creamy
   - ham

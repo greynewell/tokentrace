@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 123
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - clam
   - dish

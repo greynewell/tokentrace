@@ -7,6 +7,7 @@ cook_time: PT44M
 servings: 6
 calories: 442
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - soup
   - toscana

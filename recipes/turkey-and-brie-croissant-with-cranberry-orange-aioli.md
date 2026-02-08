@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 652
 recipe_category: Main Course
+cuisine: French
 keywords:
   - aioli
   - brie

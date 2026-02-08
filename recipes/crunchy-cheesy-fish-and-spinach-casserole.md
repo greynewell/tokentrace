@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 280
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - casserole
   - cheesy

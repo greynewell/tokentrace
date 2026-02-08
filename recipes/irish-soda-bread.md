@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 511
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - irish

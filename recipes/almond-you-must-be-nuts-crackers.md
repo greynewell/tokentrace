@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 36
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - almond
   - appetizer

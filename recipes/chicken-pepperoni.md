@@ -7,6 +7,7 @@ cook_time: PT1H2M
 servings: 8
 calories: 495
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

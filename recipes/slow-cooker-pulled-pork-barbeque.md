@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 8
 calories: 323
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - cooker

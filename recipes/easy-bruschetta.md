@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 16
 calories: 90
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bruschetta

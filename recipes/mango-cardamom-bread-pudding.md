@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 194
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bread
   - cardamom

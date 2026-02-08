@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 269
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - lemonade

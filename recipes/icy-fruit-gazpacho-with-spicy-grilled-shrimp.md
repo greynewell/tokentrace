@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 191
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - fruit

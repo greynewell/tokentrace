@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 481
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - amish
   - macaroni

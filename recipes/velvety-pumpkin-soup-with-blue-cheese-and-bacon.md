@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 396
 recipe_category: Soup
+cuisine: American
 keywords:
   - bacon
   - blue

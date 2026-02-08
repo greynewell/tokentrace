@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 570
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuits
   - bread

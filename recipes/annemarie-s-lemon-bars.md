@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 150
 recipe_category: Dessert
+cuisine: American
 keywords:
   - annemarie
   - bars

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 7
 calories: 207
 recipe_category: Dessert
+cuisine: American
 keywords:
   - baked
   - dessert

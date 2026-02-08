@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 365
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - pizza

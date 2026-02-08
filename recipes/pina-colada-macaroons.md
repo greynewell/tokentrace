@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 242
 recipe_category: Dessert
+cuisine: American
 keywords:
   - colada
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 30
 calories: 187
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - kahlua

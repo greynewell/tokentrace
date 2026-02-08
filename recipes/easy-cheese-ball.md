@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 166
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - ball

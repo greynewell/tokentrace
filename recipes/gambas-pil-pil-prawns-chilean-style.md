@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 278
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chilean

@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 12
 calories: 562
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesecake
   - cobbler

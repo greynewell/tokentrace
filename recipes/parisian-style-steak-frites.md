@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 4
 calories: 370
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - frites

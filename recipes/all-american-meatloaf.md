@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 344
 recipe_category: Main Course
+cuisine: American
 keywords:
   - all
   - american

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 386
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - bruddah
   - hawaiian

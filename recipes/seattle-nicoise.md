@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 1031
 recipe_category: Salad
+cuisine: American
 keywords:
   - nicoise
   - salad

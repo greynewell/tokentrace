@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 465
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cumin
   - dish

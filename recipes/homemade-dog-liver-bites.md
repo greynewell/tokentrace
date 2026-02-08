@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 50
 calories: 25
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bites
   - course

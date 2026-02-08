@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 7
 calories: 490
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - eggs
   - gumbo

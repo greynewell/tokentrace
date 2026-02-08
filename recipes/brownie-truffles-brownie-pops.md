@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 36
 calories: 284
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownie
   - dessert

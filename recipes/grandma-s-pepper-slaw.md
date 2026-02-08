@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 32
 calories: 47
 recipe_category: Salad
+cuisine: American
 keywords:
   - grandma
   - pepper

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 108
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chocolate
   - dish

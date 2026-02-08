@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 599
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - alfredo
   - better

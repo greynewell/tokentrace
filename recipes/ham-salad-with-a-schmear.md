@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 604
 recipe_category: Salad
+cuisine: American
 keywords:
   - ham
   - salad

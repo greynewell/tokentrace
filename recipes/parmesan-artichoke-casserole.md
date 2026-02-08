@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 7
 calories: 300
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - artichoke
   - casserole

@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 16
 calories: 328
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cinnamon
   - dish

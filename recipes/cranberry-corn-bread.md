@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 151
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - corn

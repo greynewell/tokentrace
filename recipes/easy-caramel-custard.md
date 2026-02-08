@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 175
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - custard

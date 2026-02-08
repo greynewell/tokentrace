@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 12
 calories: 241
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - oxtail

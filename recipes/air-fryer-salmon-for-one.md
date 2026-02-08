@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 1
 calories: 189
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - air
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 3
 calories: 225
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - chops
   - course

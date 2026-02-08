@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 33
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - apple

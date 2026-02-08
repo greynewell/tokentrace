@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 19
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - caviar

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 40
 calories: 88
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crab

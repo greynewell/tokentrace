@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 363
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - shortcake

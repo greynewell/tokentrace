@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 642
 recipe_category: Bread
+cuisine: American
 keywords:
   - bok
   - bread

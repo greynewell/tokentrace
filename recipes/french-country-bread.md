@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 30
 calories: 101
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - country

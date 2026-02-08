@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 24
 calories: 208
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

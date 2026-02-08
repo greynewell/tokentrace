@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 1
 calories: 199
 recipe_category: Main Course
+cuisine: American
 keywords:
   - arugula
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 309
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - milk

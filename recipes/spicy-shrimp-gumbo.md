@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 9
 calories: 310
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - gumbo
   - shrimp

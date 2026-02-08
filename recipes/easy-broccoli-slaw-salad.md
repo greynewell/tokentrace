@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 438
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - broccoli
   - salad

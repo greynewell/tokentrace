@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 25
 calories: 85
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT1H27M
 servings: 8
 calories: 583
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - lobster

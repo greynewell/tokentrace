@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 317
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - green

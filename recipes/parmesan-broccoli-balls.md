@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 71
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - balls

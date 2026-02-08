@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 232
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - bowl
   - chef

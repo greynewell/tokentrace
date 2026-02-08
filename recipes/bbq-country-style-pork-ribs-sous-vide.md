@@ -7,6 +7,7 @@ cook_time: PT8H2M
 servings: 4
 calories: 278
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - country

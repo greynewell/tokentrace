@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 172
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - halibut

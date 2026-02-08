@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 44
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brine
   - dish

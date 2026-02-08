@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 849
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crumb
   - dessert

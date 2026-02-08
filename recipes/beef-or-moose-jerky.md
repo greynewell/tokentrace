@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 6
 calories: 1129
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

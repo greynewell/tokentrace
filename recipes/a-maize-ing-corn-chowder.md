@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 5
 calories: 465
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - corn

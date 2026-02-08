@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 200
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cooker
   - crisp

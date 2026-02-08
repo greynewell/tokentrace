@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 722
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

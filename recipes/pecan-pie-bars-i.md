@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 36
 calories: 233
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bars
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 328
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chowder
   - courtney

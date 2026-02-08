@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 308
 recipe_category: Soup
+cuisine: American
 keywords:
   - borsht
   - cabbage

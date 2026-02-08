@@ -7,6 +7,7 @@ cook_time: PT6H5M
 servings: 6
 calories: 399
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cooker
   - dish

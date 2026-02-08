@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 88
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - deviled

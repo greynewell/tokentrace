@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 8
 calories: 165
 recipe_category: Salad
+cuisine: American
 keywords:
   - eggplant
   - salad

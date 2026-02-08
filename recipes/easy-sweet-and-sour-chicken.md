@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 421
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chicken
   - course

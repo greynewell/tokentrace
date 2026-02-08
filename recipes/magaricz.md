@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 77
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - magaricz

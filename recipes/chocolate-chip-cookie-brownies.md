@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 285
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brownies
   - chip

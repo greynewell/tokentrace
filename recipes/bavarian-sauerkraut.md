@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 52
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bavarian
   - dish

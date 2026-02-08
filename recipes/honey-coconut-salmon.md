@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 1124
 recipe_category: Main Course
+cuisine: American
 keywords:
   - coconut
   - course

@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 5
 calories: 321
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesy
   - chicken

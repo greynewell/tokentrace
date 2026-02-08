@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 620
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - spinach

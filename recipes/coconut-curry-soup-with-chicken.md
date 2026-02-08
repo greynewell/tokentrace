@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 467
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - chicken
   - coconut

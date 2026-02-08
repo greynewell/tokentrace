@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 128
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - puffy

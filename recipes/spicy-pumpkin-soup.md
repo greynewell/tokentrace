@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 156
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - pumpkin
   - soup

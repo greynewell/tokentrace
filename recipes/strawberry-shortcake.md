@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 430
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - shortcake

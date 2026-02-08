@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 575
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - crabmeat
   - imitation

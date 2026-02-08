@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 36
 calories: 104
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amaretti
   - biscotti

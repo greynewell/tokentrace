@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 20
 calories: 237
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - butt
   - course

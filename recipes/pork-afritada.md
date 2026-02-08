@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 324
 recipe_category: Soup
+cuisine: American
 keywords:
   - afritada
   - pork

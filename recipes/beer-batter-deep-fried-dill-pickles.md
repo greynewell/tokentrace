@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 196
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - batter

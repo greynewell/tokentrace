@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 290
 recipe_category: Bread
+cuisine: Japanese
 keywords:
   - bread
   - japanese

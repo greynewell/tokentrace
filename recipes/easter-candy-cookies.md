@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 24
 calories: 194
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candy
   - cookies

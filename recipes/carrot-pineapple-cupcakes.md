@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 515
 recipe_category: Dessert
+cuisine: American
 keywords:
   - carrot
   - cupcakes

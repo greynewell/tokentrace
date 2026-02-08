@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 779
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cheesesteak

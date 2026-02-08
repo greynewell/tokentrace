@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 211
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - delicata

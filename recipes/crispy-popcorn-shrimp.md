@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 8
 calories: 645
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crispy

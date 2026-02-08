@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 315
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bruschetta

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 245
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bosnian
   - bread

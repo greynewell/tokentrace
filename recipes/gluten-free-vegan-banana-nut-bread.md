@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 226
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bread

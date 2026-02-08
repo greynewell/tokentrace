@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 2
 calories: 865
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - garlic

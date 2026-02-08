@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 320
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - chili
   - course

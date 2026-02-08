@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 18
 calories: 258
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - anise
   - bread

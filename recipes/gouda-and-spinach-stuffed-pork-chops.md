@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 451
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chops
   - course

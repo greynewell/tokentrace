@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 232
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - fatayer

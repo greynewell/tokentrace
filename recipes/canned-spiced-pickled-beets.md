@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 18
 calories: 307
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beets
   - canned

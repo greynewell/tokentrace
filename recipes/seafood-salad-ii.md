@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 489
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - seafood

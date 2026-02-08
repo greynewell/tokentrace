@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 523
 recipe_category: Main Course
+cuisine: French
 keywords:
   - asparagus
   - course

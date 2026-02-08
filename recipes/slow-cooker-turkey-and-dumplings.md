@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 4
 calories: 449
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - cooker
   - dumplings

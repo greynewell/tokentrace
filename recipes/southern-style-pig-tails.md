@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 4
 calories: 408
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - main

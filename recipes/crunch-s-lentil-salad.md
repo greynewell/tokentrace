@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 171
 recipe_category: Salad
+cuisine: American
 keywords:
   - crunch
   - lentil

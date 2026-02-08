@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 228
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - chocolate
   - dessert

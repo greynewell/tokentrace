@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 488
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dad
   - dish

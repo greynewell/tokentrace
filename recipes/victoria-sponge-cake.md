@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 279
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

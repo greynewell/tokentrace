@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 15
 calories: 108
 recipe_category: Dessert
+cuisine: American
 keywords:
   - candied
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 564
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - beer

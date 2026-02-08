@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 372
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - cheesecake

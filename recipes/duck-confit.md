@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 2520
 recipe_category: Main Course
+cuisine: American
 keywords:
   - confit
   - course

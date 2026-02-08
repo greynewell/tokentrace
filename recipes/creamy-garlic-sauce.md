@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 435
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - creamy
   - dish

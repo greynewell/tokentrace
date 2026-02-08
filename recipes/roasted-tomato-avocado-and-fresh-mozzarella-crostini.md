@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 8
 calories: 278
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - avocado

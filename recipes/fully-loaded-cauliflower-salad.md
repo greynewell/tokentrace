@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 200
 recipe_category: Salad
+cuisine: American
 keywords:
   - cauliflower
   - fully

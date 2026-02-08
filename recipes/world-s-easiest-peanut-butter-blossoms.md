@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 36
 calories: 149
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blossoms
   - butter

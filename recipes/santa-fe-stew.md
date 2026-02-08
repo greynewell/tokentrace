@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 525
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - santa
   - soup

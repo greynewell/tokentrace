@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 8
 calories: 410
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dutch

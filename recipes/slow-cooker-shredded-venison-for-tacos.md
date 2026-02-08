@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 7
 calories: 403
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cooker
   - course

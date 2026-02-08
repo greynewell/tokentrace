@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 60
 calories: 60
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beets
   - dish

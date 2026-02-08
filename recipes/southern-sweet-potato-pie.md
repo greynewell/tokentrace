@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 14
 calories: 398
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pie

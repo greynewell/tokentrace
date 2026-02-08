@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 60
 calories: 95
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - cowboy

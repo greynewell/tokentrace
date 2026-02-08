@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 379
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cake
   - corn

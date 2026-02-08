@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 5
 calories: 306
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

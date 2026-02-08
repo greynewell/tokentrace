@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 52
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - bourbon
   - dish

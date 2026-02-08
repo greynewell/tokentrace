@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 574
 recipe_category: Main Course
+cuisine: French
 keywords:
   - casserole
   - course

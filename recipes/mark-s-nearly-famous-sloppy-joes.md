@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 10
 calories: 439
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - famous

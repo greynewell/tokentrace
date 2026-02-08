@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 75
 calories: 41
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - buffalo

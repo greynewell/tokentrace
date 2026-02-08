@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 586
 recipe_category: Soup
+cuisine: American
 keywords:
   - rice
   - shrimp

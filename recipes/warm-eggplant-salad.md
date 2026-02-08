@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 135
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - eggplant
   - salad

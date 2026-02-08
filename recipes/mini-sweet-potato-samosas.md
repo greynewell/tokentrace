@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 169
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - mini

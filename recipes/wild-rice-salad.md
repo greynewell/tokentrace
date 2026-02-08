@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 221
 recipe_category: Salad
+cuisine: American
 keywords:
   - rice
   - salad

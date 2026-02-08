@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 15
 calories: 89
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

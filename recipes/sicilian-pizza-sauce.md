@@ -7,6 +7,7 @@ cook_time: PT39M
 servings: 8
 calories: 106
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - pizza

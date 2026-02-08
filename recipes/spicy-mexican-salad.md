@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 11
 calories: 434
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - mexican
   - salad

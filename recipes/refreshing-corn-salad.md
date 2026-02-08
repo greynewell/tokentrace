@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 6
 calories: 277
 recipe_category: Salad
+cuisine: American
 keywords:
   - corn
   - refreshing

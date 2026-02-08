@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 204
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - french

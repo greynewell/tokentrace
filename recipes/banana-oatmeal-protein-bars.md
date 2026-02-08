@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 25
 calories: 139
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - banana

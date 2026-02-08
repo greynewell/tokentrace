@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 10
 calories: 137
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

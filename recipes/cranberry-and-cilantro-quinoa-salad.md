@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 176
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - cilantro
   - cranberry

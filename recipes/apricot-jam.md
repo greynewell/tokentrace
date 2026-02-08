@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 50
 calories: 105
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apricot
   - dish

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 246
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chicken
   - course

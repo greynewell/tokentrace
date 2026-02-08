@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 947
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - biscuits
   - breakfast

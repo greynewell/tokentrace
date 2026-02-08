@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 490
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - coconut

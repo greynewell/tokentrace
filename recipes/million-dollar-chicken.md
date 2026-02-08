@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 6
 calories: 687
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chicken
   - course

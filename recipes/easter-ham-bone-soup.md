@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 10
 calories: 110
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - easter

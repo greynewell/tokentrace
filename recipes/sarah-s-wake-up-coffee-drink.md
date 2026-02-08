@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 352
 recipe_category: Main Course
+cuisine: American
 keywords:
   - coffee
   - course

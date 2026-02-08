@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 12
 calories: 544
 recipe_category: Soup
+cuisine: American
 keywords:
   - chile
   - colorado

@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 13
 calories: 66
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - authentic
   - breakfast

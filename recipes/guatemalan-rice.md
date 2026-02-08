@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 2
 calories: 440
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - guatemalan

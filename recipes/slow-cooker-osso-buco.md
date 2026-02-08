@@ -7,6 +7,7 @@ cook_time: PT8H30M
 servings: 6
 calories: 522
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buco
   - cooker

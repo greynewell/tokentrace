@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 560
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - couscous
   - pearl

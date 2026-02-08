@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 219
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - apples
   - bacon

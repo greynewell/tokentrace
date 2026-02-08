@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 922
 recipe_category: Salad
+cuisine: American
 keywords:
   - grilled
   - louie

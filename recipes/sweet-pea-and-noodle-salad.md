@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 282
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - noodle
   - pea

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 668
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cheeseburger
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 1101
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baby
   - bell

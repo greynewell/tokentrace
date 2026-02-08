@@ -7,6 +7,7 @@ cook_time: PT4H40M
 servings: 10
 calories: 332
 recipe_category: Main Course
+cuisine: American
 keywords:
   - adovada
   - carne

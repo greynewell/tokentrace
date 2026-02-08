@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 6
 calories: 173
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - barbacoa
   - beef

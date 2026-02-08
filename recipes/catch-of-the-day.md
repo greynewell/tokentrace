@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 415
 recipe_category: Main Course
+cuisine: American
 keywords:
   - catch
   - course

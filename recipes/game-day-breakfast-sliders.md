@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 12
 calories: 595
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - day

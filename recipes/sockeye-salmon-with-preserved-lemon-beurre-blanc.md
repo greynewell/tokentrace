@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 40
 calories: 319
 recipe_category: Main Course
+cuisine: French
 keywords:
   - beurre
   - blanc

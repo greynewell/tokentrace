@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 173
 recipe_category: Soup
+cuisine: American
 keywords:
   - asparagus
   - lemon

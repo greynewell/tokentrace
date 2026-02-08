@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 282
 recipe_category: Salad
+cuisine: American
 keywords:
   - bacon
   - brussels

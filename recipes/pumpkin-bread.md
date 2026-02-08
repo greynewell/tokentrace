@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 20
 calories: 319
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pumpkin

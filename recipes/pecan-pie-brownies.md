@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 362
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - brownies
   - dessert

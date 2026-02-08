@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 8
 calories: 198
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broil
   - cooker

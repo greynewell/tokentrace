@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 181
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bacon
   - bbq

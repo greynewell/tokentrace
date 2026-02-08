@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 20
 calories: 322
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chez
   - fagioli

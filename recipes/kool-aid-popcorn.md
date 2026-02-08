@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 254
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - aid
   - appetizer

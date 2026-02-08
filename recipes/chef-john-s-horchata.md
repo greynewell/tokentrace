@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 176
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chef
   - course

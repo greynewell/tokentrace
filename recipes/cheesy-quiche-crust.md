@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 178
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cheesy

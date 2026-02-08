@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 587
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - deep

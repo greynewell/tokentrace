@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 292
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blueberries
   - cake

@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 9
 calories: 465
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - chili

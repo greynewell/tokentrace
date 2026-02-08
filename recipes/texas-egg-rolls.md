@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 204
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - egg

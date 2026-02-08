@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 114
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - chocolate

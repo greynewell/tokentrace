@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 196
 recipe_category: Soup
+cuisine: American
 keywords:
   - delicious
   - ham

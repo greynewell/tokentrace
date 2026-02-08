@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 292
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - carrot
   - curried

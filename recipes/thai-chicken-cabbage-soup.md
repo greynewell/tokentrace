@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 275
 recipe_category: Soup
+cuisine: Thai
 keywords:
   - cabbage
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 203
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - brussels
   - dish

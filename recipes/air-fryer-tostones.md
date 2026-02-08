@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 110
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

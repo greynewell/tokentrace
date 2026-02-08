@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 55
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - blue

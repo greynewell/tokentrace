@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 400
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - dumplings

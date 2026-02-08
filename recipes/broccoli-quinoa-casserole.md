@@ -7,6 +7,7 @@ cook_time: PT58M
 servings: 8
 calories: 282
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broccoli
   - casserole

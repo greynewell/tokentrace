@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 36
 calories: 285
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - cookies

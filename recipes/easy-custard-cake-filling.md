@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 140
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - custard

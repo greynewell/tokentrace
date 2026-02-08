@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 4
 calories: 652
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

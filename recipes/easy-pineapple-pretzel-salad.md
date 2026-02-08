@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 341
 recipe_category: Salad
+cuisine: American
 keywords:
   - pineapple
   - pretzel

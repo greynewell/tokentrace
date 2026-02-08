@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 437
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cream

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 176
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - beer
   - bread

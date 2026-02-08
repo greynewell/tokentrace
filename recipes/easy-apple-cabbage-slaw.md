@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 141
 recipe_category: Salad
+cuisine: American
 keywords:
   - apple
   - cabbage

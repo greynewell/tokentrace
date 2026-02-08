@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 891
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - crispy

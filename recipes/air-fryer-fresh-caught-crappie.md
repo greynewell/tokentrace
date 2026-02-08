@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 200
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - caught

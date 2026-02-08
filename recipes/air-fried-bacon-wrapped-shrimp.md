@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 241
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - air
   - bacon

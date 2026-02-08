@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 246
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - lime

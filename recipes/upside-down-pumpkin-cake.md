@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 861
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - dish

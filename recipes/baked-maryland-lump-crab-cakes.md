@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 92
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - baked

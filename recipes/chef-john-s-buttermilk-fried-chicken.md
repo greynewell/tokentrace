@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 1262
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - buttermilk
   - chef

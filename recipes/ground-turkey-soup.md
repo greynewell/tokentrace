@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 5
 calories: 463
 recipe_category: Soup
+cuisine: American
 keywords:
   - ground
   - soup

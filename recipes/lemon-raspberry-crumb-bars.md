@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 9
 calories: 511
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - crumb

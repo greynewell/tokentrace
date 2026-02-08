@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 198
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - bacon

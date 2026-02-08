@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 40
 calories: 51
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bacon
   - california

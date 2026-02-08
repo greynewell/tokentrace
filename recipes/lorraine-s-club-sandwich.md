@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 818
 recipe_category: Main Course
+cuisine: French
 keywords:
   - club
   - course

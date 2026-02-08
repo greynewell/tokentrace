@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 8
 calories: 235
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - beef

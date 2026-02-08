@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 598
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - alfredo
   - cheese

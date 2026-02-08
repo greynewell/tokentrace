@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 36
 calories: 236
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rye

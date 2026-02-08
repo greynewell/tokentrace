@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 725
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - carb

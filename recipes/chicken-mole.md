@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 610
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - chicken
   - dish

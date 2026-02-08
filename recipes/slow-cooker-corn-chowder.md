@@ -7,6 +7,7 @@ cook_time: PT8H30M
 servings: 9
 calories: 266
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - cooker

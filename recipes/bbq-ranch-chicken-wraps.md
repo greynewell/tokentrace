@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 514
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - chicken

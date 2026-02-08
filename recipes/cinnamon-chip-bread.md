@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 361
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chip

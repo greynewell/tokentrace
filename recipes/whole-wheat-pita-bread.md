@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 12
 calories: 101
 recipe_category: Bread
+cuisine: Mediterranean
 keywords:
   - bread
   - pita

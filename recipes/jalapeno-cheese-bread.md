@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 214
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - cheese

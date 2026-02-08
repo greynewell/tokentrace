@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 144
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chocolate
   - course

@@ -7,6 +7,7 @@ cook_time: PT3H25M
 servings: 12
 calories: 438
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - cream

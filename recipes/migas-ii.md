@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 269
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - migas

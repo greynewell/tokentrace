@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 369
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - breakfast
   - casserole

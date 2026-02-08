@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 220
 recipe_category: Beverage
+cuisine: American
 keywords:
   - banana
   - beverage

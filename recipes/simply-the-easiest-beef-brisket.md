@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 520
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - brisket

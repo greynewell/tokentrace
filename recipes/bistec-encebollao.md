@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 422
 recipe_category: Soup
+cuisine: American
 keywords:
   - bistec
   - encebollao

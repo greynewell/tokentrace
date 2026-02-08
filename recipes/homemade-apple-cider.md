@@ -7,6 +7,7 @@ cook_time: PT3H20M
 servings: 16
 calories: 83
 recipe_category: Beverage
+cuisine: American
 keywords:
   - apple
   - beverage

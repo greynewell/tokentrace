@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 473
 recipe_category: Soup
+cuisine: American
 keywords:
   - cold
   - creamy

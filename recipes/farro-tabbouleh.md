@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 85
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - farro
   - salad

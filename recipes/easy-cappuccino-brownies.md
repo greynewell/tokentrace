@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 394
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - cappuccino

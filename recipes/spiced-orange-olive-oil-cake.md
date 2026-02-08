@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 292
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - cake
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 223
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - corn

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 5
 calories: 262
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mom

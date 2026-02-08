@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 30
 calories: 431
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - boiled

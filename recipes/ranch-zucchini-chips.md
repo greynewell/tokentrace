@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 4
 calories: 34
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chips

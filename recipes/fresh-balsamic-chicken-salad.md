@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 2
 calories: 454
 recipe_category: Salad
+cuisine: American
 keywords:
   - balsamic
   - chicken

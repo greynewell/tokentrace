@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 1
 calories: 543
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 8
 calories: 613
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - cheesy

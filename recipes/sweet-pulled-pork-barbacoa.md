@@ -7,6 +7,7 @@ cook_time: PT9H
 servings: 8
 calories: 250
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - barbacoa
   - course

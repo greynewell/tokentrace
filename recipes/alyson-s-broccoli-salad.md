@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 558
 recipe_category: Salad
+cuisine: American
 keywords:
   - alyson
   - broccoli

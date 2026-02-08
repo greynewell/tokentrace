@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 6
 calories: 388
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - beef
   - lengua

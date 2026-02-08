@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 333
 recipe_category: Salad
+cuisine: American
 keywords:
   - pea
   - requested

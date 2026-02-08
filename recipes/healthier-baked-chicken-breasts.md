@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 552
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - breasts

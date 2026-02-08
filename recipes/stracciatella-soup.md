@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 313
 recipe_category: Soup
+cuisine: American
 keywords:
   - soup
   - stracciatella

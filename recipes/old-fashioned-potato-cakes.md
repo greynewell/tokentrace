@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 255
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cakes
   - dish

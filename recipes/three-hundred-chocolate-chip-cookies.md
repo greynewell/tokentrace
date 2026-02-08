@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 150
 calories: 483
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chip
   - chocolate

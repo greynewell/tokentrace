@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 64
 calories: 54
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dill
   - dish

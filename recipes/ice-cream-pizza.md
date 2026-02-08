@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 8
 calories: 468
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - cream
   - dessert

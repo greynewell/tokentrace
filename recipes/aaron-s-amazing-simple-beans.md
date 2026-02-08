@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 278
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - aaron
   - amazing

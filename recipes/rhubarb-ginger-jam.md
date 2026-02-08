@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 15
 calories: 163
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - ginger

@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 8
 calories: 473
 recipe_category: Soup
+cuisine: American
 keywords:
   - african
   - bean

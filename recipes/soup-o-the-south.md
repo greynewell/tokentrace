@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 8
 calories: 536
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - soup
   - south

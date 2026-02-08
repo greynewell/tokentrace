@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 4
 calories: 239
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - asian
   - bean

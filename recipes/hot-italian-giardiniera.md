@@ -7,6 +7,7 @@ cook_time: PT48H
 servings: 10
 calories: 233
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - giardiniera

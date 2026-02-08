@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 224
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - patties

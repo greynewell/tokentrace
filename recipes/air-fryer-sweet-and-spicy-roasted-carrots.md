@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 129
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - carrots

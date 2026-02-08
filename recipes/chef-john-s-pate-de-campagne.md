@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 12
 calories: 250
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - campagne

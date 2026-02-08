@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 6
 calories: 467
 recipe_category: Soup
+cuisine: American
 keywords:
   - harira
   - soup

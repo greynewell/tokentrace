@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 121
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cabbage
   - dish

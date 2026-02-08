@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 6
 calories: 758
 recipe_category: Soup
+cuisine: American
 keywords:
   - egusi
   - soup

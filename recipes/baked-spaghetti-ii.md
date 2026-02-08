@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 7
 calories: 648
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - course

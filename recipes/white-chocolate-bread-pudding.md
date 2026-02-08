@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 693
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bread
   - chocolate

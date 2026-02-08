@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 40
 calories: 48
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - biscuit

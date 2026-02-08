@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 618
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - anglaise
   - creme

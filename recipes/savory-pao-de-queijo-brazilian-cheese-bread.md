@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 30
 calories: 126
 recipe_category: Bread
+cuisine: American
 keywords:
   - brazilian
   - bread

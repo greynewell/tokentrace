@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 292
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 9
 calories: 378
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - corn

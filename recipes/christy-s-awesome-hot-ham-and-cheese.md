@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 1
 calories: 516
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - cheese

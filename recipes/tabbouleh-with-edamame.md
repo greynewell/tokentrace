@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 234
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - edamame
   - salad

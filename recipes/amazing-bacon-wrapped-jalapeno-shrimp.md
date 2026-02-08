@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 32
 calories: 56
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - amazing
   - bacon

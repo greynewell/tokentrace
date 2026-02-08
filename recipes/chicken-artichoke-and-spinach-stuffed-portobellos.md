@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 4
 calories: 762
 recipe_category: Main Course
+cuisine: American
 keywords:
   - artichoke
   - chicken

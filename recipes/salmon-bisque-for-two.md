@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 406
 recipe_category: Soup
+cuisine: American
 keywords:
   - bisque
   - salmon

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 87
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bacon

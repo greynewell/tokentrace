@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 511
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chocolate
   - course

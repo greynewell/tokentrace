@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 462
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bacon
   - breakfast

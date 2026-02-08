@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 437
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - course
   - curried

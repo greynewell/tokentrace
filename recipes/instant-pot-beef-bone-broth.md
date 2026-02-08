@@ -7,6 +7,7 @@ cook_time: PT2H55M
 servings: 8
 calories: 21
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - bone

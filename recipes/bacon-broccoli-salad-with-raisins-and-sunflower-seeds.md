@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 385
 recipe_category: Salad
+cuisine: American
 keywords:
   - bacon
   - broccoli

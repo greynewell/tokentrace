@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 8
 calories: 109
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - broiled

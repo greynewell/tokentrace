@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 25
 calories: 345
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - twinkies

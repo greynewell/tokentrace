@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 375
 recipe_category: Main Course
+cuisine: American
 keywords:
   - avocado
   - course

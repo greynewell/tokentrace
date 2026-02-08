@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 5
 calories: 574
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

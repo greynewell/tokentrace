@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 8
 calories: 213
 recipe_category: Soup
+cuisine: American
 keywords:
   - barley
   - lentil

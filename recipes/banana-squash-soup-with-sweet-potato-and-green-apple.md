@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 154
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - apple
   - banana

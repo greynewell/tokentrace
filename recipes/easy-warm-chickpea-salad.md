@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 123
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - chickpea
   - salad

@@ -7,6 +7,7 @@ cook_time: PT2H24M
 servings: 6
 calories: 344
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - ghormeh
   - herb

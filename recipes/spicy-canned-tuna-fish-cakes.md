@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 319
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

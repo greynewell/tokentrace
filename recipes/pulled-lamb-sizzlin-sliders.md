@@ -7,6 +7,7 @@ cook_time: PT1H17M
 servings: 8
 calories: 1646
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lamb

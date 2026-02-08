@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 32
 calories: 82
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - butter

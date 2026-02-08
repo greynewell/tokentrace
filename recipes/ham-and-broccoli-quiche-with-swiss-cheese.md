@@ -7,6 +7,7 @@ cook_time: PT49M
 servings: 8
 calories: 406
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - broccoli

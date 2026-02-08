@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 12
 calories: 427
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cooker
   - course

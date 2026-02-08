@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 385
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - almond
   - banana

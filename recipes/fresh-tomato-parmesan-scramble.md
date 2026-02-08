@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 100
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - fresh

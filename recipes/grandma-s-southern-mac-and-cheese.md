@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 20
 calories: 478
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - cheese
   - dish

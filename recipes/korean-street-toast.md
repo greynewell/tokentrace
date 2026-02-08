@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 938
 recipe_category: Main Course
+cuisine: Korean
 keywords:
   - course
   - korean

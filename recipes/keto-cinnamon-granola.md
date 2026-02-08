@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 183
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cinnamon

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 100
 recipe_category: Salad
+cuisine: American
 keywords:
   - cranberry
   - salad

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 456
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - side

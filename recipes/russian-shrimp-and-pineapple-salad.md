@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 330
 recipe_category: Salad
+cuisine: American
 keywords:
   - pineapple
   - russian

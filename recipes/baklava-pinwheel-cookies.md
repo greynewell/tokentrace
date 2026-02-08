@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 48
 calories: 90
 recipe_category: Dessert
+cuisine: Mediterranean
 keywords:
   - baklava
   - cookies

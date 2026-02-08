@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 438
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - beef
   - course

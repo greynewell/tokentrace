@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 300
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - barbecue
   - chicken

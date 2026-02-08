@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 398
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - fat
   - granny

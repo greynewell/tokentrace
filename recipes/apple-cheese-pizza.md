@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 327
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - apple

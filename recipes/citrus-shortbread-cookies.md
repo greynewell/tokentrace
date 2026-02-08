@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 152
 recipe_category: Dessert
+cuisine: American
 keywords:
   - citrus
   - cookies

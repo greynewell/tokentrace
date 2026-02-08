@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 11
 calories: 58
 recipe_category: Soup
+cuisine: American
 keywords:
   - cauliflower
   - healthier

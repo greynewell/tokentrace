@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 50
 calories: 86
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - candy
   - course

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 391
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - galaktoboureko

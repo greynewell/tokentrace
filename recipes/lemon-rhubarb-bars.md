@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 24
 calories: 191
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

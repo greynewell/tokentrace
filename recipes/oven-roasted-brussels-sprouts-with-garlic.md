@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 237
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brussels
   - dish

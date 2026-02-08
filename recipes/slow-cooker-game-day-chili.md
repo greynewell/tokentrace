@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 8
 calories: 438
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chili
   - cooker

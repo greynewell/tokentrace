@@ -7,6 +7,7 @@ cook_time: PT19H45M
 servings: 36
 calories: 19
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - demi
   - dish

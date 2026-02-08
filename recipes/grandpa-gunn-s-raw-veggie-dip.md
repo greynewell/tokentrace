@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 154
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - dip

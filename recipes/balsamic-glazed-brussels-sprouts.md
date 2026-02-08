@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 150
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - balsamic
   - brussels

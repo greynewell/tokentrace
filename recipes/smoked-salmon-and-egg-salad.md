@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 333
 recipe_category: Salad
+cuisine: American
 keywords:
   - egg
   - salad

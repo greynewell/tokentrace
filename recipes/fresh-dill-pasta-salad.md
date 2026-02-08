@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 241
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - dill
   - fresh

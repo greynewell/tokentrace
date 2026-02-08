@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 7
 calories: 293
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - artichoke

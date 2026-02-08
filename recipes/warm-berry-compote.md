@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 6
 calories: 140
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - compote

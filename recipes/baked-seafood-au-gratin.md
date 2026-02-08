@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 566
 recipe_category: Main Course
+cuisine: French
 keywords:
   - baked
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 498
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cheese

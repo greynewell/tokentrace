@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 312
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chia
   - chocolate

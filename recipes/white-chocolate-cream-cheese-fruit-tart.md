@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 489
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - chocolate

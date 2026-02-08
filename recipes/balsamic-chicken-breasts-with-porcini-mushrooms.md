@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 4
 calories: 295
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balsamic
   - breasts

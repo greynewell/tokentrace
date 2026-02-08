@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 16
 calories: 380
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beans
   - course

@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 15
 calories: 368
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - english

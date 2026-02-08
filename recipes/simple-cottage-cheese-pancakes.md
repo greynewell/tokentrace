@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 273
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cheese

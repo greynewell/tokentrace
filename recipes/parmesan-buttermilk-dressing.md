@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 50
 calories: 56
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - buttermilk
   - course

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 16
 calories: 474
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - cake
   - chia

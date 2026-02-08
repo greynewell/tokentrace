@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 24
 calories: 293
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - beef

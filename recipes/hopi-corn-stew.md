@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 12
 calories: 511
 recipe_category: Soup
+cuisine: American
 keywords:
   - corn
   - hopi

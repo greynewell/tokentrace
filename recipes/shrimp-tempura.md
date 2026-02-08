@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 573
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - shrimp

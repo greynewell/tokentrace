@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 144
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - grilled

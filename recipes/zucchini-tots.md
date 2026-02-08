@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 65
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - tots

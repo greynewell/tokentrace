@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 10
 calories: 308
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - cooked

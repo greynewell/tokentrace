@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 6
 calories: 484
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - dill
   - pasta

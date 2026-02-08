@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 613
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - casserole

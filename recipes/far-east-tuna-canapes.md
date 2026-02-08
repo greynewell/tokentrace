@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 8
 calories: 134
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - canapes

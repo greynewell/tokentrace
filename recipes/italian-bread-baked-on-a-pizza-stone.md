@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 93
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - baked
   - bread

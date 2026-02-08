@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 325
 recipe_category: Main Course
+cuisine: American
 keywords:
   - arroz
   - con

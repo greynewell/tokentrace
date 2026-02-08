@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 489
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - orange

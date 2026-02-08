@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 34
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - cookie

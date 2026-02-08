@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 10
 calories: 384
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecue
   - bodacious

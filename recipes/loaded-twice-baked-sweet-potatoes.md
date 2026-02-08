@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 464
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - dish

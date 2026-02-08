@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 247
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bread

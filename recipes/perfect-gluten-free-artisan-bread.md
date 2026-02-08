@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 169
 recipe_category: Bread
+cuisine: American
 keywords:
   - artisan
   - bread

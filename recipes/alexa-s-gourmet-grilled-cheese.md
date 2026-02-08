@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 860
 recipe_category: Main Course
+cuisine: American
 keywords:
   - alexa
   - cheese

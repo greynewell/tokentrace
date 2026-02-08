@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 245
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - almond
   - cheesecake

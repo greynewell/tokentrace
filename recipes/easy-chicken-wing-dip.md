@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 202
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - chicken

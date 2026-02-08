@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 4
 calories: 439
 recipe_category: Soup
+cuisine: American
 keywords:
   - chanakhi
   - georgian

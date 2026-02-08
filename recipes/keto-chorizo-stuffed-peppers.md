@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 286
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chorizo
   - course

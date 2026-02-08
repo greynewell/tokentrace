@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 448
 recipe_category: Main Course
+cuisine: American
 keywords:
   - banana
   - butter

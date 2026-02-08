@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 213
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - fish
   - pam

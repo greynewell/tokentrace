@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 12
 calories: 300
 recipe_category: Bread
+cuisine: American
 keywords:
   - amaranth
   - artisan

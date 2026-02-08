@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 375
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bars
   - butterscotch

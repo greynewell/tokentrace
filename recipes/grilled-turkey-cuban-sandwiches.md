@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 1066
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - cuban

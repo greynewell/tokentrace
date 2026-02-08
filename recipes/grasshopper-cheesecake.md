@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 738
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheesecake
   - course

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 440
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - main

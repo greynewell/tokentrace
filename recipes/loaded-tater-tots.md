@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 257
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - loaded

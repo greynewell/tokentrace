@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 78
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

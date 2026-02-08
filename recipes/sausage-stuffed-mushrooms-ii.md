@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 10
 calories: 178
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mushrooms

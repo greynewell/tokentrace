@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 284
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - classic
   - course

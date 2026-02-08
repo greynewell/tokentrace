@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 4
 calories: 303
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - brown

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 478
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - brownie

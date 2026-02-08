@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 269
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookie

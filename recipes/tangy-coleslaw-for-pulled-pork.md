@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 202
 recipe_category: Salad
+cuisine: American
 keywords:
   - coleslaw
   - pork

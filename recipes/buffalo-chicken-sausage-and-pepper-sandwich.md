@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 707
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buffalo
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 479
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - cooker

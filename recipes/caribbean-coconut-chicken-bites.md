@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 420
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - bites

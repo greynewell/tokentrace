@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 50
 calories: 408
 recipe_category: Soup
+cuisine: American
 keywords:
   - bacon
   - chowder

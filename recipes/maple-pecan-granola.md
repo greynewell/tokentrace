@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 202
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - granola

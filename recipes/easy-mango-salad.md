@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 84
 recipe_category: Salad
+cuisine: American
 keywords:
   - mango
   - salad

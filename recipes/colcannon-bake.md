@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 282
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bake
   - colcannon

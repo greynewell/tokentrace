@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 133
 recipe_category: Soup
+cuisine: American
 keywords:
   - soup
   - zucchini

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 14
 calories: 670
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - autumn
   - bundt

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 178
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crust

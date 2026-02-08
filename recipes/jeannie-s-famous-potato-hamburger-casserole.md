@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 8
 calories: 849
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - course

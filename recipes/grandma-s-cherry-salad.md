@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 153
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 24
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - apple

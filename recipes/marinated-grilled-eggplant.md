@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 113
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - dish
   - eggplant

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 36
 calories: 104
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - mom

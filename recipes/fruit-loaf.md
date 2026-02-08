@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 155
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fruit

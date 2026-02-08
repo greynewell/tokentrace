@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 10
 calories: 649
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bananas
   - cheesecake

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 248
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - napa
   - salad

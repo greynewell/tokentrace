@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 215
 recipe_category: Bread
+cuisine: American
 keywords:
   - basic
   - bread

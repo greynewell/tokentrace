@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 4
 calories: 242
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - course

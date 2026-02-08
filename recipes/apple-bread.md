@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 16
 calories: 377
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - bread

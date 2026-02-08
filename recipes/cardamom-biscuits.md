@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 286
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuits
   - bread

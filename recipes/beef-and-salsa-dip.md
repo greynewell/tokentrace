@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 7
 calories: 338
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - beef

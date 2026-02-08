@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 634
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - salad
   - seafood

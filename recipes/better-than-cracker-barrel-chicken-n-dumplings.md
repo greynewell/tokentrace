@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 6
 calories: 384
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - barrel
   - better

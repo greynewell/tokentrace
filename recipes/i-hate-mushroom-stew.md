@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 227
 recipe_category: Soup
+cuisine: American
 keywords:
   - hate
   - mushroom

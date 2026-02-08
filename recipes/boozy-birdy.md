@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 388
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - birdy
   - boozy

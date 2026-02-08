@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 99
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cheese

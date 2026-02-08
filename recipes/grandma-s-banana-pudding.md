@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 487
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - banana
   - dessert

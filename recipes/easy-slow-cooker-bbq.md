@@ -7,6 +7,7 @@ cook_time: PT10H30M
 servings: 8
 calories: 269
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - cooker

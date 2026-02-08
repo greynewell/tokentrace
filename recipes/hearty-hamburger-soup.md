@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 10
 calories: 223
 recipe_category: Soup
+cuisine: American
 keywords:
   - hamburger
   - hearty

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 335
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - aunt

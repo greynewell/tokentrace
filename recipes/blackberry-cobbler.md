@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 11
 calories: 337
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blackberry
   - cobbler

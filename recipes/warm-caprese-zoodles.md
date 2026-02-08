@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 284
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - caprese
   - salad

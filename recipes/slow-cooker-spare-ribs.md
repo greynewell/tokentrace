@@ -7,6 +7,7 @@ cook_time: PT8H15M
 servings: 4
 calories: 483
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

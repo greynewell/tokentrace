@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 165
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownie
   - cookies

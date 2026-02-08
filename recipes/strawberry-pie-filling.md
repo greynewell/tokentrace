@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 118
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - filling

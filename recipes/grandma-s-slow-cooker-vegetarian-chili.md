@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 260
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 1
 calories: 697
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brine
   - dish

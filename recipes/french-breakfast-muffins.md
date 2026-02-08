@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 207
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - breakfast

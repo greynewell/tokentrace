@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 32
 calories: 52
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cherry

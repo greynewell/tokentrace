@@ -7,6 +7,7 @@ cook_time: PT37M
 servings: 12
 calories: 1019
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - caramel

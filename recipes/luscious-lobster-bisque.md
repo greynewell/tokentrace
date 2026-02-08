@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 538
 recipe_category: Soup
+cuisine: American
 keywords:
   - bisque
   - lobster

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 156
 recipe_category: Soup
+cuisine: American
 keywords:
   - carb
   - cauliflower

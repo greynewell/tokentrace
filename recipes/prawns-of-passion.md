@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 6
 calories: 523
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - passion

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 496
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chef
   - course

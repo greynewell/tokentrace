@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 328
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - deviled

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 12
 calories: 468
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boneless
   - breast

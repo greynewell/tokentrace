@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 35
 calories: 78
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fudge

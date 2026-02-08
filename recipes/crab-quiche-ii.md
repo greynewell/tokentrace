@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 7
 calories: 396
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crab

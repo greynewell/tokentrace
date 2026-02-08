@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 346
 recipe_category: Bread
+cuisine: American
 keywords:
   - aunt
   - bread

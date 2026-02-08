@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 249
 recipe_category: Soup
+cuisine: French
 keywords:
   - beef
   - oven

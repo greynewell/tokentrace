@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 120
 calories: 23
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - kruschicki

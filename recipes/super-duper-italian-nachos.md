@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 4
 calories: 952
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - duper

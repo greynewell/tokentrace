@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 275
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bacon

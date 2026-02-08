@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 5
 calories: 640
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 14
 calories: 228
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - bundt

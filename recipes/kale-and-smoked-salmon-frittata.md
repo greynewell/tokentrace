@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 303
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - frittata

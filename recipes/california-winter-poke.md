@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 4
 calories: 495
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - california
   - course

@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 24
 calories: 577
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - johns

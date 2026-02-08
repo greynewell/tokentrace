@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 514
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bananas
   - breakfast

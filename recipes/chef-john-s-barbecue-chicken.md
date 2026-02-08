@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 464
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecue
   - chef

@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 183
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - basil

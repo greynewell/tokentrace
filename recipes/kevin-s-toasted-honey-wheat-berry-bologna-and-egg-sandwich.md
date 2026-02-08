@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 536
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - berry
   - bologna

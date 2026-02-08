@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 199
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - asparagus
   - breakfast

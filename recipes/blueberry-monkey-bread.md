@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 14
 calories: 415
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - blueberry
   - bread

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 266
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - almond
   - citrus

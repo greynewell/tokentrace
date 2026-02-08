@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 173
 recipe_category: Salad
+cuisine: American
 keywords:
   - chickpea
   - roasted

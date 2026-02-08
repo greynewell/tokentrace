@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 898
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cinnamon

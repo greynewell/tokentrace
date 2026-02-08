@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 230
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - corn
   - dish

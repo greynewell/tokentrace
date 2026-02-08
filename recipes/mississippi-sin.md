@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 521
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - mississippi

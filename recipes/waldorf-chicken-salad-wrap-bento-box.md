@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 769
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - bento
   - box

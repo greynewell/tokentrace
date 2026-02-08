@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 24
 calories: 167
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - creamy

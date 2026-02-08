@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 236
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - chicken

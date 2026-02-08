@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 194
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - multigrain

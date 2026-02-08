@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 341
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

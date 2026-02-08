@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 36
 calories: 138
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookies

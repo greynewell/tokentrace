@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 330
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - donauwellen

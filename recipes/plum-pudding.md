@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 468
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - plum

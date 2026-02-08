@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 123
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cake

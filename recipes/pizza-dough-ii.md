@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 202
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - dough

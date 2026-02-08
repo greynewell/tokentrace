@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 12
 calories: 276
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecued
   - beef

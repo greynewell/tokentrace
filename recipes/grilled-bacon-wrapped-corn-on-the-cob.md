@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 10
 calories: 285
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - bacon
   - cob

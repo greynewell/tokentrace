@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 250
 recipe_category: Salad
+cuisine: American
 keywords:
   - belgian
   - brown

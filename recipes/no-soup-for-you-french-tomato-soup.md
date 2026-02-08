@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 170
 recipe_category: Soup
+cuisine: French
 keywords:
   - french
   - soup

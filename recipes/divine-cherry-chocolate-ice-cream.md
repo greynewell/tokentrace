@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 16
 calories: 391
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - chocolate

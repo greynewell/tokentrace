@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 276
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chicken
   - noodle

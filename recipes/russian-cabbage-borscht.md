@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 128
 recipe_category: Soup
+cuisine: American
 keywords:
   - borscht
   - cabbage

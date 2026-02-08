@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 16
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - blend
   - course

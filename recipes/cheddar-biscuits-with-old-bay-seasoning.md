@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 8
 calories: 282
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bay
   - biscuits

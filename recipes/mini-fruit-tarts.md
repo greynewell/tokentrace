@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 14
 calories: 151
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fruit

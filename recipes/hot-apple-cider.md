@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 163
 recipe_category: Beverage
+cuisine: American
 keywords:
   - apple
   - beverage

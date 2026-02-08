@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 5
 calories: 247
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - chicken

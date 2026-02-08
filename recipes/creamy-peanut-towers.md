@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 88
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - creamy

@@ -7,6 +7,7 @@ cook_time: PT1H13M
 servings: 4
 calories: 476
 recipe_category: Main Course
+cuisine: American
 keywords:
   - alla
   - course

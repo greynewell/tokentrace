@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 48
 calories: 98
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bowl
   - chocolate

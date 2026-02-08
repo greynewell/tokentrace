@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 44
 calories: 93
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - aunt

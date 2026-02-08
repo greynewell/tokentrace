@@ -7,6 +7,7 @@ cook_time: PT1H12M
 servings: 10
 calories: 439
 recipe_category: Dessert
+cuisine: American
 keywords:
   - baked
   - caramel

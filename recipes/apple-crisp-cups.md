@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 109
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crisp

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 411
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - couscous
   - cucumber

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 397
 recipe_category: Salad
+cuisine: American
 keywords:
   - broccoli
   - grapes

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 183
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - fair

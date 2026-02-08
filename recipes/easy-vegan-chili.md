@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 6
 calories: 512
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - soup

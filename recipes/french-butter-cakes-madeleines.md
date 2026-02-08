@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 109
 recipe_category: Main Course
+cuisine: French
 keywords:
   - butter
   - cakes

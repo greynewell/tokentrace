@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 122
 recipe_category: Beverage
+cuisine: American
 keywords:
   - alcohol
   - beverage

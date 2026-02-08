@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 411
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - chickpeas
   - chorizo

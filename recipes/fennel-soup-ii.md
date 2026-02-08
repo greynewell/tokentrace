@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 75
 recipe_category: Soup
+cuisine: American
 keywords:
   - fennel
   - soup

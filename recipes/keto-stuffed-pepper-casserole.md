@@ -7,6 +7,7 @@ cook_time: PT47M
 servings: 8
 calories: 260
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - casserole
   - course

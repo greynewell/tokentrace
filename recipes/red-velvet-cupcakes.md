@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 276
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cupcakes

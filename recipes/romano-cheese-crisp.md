@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 9
 calories: 282
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - cheese

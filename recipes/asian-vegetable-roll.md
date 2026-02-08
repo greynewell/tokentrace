@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 4
 calories: 373
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - asian

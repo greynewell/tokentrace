@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 460
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - cheesy

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 864
 recipe_category: Salad
+cuisine: French
 keywords:
   - potato
   - roasted

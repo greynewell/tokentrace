@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 16
 calories: 380
 recipe_category: Soup
+cuisine: American
 keywords:
   - brunswick
   - get

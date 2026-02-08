@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 237
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - slaw

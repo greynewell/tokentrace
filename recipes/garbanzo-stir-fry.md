@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 167
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - fry

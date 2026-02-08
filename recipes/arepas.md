@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 12
 calories: 222
 recipe_category: Main Course
+cuisine: American
 keywords:
   - arepas
   - course

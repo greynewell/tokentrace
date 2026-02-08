@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 36
 calories: 84
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - boulettes
   - course

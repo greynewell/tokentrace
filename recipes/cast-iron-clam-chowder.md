@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 459
 recipe_category: Soup
+cuisine: American
 keywords:
   - cast
   - chowder

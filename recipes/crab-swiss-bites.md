@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 10
 calories: 114
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - bites

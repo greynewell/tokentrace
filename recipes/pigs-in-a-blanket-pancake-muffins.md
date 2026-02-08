@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 7
 calories: 158
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blanket
   - course

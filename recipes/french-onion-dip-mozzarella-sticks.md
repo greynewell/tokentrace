@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 16
 calories: 313
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - dip

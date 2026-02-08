@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 244
 recipe_category: Soup
+cuisine: American
 keywords:
   - patrick
   - saint

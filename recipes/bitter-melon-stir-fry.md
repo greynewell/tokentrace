@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 160
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - bitter
   - course

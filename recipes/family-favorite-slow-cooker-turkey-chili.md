@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 6
 calories: 270
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - cooker

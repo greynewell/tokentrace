@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 224
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cornbread

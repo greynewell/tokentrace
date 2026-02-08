@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 228
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - carb
   - casserole

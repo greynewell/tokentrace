@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 280
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - buckwheat
   - salad

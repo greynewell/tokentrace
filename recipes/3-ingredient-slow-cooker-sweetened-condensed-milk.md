@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 1
 calories: 1090
 recipe_category: Main Course
+cuisine: American
 keywords:
   - condensed
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 394
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

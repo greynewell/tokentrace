@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 227
 recipe_category: Soup
+cuisine: American
 keywords:
   - joe
   - mushroom

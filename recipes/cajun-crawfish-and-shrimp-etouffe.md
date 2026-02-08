@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 264
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - cajun
   - crawfish

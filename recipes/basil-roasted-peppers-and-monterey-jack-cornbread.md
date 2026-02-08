@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 314
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - basil
   - bread

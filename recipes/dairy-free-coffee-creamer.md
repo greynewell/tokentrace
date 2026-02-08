@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 16
 calories: 12
 recipe_category: Main Course
+cuisine: American
 keywords:
   - coffee
   - course

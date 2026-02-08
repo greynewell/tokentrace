@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 456
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - avocado
   - casserole

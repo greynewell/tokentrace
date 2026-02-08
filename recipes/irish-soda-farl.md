@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 4
 calories: 253
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - farl

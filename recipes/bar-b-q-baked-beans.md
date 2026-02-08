@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 166
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - bar

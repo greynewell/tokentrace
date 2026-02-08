@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 329
 recipe_category: Salad
+cuisine: French
 keywords:
   - cheese
   - french

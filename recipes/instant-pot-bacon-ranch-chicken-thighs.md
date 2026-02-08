@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 358
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chicken

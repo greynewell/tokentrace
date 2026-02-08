@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 407
 recipe_category: Dessert
+cuisine: American
 keywords:
   - buttercream
   - cupcakes

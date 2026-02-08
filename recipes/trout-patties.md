@@ -7,6 +7,7 @@ cook_time: PT1H8M
 servings: 6
 calories: 449
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - patties

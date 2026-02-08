@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 330
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - croquettes

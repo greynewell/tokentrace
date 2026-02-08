@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 336
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - clam

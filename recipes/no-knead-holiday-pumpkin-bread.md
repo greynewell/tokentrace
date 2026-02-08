@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 180
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - holiday

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 129
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - chip

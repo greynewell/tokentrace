@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 313
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - cake

@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 95
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - eggplant
   - italian

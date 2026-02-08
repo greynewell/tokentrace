@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 60
 calories: 89
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cookies

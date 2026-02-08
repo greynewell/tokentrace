@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 155
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - naan

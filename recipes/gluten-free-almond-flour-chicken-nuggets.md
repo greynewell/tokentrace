@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 164
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - chicken

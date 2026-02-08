@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 9
 calories: 280
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - almond
   - bars

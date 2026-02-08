@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 149
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - sauce

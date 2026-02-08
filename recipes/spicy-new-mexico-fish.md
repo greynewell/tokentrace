@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 2
 calories: 142
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fish

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 150
 calories: 31
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

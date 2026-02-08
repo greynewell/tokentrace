@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 31
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - filipino

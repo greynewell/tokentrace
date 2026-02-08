@@ -7,6 +7,7 @@ cook_time: PT1H27M
 servings: 6
 calories: 636
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - frutti

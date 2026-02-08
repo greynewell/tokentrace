@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 237
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apples
   - candied

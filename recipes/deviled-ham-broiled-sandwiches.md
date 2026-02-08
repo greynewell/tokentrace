@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 425
 recipe_category: Main Course
+cuisine: French
 keywords:
   - broiled
   - course

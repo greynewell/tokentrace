@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 252
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bean
   - cooker

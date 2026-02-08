@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 12
 calories: 70
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - applesauce
   - dish

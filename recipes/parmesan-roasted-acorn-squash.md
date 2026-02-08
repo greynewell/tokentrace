@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 128
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - acorn
   - dish

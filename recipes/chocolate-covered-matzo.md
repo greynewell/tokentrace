@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 351
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - covered

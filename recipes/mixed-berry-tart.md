@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 400
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - dessert

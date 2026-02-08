@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 151
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - beet

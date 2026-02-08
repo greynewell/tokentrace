@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 246
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuits
   - blueberry

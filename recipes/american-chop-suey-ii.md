@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 664
 recipe_category: Main Course
+cuisine: American
 keywords:
   - american
   - chop

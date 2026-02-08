@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 65
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - wheat

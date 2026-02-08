@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 4
 calories: 332
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - herbs

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 722
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boil
   - country

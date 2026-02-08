@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 246
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brookies
   - brownie

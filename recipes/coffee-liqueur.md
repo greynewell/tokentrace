@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 32
 calories: 169
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - coffee

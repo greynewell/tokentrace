@@ -7,6 +7,7 @@ cook_time: PT1H52M
 servings: 8
 calories: 663
 recipe_category: Main Course
+cuisine: French
 keywords:
   - canadian
   - course

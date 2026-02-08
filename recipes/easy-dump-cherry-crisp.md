@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 9
 calories: 389
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - crisp

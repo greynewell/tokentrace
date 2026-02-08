@@ -7,6 +7,7 @@ cook_time: PT3H25M
 servings: 6
 calories: 331
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - angel
   - blackened

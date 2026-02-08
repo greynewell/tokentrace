@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 14
 calories: 481
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bed
   - breakfast

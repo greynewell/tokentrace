@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 255
 recipe_category: Dessert
+cuisine: American
 keywords:
   - curd
   - dessert

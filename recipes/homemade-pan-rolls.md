@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 24
 calories: 119
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pan

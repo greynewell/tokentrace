@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 156
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cake

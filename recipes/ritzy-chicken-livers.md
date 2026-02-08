@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 260
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - chicken

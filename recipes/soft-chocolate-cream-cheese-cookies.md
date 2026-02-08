@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 60
 calories: 159
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - chocolate

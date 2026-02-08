@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 15
 calories: 375
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - apple
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 64
 calories: 60
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - dip

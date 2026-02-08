@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 508
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - creamy
   - deviled

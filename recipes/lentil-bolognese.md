@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 4
 calories: 202
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - bolognese
   - dish

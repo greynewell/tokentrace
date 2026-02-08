@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 10
 calories: 352
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - bean
   - cooker

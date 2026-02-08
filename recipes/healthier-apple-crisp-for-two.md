@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 236
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crisp

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 263
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - angela
   - cabbage

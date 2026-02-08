@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 100
 calories: 78
 recipe_category: Beverage
+cuisine: American
 keywords:
   - batter
   - beverage

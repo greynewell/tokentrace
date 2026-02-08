@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 176
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - hashbrowns

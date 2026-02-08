@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 8
 calories: 242
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cast

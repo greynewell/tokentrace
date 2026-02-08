@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 167
 recipe_category: Soup
+cuisine: American
 keywords:
   - fat
   - leek

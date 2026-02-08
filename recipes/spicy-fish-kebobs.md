@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 511
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - fish

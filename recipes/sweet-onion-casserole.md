@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 323
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - dish

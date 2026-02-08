@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 42
 calories: 162
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - chocolate

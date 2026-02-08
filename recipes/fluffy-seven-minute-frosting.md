@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 32
 calories: 40
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fluffy

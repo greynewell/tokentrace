@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 9
 calories: 540
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - course

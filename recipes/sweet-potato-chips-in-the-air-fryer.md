@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 121
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - air
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 6
 calories: 136
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - boiled

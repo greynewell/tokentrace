@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 313
 recipe_category: Main Course
+cuisine: French
 keywords:
   - apple
   - breakfast

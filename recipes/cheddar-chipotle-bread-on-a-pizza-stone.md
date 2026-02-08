@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 298
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - cheddar

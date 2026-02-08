@@ -7,6 +7,7 @@ cook_time: PT3H20M
 servings: 10
 calories: 288
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - hamburger
   - macaroni

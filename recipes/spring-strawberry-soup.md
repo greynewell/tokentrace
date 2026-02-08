@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 38
 recipe_category: Soup
+cuisine: American
 keywords:
   - soup
   - spring

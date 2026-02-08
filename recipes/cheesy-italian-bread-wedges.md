@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 243
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cheesy

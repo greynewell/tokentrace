@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 40
 calories: 102
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - russian

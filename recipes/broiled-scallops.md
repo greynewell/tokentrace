@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 3
 calories: 273
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broiled
   - course

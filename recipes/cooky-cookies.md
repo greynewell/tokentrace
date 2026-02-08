@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 289
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - cooky

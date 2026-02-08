@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 48
 calories: 355
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - addictive
   - appetizer

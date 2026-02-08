@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 386
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bundt
   - course

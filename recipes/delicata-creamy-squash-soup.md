@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 5
 calories: 417
 recipe_category: Soup
+cuisine: American
 keywords:
   - creamy
   - delicata

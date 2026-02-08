@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 254
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cooker
   - dish

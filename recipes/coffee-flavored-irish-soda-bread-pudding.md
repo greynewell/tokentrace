@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 280
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bread
   - coffee

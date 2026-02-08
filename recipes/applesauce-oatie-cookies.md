@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 60
 calories: 89
 recipe_category: Dessert
+cuisine: American
 keywords:
   - applesauce
   - cookies

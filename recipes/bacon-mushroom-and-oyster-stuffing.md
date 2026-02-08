@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 231
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - dish

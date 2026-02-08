@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 138
 recipe_category: Salad
+cuisine: American
 keywords:
   - kohl
   - salad

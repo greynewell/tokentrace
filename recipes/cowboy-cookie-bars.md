@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 45
 calories: 147
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cookie

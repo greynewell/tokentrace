@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 25
 calories: 178
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crackers
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 9
 calories: 488
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - jim
   - macaroni

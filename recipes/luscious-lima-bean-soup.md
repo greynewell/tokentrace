@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 9
 calories: 220
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - lima

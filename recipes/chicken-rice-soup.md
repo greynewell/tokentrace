@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 187
 recipe_category: Soup
+cuisine: French
 keywords:
   - chicken
   - rice

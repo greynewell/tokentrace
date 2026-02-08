@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 6
 calories: 624
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - main

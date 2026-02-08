@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 692
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - curry
   - shrimp

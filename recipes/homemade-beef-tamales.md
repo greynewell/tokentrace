@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 25
 calories: 375
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - beef
   - course

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 243
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 6
 calories: 580
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - braid

@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 40
 calories: 80
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chicken
   - hearty

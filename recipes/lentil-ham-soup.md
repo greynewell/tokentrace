@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 178
 recipe_category: Soup
+cuisine: American
 keywords:
   - ham
   - lentil

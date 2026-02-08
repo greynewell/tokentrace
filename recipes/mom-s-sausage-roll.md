@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 18
 calories: 580
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mom

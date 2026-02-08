@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 303
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - becca
   - soup

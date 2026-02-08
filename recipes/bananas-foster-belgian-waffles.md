@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 1096
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bananas
   - belgian

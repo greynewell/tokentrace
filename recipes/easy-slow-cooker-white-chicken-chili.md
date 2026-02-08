@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 201
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - chili

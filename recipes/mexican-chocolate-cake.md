@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 36
 calories: 125
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cake
   - chocolate

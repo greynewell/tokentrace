@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 4
 calories: 1062
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 175
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bars
   - dessert

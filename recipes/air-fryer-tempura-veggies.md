@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 247
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - air
   - appetizer

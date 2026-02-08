@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 427
 recipe_category: Salad
+cuisine: French
 keywords:
   - gypsy
   - salad

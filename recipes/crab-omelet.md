@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 165
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - crab

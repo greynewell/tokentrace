@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 12
 calories: 520
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cast
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 379
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - instant
   - pot

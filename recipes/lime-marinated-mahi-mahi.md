@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 860
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lime

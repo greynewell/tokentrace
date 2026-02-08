@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 305
 recipe_category: Soup
+cuisine: American
 keywords:
   - asparagus
   - leek

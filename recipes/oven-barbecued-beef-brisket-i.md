@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 9
 calories: 672
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecued
   - beef

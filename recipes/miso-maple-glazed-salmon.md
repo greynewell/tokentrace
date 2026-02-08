@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 365
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - glazed

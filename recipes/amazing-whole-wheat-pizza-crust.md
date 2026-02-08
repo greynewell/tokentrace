@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 167
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - amazing
   - bread

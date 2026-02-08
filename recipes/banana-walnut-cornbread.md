@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 381
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - banana
   - bread

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 131
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - crullers

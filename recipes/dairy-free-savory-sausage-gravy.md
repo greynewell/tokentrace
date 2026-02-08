@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 155
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dairy
   - dish

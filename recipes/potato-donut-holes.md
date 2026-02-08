@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 48
 calories: 132
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - donut

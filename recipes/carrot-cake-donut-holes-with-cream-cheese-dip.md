@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 24
 calories: 179
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cake

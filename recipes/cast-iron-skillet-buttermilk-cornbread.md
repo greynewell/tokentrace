@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 202
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - buttermilk

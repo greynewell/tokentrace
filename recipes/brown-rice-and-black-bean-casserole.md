@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 337
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bean
   - black

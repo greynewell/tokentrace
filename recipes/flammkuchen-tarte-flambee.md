@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 995
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - flambee

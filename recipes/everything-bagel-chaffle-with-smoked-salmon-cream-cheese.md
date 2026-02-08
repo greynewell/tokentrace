@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 232
 recipe_category: Bread
+cuisine: American
 keywords:
   - bagel
   - bread

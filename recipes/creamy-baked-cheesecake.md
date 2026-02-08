@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 596
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - cheesecake

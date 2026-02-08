@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 564
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - boats
   - breakfast

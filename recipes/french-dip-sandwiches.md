@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 10
 calories: 372
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - dip

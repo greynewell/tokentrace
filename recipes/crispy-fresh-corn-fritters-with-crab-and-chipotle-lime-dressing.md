@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 6
 calories: 279
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - chipotle

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 468
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - bread
   - italian

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 327
 recipe_category: Soup
+cuisine: American
 keywords:
   - brown
   - chowder

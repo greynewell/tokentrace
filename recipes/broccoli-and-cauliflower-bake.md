@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 460
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bake
   - broccoli

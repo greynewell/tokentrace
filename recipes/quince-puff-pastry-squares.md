@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 458
 recipe_category: Dessert
+cuisine: Mediterranean
 keywords:
   - dessert
   - pastry

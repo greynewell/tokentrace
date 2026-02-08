@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 293
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - garlic

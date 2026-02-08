@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 2
 calories: 520
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - bucco

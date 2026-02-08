@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 249
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - noodle
   - ramen

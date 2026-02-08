@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 184
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - cherry

@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 240
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - country

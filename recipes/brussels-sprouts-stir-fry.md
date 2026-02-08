@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 86
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - brussels
   - dish

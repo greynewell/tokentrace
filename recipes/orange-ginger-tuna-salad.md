@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 492
 recipe_category: Salad
+cuisine: American
 keywords:
   - ginger
   - orange

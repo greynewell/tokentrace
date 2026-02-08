@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 136
 recipe_category: Salad
+cuisine: French
 keywords:
   - beet
   - carrot

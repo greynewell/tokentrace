@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 14
 calories: 512
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cheese

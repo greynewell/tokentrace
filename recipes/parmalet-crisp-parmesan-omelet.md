@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 291
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - crisp

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 533
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - dessert

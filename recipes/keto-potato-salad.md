@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 141
 recipe_category: Salad
+cuisine: American
 keywords:
   - keto
   - potato

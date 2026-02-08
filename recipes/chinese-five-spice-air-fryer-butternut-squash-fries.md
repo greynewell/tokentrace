@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 150
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - air
   - butternut

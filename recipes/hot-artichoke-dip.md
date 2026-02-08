@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 32
 calories: 57
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - artichoke

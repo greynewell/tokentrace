@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 421
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheese
   - cottage

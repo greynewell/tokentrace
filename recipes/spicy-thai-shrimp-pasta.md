@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 564
 recipe_category: Salad
+cuisine: Thai
 keywords:
   - pasta
   - salad

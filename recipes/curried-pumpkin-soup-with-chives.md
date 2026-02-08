@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 81
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - chives
   - course

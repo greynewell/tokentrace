@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 351
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - almond
   - cranberry

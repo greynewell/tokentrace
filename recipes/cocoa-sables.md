@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 84
 calories: 29
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cocoa
   - dessert

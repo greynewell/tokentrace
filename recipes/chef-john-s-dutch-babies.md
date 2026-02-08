@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 250
 recipe_category: Bread
+cuisine: American
 keywords:
   - babies
   - bread

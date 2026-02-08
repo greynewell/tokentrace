@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 252
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - soup

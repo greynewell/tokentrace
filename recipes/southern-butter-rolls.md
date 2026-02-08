@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 120
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - butter

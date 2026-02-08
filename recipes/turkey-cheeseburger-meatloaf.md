@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 253
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cheeseburger
   - course

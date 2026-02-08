@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 475
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butterscotch
   - dessert

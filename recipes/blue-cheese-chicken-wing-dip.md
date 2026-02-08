@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 16
 calories: 263
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blue

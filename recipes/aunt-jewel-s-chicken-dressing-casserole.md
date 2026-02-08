@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 236
 recipe_category: Main Course
+cuisine: American
 keywords:
   - aunt
   - casserole

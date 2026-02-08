@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 3
 calories: 330
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - egyptian

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 552
 recipe_category: Dessert
+cuisine: American
 keywords:
   - carrot
   - dessert

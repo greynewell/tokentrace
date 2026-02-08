@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 40
 calories: 83
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rye

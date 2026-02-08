@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 306
 recipe_category: Salad
+cuisine: American
 keywords:
   - grape
   - nanny

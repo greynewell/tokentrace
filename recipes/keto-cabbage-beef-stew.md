@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 10
 calories: 326
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - cabbage

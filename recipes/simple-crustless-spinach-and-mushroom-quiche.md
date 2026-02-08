@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 412
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crustless

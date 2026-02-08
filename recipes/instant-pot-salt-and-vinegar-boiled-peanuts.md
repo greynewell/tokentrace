@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 16
 calories: 162
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - boiled

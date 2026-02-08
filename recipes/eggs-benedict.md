@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 879
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - benedict
   - breakfast

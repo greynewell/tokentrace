@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 725
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coffee

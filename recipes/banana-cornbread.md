@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 196
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - banana
   - bread

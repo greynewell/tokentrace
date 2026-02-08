@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 12
 calories: 332
 recipe_category: Bread
+cuisine: American
 keywords:
   - african
   - bread

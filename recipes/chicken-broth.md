@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 24
 calories: 302
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - chicken

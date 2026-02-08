@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 1078
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - eye

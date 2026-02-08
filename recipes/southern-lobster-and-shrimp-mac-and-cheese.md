@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 16
 calories: 884
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - cheese
   - course

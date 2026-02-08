@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 268
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - fried
   - okra

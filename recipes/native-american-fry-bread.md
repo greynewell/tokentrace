@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 12
 calories: 307
 recipe_category: Bread
+cuisine: American
 keywords:
   - american
   - bread

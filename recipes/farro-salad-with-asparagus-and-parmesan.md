@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 223
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - asparagus
   - farro

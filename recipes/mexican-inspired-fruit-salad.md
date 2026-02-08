@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 116
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - fruit
   - inspired

@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 91
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - almonds
   - appetizer

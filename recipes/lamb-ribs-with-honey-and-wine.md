@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 508
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - honey

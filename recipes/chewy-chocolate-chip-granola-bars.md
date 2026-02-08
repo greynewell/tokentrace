@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 18
 calories: 211
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bars

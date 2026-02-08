@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 494
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - course

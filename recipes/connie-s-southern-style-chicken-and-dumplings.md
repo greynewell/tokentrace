@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 6
 calories: 443
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - connie

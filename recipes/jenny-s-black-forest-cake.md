@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 477
 recipe_category: Dessert
+cuisine: American
 keywords:
   - black
   - cake

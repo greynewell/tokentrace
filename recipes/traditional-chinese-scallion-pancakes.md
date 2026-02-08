@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 222
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bread
   - chinese

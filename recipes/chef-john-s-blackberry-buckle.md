@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 339
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blackberry
   - buckle

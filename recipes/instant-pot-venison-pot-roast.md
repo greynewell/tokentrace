@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 6
 calories: 275
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - instant

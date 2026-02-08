@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 66
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - clam

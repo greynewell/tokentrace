@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 670
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - chocolate

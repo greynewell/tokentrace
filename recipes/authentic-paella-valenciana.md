@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 8
 calories: 783
 recipe_category: Main Course
+cuisine: American
 keywords:
   - authentic
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 225
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - filipino

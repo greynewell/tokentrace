@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 36
 calories: 40
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

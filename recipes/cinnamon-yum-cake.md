@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 370
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cinnamon

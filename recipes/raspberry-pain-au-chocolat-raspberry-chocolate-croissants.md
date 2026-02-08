@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 18
 calories: 189
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolat

@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 48
 calories: 16
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - ketchup

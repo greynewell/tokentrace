@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 12
 calories: 350
 recipe_category: Soup
+cuisine: American
 keywords:
   - baltimore
   - crab

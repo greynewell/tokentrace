@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 12
 calories: 260
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - ham

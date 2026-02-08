@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 181
 recipe_category: Salad
+cuisine: American
 keywords:
   - cornucopia
   - salad

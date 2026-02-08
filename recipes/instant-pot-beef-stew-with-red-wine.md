@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 594
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beef
   - instant

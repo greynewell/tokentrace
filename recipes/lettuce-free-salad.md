@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 147
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - free
   - lettuce

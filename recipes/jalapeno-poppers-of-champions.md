@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 18
 calories: 73
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - champions

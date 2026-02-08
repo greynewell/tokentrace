@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 56
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - cakes
   - course

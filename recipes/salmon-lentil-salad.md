@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 638
 recipe_category: Salad
+cuisine: American
 keywords:
   - lentil
   - salad

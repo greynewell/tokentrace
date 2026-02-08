@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 9
 calories: 192
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - soup

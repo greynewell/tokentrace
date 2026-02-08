@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 32
 calories: 178
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

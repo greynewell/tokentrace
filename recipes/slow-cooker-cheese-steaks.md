@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 6
 calories: 652
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cheese
   - cooker

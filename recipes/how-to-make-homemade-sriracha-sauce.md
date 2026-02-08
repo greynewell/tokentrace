@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 24
 calories: 16
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - how

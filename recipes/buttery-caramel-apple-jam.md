@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 48
 calories: 78
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - buttery

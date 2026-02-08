@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 192
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - bars

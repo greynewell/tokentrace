@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 139
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - ricotta

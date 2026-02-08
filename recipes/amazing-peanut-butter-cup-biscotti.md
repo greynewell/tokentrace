@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 30
 calories: 254
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - biscotti

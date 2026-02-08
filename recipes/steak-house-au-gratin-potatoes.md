@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 351
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - gratin

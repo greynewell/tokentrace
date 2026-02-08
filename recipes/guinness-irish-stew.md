@@ -7,6 +7,7 @@ cook_time: PT3H15M
 servings: 10
 calories: 526
 recipe_category: Soup
+cuisine: American
 keywords:
   - guinness
   - irish

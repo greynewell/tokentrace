@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 121
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - oat

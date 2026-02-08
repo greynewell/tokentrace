@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 284
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

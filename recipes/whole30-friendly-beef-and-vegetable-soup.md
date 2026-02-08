@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 308
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - friendly

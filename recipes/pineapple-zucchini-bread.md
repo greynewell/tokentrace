@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 292
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pineapple

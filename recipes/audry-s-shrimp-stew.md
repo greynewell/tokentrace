@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 4
 calories: 271
 recipe_category: Soup
+cuisine: American
 keywords:
   - audry
   - shrimp

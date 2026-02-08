@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 458
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chops
   - course

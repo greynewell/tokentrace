@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 573
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - john

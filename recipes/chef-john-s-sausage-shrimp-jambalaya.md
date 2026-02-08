@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 495
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chef
   - jambalaya

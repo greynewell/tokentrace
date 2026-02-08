@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 289
 recipe_category: Bread
+cuisine: American
 keywords:
   - better
   - bread

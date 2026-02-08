@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 4
 calories: 480
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - bone

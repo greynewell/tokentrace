@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 40
 calories: 81
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crab

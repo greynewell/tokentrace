@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 475
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - chicken
   - pasta

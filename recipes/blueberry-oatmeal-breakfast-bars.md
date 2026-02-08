@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 324
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bars
   - blueberry

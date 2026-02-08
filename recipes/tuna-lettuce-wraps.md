@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 94
 recipe_category: Salad
+cuisine: American
 keywords:
   - lettuce
   - salad

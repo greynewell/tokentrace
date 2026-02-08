@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 18
 calories: 600
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - paska

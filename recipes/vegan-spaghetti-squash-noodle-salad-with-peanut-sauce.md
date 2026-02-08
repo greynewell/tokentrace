@@ -7,6 +7,7 @@ cook_time: PT31M
 servings: 4
 calories: 235
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - noodle
   - peanut

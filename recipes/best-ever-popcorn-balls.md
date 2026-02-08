@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 190
 recipe_category: Dessert
+cuisine: American
 keywords:
   - balls
   - dessert

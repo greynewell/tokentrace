@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 144
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brittle
   - dessert

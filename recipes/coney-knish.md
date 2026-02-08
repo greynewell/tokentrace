@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 802
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - coney

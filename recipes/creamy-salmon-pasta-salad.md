@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 435
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - creamy
   - pasta

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 224
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - okra

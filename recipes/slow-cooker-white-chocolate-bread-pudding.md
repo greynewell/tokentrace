@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 376
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bread
   - chocolate

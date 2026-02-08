@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 122
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - ants
   - appetizer

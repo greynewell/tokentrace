@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 408
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - baked
   - banana

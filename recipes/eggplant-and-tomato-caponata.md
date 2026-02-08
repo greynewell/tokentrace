@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 59
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - caponata

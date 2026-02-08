@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 374
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - catfish
   - course

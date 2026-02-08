@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 36
 calories: 95
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookies

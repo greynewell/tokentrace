@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 404
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - banana
   - cake

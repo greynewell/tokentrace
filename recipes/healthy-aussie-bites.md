@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 30
 calories: 171
 recipe_category: Bread
+cuisine: American
 keywords:
   - aussie
   - bites

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 323
 recipe_category: Dessert
+cuisine: American
 keywords:
   - basboosa
   - dessert

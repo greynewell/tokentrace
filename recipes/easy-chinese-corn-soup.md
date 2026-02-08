@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 121
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chinese
   - corn

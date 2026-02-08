@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 189
 recipe_category: Beverage
+cuisine: American
 keywords:
   - almond
   - beverage

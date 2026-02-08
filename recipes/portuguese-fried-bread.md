@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 118
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fried

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 3
 calories: 643
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - legs

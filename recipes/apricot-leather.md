@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 14
 calories: 39
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - apricot

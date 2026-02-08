@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 701
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cheesecake

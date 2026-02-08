@@ -7,6 +7,7 @@ cook_time: PT3H45M
 servings: 16
 calories: 493
 recipe_category: Main Course
+cuisine: American
 keywords:
   - christmas
   - course

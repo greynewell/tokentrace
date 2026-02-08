@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 6
 calories: 546
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - casserole

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 451
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - jalapeno

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 32
 calories: 210
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - croissants

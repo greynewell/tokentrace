@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 574
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - course

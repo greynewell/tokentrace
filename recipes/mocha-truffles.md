@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 66
 calories: 76
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - mocha

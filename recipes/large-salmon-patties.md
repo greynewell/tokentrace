@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 5
 calories: 483
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - large

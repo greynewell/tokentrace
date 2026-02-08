@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 8
 calories: 275
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cabbage
   - dish

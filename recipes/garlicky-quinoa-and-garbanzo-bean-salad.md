@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 264
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - bean
   - garbanzo

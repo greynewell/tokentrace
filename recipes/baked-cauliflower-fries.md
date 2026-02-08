@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 4
 calories: 358
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - cauliflower

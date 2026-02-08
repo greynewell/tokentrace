@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 206
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - asian

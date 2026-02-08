@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 24
 calories: 107
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - crab

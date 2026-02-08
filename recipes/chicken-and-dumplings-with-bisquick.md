@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 4
 calories: 659
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - bisquick
   - chicken

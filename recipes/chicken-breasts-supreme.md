@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 6
 calories: 335
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breasts
   - chicken

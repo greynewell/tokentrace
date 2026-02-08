@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 562
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cobbler
   - dessert

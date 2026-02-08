@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 558
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - emily

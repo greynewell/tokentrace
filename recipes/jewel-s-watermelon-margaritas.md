@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 241
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - jewel

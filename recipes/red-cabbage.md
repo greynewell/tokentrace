@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 136
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cabbage
   - dish

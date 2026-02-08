@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 167
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - dandelions

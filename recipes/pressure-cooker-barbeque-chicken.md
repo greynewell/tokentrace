@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 8
 calories: 218
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - chicken

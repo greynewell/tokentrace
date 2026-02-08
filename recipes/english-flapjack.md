@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 250
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - english

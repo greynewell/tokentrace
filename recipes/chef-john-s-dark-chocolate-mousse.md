@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 297
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chef
   - chocolate

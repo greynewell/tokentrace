@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 237
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beef
   - cabbage

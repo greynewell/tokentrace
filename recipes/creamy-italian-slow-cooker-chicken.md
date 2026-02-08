@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 4
 calories: 384
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - cooker

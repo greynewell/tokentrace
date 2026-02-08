@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 415
 recipe_category: Bread
+cuisine: American
 keywords:
   - applesauce
   - bread

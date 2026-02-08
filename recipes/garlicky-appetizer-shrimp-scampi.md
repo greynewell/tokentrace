@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 302
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - appetizer
   - course

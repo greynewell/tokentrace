@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 394
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - gumbo
   - okra

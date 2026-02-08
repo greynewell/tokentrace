@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 162
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - cauliflower

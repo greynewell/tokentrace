@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 348
 recipe_category: Salad
+cuisine: American
 keywords:
   - arugula
   - grapes

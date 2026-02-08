@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 4
 calories: 690
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - baked

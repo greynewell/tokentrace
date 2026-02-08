@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 343
 recipe_category: Dessert
+cuisine: American
 keywords:
   - creamy
   - dessert

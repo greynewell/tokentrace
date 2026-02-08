@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 396
 recipe_category: Main Course
+cuisine: French
 keywords:
   - casserole
   - chicken

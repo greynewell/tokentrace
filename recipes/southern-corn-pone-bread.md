@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 179
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - corn

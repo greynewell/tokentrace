@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 426
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - dank
   - gumbo

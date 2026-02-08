@@ -7,6 +7,7 @@ cook_time: PT39M
 servings: 9
 calories: 434
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - chip

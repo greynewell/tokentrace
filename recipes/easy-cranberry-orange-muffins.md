@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 429
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cranberry

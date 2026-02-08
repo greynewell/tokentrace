@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 68
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - fat
   - free

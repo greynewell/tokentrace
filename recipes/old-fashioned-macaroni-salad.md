@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 360
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - macaroni
   - salad

@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 10
 calories: 341
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecued
   - chicken

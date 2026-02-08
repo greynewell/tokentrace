@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 330
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - broccoli
   - casserole

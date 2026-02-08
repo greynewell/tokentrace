@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 207
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rhubarb

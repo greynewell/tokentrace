@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 12
 calories: 441
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chicken

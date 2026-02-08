@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 132
 recipe_category: Bread
+cuisine: American
 keywords:
   - aparts
   - bread

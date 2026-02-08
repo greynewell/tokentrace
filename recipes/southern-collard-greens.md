@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 471
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - collard
   - dish

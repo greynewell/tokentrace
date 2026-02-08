@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 130
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mousse

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 403
 recipe_category: Salad
+cuisine: American
 keywords:
   - bacon
   - caramelized

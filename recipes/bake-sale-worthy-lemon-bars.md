@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 232
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bake
   - bars

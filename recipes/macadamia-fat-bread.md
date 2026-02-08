@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 18
 calories: 143
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fat

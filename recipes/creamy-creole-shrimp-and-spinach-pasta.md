@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 4
 calories: 750
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - creamy

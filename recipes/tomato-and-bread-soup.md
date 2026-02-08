@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 172
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bread
   - soup

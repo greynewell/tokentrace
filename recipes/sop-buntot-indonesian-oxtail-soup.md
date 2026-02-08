@@ -7,6 +7,7 @@ cook_time: PT5H27M
 servings: 8
 calories: 520
 recipe_category: Soup
+cuisine: American
 keywords:
   - buntot
   - indonesian

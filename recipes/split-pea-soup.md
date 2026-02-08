@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 310
 recipe_category: Soup
+cuisine: American
 keywords:
   - pea
   - soup

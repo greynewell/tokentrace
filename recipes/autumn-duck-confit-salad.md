@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 425
 recipe_category: Salad
+cuisine: American
 keywords:
   - autumn
   - confit

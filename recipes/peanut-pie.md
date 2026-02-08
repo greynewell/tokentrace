@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 550
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - peanut

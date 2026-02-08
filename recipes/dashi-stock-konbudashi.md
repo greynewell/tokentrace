@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 12
 recipe_category: Soup
+cuisine: American
 keywords:
   - dashi
   - konbudashi

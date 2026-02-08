@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 746
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - grilled

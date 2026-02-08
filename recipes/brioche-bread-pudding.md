@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 16
 calories: 475
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bread
   - brioche

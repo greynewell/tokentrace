@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 356
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - beef
   - curry

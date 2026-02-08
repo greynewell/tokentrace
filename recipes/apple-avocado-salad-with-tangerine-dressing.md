@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 144
 recipe_category: Salad
+cuisine: American
 keywords:
   - apple
   - avocado

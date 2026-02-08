@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 20
 calories: 203
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

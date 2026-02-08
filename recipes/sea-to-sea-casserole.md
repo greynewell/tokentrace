@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 632
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - casserole
   - course

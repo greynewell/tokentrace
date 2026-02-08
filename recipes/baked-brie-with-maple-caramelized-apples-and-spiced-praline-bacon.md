@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 193
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - apples
   - bacon

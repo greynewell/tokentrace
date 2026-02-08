@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 48
 calories: 123
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - coconut

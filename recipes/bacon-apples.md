@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 179
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apples
   - bacon

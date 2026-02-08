@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 146
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - famous

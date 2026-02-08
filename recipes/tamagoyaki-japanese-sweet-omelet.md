@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 82
 recipe_category: Breakfast
+cuisine: Japanese
 keywords:
   - breakfast
   - japanese

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 561
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - chocolate
   - dessert

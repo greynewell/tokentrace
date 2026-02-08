@@ -7,6 +7,7 @@ cook_time: PT3H35M
 servings: 6
 calories: 246
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - barbecue

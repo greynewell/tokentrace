@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 180
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pralines

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 87
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bread

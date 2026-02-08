@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 636
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chow

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 14
 calories: 595
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cream

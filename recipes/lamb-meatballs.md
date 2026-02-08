@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 136
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - lamb

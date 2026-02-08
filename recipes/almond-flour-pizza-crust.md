@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 8
 calories: 261
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - almond
   - course

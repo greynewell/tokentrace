@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 44
 calories: 124
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscotti
   - course

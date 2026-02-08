@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 372
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

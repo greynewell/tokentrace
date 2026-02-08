@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 305
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cake

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 20
 calories: 197
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - banana
   - bread

@@ -7,6 +7,7 @@ cook_time: PT8H5M
 servings: 8
 calories: 178
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - cooker

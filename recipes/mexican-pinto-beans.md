@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 12
 calories: 159
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - beans
   - dish

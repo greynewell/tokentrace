@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 163
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - cauliflower
   - dijon

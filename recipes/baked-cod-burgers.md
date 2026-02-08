@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 330
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - burgers

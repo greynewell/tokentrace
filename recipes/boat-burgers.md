@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 897
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boat
   - burgers

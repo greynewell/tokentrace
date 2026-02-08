@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 4
 calories: 624
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - camping
   - clam

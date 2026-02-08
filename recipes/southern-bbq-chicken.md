@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 5
 calories: 424
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - chicken

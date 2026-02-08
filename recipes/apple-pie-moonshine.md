@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 100
 calories: 104
 recipe_category: Beverage
+cuisine: American
 keywords:
   - apple
   - beverage

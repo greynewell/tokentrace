@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 423
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - bites

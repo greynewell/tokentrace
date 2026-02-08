@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 185
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheesy

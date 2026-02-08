@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 2
 calories: 120
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - chop

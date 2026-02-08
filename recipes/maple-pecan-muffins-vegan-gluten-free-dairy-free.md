@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 9
 calories: 179
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - dairy

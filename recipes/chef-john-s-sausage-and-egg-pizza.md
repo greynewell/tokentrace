@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 649
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - chef

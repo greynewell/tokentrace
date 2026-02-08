@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 186
 recipe_category: Salad
+cuisine: American
 keywords:
   - new
   - salad

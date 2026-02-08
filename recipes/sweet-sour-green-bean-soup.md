@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 162
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - green

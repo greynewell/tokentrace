@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 746
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - chef
   - john

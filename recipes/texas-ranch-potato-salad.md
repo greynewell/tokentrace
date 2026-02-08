@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 353
 recipe_category: Salad
+cuisine: American
 keywords:
   - potato
   - ranch

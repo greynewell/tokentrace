@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 18
 calories: 253
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crunch
   - dessert

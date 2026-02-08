@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 315
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - holiday

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 173
 recipe_category: Soup
+cuisine: American
 keywords:
   - absolute
   - potato

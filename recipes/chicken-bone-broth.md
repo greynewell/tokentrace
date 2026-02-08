@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 6
 calories: 129
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - broth

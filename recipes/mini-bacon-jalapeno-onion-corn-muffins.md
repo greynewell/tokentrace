@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 45
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bacon
   - corn

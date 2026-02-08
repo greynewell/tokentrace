@@ -7,6 +7,7 @@ cook_time: PT9H
 servings: 8
 calories: 472
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cabbage

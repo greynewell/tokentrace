@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 743
 recipe_category: Main Course
+cuisine: American
 keywords:
   - ate
   - course

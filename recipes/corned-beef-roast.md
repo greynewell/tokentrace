@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 8
 calories: 465
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - corned

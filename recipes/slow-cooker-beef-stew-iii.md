@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 6
 calories: 581
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - cooker

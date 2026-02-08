@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 185
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - italian
   - soup

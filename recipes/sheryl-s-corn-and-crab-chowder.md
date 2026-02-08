@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 709
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - corn

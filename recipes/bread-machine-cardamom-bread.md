@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 161
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cardamom

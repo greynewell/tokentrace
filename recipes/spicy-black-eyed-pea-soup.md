@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 303
 recipe_category: Soup
+cuisine: American
 keywords:
   - black
   - eyed

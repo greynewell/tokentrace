@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 146
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - grandma

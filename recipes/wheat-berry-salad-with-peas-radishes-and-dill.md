@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 10
 calories: 116
 recipe_category: Salad
+cuisine: American
 keywords:
   - berry
   - dill

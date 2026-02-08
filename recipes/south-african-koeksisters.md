@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 224
 recipe_category: Bread
+cuisine: American
 keywords:
   - african
   - bread

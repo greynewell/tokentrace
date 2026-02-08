@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 240
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - blue

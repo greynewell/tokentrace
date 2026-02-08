@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 429
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - donauwelle

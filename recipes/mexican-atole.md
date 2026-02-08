@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 68
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - atole
   - course

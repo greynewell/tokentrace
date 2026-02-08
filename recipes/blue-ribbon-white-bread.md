@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 61
 recipe_category: Bread
+cuisine: American
 keywords:
   - blue
   - bread

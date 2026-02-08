@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 2
 calories: 270
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butter
   - dish

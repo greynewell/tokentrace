@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 536
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

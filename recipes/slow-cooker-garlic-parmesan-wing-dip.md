@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 202
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cooker

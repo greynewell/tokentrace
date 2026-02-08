@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 206
 recipe_category: Salad
+cuisine: American
 keywords:
   - chives
   - cream

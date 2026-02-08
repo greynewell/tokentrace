@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 16
 calories: 102
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bar

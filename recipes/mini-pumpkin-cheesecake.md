@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 296
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheesecake
   - dish

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 634
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cheese
   - course

@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 10
 calories: 468
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cabbage
   - course

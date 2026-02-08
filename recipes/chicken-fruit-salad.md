@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 539
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - chicken
   - fruit

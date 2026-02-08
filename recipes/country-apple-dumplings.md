@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 333
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - apple
   - country

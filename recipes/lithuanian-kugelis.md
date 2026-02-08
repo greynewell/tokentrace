@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 475
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - kugelis

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 36
 calories: 155
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - amish
   - bread

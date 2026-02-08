@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 36
 calories: 90
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - italian

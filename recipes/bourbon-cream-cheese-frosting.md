@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 304
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - cheese

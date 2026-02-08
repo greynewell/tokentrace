@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 4
 calories: 359
 recipe_category: Salad
+cuisine: French
 keywords:
   - potato
   - salad

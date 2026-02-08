@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 401
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bread

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 317
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - beginner
   - chicken

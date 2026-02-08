@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 10
 calories: 421
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - big
   - charlie

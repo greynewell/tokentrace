@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 72
 calories: 81
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - favorites

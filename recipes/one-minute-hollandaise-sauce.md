@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 4
 calories: 233
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - hollandaise

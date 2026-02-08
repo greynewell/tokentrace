@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 475
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - crispy

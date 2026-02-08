@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 10
 calories: 410
 recipe_category: Soup
+cuisine: American
 keywords:
   - ball
   - bubbie

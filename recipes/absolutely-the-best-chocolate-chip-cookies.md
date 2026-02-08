@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 241
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - absolutely
   - chip

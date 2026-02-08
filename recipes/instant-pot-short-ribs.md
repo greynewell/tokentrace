@@ -7,6 +7,7 @@ cook_time: PT1H39M
 servings: 12
 calories: 485
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - instant

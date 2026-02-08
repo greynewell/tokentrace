@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 253
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - dumplings

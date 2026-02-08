@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 1
 calories: 357
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - baked
   - dish

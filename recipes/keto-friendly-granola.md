@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 173
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - friendly

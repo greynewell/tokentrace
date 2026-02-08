@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 186
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 6
 calories: 256
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - english

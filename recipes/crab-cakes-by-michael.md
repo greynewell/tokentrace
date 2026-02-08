@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 65
 calories: 221
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

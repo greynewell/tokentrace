@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 360
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - cilantro
   - dish

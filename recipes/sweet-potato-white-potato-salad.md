@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 154
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - potato
   - salad

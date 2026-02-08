@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 396
 recipe_category: Salad
+cuisine: American
 keywords:
   - gourmet
   - salad

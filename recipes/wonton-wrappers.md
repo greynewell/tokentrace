@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 72
 calories: 14
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - main

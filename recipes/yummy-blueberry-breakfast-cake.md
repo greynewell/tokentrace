@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 311
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - breakfast

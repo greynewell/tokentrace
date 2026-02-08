@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 9
 calories: 266
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bread
   - cheesy

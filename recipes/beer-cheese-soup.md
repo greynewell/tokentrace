@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 8
 calories: 508
 recipe_category: Soup
+cuisine: American
 keywords:
   - beer
   - cheese

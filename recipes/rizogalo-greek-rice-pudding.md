@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 176
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - greek

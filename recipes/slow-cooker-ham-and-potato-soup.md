@@ -7,6 +7,7 @@ cook_time: PT11H
 servings: 6
 calories: 596
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - ham

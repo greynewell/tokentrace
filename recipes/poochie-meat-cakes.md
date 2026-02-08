@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 36
 calories: 309
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cakes
   - course

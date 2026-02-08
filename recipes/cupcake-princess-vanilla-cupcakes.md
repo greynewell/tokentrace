@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 178
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cupcake
   - cupcakes

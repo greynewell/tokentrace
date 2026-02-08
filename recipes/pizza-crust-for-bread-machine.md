@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 86
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crust

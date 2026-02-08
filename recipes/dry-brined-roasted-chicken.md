@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 161
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brined
   - chicken

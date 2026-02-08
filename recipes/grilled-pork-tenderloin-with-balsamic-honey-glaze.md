@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 251
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balsamic
   - course

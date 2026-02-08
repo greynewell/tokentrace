@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 266
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - kale
   - potato

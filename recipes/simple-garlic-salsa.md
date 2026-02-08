@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 262
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - garlic

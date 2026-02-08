@@ -7,6 +7,7 @@ cook_time: PT6H15M
 servings: 6
 calories: 336
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - cooker
   - dumplings

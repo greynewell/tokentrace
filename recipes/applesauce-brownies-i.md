@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 103
 recipe_category: Dessert
+cuisine: American
 keywords:
   - applesauce
   - brownies

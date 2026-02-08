@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 9
 calories: 457
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - cinnamon

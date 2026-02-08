@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 477
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - avocado
   - salad

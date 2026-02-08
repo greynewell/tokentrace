@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 92
 recipe_category: Main Course
+cuisine: American
 keywords:
   - calorie
   - course

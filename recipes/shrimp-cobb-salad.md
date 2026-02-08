@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 528
 recipe_category: Salad
+cuisine: American
 keywords:
   - cobb
   - salad

@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 12
 calories: 227
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - ham

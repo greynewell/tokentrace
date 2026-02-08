@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 181
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - cucumber
   - salad

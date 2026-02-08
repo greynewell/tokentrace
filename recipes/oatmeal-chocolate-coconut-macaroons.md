@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 15
 calories: 228
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - coconut

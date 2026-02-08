@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 7
 calories: 412
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - broccoli
   - curry

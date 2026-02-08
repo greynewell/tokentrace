@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 12
 calories: 251
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheesy
   - dish

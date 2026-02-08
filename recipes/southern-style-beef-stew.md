@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 10
 calories: 373
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - beef
   - soup

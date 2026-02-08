@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 333
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fresh

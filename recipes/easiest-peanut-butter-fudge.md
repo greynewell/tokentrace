@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 15
 calories: 357
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - dessert

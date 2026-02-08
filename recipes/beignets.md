@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 543
 recipe_category: Bread
+cuisine: French
 keywords:
   - beignets
   - bread

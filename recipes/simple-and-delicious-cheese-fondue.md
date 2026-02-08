@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 1019
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - cheese

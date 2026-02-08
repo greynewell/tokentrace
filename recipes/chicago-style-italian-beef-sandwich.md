@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 448
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - chicago

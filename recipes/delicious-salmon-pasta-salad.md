@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 695
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - delicious
   - pasta

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 14
 calories: 821
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bittersweet
   - cakes

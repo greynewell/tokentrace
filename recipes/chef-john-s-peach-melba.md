@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 420
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chef
   - dessert

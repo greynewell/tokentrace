@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 4
 calories: 267
 recipe_category: Soup
+cuisine: American
 keywords:
   - lotus
   - pork

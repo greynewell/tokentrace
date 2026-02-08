@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 358
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - french

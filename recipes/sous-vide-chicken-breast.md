@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 4
 calories: 151
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breast
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 339
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - curried
   - deception

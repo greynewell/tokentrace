@@ -7,6 +7,7 @@ cook_time: PT8H55M
 servings: 16
 calories: 197
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cooker
   - dish

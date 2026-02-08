@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 1072
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - burgers

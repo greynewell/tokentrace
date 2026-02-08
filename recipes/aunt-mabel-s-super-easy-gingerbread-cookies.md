@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 481
 recipe_category: Dessert
+cuisine: American
 keywords:
   - aunt
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 662
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - course

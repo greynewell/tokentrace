@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 1008
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - french

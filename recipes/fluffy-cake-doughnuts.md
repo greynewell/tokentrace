@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 196
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cake

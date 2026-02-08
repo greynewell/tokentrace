@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 92
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - bbq
   - carolina

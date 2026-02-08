@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 484
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - mormon

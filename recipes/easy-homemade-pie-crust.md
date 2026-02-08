@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 346
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crust
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 35
 calories: 131
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chicken
   - course

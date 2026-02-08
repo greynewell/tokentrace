@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 36
 calories: 233
 recipe_category: Beverage
+cuisine: American
 keywords:
   - apple
   - beverage

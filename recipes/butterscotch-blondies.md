@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 274
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blondies
   - butterscotch

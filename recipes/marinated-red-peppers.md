@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 40
 calories: 148
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - marinated

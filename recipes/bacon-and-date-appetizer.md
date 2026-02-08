@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 560
 recipe_category: Main Course
+cuisine: American
 keywords:
   - appetizer
   - bacon

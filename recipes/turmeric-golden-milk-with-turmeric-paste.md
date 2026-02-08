@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 2
 calories: 150
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - golden

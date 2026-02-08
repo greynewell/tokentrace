@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 536
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cajun
   - chicken

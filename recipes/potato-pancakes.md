@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 197
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - pancakes

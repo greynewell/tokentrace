@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 1015
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

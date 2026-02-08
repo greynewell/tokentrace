@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 712
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lobster

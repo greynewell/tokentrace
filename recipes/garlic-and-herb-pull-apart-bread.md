@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 267
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - apart
   - appetizer

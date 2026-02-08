@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 101
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - gingerbread

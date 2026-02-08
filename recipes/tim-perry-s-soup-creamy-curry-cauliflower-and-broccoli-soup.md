@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 348
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - broccoli
   - cauliflower

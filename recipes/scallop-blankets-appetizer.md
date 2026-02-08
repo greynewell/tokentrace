@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 206
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blankets

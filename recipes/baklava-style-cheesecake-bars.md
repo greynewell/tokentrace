@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 188
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - baklava
   - bars

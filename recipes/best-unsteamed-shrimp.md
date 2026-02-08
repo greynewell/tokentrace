@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 4
 calories: 471
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

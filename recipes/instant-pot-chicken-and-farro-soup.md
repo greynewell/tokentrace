@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 279
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - farro

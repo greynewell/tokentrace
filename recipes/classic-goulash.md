@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 386
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - classic
   - goulash

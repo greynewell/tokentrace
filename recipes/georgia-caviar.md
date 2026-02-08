@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 258
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - caviar

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 44
 calories: 114
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cranberry

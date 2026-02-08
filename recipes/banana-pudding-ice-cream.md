@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 332
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - banana
   - cream

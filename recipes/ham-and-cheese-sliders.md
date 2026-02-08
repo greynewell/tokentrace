@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 12
 calories: 474
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

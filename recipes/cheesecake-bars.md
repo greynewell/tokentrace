@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 36
 calories: 73
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cheesecake

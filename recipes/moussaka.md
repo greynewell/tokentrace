@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 567
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - main

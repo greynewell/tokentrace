@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 213
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - horchata

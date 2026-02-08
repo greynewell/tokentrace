@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 194
 recipe_category: Salad
+cuisine: American
 keywords:
   - beet
   - fresh

@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 12
 calories: 119
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - brazilian

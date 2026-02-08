@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 526
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - breast

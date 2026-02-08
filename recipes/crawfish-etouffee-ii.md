@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 322
 recipe_category: Soup
+cuisine: American
 keywords:
   - crawfish
   - etouffee

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 1102
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

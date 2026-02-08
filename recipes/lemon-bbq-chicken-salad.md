@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 710
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - bbq
   - chicken

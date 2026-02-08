@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 4
 calories: 372
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - salad
   - salmon

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 232
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - curry
   - pasta

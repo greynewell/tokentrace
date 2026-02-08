@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 12
 calories: 212
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

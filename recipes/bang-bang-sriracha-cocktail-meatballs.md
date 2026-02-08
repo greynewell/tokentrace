@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 10
 calories: 158
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bang

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 206
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - applesauce
   - baked

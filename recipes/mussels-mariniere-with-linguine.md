@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 772
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - linguine

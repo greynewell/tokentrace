@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 20
 calories: 353
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - brisket

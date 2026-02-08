@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 508
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chocolate
   - course

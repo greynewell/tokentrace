@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 4
 calories: 738
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broiled
   - course

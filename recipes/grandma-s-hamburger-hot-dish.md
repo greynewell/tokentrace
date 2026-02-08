@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 483
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dish

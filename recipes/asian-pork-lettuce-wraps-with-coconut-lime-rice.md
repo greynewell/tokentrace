@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 233
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - asian

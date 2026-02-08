@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 393
 recipe_category: Main Course
+cuisine: American
 keywords:
   - classic
   - course

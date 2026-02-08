@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 174
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baked
   - breakfast

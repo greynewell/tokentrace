@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 570
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - broccoli

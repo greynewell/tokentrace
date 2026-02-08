@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 300
 calories: 9
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butter
   - carrot

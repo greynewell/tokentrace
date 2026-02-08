@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 20
 calories: 168
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cape

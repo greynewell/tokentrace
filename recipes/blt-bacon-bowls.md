@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 9
 calories: 158
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - blt

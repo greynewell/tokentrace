@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 7
 calories: 494
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bavarian

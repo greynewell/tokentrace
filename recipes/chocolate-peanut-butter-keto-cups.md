@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 246
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - chocolate

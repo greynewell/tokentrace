@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 443
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

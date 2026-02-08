@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 318
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - pawpaw

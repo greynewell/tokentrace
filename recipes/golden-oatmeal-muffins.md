@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 116
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - golden

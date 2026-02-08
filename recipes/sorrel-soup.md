@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 112
 recipe_category: Soup
+cuisine: American
 keywords:
   - sorrel
   - soup

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 9
 calories: 209
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - clam

@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 36
 calories: 101
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cookies
   - course

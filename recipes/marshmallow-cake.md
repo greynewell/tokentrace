@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 404
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

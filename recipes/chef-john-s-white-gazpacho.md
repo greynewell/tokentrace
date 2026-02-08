@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 152
 recipe_category: Soup
+cuisine: French
 keywords:
   - chef
   - gazpacho

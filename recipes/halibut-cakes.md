@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 30
 calories: 55
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

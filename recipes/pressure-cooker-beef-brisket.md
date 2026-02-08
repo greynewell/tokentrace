@@ -7,6 +7,7 @@ cook_time: PT1H29M
 servings: 6
 calories: 224
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - brisket

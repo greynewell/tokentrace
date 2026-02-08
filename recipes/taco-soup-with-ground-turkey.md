@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 6
 calories: 356
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - ground

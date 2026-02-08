@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 200
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - mostaccioli
   - salad

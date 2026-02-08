@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 414
 recipe_category: Bread
+cuisine: American
 keywords:
   - blueberry
   - bread

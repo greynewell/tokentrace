@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 16
 calories: 320
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - amish
   - bake

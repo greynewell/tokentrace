@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 32
 calories: 110
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - jalapeno

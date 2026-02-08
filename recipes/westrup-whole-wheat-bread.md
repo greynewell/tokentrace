@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 40
 calories: 92
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - westrup

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 341
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cabbage
   - course

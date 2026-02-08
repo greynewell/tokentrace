@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 492
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crisp
   - dessert

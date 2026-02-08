@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 312
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - coriander
   - salad

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 148
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - course

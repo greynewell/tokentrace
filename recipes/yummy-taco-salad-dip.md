@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 56
 calories: 74
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - dip

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 208
 recipe_category: Bread
+cuisine: American
 keywords:
   - beer
   - bread

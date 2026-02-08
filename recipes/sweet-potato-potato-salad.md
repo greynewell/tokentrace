@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 244
 recipe_category: Salad
+cuisine: American
 keywords:
   - potato
   - salad

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 3
 calories: 536
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - cheese
   - dish

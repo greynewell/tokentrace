@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 431
 recipe_category: Soup
+cuisine: American
 keywords:
   - beer
   - cheese

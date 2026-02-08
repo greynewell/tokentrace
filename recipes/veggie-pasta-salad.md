@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 190
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - salad

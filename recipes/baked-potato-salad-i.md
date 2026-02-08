@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 12
 calories: 422
 recipe_category: Salad
+cuisine: American
 keywords:
   - baked
   - potato

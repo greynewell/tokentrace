@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 567
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

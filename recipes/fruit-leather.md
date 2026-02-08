@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 16
 calories: 90
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - fruit

@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 4
 calories: 313
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - broccoli

@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 12
 calories: 438
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chicken
   - free

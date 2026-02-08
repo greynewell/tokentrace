@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 36
 calories: 31
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - ccryder
   - dish

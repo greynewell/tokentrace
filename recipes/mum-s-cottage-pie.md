@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 2
 calories: 846
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cottage
   - course

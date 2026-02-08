@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 235
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cilantro

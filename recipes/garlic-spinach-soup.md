@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 106
 recipe_category: Soup
+cuisine: American
 keywords:
   - garlic
   - soup

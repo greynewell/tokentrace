@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 46
 calories: 150
 recipe_category: Beverage
+cuisine: American
 keywords:
   - ala
   - apple

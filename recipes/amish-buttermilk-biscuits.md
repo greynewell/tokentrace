@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 7
 calories: 223
 recipe_category: Bread
+cuisine: American
 keywords:
   - amish
   - biscuits

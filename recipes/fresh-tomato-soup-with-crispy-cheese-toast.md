@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 578
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cheese
   - crispy

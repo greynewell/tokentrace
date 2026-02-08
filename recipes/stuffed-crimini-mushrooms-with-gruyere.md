@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 188
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crimini

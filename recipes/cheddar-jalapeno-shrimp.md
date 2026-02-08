@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 852
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheddar
   - course

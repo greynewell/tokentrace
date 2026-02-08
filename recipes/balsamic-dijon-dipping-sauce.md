@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 29
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - balsamic

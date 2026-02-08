@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 81
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - batter
   - bread

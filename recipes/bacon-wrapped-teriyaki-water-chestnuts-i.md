@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 117
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - bacon
   - chestnuts

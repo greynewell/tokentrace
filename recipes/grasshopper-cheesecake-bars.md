@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 25
 calories: 94
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cheesecake

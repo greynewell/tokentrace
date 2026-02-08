@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 163
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bold

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 446
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - asparagus
   - couscous

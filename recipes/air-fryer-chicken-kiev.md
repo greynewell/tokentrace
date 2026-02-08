@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 782
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - chicken

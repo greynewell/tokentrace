@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 73
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - jam

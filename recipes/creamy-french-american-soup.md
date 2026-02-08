@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 3
 calories: 1034
 recipe_category: Soup
+cuisine: French
 keywords:
   - american
   - creamy

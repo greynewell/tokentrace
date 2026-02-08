@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 439
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

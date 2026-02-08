@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 18
 calories: 330
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - creamy

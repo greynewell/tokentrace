@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 121
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cauliflower

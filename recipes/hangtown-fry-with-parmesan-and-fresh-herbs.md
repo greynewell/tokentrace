@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 559
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - fresh

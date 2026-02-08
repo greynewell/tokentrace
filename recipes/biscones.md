@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 207
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscones
   - bread

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 225
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - broccoli
   - dish

@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 16
 calories: 538
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bean
   - cheesecake

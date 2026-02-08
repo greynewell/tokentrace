@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 398
 recipe_category: Salad
+cuisine: American
 keywords:
   - barbeque
   - potato

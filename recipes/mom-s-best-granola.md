@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 431
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - granola

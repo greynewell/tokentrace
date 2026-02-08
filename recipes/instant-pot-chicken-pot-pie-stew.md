@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 477
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chicken
   - instant

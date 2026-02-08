@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 339
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - buttermilk
   - dish

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 257
 recipe_category: Salad
+cuisine: American
 keywords:
   - romaine
   - salad

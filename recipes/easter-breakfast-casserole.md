@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 281
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

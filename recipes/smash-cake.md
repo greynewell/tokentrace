@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 1136
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

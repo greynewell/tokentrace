@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 333
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bell

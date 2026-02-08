@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 18
 calories: 211
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cinnamon

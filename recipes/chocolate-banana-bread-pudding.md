@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 446
 recipe_category: Dessert
+cuisine: French
 keywords:
   - banana
   - bread

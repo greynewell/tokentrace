@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 36
 calories: 87
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - microwave

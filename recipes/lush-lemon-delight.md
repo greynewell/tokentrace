@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 176
 recipe_category: Dessert
+cuisine: French
 keywords:
   - delight
   - dessert

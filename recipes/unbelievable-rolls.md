@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 235
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rolls

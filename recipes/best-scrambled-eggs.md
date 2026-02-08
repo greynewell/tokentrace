@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 1
 calories: 294
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - eggs

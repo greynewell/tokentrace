@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 302
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - cake
   - cookies

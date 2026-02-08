@@ -7,6 +7,7 @@ cook_time: PT10H10M
 servings: 16
 calories: 374
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecue
   - beef

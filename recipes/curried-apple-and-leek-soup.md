@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 4
 calories: 133
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - apple
   - curried

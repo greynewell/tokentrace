@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 252
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicha
   - course

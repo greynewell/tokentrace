@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 72
 calories: 85
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - butter

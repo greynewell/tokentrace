@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 4
 calories: 767
 recipe_category: Soup
+cuisine: American
 keywords:
   - hasenpfeffer
   - rabbit

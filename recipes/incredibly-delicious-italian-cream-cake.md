@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 767
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cake
   - course

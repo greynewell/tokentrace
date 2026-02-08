@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 327
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - nouveau
   - salad

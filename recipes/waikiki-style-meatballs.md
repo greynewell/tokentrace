@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 6
 calories: 393
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

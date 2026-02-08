@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 418
 recipe_category: Dessert
+cuisine: French
 keywords:
   - dessert
   - french

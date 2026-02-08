@@ -7,6 +7,7 @@ cook_time: PT6H5M
 servings: 10
 calories: 496
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - beans
   - black

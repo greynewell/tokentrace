@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 3
 calories: 729
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - breasts
   - chicken

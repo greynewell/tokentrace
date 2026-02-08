@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 12
 calories: 122
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - blueberry

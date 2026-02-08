@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 167
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - bing

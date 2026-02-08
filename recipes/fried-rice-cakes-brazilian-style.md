@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 20
 calories: 59
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - brazilian
   - cakes

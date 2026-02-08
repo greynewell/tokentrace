@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 6
 calories: 425
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 9
 calories: 284
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - buttermilk

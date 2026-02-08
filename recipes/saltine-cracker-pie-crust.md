@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 299
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cracker
   - crust

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 220
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bean
   - pasta

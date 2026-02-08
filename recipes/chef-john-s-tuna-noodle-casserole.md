@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 511
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - chef

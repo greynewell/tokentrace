@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 282
 recipe_category: Breakfast
+cuisine: Chinese
 keywords:
   - bread
   - breakfast

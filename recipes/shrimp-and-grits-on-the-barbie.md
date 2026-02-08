@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 530
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - barbie
   - dish

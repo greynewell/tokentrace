@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 214
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fried

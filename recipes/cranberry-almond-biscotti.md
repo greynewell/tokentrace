@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 15
 calories: 189
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - biscotti

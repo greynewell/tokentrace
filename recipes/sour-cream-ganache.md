@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 118
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cream
   - dessert

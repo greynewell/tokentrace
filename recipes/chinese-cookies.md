@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 602
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - chinese
   - cookies

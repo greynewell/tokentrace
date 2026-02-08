@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 166
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cooler

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 593
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - cooker

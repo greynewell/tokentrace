@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 111
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 4
 calories: 514
 recipe_category: Soup
+cuisine: American
 keywords:
   - chef
   - john

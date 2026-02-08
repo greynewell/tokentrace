@@ -7,6 +7,7 @@ cook_time: PT42M
 servings: 16
 calories: 432
 recipe_category: Soup
+cuisine: American
 keywords:
   - ethiopian
   - kik

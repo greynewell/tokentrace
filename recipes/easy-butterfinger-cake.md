@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 337
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butterfinger
   - cake

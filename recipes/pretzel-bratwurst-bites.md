@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 123
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bites
   - bratwurst

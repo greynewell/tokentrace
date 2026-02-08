@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 24
 calories: 193
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - beef
   - course

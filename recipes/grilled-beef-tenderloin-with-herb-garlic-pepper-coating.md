@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 13
 calories: 364
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - coating

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 310
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - cheesecake
   - chip

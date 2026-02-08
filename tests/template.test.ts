@@ -37,8 +37,8 @@ const mockJsonLd: RecipeJsonLd = {
   nutrition: { '@type': 'NutritionInformation', calories: '500 calories' },
   recipeIngredient: ['100g flour', '200ml water'],
   recipeInstructions: [
-    { '@type': 'HowToStep', text: 'Mix flour and water.', position: 1 },
-    { '@type': 'HowToStep', text: 'Bake at 200C.', position: 2 },
+    { '@type': 'HowToStep', text: 'Mix flour and water.', name: 'Mix flour and water.', position: 1 },
+    { '@type': 'HowToStep', text: 'Bake at 200C.', name: 'Bake at 200C.', position: 2 },
   ],
   keywords: 'test, Claude Chef, AI Cooking, Home Cooking',
 };

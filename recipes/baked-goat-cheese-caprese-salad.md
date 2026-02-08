@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 178
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - baked

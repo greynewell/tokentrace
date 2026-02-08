@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 16
 calories: 90
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - confit
   - cooked

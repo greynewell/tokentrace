@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 345
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - grilled

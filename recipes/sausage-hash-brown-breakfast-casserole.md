@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 573
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brown

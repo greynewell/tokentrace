@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 180
 recipe_category: Dessert
+cuisine: American
 keywords:
   - arroz
   - con

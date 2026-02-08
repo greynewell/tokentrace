@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 1
 calories: 419
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - dish

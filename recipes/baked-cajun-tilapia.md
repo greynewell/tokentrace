@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 456
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - baked
   - cajun

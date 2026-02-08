@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 15
 calories: 189
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cheeseburger

@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 8
 calories: 326
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - lima

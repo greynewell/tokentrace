@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 169
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - dish

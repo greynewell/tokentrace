@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 570
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bark
   - brownies

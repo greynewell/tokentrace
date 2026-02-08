@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 10
 calories: 131
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

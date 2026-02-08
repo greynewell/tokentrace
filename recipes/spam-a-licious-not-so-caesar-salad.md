@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 1062
 recipe_category: Salad
+cuisine: American
 keywords:
   - caesar
   - licious

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 30
 calories: 356
 recipe_category: Salad
+cuisine: American
 keywords:
   - fourth
   - july

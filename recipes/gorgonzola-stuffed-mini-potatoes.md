@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 453
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - gorgonzola

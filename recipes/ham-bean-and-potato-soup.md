@@ -7,6 +7,7 @@ cook_time: PT2H25M
 servings: 8
 calories: 425
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bean
   - course

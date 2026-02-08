@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 433
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - jalapeno

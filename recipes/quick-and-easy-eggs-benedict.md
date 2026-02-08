@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 690
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - benedict
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 447
 recipe_category: Dessert
+cuisine: American
 keywords:
   - compote
   - dessert

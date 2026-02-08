@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 537
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - air
   - beef

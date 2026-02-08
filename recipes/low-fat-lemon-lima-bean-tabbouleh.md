@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 125
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - bean
   - fat

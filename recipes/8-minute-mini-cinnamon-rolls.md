@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 210
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cinnamon

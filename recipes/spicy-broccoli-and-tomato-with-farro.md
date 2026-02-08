@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 1
 calories: 589
 recipe_category: Main Course
+cuisine: Thai
 keywords:
   - broccoli
   - course

@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 12
 calories: 198
 recipe_category: Main Course
+cuisine: American
 keywords:
   - agrodolce
   - course

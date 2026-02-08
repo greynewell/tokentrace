@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 156
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

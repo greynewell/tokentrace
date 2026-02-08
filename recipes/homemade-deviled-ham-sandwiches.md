@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 128
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - deviled

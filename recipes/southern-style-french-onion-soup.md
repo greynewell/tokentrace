@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 662
 recipe_category: Soup
+cuisine: French
 keywords:
   - french
   - onion

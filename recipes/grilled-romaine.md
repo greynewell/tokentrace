@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 101
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - grilled

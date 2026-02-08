@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 226
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - corn
   - kale

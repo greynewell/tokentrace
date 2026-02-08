@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 383
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - cream

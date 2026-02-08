@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 12
 calories: 268
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - portuguese

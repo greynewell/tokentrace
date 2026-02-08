@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 129
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cinnamon

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 150
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - aioli
   - basil

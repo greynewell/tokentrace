@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 216
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crepes

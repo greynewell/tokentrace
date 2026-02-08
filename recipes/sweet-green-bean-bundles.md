@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 608
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bean
   - bundles

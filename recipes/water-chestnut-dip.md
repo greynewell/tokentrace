@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 28
 calories: 47
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chestnut

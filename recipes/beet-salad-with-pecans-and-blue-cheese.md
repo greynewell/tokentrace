@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 488
 recipe_category: Salad
+cuisine: American
 keywords:
   - beet
   - blue

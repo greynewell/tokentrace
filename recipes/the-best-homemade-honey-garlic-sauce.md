@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 16
 calories: 43
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - garlic

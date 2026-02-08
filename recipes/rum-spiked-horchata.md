@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 263
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - horchata

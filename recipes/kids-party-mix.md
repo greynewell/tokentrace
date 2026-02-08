@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 9
 calories: 419
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - kids

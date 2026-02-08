@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 130
 recipe_category: Salad
+cuisine: American
 keywords:
   - cucumber
   - grandma

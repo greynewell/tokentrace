@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 349
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - apple
   - bacon

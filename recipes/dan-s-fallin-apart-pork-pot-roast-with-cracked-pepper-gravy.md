@@ -7,6 +7,7 @@ cook_time: PT3H55M
 servings: 7
 calories: 513
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - apart
   - course

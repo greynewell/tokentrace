@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 388
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cakes

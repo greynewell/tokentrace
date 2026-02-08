@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 133
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - black
   - bread

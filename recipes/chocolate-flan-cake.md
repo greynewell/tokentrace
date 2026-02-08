@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 18
 calories: 365
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - chocolate

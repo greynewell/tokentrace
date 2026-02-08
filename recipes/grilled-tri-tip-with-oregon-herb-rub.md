@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 10
 calories: 214
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

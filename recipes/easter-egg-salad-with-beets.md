@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 3
 calories: 357
 recipe_category: Salad
+cuisine: American
 keywords:
   - beets
   - easter

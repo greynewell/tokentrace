@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 138
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - creamy

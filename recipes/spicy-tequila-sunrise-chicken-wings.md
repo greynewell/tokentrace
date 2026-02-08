@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 704
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - appetizer
   - chicken

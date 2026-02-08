@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 243
 recipe_category: Soup
+cuisine: American
 keywords:
   - borscht
   - greens

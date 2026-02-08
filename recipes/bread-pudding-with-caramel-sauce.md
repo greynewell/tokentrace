@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 8
 calories: 847
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - bread
   - caramel

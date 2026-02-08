@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 444
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - clark

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 238
 recipe_category: Salad
+cuisine: American
 keywords:
   - ahead
   - bean

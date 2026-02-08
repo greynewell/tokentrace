@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 36
 calories: 226
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - danish

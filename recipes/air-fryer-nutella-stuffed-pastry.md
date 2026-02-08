@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 192
 recipe_category: Dessert
+cuisine: American
 keywords:
   - air
   - dessert

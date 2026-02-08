@@ -7,6 +7,7 @@ cook_time: PT47M
 servings: 6
 calories: 562
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chorizo
   - course

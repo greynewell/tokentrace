@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 12
 calories: 254
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bean
   - casserole

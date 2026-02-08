@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 196
 recipe_category: Soup
+cuisine: American
 keywords:
   - nori
   - seaweed

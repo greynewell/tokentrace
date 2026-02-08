@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 24
 calories: 129
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fritters

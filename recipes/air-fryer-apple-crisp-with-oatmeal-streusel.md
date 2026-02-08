@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 325
 recipe_category: Dessert
+cuisine: American
 keywords:
   - air
   - apple

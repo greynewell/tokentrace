@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 357
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - based
   - course

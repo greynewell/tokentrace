@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 7
 calories: 249
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

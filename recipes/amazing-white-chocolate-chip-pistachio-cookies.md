@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 224
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - chip

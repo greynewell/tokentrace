@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 8
 calories: 630
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - grandma

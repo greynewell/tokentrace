@@ -7,6 +7,7 @@ cook_time: PT6H15M
 servings: 10
 calories: 370
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - ragu

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 76
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - asparagus
   - baked

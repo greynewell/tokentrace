@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 48
 calories: 201
 recipe_category: Dessert
+cuisine: Mediterranean
 keywords:
   - baklava
   - chocolate

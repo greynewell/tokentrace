@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 239
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - campfire

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 242
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - granita

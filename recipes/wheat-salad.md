@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 10
 calories: 284
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - salad

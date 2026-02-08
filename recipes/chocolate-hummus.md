@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 48
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - chocolate

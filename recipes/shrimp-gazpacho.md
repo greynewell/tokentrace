@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 322
 recipe_category: Soup
+cuisine: American
 keywords:
   - gazpacho
   - shrimp

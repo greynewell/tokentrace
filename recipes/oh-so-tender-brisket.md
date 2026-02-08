@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 7
 calories: 416
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brisket
   - course

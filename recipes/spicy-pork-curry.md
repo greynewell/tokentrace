@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 435
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - course
   - curry

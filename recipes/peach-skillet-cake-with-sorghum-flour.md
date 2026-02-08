@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 241
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 266
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amaretti
   - course

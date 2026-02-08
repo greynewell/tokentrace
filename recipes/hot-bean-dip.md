@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 196
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bean

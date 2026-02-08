@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 255
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - beurre
   - blanc

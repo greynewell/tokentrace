@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 10
 calories: 268
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bread
   - dessert

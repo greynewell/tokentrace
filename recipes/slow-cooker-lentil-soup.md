@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 10
 calories: 258
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - lentil

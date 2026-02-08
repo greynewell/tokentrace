@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 265
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - cheese

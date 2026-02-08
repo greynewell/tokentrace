@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 606
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - mussels

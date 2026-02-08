@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 50
 calories: 101
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - cookies

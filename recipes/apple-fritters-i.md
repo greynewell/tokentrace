@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 181
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - bread

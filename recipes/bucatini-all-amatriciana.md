@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 2
 calories: 634
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - all
   - amatriciana

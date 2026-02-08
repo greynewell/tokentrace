@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 430
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - flatbread

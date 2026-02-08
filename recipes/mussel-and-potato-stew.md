@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 199
 recipe_category: Soup
+cuisine: American
 keywords:
   - mussel
   - potato

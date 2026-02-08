@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 333
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheese
   - dish

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 602
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - hawaiian

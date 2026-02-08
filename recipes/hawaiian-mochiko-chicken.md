@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 10
 calories: 316
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

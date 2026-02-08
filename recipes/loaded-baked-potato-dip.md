@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 48
 calories: 135
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - baked

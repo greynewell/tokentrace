@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 4
 calories: 466
 recipe_category: Dessert
+cuisine: French
 keywords:
   - brulee
   - creme

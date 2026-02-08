@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 220
 recipe_category: Breakfast
+cuisine: Chinese
 keywords:
   - bing
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 36
 calories: 292
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pies

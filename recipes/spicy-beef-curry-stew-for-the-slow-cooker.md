@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 4
 calories: 291
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - beef
   - cooker

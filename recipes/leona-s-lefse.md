@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 7
 calories: 142
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - lefse

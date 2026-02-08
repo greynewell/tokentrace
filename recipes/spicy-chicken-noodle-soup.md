@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 179
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - noodle

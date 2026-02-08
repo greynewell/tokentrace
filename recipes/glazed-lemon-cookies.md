@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 36
 calories: 91
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - dessert

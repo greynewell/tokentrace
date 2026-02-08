@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 48
 calories: 104
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - french

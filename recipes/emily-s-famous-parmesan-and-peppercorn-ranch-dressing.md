@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 27
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - dressing

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 261
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - pot
   - salad

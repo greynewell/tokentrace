@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 324
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bake
   - cheesecake

@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 16
 calories: 341
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beef
   - ground

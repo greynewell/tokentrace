@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 100
 calories: 53
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - dog

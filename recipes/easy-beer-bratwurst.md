@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 815
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beer
   - bratwurst

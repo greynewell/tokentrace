@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 184
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - grilled

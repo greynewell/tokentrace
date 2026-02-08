@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 229
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bat

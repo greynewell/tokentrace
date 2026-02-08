@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 8
 calories: 221
 recipe_category: Dessert
+cuisine: American
 keywords:
   - altitude
   - angel

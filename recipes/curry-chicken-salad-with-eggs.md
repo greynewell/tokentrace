@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 7
 calories: 127
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - chicken
   - curry

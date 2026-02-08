@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 96
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - eggplant

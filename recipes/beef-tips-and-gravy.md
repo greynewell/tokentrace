@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 4
 calories: 894
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - gravy

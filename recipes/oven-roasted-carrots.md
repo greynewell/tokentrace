@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 237
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - carrots
   - dish

@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 10
 calories: 521
 recipe_category: Dessert
+cuisine: American
 keywords:
   - derby
   - dessert

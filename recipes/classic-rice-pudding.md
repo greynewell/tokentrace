@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 5
 calories: 175
 recipe_category: Main Course
+cuisine: American
 keywords:
   - classic
   - course

@@ -7,6 +7,7 @@ cook_time: PT3H55M
 servings: 8
 calories: 366
 recipe_category: Soup
+cuisine: American
 keywords:
   - broth
   - scotch

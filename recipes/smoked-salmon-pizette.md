@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 647
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - pizette

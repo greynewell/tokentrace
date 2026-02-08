@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 42
 calories: 145
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chewy
   - chip

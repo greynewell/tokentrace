@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 99
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - jalapeno

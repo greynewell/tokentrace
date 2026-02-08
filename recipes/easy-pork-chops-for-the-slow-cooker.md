@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 10
 calories: 237
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chops
   - cooker

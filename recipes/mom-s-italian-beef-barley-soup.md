@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 6
 calories: 512
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - barley
   - beef

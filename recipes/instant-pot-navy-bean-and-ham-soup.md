@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 10
 calories: 384
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - ham

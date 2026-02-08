@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 409
 recipe_category: Main Course
+cuisine: American
 keywords:
   - classic
   - course

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 205
 recipe_category: Soup
+cuisine: American
 keywords:
   - carb
   - chicken

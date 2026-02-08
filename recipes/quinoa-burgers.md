@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 169
 recipe_category: Main Course
+cuisine: American
 keywords:
   - burgers
   - course

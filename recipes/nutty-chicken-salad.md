@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 182
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - nutty

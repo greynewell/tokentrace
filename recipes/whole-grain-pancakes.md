@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 306
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - grain

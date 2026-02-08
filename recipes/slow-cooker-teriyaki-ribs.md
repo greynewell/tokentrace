@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 4
 calories: 507
 recipe_category: Side Dish
+cuisine: Japanese
 keywords:
   - cooker
   - dish

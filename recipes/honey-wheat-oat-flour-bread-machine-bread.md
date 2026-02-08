@@ -7,6 +7,7 @@ cook_time: PT3H20M
 servings: 10
 calories: 184
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - flour

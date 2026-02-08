@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 6
 calories: 320
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - amazing
   - course

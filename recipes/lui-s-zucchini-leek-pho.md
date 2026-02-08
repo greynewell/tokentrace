@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 149
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - leek
   - lui

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 20
 calories: 442
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bob
   - course

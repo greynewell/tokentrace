@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 144
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fail

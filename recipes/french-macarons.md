@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 24
 calories: 125
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - french

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 258
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - bread
   - course

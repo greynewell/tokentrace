@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 80
 calories: 45
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cookies
   - course

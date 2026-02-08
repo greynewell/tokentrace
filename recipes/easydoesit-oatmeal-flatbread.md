@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 8
 calories: 74
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - easydoesit

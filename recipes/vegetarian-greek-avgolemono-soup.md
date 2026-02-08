@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 130
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - avgolemono
   - course

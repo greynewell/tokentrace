@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 642
 recipe_category: Salad
+cuisine: American
 keywords:
   - grandma
   - potato

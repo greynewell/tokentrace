@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 178
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brie
   - burgers

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 228
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - chicken

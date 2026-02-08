@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 14
 calories: 73
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscuits
   - corn

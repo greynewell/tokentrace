@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 462
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - appetizers

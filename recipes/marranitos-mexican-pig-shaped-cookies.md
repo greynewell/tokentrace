@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 359
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cookies
   - course

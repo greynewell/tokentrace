@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 11
 calories: 226
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chip

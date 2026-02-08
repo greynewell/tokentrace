@@ -7,6 +7,7 @@ cook_time: PT2H25M
 servings: 6
 calories: 401
 recipe_category: Soup
+cuisine: American
 keywords:
   - chef
   - irish

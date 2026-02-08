@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 141
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - cucumber

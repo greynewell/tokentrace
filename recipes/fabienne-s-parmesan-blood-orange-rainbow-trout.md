@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 4
 calories: 230
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - blood
   - course

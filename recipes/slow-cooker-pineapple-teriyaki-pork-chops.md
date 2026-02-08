@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 4
 calories: 283
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - chops
   - cooker

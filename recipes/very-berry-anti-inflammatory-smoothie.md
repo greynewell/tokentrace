@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 167
 recipe_category: Beverage
+cuisine: American
 keywords:
   - anti
   - berry

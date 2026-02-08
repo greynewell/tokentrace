@@ -7,6 +7,7 @@ cook_time: PT36M
 servings: 16
 calories: 486
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - cake

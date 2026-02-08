@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 6
 calories: 225
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

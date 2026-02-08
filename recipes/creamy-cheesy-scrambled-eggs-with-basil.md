@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 297
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - basil
   - breakfast

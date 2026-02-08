@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 524
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - champurrado
   - course

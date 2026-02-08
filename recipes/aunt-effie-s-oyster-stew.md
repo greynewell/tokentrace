@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 397
 recipe_category: Soup
+cuisine: American
 keywords:
   - aunt
   - effie

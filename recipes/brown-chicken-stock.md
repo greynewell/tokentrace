@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 49
 recipe_category: Soup
+cuisine: American
 keywords:
   - brown
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 394
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - fried

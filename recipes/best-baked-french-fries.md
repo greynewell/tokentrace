@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 388
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - baked
   - dish

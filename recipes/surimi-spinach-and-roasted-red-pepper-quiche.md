@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 439
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - pepper

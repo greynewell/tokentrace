@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 18
 calories: 328
 recipe_category: Dessert
+cuisine: American
 keywords:
   - boardwalk
   - dessert

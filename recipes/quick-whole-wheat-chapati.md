@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 127
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bread
   - chapati

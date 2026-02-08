@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 2
 calories: 356
 recipe_category: Dessert
+cuisine: French
 keywords:
   - chef
   - chocolate

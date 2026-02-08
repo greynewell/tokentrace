@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 708
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - creamy

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 54
 calories: 60
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - cookies

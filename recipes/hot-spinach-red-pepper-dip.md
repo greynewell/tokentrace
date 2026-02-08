@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 131
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

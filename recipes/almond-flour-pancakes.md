@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 380
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - almond
   - breakfast

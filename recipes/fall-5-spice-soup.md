@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 324
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - fall
   - soup

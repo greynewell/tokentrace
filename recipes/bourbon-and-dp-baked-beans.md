@@ -7,6 +7,7 @@ cook_time: PT3H22M
 servings: 8
 calories: 306
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - baked
   - beans

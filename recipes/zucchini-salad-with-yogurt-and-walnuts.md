@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 170
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - walnuts

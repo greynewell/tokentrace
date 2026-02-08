@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 280
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crisp

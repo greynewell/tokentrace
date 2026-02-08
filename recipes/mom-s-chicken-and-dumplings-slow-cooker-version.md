@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 6
 calories: 649
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - cooker

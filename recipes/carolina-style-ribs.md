@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 10
 calories: 750
 recipe_category: Main Course
+cuisine: American
 keywords:
   - carolina
   - course

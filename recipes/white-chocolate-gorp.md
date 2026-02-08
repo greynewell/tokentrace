@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 64
 calories: 142
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 641
 recipe_category: Salad
+cuisine: American
 keywords:
   - crab
   - salad

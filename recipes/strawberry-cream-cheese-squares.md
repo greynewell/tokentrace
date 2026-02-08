@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 445
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - cream

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 385
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - dish

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 135
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - egg

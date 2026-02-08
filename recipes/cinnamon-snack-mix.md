@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 161
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cinnamon
   - course

@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 5
 calories: 622
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - bombs

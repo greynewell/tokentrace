@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 352
 recipe_category: Bread
+cuisine: American
 keywords:
   - bacon
   - banana

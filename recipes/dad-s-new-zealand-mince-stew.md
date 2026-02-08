@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 474
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - dad
   - mince

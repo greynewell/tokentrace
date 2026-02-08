@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 416
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - poblanas

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 481
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cabbage
   - chinese

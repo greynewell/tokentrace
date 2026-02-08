@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 5
 calories: 357
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

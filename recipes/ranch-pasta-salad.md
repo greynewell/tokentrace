@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 959
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - ranch

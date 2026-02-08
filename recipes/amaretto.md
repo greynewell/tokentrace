@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 198
 recipe_category: Beverage
+cuisine: American
 keywords:
   - amaretto
   - beverage

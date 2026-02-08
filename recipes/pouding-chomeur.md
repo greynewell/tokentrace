@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 602
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chomeur
   - dessert

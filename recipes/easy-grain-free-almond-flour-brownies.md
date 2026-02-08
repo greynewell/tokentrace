@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 290
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - brownies

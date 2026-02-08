@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 2
 calories: 339
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - blue

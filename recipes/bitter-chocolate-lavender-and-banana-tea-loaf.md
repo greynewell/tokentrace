@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 9
 calories: 442
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bitter

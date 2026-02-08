@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 9
 calories: 327
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

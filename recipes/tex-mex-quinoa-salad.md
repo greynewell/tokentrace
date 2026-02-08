@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 219
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - mex
   - quinoa

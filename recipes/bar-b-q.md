@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 480
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bar
   - course

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 168
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - baked
   - dish

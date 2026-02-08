@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 256
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - fagioli
   - pasta

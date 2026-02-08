@@ -7,6 +7,7 @@ cook_time: PT1H8M
 servings: 6
 calories: 300
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broccoli
   - casserole

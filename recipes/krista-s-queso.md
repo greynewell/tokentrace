@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 153
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - krista

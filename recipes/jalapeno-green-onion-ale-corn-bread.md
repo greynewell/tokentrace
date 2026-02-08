@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 288
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - ale
   - bread

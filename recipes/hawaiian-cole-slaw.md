@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 86
 recipe_category: Salad
+cuisine: American
 keywords:
   - cole
   - hawaiian

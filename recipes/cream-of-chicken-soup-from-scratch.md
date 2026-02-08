@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 134
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - cream

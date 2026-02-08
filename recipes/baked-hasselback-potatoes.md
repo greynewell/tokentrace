@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 270
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - dish

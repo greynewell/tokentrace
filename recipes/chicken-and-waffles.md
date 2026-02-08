@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 1793
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chicken

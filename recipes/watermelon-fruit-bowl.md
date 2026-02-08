@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 179
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bowl

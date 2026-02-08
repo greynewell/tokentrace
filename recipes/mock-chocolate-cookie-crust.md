@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 279
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookie

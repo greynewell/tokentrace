@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 481
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheesecake
   - course

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 426
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butternut
   - dish

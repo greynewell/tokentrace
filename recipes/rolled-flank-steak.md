@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 472
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - flank

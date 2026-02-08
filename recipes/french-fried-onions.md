@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 40
 calories: 38
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - french

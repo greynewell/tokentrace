@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 235
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - french

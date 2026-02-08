@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 294
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - quiche

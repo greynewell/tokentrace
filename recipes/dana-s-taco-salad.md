@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 584
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - dana
   - salad

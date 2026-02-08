@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 354
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - oatmeal

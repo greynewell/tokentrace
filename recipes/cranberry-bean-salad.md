@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 227
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - cranberry

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 674
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - cinnamon

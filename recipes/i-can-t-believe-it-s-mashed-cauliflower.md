@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 125
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - believe
   - can

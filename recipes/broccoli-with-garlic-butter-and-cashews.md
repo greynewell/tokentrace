@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 187
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - broccoli
   - butter

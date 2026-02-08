@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 722
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - angel
   - course

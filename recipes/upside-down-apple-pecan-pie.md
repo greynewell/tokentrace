@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 522
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - apple
   - dessert

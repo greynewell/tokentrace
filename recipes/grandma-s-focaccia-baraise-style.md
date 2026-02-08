@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 188
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - baraise
   - bread

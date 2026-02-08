@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 354
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - cranberries
   - dried

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 60
 calories: 56
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

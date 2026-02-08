@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 98
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - edamame

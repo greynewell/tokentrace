@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 354
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - baked

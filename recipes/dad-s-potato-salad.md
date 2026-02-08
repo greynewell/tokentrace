@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 613
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - dad
   - potato

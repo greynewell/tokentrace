@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 3
 calories: 1077
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - beef
   - course

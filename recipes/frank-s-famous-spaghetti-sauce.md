@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 168
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - famous

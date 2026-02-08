@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 16
 calories: 58
 recipe_category: Soup
+cuisine: American
 keywords:
   - barley
   - beef

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 188
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - boston
   - bread

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 265
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cocktail

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 187
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

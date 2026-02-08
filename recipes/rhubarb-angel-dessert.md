@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 9
 calories: 352
 recipe_category: Dessert
+cuisine: American
 keywords:
   - angel
   - dessert

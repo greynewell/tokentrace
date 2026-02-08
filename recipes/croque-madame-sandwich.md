@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 639
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - croque

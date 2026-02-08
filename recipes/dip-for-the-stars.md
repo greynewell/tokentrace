@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 162
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

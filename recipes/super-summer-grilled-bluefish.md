@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 722
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bluefish
   - course

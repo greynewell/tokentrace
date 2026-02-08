@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 710
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - boneless

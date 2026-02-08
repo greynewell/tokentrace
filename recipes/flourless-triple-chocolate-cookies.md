@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 24
 calories: 119
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookies

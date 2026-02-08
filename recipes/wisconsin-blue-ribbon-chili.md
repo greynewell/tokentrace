@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 353
 recipe_category: Soup
+cuisine: American
 keywords:
   - blue
   - chili

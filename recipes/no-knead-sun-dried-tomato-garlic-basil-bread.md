@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 272
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - basil
   - bread

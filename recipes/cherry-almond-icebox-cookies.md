@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 175
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - cherry

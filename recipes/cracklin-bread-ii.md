@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 9
 calories: 206
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cracklin

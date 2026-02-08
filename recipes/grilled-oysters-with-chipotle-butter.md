@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 2
 calories: 367
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - butter
   - chipotle

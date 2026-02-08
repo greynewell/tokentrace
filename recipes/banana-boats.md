@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 253
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - boats

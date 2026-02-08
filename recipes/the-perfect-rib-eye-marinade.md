@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 2
 calories: 796
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - eye

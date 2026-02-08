@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 173
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - almond
   - cookies

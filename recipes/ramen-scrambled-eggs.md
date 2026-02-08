@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 343
 recipe_category: Breakfast
+cuisine: Japanese
 keywords:
   - breakfast
   - eggs

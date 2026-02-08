@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 1
 calories: 307
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bell
   - breakfast

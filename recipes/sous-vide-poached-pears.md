@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 2
 calories: 128
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pears

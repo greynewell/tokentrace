@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 245
 recipe_category: Salad
+cuisine: American
 keywords:
   - dill
   - mom

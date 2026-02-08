@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 407
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - dogs

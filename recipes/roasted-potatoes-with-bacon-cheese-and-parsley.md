@@ -7,6 +7,7 @@ cook_time: PT1H7M
 servings: 8
 calories: 222
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - bacon
   - cheese

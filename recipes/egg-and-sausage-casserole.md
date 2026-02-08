@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 341
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

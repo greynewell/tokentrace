@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 796
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - dip

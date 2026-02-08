@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 231
 recipe_category: Soup
+cuisine: American
 keywords:
   - ham
   - potato

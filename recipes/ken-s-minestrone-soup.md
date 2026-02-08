@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 225
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - ken
   - minestrone

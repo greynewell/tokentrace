@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 32
 calories: 377
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - hot

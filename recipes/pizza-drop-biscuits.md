@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 151
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - biscuits
   - bread

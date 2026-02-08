@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 264
 recipe_category: Side Dish
+cuisine: Mediterranean
 keywords:
   - couscous
   - dish

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 345
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cup

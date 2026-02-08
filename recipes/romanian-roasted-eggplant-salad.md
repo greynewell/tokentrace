@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 217
 recipe_category: Salad
+cuisine: American
 keywords:
   - eggplant
   - roasted

@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 30
 calories: 207
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ham

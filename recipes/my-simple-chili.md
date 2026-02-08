@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 8
 calories: 371
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chili
   - soup

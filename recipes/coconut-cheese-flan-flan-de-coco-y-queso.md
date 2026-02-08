@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 398
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - coco

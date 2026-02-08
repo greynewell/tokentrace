@@ -7,6 +7,7 @@ cook_time: PT5H10M
 servings: 8
 calories: 299
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - cooker
   - dressing

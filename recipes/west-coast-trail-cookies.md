@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 36
 calories: 172
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coast
   - cookies

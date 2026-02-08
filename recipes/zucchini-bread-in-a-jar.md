@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 1393
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - jar

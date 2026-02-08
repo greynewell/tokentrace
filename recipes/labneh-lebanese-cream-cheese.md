@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 32
 calories: 92
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

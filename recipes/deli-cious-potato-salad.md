@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 371
 recipe_category: Salad
+cuisine: American
 keywords:
   - cious
   - deli

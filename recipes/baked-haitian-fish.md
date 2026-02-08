@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 380
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - course

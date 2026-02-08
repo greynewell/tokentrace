@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 761
 recipe_category: Main Course
+cuisine: French
 keywords:
   - beans
   - butter

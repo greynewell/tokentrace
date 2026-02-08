@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 3
 calories: 641
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - onion

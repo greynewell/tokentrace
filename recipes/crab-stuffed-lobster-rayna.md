@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 4
 calories: 251
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crab

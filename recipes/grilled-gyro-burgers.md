@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 6
 calories: 590
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - burgers
   - course

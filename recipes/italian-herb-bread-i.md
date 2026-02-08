@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 37
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - herb

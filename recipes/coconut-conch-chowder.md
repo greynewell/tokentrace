@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 430
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - coconut

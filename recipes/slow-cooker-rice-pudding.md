@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 8
 calories: 176
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cooker
   - dessert

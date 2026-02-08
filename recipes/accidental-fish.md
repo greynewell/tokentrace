@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 556
 recipe_category: Main Course
+cuisine: American
 keywords:
   - accidental
   - course

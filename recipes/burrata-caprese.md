@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 307
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - burrata
   - caprese

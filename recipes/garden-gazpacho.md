@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 216
 recipe_category: Soup
+cuisine: American
 keywords:
   - garden
   - gazpacho

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 274
 recipe_category: Soup
+cuisine: American
 keywords:
   - cauliflower
   - kat

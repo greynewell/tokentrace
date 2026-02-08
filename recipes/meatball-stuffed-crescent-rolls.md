@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 56
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crescent

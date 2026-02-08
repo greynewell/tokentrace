@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 163
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cookies
   - dish

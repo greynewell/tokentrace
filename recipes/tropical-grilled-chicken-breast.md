@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 223
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breast
   - chicken

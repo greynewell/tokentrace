@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 380
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - butter

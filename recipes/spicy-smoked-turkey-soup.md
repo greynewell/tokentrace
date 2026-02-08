@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 109
 recipe_category: Soup
+cuisine: American
 keywords:
   - smoked
   - soup

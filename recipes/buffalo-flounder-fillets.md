@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 3
 calories: 641
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buffalo
   - course

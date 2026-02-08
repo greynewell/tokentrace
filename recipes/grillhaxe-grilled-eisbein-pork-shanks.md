@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 532
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - eisbein

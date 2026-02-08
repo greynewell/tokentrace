@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 222
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - fried

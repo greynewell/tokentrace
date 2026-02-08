@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 6
 calories: 251
 recipe_category: Soup
+cuisine: American
 keywords:
   - budget
   - friendly

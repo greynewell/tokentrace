@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 11
 calories: 342
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - barbara
   - chicken

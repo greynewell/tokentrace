@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 84
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - bacon

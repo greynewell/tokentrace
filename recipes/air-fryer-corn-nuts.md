@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 225
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

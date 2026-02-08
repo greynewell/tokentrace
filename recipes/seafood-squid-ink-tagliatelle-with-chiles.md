@@ -7,6 +7,7 @@ cook_time: PT59M
 servings: 2
 calories: 904
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chiles
   - course

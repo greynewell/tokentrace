@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 114
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - gourmet

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 3
 calories: 405
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breaded
   - clams

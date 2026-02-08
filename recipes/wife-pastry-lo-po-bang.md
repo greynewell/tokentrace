@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 25
 calories: 248
 recipe_category: Bread
+cuisine: American
 keywords:
   - bang
   - bread

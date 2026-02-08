@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 372
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - cashew
   - curried

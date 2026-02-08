@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 199
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cheesy

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 420
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - cherry
   - chicken

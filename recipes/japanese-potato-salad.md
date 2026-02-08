@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 656
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - japanese
   - potato

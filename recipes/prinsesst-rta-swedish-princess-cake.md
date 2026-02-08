@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 750
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cake
   - course

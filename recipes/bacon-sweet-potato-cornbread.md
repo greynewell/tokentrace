@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 207
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bacon
   - bread

@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 8
 calories: 495
 recipe_category: Soup
+cuisine: American
 keywords:
   - award
   - carne

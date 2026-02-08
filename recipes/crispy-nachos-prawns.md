@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 286
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crispy

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 7
 calories: 88
 recipe_category: Bread
+cuisine: French
 keywords:
   - air
   - beignets

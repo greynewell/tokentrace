@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 97
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - main

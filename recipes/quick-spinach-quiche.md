@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 310
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - quiche

@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 3
 calories: 427
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - banana
   - breakfast

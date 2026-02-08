@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 669
 recipe_category: Salad
+cuisine: French
 keywords:
   - layered
   - salad

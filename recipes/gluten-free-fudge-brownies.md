@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 228
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - dessert

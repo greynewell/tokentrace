@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 173
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - grilled

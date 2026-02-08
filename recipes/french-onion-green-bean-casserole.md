@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 216
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - bean
   - casserole

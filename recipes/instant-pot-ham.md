@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 356
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ham

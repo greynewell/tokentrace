@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 8
 calories: 1162
 recipe_category: Soup
+cuisine: French
 keywords:
   - beef
   - french

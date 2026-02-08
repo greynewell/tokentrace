@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 125
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - burger

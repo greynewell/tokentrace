@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 146
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chilled
   - gazpacho

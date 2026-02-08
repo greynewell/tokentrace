@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 479
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - coconut

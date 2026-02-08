@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 12
 calories: 856
 recipe_category: Soup
+cuisine: American
 keywords:
   - bones
   - neck

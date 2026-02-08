@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 8
 calories: 509
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buffalo
   - chicken

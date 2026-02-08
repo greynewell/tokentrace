@@ -7,6 +7,7 @@ cook_time: PT10H30M
 servings: 6
 calories: 752
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - cooker

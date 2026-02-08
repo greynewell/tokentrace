@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 234
 recipe_category: Bread
+cuisine: American
 keywords:
   - braided
   - bread

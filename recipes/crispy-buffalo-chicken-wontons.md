@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 5
 calories: 295
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

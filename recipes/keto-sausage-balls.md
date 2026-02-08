@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 18
 calories: 101
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - balls

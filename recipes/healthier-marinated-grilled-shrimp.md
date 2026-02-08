@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 207
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

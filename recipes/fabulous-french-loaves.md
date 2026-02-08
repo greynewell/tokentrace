@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 30
 calories: 27
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - fabulous

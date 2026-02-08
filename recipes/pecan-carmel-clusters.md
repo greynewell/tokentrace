@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 54
 calories: 103
 recipe_category: Dessert
+cuisine: American
 keywords:
   - carmel
   - clusters

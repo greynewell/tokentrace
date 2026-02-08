@@ -7,6 +7,7 @@ cook_time: PT6H45M
 servings: 6
 calories: 112
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - chowder

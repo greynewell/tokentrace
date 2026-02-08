@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 213
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chip

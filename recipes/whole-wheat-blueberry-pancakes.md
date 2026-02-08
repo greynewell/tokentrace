@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 5
 calories: 160
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - blueberry
   - breakfast

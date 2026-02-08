@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 198
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cornish

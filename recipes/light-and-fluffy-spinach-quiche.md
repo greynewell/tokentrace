@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 356
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - fluffy

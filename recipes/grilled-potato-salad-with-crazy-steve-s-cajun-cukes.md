@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 301
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - cajun
   - crazy

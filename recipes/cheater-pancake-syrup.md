@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 24
 calories: 77
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheater
   - dish

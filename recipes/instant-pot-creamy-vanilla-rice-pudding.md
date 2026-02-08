@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 214
 recipe_category: Dessert
+cuisine: American
 keywords:
   - creamy
   - dessert

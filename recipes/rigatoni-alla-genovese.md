@@ -7,6 +7,7 @@ cook_time: PT9H30M
 servings: 8
 calories: 891
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - alla
   - course

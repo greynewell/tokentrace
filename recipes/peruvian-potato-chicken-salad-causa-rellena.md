@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 658
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - causa
   - chicken

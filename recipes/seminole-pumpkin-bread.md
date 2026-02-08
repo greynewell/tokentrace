@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 66
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

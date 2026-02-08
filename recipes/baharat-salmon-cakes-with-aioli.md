@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 317
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - aioli
   - appetizer

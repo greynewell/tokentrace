@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 81
 recipe_category: Dessert
+cuisine: American
 keywords:
   - boiled
   - dessert

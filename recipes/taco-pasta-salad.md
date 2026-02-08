@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 618
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - pasta
   - salad

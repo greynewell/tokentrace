@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 24
 calories: 62
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

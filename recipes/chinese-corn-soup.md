@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 177
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chinese
   - corn

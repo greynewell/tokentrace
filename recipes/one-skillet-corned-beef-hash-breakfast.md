@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 4
 calories: 274
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - beef
   - breakfast

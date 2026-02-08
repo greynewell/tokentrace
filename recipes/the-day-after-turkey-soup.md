@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 144
 recipe_category: Soup
+cuisine: American
 keywords:
   - after
   - day

@@ -7,6 +7,7 @@ cook_time: PT4H17M
 servings: 5
 calories: 450
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - cooker

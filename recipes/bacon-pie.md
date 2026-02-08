@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 363
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

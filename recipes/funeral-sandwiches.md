@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 418
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - funeral

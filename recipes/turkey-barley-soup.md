@@ -7,6 +7,7 @@ cook_time: PT3H15M
 servings: 10
 calories: 262
 recipe_category: Soup
+cuisine: American
 keywords:
   - barley
   - soup

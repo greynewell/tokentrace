@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 1
 calories: 824
 recipe_category: Main Course
+cuisine: American
 keywords:
   - ahi
   - bowl

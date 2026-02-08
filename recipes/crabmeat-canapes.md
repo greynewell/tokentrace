@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 25
 calories: 99
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - canapes

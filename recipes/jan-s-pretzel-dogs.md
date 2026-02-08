@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 18
 calories: 299
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dogs

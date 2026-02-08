@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 601
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cocktail

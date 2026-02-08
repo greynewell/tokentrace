@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 330
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

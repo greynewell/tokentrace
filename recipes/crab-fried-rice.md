@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 304
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - crab

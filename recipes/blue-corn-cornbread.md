@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 141
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - blue
   - bread

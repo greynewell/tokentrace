@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 83
 recipe_category: Main Course
+cuisine: American
 keywords:
   - basil
   - bites

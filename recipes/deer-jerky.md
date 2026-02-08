@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 8
 calories: 111
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - deer

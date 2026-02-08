@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 322
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - bean
   - casserole

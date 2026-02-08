@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 889
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - croque

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 430
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 422
 recipe_category: Salad
+cuisine: American
 keywords:
   - green
   - onion

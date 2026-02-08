@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 133
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - hibiscus

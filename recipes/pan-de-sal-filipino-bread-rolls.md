@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 20
 calories: 72
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - filipino

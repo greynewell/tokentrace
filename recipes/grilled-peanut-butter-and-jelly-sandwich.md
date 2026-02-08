@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 1
 calories: 273
 recipe_category: Main Course
+cuisine: American
 keywords:
   - butter
   - course

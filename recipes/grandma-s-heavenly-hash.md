@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 84
 calories: 80
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - grandma

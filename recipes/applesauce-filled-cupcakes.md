@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 140
 recipe_category: Main Course
+cuisine: American
 keywords:
   - applesauce
   - course

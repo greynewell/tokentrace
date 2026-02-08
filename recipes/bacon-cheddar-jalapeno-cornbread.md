@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 445
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - bacon
   - bread

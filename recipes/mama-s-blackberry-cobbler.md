@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 9
 calories: 250
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blackberry
   - cobbler

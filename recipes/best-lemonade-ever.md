@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 145
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - lemonade

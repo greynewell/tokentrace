@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 24
 calories: 237
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - banana
   - cupcakes

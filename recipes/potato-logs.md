@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 456
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - logs

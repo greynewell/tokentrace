@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 240
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cronuts

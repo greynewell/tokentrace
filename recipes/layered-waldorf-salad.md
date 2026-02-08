@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 6
 calories: 329
 recipe_category: Salad
+cuisine: American
 keywords:
   - layered
   - salad

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 405
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - beer

@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 4
 calories: 177
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - avocado

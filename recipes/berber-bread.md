@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 110
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - berber
   - bread

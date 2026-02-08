@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 30
 calories: 65
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cookies

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 182
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - harira

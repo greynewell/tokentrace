@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 8
 calories: 132
 recipe_category: Soup
+cuisine: American
 keywords:
   - roasted
   - soup

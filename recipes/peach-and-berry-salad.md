@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 190
 recipe_category: Salad
+cuisine: American
 keywords:
   - berry
   - peach

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 10
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - egg

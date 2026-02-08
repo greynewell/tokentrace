@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 30
 calories: 172
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chewy
   - cookies

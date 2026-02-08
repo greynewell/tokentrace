@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 24
 calories: 77
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

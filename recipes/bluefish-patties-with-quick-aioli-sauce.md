@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 387
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - aioli
   - appetizer

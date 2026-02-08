@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 32
 calories: 72
 recipe_category: Bread
+cuisine: American
 keywords:
   - bran
   - bread

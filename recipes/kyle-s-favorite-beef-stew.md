@@ -7,6 +7,7 @@ cook_time: PT7H15M
 servings: 10
 calories: 617
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - kyle

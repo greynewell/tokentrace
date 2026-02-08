@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 64
 calories: 101
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - concord
   - dish

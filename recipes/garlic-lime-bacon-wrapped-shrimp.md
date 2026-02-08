@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 10
 calories: 164
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

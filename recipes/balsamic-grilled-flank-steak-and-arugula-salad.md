@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 404
 recipe_category: Salad
+cuisine: French
 keywords:
   - arugula
   - balsamic

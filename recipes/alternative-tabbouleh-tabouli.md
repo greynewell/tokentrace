@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 130
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - alternative
   - salad

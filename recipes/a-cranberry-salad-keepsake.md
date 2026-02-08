@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 189
 recipe_category: Salad
+cuisine: American
 keywords:
   - cranberry
   - keepsake

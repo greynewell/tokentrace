@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 6
 calories: 343
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - busy
   - cooker

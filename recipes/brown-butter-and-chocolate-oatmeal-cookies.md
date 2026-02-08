@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 42
 calories: 132
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brown
   - butter

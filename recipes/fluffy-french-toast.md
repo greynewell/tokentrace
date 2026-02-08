@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 123
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - fluffy

@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 10
 calories: 318
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - cooker

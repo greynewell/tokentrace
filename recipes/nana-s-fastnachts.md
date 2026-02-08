@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 107
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fastnachts

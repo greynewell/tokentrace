@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 20
 calories: 145
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - egg

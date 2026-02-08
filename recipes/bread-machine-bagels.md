@@ -7,6 +7,7 @@ cook_time: PT3H25M
 servings: 9
 calories: 50
 recipe_category: Bread
+cuisine: American
 keywords:
   - bagels
   - bread

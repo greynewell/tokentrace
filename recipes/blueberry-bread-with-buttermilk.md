@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 314
 recipe_category: Bread
+cuisine: American
 keywords:
   - blueberry
   - bread

@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 4
 calories: 411
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lime

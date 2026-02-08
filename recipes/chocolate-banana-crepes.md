@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 234
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - banana
   - breakfast

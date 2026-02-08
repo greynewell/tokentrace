@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 363
 recipe_category: Dessert
+cuisine: American
 keywords:
   - creamy
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 569
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - chicken
   - course

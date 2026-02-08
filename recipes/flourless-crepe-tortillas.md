@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 9
 calories: 70
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crepe

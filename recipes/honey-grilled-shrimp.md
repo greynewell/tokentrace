@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 3
 calories: 434
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - grilled

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 36
 calories: 155
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

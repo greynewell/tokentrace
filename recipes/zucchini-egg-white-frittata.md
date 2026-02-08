@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 1
 calories: 138
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - egg

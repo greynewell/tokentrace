@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 274
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - energy

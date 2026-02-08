@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 4
 calories: 144
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - any
   - breast

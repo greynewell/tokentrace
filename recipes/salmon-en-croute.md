@@ -7,6 +7,7 @@ cook_time: PT53M
 servings: 4
 calories: 1206
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - croute

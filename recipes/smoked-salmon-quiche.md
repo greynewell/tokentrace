@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 363
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - quiche

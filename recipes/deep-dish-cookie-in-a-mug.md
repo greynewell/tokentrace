@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 1
 calories: 471
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookie
   - deep

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 82
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chowder
   - clam

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 383
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cornbread

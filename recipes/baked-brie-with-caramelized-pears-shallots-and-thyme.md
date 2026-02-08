@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 417
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - baked

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 439
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brittle
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 214
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - crawfish

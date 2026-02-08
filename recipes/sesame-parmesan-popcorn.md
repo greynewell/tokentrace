@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 126
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - parmesan

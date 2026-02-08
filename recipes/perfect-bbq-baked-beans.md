@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 330
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - baked
   - bbq

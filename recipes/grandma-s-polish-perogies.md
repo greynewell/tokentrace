@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 281
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grandma

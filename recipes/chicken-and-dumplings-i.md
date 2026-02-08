@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 349
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - dumplings

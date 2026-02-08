@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 259
 recipe_category: Dessert
+cuisine: American
 keywords:
   - canadian
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 436
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - authentic
   - dish

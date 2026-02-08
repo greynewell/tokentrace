@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 86
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - jerky

@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 8
 calories: 372
 recipe_category: Soup
+cuisine: American
 keywords:
   - ham
   - leftover

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 101
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - air
   - appetizer

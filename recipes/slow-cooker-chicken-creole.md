@@ -7,6 +7,7 @@ cook_time: PT12H
 servings: 4
 calories: 189
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - cooker

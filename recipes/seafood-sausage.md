@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 284
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - sausage

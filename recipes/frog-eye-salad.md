@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 581
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - eye
   - frog

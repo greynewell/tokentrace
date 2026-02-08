@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 390
 recipe_category: Soup
+cuisine: American
 keywords:
   - chile
   - cioppino

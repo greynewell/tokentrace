@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 14
 calories: 181
 recipe_category: Bread
+cuisine: American
 keywords:
   - altitude
   - bread

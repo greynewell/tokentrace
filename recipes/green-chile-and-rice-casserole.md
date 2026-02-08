@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 342
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - chile

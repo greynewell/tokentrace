@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 569
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bread
   - course

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 121
 recipe_category: Salad
+cuisine: American
 keywords:
   - mandarin
   - salad

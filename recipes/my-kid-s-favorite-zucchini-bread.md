@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 24
 calories: 224
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - kid

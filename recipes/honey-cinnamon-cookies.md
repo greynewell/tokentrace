@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 24
 calories: 108
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cinnamon
   - cookies

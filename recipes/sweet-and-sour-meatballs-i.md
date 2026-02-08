@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 7
 calories: 562
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - meatballs

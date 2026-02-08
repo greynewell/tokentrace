@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 654
 recipe_category: Main Course
+cuisine: French
 keywords:
   - cheese
   - course

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 428
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - instant
   - pot

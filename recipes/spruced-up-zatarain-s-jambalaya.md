@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 860
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - jambalaya
   - soup

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 7
 calories: 716
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - german

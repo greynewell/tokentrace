@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 18
 calories: 108
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cookies

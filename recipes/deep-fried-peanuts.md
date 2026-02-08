@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 16
 calories: 100
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - deep

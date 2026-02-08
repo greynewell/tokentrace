@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 310
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cupcakes
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT9H
 servings: 20
 calories: 414
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 126
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - jar
   - love

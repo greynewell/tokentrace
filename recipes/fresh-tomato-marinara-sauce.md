@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 147
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - fresh

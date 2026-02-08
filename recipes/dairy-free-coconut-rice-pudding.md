@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 444
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - dairy

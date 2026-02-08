@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 612
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - crunchy
   - salad

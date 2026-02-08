@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 558
 recipe_category: Main Course
+cuisine: American
 keywords:
   - basic
   - beef

@@ -7,6 +7,7 @@ cook_time: PT1H19M
 servings: 6
 calories: 236
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - casserole
   - dish

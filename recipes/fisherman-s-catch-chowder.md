@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 4
 calories: 344
 recipe_category: Soup
+cuisine: American
 keywords:
   - catch
   - chowder

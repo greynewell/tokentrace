@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 60
 calories: 57
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - authentic

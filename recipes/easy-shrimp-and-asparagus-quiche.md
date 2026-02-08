@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 354
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - asparagus
   - breakfast

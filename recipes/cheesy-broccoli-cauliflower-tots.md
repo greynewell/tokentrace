@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 20
 calories: 60
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - broccoli

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 235
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - rice

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 25
 calories: 50
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - butter
   - dish

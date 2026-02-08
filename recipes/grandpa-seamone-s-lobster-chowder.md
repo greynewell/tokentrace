@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 292
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - grandpa

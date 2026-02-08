@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 10
 calories: 201
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almonds
   - cake

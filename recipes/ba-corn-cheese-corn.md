@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 268
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheese
   - corn

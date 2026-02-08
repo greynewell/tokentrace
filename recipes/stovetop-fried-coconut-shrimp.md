@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 387
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - coconut

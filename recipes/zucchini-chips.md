@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 2
 calories: 145
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chips

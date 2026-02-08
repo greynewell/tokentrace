@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 324
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - grilled

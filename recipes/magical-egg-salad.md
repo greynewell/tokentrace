@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 366
 recipe_category: Salad
+cuisine: American
 keywords:
   - egg
   - magical

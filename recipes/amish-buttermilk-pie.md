@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 194
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amish
   - buttermilk

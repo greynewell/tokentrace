@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 8
 calories: 278
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - artichoke

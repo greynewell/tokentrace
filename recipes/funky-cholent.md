@@ -7,6 +7,7 @@ cook_time: PT13H40M
 servings: 8
 calories: 464
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cholent
   - course

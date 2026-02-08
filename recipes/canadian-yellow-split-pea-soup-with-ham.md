@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 12
 calories: 172
 recipe_category: Soup
+cuisine: American
 keywords:
   - canadian
   - ham

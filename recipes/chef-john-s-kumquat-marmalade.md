@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 32
 calories: 35
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chef
   - dish

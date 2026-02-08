@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 364
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - fried

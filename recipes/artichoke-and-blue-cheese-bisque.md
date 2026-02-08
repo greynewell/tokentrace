@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 156
 recipe_category: Soup
+cuisine: American
 keywords:
   - artichoke
   - bisque

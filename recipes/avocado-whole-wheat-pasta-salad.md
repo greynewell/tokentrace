@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 394
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - avocado
   - pasta

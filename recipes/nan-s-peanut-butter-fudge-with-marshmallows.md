@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 28
 calories: 156
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - dessert

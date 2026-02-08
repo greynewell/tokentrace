@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 107
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - deviled

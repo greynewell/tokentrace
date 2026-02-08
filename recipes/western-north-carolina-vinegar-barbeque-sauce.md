@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 32
 calories: 58
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - barbeque
   - carolina

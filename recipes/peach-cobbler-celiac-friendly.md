@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 265
 recipe_category: Dessert
+cuisine: American
 keywords:
   - celiac
   - cobbler

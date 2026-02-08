@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 9
 calories: 163
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bars

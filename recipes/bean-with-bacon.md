@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 6
 calories: 631
 recipe_category: Soup
+cuisine: American
 keywords:
   - bacon
   - bean

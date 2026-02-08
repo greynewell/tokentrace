@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 327
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - course

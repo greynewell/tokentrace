@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 543
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - balls
   - cheese

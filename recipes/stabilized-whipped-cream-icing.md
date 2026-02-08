@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 16
 calories: 55
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cream
   - dish

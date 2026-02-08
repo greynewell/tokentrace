@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 260
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - prawns

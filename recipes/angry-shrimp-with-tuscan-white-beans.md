@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 805
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - angry
   - beans

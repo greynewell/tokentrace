@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 235
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - mashed

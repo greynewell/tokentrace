@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 36
 calories: 349
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chex

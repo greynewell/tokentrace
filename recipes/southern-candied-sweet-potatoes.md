@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 397
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - candied
   - dish

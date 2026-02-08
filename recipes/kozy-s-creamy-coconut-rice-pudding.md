@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 436
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - creamy

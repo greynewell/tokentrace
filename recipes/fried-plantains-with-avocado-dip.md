@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 3
 calories: 830
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - avocado

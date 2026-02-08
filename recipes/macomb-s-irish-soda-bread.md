@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 293
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - irish

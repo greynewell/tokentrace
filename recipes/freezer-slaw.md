@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 16
 calories: 102
 recipe_category: Salad
+cuisine: American
 keywords:
   - freezer
   - salad

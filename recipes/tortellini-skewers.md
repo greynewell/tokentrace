@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 208
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - skewers

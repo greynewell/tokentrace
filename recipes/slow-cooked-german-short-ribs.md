@@ -7,6 +7,7 @@ cook_time: PT8H20M
 servings: 6
 calories: 589
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooked
   - course

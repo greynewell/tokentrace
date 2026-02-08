@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 254
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - beer

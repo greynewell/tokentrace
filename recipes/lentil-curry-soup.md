@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 200
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - curry
   - lentil

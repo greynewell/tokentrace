@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 60
 calories: 55
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

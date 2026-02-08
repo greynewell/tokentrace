@@ -7,6 +7,7 @@ cook_time: PT1H4M
 servings: 4
 calories: 554
 recipe_category: Main Course
+cuisine: American
 keywords:
   - black
   - cherry

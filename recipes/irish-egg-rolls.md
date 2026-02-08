@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 286
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - egg

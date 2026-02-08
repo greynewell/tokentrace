@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 228
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chicken
   - course

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 21
 calories: 208
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cakes
   - course

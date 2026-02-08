@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 32
 calories: 142
 recipe_category: Main Course
+cuisine: American
 keywords:
   - conversation
   - cookies

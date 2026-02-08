@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 77
 calories: 34
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherry
   - dessert

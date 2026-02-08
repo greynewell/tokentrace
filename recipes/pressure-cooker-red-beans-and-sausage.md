@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 299
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - beans
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 215
 recipe_category: Main Course
+cuisine: American
 keywords:
   - coconut
   - course

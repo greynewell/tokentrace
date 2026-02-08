@@ -7,6 +7,7 @@ cook_time: PT12H30M
 servings: 12
 calories: 81
 recipe_category: Soup
+cuisine: American
 keywords:
   - chef
   - chicken

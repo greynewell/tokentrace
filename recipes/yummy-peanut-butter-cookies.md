@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 48
 calories: 120
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

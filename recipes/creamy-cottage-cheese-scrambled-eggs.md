@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 224
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cheese

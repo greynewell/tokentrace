@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 151
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - bread

@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 20
 calories: 333
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - coast
   - gulf

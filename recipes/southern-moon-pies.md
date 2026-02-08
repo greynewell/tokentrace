@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 24
 calories: 193
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - moon

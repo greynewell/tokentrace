@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 15
 calories: 200
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - biscotti

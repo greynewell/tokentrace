@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 4
 calories: 132
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bread
   - chapati

@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 6
 calories: 83
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - beans
   - dish

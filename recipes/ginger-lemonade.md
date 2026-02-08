@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 132
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - ginger

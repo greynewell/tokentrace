@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 280
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - rich

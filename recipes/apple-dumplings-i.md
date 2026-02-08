@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 416
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - apple
   - dessert

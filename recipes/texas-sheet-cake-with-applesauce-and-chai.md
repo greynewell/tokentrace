@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 271
 recipe_category: Dessert
+cuisine: American
 keywords:
   - applesauce
   - cake

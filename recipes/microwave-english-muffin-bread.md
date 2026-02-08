@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 127
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

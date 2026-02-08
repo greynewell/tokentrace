@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 1
 calories: 849
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - beans
   - coconut

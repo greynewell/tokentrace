@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 225
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chile

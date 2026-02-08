@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 10
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - sauce

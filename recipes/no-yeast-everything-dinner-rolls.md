@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 178
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - dinner

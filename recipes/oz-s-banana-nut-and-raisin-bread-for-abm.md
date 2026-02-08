@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 16
 calories: 179
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - abm
   - banana

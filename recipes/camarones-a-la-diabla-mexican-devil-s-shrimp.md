@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 2
 calories: 545
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - camarones
   - course

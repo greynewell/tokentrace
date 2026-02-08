@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 244
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - chickpeas

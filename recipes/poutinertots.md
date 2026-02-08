@@ -7,6 +7,7 @@ cook_time: PT31M
 servings: 8
 calories: 288
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - poutinertots

@@ -7,6 +7,7 @@ cook_time: PT6H30M
 servings: 8
 calories: 588
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - chicken

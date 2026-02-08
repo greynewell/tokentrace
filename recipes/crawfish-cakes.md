@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 286
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cakes
   - course

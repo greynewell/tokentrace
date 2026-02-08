@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 182
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - cake

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 406
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - kickin

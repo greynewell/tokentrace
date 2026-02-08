@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 346
 recipe_category: Salad
+cuisine: American
 keywords:
   - mint
   - quinoa

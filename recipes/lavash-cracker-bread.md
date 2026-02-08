@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 30
 calories: 50
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bread

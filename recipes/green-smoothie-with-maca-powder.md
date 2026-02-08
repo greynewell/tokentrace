@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 330
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - green

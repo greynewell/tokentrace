@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 2
 calories: 691
 recipe_category: Salad
+cuisine: American
 keywords:
   - beet
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 344
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - french

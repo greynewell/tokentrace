@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 50
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - balls
   - bourbon

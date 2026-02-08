@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 571
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chipotle
   - course

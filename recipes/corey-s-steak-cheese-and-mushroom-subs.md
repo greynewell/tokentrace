@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 4
 calories: 732
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - corey

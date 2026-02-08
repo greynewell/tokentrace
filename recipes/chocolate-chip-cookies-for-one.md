@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 1
 calories: 580
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chip
   - chocolate

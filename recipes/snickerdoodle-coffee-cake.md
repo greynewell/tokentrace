@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 290
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coffee

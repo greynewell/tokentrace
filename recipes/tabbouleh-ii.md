@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 101
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - salad
   - tabbouleh

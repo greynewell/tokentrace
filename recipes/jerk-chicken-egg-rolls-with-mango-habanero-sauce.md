@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 252
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - chicken

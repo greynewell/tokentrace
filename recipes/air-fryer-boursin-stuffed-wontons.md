@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 18
 calories: 43
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - air
   - appetizer

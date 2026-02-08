@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 116
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - main

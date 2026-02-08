@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 273
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pineapple

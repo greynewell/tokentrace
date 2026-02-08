@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 7
 calories: 401
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

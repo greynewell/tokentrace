@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 403
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - fried

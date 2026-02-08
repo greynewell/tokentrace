@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 12
 calories: 372
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brown
   - cake

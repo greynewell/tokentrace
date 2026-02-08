@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 4
 calories: 164
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - breaded

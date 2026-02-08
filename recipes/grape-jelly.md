@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 94
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - grape

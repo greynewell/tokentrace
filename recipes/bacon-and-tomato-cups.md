@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 15
 calories: 216
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

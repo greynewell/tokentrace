@@ -7,6 +7,7 @@ cook_time: PT4H14M
 servings: 8
 calories: 785
 recipe_category: Soup
+cuisine: American
 keywords:
   - cuban
   - encendido

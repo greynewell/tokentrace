@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 248
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - oysters

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 20
 calories: 556
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - juicy

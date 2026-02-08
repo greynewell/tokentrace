@@ -7,6 +7,7 @@ cook_time: PT1H8M
 servings: 8
 calories: 364
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cheesy
   - dish

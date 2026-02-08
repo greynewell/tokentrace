@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 212
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - beans
   - course

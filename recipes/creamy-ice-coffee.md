@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 106
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - coffee

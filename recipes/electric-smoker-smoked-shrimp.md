@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 152
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - electric

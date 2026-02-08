@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 433
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - minutes
   - potato

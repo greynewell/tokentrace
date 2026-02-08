@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 2
 calories: 411
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - bbq

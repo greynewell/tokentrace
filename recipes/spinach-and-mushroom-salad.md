@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 126
 recipe_category: Salad
+cuisine: American
 keywords:
   - mushroom
   - salad

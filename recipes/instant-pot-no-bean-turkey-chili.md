@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 280
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bean
   - chili

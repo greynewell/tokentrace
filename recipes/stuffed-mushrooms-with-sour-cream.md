@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 43
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cream

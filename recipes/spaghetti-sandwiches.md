@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 1090
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

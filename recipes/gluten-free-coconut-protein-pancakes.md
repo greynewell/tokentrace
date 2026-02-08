@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 8
 calories: 100
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - coconut

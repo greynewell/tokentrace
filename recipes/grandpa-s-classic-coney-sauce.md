@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 12
 calories: 186
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - classic
   - coney

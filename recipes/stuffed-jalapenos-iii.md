@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 186
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - jalapenos

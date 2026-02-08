@@ -7,6 +7,7 @@ cook_time: PT12H30M
 servings: 6
 calories: 696
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chef
   - course

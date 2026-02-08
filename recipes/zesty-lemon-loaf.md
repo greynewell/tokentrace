@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 20
 calories: 284
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - lemon

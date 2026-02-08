@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 383
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

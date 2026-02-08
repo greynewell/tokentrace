@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 5
 calories: 174
 recipe_category: Side Dish
+cuisine: Japanese
 keywords:
   - chicken
   - cooker

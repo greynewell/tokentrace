@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 526
 recipe_category: Main Course
+cuisine: American
 keywords:
   - california
   - club

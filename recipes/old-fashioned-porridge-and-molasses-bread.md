@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 48
 calories: 118
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - molasses

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 11
 calories: 441
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - german

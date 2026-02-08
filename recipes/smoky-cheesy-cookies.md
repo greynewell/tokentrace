@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 45
 calories: 45
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheesy

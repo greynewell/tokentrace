@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 444
 recipe_category: Dessert
+cuisine: American
 keywords:
   - batch
   - cookie

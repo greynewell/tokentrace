@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 339
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chef

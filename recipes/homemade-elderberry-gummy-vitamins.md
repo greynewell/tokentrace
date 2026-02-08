@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 30
 calories: 56
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - elderberry

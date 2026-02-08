@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 56
 calories: 81
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 7
 calories: 289
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - cheesy
   - chowder

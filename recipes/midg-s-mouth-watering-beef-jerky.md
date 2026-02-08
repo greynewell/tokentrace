@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 12
 calories: 279
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

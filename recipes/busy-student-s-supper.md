@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 426
 recipe_category: Main Course
+cuisine: American
 keywords:
   - busy
   - course

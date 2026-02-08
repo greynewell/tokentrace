@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 12
 calories: 253
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - brown

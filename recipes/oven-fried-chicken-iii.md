@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 690
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - course

@@ -7,6 +7,7 @@ cook_time: PT6H5M
 servings: 6
 calories: 87
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - belly

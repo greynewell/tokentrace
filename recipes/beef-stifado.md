@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 5
 calories: 544
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - soup

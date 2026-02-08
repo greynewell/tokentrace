@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 92
 recipe_category: Soup
+cuisine: American
 keywords:
   - mushroom
   - parsnip

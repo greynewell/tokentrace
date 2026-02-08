@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 289
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - marinade

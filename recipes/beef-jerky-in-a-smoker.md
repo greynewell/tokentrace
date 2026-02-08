@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 6
 calories: 362
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 1
 calories: 1632
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crust

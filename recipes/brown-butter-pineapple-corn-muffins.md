@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 195
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - brown

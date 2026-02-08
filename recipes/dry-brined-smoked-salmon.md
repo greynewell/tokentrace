@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 12
 calories: 296
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brined

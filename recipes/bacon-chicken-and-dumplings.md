@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 452
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - bacon
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 231
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almonds
   - cinnamon

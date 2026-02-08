@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 460
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - shrimp

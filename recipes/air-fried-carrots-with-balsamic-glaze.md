@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 117
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - balsamic

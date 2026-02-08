@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 249
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balsamic
   - capers

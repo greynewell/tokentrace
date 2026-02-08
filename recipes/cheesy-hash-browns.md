@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 876
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - browns

@@ -7,6 +7,7 @@ cook_time: PT22H
 servings: 48
 calories: 116
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - butter

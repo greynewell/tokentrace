@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 75
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chewy
   - coconut

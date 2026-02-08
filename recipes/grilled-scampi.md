@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 154
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - grilled

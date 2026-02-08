@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 1204
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

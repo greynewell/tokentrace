@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 146
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chocolate
   - course

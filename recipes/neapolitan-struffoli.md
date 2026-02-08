@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 48
 calories: 162
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 229
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - carb

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 40
 calories: 137
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - confection
   - course

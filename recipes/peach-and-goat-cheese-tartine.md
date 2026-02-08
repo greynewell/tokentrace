@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 477
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - cheese

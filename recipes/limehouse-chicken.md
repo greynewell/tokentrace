@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 261
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

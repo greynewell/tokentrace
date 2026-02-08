@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 500
 recipe_category: Salad
+cuisine: French
 keywords:
   - french
   - potato

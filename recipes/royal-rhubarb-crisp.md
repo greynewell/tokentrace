@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 237
 recipe_category: Dessert
+cuisine: American
 keywords:
   - crisp
   - dessert

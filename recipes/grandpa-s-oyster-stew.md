@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 806
 recipe_category: Soup
+cuisine: American
 keywords:
   - grandpa
   - oyster

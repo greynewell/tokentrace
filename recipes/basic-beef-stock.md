@@ -7,6 +7,7 @@ cook_time: PT5H45M
 servings: 8
 calories: 61
 recipe_category: Soup
+cuisine: American
 keywords:
   - basic
   - beef

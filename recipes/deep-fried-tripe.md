@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 10
 calories: 362
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - deep

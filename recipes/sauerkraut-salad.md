@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 577
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - sauerkraut

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 628
 recipe_category: Salad
+cuisine: American
 keywords:
   - fruity
   - green

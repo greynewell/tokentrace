@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 241
 recipe_category: Soup
+cuisine: American
 keywords:
   - potato
   - soup

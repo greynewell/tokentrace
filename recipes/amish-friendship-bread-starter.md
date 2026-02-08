@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 120
 calories: 34
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amish
   - bread

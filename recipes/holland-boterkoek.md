@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 219
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boterkoek
   - course

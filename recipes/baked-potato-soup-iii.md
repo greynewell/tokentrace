@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 6
 calories: 621
 recipe_category: Soup
+cuisine: American
 keywords:
   - baked
   - potato

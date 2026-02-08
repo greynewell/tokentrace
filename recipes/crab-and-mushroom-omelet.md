@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 317
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - crab

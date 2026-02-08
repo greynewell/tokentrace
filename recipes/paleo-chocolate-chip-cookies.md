@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 352
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chip
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 242
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - crostata

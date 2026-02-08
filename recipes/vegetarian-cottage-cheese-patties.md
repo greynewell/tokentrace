@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 180
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - cottage

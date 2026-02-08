@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 375
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - jambalaya
   - jen

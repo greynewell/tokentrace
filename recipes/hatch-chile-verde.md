@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 8
 calories: 219
 recipe_category: Soup
+cuisine: American
 keywords:
   - chile
   - hatch

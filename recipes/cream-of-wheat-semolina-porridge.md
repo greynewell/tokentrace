@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 2
 calories: 173
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cream

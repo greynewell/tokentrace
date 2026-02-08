@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 8
 calories: 433
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cheesy

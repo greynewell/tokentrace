@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 313
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - kale
   - quinoa

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 124
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - skinny

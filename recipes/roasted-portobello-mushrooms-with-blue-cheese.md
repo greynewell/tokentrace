@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 79
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blue

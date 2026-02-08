@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 282
 recipe_category: Salad
+cuisine: Thai
 keywords:
   - raw
   - salad

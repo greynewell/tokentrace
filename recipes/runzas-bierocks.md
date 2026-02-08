@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 9
 calories: 750
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bierocks
   - course

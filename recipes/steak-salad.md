@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 496
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - steak

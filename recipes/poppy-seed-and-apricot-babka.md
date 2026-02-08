@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 310
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apricot
   - babka

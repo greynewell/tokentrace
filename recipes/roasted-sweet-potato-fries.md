@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 182
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - fries

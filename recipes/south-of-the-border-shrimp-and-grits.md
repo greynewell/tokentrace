@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 3
 calories: 469
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - border
   - course

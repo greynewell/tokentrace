@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 36
 calories: 61
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - blondies
   - dish

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 73
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

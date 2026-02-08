@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 48
 calories: 124
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - ponczki

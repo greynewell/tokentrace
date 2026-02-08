@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 64
 calories: 47
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - absolutely
   - appetizer

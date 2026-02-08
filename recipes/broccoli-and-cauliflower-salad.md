@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 255
 recipe_category: Salad
+cuisine: American
 keywords:
   - broccoli
   - cauliflower

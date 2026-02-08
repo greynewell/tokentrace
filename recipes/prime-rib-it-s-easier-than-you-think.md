@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 10
 calories: 437
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - easier

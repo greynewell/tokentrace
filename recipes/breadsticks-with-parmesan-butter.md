@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 36
 calories: 105
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - breadsticks

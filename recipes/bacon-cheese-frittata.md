@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 245
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

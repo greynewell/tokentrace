@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 80
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - artichoke

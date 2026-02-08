@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 1
 calories: 649
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 1361
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - burger
   - chorizo

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 5
 calories: 344
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - fried

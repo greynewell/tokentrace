@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 112
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - atsara
   - dish

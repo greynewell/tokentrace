@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 387
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - tiramisu

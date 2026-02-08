@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 751
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - barilla
   - course

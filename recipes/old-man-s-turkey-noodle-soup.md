@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 234
 recipe_category: Soup
+cuisine: American
 keywords:
   - man
   - noodle

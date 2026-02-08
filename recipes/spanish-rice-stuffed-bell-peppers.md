@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 560
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bell
   - course

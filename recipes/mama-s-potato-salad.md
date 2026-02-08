@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 284
 recipe_category: Salad
+cuisine: American
 keywords:
   - mama
   - potato

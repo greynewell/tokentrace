@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 32
 calories: 6
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - green

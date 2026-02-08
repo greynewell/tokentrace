@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 290
 recipe_category: Soup
+cuisine: American
 keywords:
   - brown
   - oyster

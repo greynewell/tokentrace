@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 353
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - burgers

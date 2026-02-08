@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 137
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - cream

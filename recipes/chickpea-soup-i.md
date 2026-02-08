@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 198
 recipe_category: Soup
+cuisine: Mediterranean
 keywords:
   - chickpea
   - soup

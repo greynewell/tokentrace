@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 452
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - eggplant

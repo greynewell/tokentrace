@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 193
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - challah

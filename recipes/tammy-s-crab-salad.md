@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 588
 recipe_category: Salad
+cuisine: American
 keywords:
   - crab
   - salad

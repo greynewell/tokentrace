@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 409
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - gai

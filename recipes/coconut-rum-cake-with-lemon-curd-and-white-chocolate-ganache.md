@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 775
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chocolate

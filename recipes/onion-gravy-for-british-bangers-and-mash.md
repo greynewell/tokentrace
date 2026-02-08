@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 226
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bangers
   - british

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 70
 recipe_category: Salad
+cuisine: American
 keywords:
   - pineapple
   - salad

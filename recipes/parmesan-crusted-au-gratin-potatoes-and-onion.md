@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 10
 calories: 507
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - crusted
   - dish

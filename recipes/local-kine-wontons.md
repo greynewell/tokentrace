@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 168
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - kine

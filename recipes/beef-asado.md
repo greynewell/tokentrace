@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 6
 calories: 639
 recipe_category: Main Course
+cuisine: American
 keywords:
   - asado
   - beef

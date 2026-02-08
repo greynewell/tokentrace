@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 65
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - marshmallow

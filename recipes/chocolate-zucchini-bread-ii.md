@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 20
 calories: 339
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 5
 calories: 559
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - boats
   - dish

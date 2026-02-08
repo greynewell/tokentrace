@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 5
 calories: 129
 recipe_category: Soup
+cuisine: American
 keywords:
   - base
   - meal

@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 12
 calories: 266
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crispy

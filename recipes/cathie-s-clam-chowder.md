@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 271
 recipe_category: Soup
+cuisine: American
 keywords:
   - cathie
   - chowder

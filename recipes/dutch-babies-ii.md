@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 2
 calories: 349
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - babies
   - breakfast

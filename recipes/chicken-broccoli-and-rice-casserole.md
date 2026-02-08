@@ -7,6 +7,7 @@ cook_time: PT56M
 servings: 8
 calories: 414
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - broccoli
   - casserole

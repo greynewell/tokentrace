@@ -7,6 +7,7 @@ cook_time: PT32M
 servings: 4
 calories: 609
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - coho

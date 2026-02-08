@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 294
 recipe_category: Dessert
+cuisine: French
 keywords:
   - cake
   - dessert

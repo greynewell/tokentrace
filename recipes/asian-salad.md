@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 374
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - asian
   - salad

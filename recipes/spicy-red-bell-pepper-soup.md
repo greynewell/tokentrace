@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 109
 recipe_category: Soup
+cuisine: American
 keywords:
   - bell
   - pepper

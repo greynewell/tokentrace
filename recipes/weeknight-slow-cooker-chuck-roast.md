@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 8
 calories: 372
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chuck
   - cooker

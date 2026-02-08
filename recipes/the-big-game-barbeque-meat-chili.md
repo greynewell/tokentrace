@@ -7,6 +7,7 @@ cook_time: PT10H10M
 servings: 12
 calories: 789
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - barbeque
   - big

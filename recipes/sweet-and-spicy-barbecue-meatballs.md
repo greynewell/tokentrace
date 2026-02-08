@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 536
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - barbecue
   - course

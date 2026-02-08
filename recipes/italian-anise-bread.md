@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 20
 calories: 448
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - anise
   - bread

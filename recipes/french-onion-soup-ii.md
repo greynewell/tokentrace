@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 219
 recipe_category: Soup
+cuisine: French
 keywords:
   - french
   - onion

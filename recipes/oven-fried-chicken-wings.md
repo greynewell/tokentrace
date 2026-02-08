@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 163
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chicken

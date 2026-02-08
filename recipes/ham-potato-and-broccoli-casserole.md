@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 5
 calories: 502
 recipe_category: Main Course
+cuisine: French
 keywords:
   - broccoli
   - casserole

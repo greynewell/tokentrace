@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 330
 recipe_category: Salad
+cuisine: American
 keywords:
   - asparagus
   - bean

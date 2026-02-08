@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 630
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - beans

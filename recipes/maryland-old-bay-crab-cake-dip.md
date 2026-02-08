@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 28
 calories: 109
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bay
   - cake

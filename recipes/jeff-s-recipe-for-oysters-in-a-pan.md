@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 392
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - jeff

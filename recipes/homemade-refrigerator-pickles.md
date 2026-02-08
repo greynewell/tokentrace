@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 64
 calories: 27
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - pickles

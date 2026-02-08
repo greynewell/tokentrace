@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 30
 calories: 251
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - custard

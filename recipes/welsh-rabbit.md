@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 333
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - rabbit

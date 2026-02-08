@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 254
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - carrot

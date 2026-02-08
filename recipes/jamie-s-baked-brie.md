@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 25
 calories: 48
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - baked

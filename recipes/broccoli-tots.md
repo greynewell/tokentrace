@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 4
 calories: 256
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - broccoli

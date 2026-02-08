@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 718
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - fettuccine

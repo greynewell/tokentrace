@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 1
 calories: 160
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - honey

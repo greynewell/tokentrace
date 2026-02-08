@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 12
 calories: 228
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - green
   - soup

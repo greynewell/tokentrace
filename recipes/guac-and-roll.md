@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 415
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - guac

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 249
 recipe_category: Main Course
+cuisine: American
 keywords:
   - belgian
   - cookies

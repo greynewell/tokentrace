@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 5
 calories: 625
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - country

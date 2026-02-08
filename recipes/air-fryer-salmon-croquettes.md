@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 506
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - course

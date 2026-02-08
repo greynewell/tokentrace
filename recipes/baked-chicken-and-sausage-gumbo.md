@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 6
 calories: 758
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - baked
   - chicken

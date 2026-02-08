@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 24
 calories: 108
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bars

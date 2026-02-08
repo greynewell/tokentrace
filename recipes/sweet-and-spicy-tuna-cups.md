@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 12
 calories: 154
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cups

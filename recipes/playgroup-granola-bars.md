@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 160
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bars

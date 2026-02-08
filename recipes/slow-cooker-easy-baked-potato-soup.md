@@ -7,6 +7,7 @@ cook_time: PT7H15M
 servings: 4
 calories: 336
 recipe_category: Soup
+cuisine: American
 keywords:
   - baked
   - cooker

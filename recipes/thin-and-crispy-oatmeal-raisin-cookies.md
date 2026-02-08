@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 30
 calories: 129
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - crispy

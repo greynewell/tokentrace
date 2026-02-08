@@ -7,6 +7,7 @@ cook_time: PT6H15M
 servings: 8
 calories: 357
 recipe_category: Soup
+cuisine: American
 keywords:
   - caveman
   - chili

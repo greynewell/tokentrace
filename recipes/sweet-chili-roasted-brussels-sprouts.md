@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 143
 recipe_category: Side Dish
+cuisine: Thai
 keywords:
   - brussels
   - chili

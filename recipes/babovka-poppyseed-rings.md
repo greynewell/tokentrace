@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 464
 recipe_category: Bread
+cuisine: American
 keywords:
   - babovka
   - bread

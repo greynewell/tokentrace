@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 316
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - granny

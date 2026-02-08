@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 8
 calories: 529
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - fish

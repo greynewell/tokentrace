@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 472
 recipe_category: Side Dish
+cuisine: Mediterranean
 keywords:
   - cake
   - carrot

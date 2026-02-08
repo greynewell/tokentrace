@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 18
 calories: 169
 recipe_category: Soup
+cuisine: American
 keywords:
   - cheese
   - cooker

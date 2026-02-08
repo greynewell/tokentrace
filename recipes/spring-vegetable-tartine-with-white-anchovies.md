@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 447
 recipe_category: Main Course
+cuisine: French
 keywords:
   - anchovies
   - course

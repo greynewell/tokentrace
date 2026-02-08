@@ -7,6 +7,7 @@ cook_time: PT6H20M
 servings: 6
 calories: 447
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - chicken
   - cooker

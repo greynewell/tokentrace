@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 276
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - chicken

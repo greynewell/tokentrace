@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 327
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - authentic
   - soup

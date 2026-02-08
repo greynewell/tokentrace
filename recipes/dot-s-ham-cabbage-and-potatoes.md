@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 4
 calories: 472
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - dot

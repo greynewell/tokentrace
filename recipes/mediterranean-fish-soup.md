@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 222
 recipe_category: Soup
+cuisine: Mediterranean
 keywords:
   - fish
   - mediterranean

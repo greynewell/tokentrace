@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 4
 calories: 345
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - cauliflower
   - ham

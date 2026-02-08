@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 732
 recipe_category: Soup
+cuisine: French
 keywords:
   - french
   - onion

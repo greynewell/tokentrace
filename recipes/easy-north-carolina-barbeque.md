@@ -7,6 +7,7 @@ cook_time: PT9H
 servings: 10
 calories: 449
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - carolina

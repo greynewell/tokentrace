@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 115
 recipe_category: Soup
+cuisine: American
 keywords:
   - beet
   - cold

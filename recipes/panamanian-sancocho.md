@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 456
 recipe_category: Soup
+cuisine: American
 keywords:
   - panamanian
   - sancocho

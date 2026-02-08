@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 361
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - coconut
   - dessert

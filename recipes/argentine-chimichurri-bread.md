@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 32
 recipe_category: Bread
+cuisine: American
 keywords:
   - argentine
   - bread

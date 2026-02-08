@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 375
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - butterhorns

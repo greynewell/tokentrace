@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 16
 calories: 236
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dylan

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 560
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

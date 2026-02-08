@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 579
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - onion

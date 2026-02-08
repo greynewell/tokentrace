@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 267
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bread

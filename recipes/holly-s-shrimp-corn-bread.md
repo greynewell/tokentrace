@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 8
 calories: 530
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - corn

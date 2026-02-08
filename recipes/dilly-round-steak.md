@@ -7,6 +7,7 @@ cook_time: PT6H10M
 servings: 6
 calories: 273
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dilly

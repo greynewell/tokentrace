@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 546
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - beef
   - course

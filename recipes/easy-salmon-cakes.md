@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 476
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

@@ -7,6 +7,7 @@ cook_time: PT51M
 servings: 6
 calories: 287
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - baked

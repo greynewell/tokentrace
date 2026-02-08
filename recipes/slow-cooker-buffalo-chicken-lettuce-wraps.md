@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 10
 calories: 105
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 32
 calories: 120
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - mississippi

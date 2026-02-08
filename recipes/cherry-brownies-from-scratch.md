@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 181
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - cherry

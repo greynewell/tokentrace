@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 24
 calories: 144
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - corn
   - dish

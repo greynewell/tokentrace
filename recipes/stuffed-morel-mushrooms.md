@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 165
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - morel

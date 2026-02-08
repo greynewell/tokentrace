@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 394
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - bake
   - course

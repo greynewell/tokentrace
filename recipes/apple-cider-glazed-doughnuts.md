@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 15
 calories: 296
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - cider

@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 16
 calories: 120
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

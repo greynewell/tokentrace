@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 492
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - waffles

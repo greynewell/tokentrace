@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 501
 recipe_category: Salad
+cuisine: American
 keywords:
   - edie
   - patatosalata

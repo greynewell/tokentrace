@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 354
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - canned

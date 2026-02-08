@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 394
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cake
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT8H25M
 servings: 12
 calories: 240
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - cooker
   - pozole

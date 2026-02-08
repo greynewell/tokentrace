@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 15
 calories: 511
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - donair

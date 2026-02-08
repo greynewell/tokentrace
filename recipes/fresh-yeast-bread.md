@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 72
 calories: 124
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fresh

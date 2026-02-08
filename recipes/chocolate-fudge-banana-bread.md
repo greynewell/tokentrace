@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 10
 calories: 362
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bread

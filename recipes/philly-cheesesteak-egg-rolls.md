@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 133
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cheesesteak

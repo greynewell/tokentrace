@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 106
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bun
   - cinnamon

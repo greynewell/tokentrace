@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 195
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - dip

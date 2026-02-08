@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 189
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - deviled

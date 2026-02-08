@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 399
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bread

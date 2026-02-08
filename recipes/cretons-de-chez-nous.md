@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 36
 calories: 239
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chez

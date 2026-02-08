@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 252
 recipe_category: Soup
+cuisine: American
 keywords:
   - rice
   - soup

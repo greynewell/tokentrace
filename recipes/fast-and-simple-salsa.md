@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 28
 calories: 10
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - fast

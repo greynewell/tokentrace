@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 8
 calories: 348
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - herb

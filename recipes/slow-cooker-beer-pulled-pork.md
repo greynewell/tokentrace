@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 16
 calories: 209
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beer
   - cooker

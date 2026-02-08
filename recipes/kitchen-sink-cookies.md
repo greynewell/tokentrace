@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 60
 calories: 142
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - dessert

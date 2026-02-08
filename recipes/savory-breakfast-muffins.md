@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 234
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - muffins

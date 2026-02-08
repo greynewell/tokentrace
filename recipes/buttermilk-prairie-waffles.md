@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 378
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - buttermilk

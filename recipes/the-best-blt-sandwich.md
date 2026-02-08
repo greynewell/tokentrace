@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 1
 calories: 284
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - blt
   - course

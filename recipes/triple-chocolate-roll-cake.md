@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 607
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chocolate

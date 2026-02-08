@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 6
 calories: 473
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - garlic

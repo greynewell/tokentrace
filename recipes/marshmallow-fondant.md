@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 10
 calories: 555
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fondant

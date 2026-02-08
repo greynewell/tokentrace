@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 769
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - cincinnati

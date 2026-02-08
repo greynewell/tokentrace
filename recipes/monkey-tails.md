@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 309
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - monkey

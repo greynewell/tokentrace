@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 2
 calories: 561
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - camp

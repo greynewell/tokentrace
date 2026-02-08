@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 2
 calories: 261
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - avocado
   - course

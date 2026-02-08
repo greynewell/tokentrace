@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 525
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - potato

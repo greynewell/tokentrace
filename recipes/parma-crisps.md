@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 301
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - crisps

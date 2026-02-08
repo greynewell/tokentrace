@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 30
 calories: 186
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amish
   - cakes

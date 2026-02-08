@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 60
 calories: 117
 recipe_category: Bread
+cuisine: American
 keywords:
   - braided
   - bread

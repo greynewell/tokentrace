@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 15
 calories: 112
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - dessert

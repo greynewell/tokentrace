@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 218
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - beer
   - bread

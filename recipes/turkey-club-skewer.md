@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 2
 calories: 588
 recipe_category: Main Course
+cuisine: American
 keywords:
   - club
   - course

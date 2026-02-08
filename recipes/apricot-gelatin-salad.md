@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 466
 recipe_category: Salad
+cuisine: American
 keywords:
   - apricot
   - gelatin

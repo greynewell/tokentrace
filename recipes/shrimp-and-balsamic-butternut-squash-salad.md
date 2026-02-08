@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 2
 calories: 986
 recipe_category: Salad
+cuisine: American
 keywords:
   - balsamic
   - butternut

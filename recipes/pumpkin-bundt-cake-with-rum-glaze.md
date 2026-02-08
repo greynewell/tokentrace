@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 12
 calories: 491
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bundt
   - cake

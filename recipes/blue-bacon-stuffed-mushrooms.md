@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 3
 calories: 348
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bacon

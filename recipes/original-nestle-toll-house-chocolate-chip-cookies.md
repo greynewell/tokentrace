@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 60
 calories: 108
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chip
   - chocolate

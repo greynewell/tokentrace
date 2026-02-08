@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 275
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - amazing
   - gnocchi

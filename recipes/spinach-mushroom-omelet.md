@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 114
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - mushroom

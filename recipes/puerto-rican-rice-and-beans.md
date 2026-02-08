@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 330
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beans
   - course

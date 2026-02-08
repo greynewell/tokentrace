@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 3
 calories: 356
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - one

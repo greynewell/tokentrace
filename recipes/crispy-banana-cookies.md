@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 30
 calories: 104
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - cookies

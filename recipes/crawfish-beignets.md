@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 448
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - beignets

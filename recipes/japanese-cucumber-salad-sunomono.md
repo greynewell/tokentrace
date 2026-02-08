@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 93
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cucumber
   - japanese

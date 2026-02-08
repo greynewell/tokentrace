@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 582
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - macaroni
   - salad

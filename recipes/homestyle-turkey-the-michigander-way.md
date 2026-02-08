@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 16
 calories: 545
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - homestyle

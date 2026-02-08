@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 64
 calories: 32
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - dip

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 298
 recipe_category: Beverage
+cuisine: Mexican
 keywords:
   - beverage
   - jalapeno

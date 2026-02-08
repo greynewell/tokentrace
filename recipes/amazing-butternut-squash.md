@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 282
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - amazing
   - butternut

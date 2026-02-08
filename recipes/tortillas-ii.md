@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 6
 calories: 171
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - tortillas

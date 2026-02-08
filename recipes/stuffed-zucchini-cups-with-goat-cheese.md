@@ -7,6 +7,7 @@ cook_time: PT42M
 servings: 12
 calories: 96
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

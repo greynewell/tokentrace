@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 20
 calories: 586
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ham

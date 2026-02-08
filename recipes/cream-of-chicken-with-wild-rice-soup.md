@@ -7,6 +7,7 @@ cook_time: PT1H55M
 servings: 8
 calories: 572
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - cream

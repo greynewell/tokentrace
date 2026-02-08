@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 40
 calories: 36
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - dessert

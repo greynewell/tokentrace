@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 284
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - butter

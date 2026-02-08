@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 75
 calories: 43
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - egg

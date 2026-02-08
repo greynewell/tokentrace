@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 222
 recipe_category: Bread
+cuisine: American
 keywords:
   - aparts
   - bread

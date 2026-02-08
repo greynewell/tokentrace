@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 96
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crustless

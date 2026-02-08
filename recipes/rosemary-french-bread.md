@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 10
 calories: 9
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - french

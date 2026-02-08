@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 155
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - asian
   - cucumber

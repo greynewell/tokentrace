@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 321
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - corn

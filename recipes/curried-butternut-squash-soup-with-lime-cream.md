@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 229
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - butternut
   - cream

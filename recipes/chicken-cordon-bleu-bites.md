@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 174
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bites

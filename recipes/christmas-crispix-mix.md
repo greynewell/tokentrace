@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 16
 calories: 540
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - christmas

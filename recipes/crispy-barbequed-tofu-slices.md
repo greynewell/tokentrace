@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 410
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbequed
   - course

@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 10
 calories: 211
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - cabbage

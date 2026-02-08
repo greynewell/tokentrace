@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 594
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - bread
   - cinnamon

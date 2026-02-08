@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 7
 calories: 257
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - burgundy

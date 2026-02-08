@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 114
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - grilled

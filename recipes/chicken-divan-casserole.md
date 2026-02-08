@@ -7,6 +7,7 @@ cook_time: PT1H22M
 servings: 8
 calories: 417
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 15
 calories: 175
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - garlic

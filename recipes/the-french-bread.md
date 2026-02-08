@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 173
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - french

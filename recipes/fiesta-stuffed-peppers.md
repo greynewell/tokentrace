@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 302
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - fiesta

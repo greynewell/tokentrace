@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 320
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - crisp

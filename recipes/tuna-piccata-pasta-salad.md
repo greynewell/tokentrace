@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 399
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - piccata

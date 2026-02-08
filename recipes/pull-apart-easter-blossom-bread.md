@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 269
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apart
   - blossom

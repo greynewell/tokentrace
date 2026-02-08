@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 11
 calories: 317
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolate

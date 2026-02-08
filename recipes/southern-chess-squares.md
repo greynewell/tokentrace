@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 344
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - chess
   - dessert

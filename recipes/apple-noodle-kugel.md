@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 301
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - dish

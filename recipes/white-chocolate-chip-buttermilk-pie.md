@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 284
 recipe_category: Dessert
+cuisine: American
 keywords:
   - buttermilk
   - chip

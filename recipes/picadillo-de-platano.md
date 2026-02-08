@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 203
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - picadillo

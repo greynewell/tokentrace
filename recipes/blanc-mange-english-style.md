@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 5
 calories: 265
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blanc
   - course

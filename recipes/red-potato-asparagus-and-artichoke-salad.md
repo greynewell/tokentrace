@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 553
 recipe_category: Salad
+cuisine: American
 keywords:
   - artichoke
   - asparagus

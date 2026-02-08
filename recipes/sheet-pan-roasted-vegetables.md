@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 24
 calories: 72
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - pan

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 239
 recipe_category: Dessert
+cuisine: American
 keywords:
   - biscotti
   - dessert

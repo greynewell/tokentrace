@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 132
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - authentic

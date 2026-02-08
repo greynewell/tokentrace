@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 36
 calories: 201
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - baklava
   - course

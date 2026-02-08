@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 1
 calories: 541
 recipe_category: Salad
+cuisine: American
 keywords:
   - fish
   - salad

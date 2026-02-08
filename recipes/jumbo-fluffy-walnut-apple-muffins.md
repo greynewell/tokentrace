@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 635
 recipe_category: Bread
+cuisine: American
 keywords:
   - apple
   - bread

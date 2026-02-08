@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 346
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cocktail

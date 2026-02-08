@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 540
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - baby

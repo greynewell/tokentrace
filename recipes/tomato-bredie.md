@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 531
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bredie
   - course

@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 15
 calories: 265
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - ears

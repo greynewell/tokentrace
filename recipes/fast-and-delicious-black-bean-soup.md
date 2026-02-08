@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 349
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - black

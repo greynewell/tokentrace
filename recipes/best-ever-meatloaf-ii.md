@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 325
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - main

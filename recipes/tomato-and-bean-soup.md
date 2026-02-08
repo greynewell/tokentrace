@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 224
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - soup

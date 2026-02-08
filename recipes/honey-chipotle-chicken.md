@@ -7,6 +7,7 @@ cook_time: PT5H30M
 servings: 6
 calories: 310
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chicken
   - chipotle

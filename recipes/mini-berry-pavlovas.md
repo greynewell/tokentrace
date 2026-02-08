@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 16
 calories: 82
 recipe_category: Dessert
+cuisine: American
 keywords:
   - berry
   - dessert

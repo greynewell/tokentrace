@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 1
 calories: 874
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

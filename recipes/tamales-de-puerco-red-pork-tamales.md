@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 15
 calories: 344
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - main

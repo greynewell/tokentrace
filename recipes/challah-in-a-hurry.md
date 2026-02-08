@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 90
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - challah

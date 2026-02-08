@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 40
 calories: 32
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - free

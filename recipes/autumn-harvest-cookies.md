@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 42
 calories: 114
 recipe_category: Dessert
+cuisine: American
 keywords:
   - autumn
   - cookies

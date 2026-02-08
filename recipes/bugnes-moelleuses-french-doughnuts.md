@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 24
 calories: 297
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - bugnes

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 300
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - benedict
   - breakfast

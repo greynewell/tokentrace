@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 285
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - daddy

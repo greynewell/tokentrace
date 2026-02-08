@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 461
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 2
 calories: 145
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chili
   - course

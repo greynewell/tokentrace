@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 331
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - kielbasa

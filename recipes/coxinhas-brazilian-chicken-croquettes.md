@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 167
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - brazilian

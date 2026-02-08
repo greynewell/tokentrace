@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 154
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bruschetta
   - course

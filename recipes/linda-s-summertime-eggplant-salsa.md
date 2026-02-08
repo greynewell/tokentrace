@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 32
 calories: 56
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - eggplant

@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 16
 calories: 263
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - cooker

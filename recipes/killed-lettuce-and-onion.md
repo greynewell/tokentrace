@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 144
 recipe_category: Salad
+cuisine: American
 keywords:
   - killed
   - lettuce

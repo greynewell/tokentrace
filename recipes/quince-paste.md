@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 32
 calories: 170
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - paste

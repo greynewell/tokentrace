@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 376
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - dumplings

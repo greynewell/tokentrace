@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 8
 calories: 353
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chef
   - chicken

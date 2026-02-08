@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 14
 calories: 321
 recipe_category: Dessert
+cuisine: American
 keywords:
   - buttery
   - cake

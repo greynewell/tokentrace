@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 778
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bubba

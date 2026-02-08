@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 273
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cake

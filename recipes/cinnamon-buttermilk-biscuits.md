@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 560
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuits
   - bread

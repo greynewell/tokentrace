@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 12
 calories: 550
 recipe_category: Soup
+cuisine: American
 keywords:
   - baked
   - loaded

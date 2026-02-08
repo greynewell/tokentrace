@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 98
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - honey

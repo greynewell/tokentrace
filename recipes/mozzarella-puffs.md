@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 92
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - mozzarella

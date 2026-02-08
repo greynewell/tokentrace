@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 12
 calories: 359
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - egyptian

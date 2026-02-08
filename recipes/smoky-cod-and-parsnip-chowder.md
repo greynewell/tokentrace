@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 348
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - cod

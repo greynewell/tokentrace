@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 14
 calories: 228
 recipe_category: Main Course
+cuisine: American
 keywords:
   - banana
   - believe

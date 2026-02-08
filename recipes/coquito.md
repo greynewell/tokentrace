@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 344
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - coquito

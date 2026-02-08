@@ -7,6 +7,7 @@ cook_time: PT1H32M
 servings: 8
 calories: 363
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - buttermilk
   - dish

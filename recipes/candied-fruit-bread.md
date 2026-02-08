@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 482
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - candied

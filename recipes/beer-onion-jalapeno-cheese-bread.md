@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 144
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - beer
   - bread

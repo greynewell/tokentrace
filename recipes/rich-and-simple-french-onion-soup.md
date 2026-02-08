@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 585
 recipe_category: Soup
+cuisine: French
 keywords:
   - french
   - onion

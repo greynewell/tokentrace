@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 438
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - beef
   - dumplings

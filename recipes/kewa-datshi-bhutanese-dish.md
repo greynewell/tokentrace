@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 2
 calories: 538
 recipe_category: Soup
+cuisine: American
 keywords:
   - bhutanese
   - datshi

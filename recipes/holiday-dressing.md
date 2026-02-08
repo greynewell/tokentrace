@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 16
 calories: 316
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - dressing

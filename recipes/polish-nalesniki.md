@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 290
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - nalesniki

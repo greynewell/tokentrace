@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 20
 calories: 334
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - authentic
   - bauernbrot

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 534
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - belle
   - breakfast

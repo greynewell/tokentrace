@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 377
 recipe_category: Salad
+cuisine: American
 keywords:
   - bud
   - potato

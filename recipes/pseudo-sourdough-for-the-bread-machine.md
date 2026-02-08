@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 74
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - machine

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 316
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pear

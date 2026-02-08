@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 3
 calories: 224
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - keto

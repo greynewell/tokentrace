@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 155
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almost
   - castle

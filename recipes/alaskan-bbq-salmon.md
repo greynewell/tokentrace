@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 16
 calories: 269
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - alaskan
   - bbq

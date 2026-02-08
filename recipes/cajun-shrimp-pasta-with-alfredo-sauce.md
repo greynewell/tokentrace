@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 575
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - alfredo
   - cajun

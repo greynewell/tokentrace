@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 24
 calories: 266
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brownies
   - dish

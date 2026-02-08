@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 100
 calories: 2
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - herbs

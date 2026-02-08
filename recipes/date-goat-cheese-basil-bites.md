@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 138
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - basil

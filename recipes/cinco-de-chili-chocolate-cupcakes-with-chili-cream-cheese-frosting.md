@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 24
 calories: 274
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - chili

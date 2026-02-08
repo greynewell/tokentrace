@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 342
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - cold
   - macaroni

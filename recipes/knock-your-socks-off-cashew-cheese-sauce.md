@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 77
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - cashew

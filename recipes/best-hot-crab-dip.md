@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 18
 calories: 284
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crab

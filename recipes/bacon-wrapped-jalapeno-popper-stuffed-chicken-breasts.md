@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 446
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bacon
   - breasts

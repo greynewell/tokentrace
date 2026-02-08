@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 252
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - florentine

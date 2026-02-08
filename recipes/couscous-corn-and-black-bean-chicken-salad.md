@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 340
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - bean
   - black

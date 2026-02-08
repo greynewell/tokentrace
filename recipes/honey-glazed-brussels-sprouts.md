@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 221
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brussels
   - dish

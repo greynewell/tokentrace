@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 146
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - dessert
   - pecan

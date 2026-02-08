@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 8
 calories: 372
 recipe_category: Soup
+cuisine: Mediterranean
 keywords:
   - beef
   - cabbage

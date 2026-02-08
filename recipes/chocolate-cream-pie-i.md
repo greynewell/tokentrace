@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 155
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - cream

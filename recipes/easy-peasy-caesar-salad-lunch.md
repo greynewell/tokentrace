@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 330
 recipe_category: Salad
+cuisine: American
 keywords:
   - caesar
   - lunch

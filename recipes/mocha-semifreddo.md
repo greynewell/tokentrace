@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 2
 calories: 279
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - mocha

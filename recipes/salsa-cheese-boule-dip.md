@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 9
 calories: 362
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - boule

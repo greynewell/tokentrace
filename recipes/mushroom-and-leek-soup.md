@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 182
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - leek
   - mushroom

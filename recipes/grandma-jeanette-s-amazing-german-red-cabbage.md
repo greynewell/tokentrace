@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 4
 calories: 148
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - amazing
   - cabbage

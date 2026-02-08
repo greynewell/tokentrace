@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 32
 calories: 256
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

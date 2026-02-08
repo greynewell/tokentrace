@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 533
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chess
   - coconut

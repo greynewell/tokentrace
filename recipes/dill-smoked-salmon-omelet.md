@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 1
 calories: 594
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - dill

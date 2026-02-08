@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 70
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - delicious

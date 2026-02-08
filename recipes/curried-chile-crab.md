@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 407
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - chile
   - course

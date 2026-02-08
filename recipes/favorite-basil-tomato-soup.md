@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 242
 recipe_category: Soup
+cuisine: American
 keywords:
   - basil
   - soup

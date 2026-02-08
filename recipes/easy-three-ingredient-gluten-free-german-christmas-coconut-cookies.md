@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 45
 calories: 46
 recipe_category: Main Course
+cuisine: American
 keywords:
   - christmas
   - coconut

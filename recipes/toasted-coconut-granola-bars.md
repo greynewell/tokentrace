@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 32
 calories: 179
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bars

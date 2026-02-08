@@ -7,6 +7,7 @@ cook_time: PT44M
 servings: 10
 calories: 520
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

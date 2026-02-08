@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 296
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apricot
   - chicken

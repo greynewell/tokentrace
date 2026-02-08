@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 185
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amazing
   - bars

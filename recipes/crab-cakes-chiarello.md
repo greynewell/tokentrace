@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 269
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cakes
   - chiarello

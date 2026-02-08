@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 8
 calories: 535
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - andy
   - appetizer

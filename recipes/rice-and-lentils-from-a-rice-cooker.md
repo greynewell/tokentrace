@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 631
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooker
   - course

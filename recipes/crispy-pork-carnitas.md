@@ -7,6 +7,7 @@ cook_time: PT3H40M
 servings: 6
 calories: 317
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - carnitas
   - course

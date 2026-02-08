@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 7
 calories: 251
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buco
   - course

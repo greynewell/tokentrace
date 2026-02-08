@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 392
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - antipasti
   - appetizer

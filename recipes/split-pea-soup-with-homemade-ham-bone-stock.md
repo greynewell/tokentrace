@@ -7,6 +7,7 @@ cook_time: PT8H12M
 servings: 8
 calories: 322
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - ham

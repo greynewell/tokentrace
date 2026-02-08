@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 16
 calories: 224
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

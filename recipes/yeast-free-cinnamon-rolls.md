@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 4
 calories: 262
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cinnamon

@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 124
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - crisps

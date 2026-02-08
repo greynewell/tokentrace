@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 16
 calories: 403
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - casserole
   - dish

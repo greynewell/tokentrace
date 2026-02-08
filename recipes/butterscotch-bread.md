@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 219
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - butterscotch

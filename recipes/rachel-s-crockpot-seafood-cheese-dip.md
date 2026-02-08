@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 308
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - cheese

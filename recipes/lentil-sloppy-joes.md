@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 213
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - joes

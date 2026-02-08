@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 518
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - caldereta

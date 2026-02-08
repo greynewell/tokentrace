@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 139
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - egg

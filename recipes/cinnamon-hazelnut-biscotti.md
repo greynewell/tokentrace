@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 30
 calories: 138
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscotti
   - cinnamon

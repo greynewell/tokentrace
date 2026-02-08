@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 296
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - french

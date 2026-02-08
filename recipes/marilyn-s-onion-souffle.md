@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 197
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - marilyn

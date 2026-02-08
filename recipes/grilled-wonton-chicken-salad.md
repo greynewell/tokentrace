@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 886
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - chicken
   - grilled

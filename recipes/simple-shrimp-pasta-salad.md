@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 288
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - salad

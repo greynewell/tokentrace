@@ -7,6 +7,7 @@ cook_time: PT6H35M
 servings: 8
 calories: 332
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - scallop

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 59
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cauliflower
   - dish

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 10
 calories: 146
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - arkansas
   - beans

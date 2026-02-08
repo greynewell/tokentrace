@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 16
 calories: 360
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

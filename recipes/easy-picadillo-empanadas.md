@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 140
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - empanadas

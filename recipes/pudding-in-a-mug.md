@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 1
 calories: 200
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - mug

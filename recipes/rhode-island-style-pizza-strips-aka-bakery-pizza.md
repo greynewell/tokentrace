@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 275
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - aka
   - appetizer

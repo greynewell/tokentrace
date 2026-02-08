@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 292
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - american
   - breakfast

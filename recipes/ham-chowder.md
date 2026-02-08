@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 15
 calories: 438
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - ham

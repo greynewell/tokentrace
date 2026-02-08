@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 206
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - crab

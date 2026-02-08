@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 231
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT5H45M
 servings: 8
 calories: 207
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - cooker

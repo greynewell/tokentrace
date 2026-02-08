@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 40
 calories: 97
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bites

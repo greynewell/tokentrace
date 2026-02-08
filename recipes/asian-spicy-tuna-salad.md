@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 3
 calories: 186
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - asian
   - salad

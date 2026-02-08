@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 369
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - casserole
   - dish

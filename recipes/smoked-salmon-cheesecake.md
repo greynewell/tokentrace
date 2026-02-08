@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 12
 calories: 365
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheesecake

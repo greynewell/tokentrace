@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 379
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - german
   - potato

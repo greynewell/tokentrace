@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 84
 calories: 88
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - malasadas

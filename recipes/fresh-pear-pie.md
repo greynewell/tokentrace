@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 360
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fresh

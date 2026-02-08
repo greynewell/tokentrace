@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 62
 recipe_category: Soup
+cuisine: American
 keywords:
   - ang
   - chi

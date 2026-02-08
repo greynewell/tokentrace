@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 95
 recipe_category: Main Course
+cuisine: American
 keywords:
   - authentic
   - course

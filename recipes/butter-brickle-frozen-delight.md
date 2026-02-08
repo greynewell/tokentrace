@@ -7,6 +7,7 @@ cook_time: PT21M
 servings: 12
 calories: 617
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brickle
   - butter

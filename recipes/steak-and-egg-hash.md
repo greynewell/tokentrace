@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 160
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - egg

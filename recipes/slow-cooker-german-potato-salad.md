@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 8
 calories: 221
 recipe_category: Salad
+cuisine: American
 keywords:
   - cooker
   - german

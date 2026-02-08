@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 503
 recipe_category: Dessert
+cuisine: French
 keywords:
   - blueberry
   - cheesecake

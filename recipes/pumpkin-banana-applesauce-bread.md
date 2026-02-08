@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 36
 calories: 96
 recipe_category: Bread
+cuisine: American
 keywords:
   - applesauce
   - banana

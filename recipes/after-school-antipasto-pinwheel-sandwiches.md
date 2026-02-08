@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 399
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - after
   - antipasto

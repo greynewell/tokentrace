@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 263
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - nut

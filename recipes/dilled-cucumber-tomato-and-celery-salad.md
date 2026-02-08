@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 373
 recipe_category: Salad
+cuisine: American
 keywords:
   - celery
   - cucumber

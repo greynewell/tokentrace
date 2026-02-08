@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 5
 calories: 159
 recipe_category: Soup
+cuisine: American
 keywords:
   - bowl
   - soup

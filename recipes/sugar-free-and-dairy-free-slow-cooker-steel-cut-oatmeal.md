@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 159
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - cooker

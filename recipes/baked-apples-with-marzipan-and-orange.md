@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 340
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apples
   - baked

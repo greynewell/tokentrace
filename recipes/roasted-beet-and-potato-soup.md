@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 6
 calories: 166
 recipe_category: Soup
+cuisine: American
 keywords:
   - beet
   - potato

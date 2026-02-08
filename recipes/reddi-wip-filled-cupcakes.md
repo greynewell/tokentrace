@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 107
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cupcakes

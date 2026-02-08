@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 344
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - caramel

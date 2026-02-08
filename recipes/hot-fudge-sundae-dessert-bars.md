@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 20
 calories: 463
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

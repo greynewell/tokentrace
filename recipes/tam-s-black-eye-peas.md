@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 15
 calories: 132
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - black
   - dish

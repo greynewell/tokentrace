@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 433
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - chili
   - delicious

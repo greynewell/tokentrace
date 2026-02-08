@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 597
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - dessert

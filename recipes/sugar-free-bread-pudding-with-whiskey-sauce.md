@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 24
 calories: 174
 recipe_category: Dessert
+cuisine: French
 keywords:
   - bread
   - dessert

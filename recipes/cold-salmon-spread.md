@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 92
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cold

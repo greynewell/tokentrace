@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 207
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - platano

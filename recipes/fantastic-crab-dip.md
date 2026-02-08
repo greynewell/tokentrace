@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 5
 calories: 194
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crab

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 259
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - harvest

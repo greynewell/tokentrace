@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 28
 calories: 123
 recipe_category: Main Course
+cuisine: American
 keywords:
   - almond
   - arthur

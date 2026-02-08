@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 180
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - broiled
   - course

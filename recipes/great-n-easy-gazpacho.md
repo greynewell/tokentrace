@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 47
 recipe_category: Soup
+cuisine: American
 keywords:
   - gazpacho
   - soup

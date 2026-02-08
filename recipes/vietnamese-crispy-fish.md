@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 4
 calories: 401
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - course
   - crispy

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 9
 calories: 166
 recipe_category: Salad
+cuisine: French
 keywords:
   - amanda
   - quinoa

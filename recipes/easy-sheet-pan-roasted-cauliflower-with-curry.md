@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 125
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - cauliflower
   - curry

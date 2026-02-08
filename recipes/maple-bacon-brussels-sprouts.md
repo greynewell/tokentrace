@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 154
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - brussels

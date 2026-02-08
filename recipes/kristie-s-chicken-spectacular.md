@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 506
 recipe_category: Main Course
+cuisine: French
 keywords:
   - chicken
   - course

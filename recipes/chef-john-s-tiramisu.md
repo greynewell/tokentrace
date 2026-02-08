@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 774
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chef
   - course

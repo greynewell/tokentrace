@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 410
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - awesome

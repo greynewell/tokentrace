@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 114
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - crinkle

@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 16
 calories: 54
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - caponata

@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 36
 calories: 82
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cinnamon
   - course

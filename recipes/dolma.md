@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 363
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - dolma

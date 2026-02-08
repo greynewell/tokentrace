@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 385
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - golden

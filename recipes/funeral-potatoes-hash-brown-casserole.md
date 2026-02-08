@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 398
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - brown
   - casserole

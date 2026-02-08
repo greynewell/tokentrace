@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 365
 recipe_category: Bread
+cuisine: French
 keywords:
   - beignets
   - bread

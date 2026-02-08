@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 40
 calories: 53
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - barbeque
   - dish

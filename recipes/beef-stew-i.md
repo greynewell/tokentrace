@@ -7,6 +7,7 @@ cook_time: PT3H50M
 servings: 8
 calories: 428
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - soup

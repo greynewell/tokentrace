@@ -7,6 +7,7 @@ cook_time: PT1H50M
 servings: 4
 calories: 397
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cornish
   - course

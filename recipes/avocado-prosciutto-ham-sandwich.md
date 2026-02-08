@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 582
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - avocado
   - course

@@ -7,6 +7,7 @@ cook_time: PT54M
 servings: 6
 calories: 407
 recipe_category: Soup
+cuisine: American
 keywords:
   - fish
   - jeff

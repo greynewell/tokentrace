@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 478
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - dessert

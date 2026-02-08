@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 24
 calories: 61
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - pancake

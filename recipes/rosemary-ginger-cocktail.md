@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 8
 calories: 178
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - cocktail

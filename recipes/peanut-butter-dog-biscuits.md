@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 48
 calories: 67
 recipe_category: Main Course
+cuisine: American
 keywords:
   - biscuits
   - butter

@@ -7,6 +7,7 @@ cook_time: PT3H45M
 servings: 18
 calories: 136
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bbq

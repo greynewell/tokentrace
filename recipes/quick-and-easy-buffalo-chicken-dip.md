@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 192
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buffalo
   - chicken

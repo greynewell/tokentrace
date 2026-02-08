@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 8
 calories: 362
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - cooker
   - slow

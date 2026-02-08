@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 25
 calories: 140
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - biscuits

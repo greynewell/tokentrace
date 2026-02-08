@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 743
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - absolute
   - bread

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 334
 recipe_category: Salad
+cuisine: American
 keywords:
   - cob
   - corn

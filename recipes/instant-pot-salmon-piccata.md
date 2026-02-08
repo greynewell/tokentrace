@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 383
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - instant

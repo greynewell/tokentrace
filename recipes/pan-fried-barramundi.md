@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 4
 calories: 673
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barramundi
   - course

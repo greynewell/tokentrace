@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 193
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - rhubarb

@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 10
 calories: 547
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - dessert

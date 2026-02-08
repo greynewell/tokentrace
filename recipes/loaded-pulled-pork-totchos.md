@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 8
 calories: 537
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - loaded

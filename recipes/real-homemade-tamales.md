@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 16
 calories: 236
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - main

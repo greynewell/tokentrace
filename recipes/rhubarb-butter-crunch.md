@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 278
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - crunch

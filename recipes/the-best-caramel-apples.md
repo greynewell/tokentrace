@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 799
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apples
   - caramel

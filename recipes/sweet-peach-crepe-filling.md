@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 141
 recipe_category: Dessert
+cuisine: French
 keywords:
   - crepe
   - dessert

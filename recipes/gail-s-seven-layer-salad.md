@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 620
 recipe_category: Salad
+cuisine: American
 keywords:
   - gail
   - layer

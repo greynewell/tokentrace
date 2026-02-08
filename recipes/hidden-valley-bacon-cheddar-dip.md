@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 229
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - cheddar

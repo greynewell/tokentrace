@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 114
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - iced

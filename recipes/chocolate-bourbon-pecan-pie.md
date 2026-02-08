@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 647
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - chocolate

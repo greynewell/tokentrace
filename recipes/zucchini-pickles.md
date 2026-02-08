@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 96
 calories: 20
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - pickles

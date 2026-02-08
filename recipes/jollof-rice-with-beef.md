@@ -7,6 +7,7 @@ cook_time: PT41M
 servings: 8
 calories: 525
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - jollof

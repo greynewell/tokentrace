@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 4
 calories: 440
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - baked

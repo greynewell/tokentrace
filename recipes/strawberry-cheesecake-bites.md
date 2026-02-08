@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 123
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bites
   - cheesecake

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 60
 calories: 42
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - tortillas

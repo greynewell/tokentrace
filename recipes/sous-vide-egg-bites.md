@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 108
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bites
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 274
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - fried

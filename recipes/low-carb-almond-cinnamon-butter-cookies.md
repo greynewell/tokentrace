@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 196
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - butter

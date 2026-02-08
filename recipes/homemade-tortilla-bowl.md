@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 4
 calories: 251
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bowl
   - course

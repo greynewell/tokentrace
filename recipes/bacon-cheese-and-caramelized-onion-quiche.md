@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 8
 calories: 390
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bacon
   - breakfast

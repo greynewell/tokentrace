@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 15
 calories: 229
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cooked

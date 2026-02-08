@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 35
 recipe_category: Dessert
+cuisine: American
 keywords:
   - curd
   - dessert

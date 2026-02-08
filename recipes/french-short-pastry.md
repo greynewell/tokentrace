@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 150
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - french

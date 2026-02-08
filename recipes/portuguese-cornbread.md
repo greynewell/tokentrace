@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 154
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cornbread

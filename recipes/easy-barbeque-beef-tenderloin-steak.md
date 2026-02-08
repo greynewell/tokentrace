@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 771
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbeque
   - beef

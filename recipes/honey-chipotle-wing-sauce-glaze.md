@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 51
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - chipotle
   - dish

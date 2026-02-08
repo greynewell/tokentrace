@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 10
 calories: 974
 recipe_category: Main Course
+cuisine: American
 keywords:
   - adrienne
   - barbecued

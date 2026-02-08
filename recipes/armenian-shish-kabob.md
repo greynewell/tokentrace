@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 384
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - armenian
   - course

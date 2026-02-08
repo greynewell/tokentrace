@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 89
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - side

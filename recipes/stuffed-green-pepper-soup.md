@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 515
 recipe_category: Soup
+cuisine: American
 keywords:
   - green
   - pepper

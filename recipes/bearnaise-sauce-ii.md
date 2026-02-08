@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 4
 calories: 158
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bearnaise
   - dish

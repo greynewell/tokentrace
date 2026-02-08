@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 14
 calories: 488
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - apple
   - cake

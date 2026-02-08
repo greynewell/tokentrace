@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 80
 calories: 41
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - freezer

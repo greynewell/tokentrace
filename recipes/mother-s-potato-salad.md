@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 501
 recipe_category: Salad
+cuisine: American
 keywords:
   - mother
   - potato

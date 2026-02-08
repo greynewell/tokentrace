@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 2
 calories: 745
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - broccoli
   - course

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 56
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - iced

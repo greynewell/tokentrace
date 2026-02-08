@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 2
 calories: 805
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - artichokes

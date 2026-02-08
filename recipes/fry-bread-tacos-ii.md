@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 4
 calories: 808
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bread
   - course

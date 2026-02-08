@@ -7,6 +7,7 @@ cook_time: PT3H35M
 servings: 6
 calories: 626
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - course

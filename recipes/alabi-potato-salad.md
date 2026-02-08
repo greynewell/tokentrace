@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 159
 recipe_category: Salad
+cuisine: American
 keywords:
   - alabi
   - potato

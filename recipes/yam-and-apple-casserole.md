@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 420
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - casserole

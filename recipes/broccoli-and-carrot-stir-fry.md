@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 5
 calories: 90
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - broccoli
   - carrot

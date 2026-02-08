@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 141
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - course

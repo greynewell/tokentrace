@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 188
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - brie

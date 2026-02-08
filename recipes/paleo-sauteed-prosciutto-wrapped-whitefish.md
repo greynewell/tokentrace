@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 555
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

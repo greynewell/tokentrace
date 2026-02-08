@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 129
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - buffalo

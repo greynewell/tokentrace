@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 20
 calories: 131
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - herb

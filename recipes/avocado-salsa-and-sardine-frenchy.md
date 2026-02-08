@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 274
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - avocado
   - course

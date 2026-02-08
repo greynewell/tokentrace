@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 135
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bake
   - bars

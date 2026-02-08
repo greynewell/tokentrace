@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 479
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cinnamon
   - course

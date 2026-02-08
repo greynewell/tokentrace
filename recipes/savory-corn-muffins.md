@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 240
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - corn

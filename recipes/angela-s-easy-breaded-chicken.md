@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 531
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - angela
   - breaded

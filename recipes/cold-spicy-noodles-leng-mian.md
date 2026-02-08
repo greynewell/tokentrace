@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 479
 recipe_category: Main Course
+cuisine: Korean
 keywords:
   - cold
   - course

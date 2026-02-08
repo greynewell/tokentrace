@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 40
 calories: 11
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - crackers

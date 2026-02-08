@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 2
 calories: 379
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - air
   - bbq

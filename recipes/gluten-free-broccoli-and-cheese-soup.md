@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 532
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - broccoli
   - cheese

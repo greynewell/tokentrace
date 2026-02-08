@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 4
 calories: 284
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - authentic
   - course

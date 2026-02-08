@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 8
 calories: 472
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - gumbo

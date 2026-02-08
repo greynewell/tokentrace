@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 394
 recipe_category: Soup
+cuisine: American
 keywords:
   - peperonata
   - soup

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 166
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - lentil

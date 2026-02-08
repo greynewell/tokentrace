@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 18
 calories: 146
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - crowd
   - dish

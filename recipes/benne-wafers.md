@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 36
 calories: 107
 recipe_category: Dessert
+cuisine: American
 keywords:
   - benne
   - dessert

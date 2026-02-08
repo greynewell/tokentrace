@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 279
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - butter

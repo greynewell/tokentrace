@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 9
 calories: 204
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - oatmeal

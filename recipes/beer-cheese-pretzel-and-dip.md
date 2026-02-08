@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 20
 calories: 195
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beer

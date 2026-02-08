@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 12
 calories: 336
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - chicken
   - course

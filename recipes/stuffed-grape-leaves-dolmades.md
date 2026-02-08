@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 321
 recipe_category: Appetizer
+cuisine: Mediterranean
 keywords:
   - appetizer
   - dolmades

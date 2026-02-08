@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 28
 calories: 48
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - applesauce
   - barbeque

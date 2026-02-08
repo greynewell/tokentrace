@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 162
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - curry
   - pumpkin

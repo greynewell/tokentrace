@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 20
 calories: 396
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brown
   - course

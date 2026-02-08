@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 10
 calories: 445
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

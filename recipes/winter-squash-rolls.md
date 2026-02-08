@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 363
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rolls

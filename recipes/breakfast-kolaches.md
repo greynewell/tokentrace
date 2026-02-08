@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 18
 calories: 176
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - kolaches

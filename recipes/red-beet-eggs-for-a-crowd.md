@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 18
 calories: 126
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beet
   - crowd

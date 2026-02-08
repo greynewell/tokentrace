@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 155
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - applesauce
   - bread

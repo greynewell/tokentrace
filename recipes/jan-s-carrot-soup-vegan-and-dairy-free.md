@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 135
 recipe_category: Soup
+cuisine: American
 keywords:
   - carrot
   - dairy

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 262
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chia
   - cookies

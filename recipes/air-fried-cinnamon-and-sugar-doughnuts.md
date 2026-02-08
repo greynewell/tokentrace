@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 9
 calories: 276
 recipe_category: Bread
+cuisine: American
 keywords:
   - air
   - bread

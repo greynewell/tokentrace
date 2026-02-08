@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 25
 calories: 138
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - classic
   - cocktail

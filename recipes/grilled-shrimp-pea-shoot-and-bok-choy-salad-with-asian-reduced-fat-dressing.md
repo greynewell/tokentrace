@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 4
 calories: 276
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - asian
   - bok

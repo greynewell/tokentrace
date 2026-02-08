@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 30
 calories: 122
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - house

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 231
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - batter

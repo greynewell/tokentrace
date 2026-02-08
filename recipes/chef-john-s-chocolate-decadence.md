@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 333
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chef
   - chocolate

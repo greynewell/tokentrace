@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 12
 calories: 110
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - mini

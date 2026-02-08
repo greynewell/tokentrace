@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 448
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - authentic
   - bread

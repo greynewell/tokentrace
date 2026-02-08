@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 228
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - amish
   - fat

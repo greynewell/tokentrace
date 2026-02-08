@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 12
 calories: 404
 recipe_category: Beverage
+cuisine: American
 keywords:
   - amazingly
   - beverage

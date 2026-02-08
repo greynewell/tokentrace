@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 350
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - dish
   - fritters

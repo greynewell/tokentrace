@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 475
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheese
   - cream

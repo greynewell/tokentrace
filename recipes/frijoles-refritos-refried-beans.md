@@ -7,6 +7,7 @@ cook_time: PT6H3M
 servings: 12
 calories: 214
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - dish

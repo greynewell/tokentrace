@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 957
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

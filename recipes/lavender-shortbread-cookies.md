@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 186
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cookies
   - dessert

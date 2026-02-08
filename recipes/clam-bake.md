@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 1383
 recipe_category: Main Course
+cuisine: French
 keywords:
   - bake
   - clam

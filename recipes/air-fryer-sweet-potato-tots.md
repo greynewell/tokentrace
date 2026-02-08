@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 24
 calories: 21
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - air
   - dish

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 5
 calories: 736
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boiled
   - course

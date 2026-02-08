@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 250
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - dessert

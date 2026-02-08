@@ -7,6 +7,7 @@ cook_time: PT27M
 servings: 4
 calories: 400
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - avocado
   - bacon

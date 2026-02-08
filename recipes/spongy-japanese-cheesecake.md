@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 8
 calories: 301
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - cheesecake
   - course

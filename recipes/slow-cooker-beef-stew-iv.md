@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 12
 calories: 492
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - cooker

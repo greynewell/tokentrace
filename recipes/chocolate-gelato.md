@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 238
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chocolate
   - course

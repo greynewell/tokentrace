@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 66
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - garlic

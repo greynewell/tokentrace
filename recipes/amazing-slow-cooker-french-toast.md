@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 512
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - amazing
   - breakfast

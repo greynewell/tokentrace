@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 12
 calories: 295
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

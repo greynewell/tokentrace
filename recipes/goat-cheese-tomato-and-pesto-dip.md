@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 231
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cheese

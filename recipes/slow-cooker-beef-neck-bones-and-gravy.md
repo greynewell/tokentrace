@@ -7,6 +7,7 @@ cook_time: PT5H20M
 servings: 6
 calories: 124
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - bones

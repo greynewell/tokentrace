@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 709
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - clam

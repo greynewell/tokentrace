@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 200
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chicken
   - chow

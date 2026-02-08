@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 74
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - curried
   - soup

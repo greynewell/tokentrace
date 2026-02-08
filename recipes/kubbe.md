@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 25
 calories: 231
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - kubbe

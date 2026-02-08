@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 11
 calories: 350
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - fabulous

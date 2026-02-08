@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 359
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - english

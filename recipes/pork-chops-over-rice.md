@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 3
 calories: 492
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chops
   - course

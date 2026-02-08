@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 618
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cake
   - dessert

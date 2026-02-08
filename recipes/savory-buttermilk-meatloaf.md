@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 6
 calories: 560
 recipe_category: Main Course
+cuisine: French
 keywords:
   - buttermilk
   - course

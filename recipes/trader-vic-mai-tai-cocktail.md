@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 254
 recipe_category: Beverage
+cuisine: French
 keywords:
   - beverage
   - cocktail

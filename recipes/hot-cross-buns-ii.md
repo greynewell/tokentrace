@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 795
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buns

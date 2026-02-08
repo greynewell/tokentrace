@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 27
 calories: 232
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - cornbread

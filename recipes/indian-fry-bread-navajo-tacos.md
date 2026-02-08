@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 6
 calories: 838
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bread
   - fry

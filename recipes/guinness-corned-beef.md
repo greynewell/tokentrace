@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 16
 calories: 286
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - corned

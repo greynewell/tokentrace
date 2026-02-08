@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 614
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - air
   - baby

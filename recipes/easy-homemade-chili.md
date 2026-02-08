@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 394
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - soup

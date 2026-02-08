@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 736
 recipe_category: Salad
+cuisine: French
 keywords:
   - caesar
   - outrageous

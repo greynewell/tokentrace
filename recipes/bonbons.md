@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 75
 calories: 145
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bonbons
   - dessert

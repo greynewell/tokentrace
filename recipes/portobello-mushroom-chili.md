@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 193
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chili
   - mushroom

@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 2
 calories: 864
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - blue
   - buffalo

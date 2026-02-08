@@ -7,6 +7,7 @@ cook_time: PT4H20M
 servings: 4
 calories: 908
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - main

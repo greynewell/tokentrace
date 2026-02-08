@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 20
 calories: 244
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - jamaican

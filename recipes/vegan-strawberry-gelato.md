@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 67
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - gelato

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 61
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - allison
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 60
 calories: 65
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - snack

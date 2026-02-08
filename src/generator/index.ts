@@ -7,7 +7,7 @@ import { generateJsonLd, generateBreadcrumbJsonLd, generateWebSiteJsonLd, genera
 import { renderRecipePage, renderIndexPage, renderHubPage, renderContributorProfilePage, renderTaxonomyIndexPage, renderLetterPage, groupEntriesByLetter, renderAboutPage, renderContributePage, renderFavoritesPage, renderInstallPage, RECIPES_PER_PAGE, computePagination, generateManifestJson, baseStyles, mainScript } from './template';
 import { loadContributors } from '../contributors';
 import { buildAllTaxonomies, toSlug } from './taxonomy';
-import { generateSitemap } from './sitemap';
+import { generateSitemapFiles } from './sitemap';
 import { generateRobotsTxt } from './robots';
 import { generateLlmsTxt } from './llms-txt';
 import { generateAllRssFeeds } from './rss';
@@ -206,6 +206,16 @@ export async function buildSite(recipesDir: string, outputDir: string, force: bo
   // Only create ingredient pages for ingredients with 3+ recipes
   const taxonomies = buildAllTaxonomies(allRecipes, { ingredientOverrides, ingredientMinRecipes: 3 });
 
+  // Build a lookup of valid taxonomy slugs so recipe pills only link to existing pages
+  const validTaxonomySlugs = new Map<string, Set<string>>();
+  for (const taxonomy of taxonomies) {
+    const slugs = new Set<string>();
+    for (const entry of taxonomy.entries) {
+      slugs.add(entry.slug);
+    }
+    validTaxonomySlugs.set(taxonomy.type, slugs);
+  }
+
   // Second pass: render each recipe with resolved pairings
   let skippedCount = 0;
   let generatedCount = 0;
@@ -275,6 +285,7 @@ export async function buildSite(recipesDir: string, outputDir: string, force: bo
       breadcrumbJsonLd,
       pairings: pairings.length > 0 ? pairings : null,
       categoryBreadcrumb: categoryBreadcrumb || null,
+      validTaxonomySlugs,
     });
 
     // Write minified HTML to output
@@ -472,9 +483,11 @@ export async function buildSite(recipesDir: string, outputDir: string, force: bo
     changefreq: 'daily',
   });
 
-  // Generate sitemap.xml
-  const sitemap = generateSitemap(sitemapEntries);
-  fs.writeFileSync(path.join(outputDir, 'sitemap.xml'), sitemap, 'utf-8');
+  // Generate sitemap file(s) — splits into multiple files with an index if over 50k URLs
+  const sitemapFiles = generateSitemapFiles(sitemapEntries, BASE_URL);
+  for (const file of sitemapFiles) {
+    fs.writeFileSync(path.join(outputDir, file.filename), file.content, 'utf-8');
+  }
 
   // Generate robots.txt
   const robots = generateRobotsTxt(`${BASE_URL}/sitemap.xml`);

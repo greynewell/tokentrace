@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 36
 calories: 105
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - ginger

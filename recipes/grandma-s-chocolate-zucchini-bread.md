@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 291
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - chocolate

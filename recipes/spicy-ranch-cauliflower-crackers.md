@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 18
 calories: 29
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cauliflower

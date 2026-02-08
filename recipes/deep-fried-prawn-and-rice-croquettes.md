@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 8
 calories: 182
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - croquettes

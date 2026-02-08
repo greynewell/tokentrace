@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 16
 calories: 354
 recipe_category: Soup
+cuisine: American
 keywords:
   - oyster
   - paul

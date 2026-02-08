@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 605
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crisp

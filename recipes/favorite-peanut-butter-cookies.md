@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 54
 calories: 109
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cookies

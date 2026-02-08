@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 10
 calories: 286
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chef
   - course

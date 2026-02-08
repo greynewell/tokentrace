@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 24
 calories: 294
 recipe_category: Dessert
+cuisine: American
 keywords:
   - allison
   - chip

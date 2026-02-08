@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 8
 calories: 300
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - creamy

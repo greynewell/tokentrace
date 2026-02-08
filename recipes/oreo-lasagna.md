@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 582
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - lasagna

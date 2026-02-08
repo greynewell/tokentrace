@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 4
 calories: 99
 recipe_category: Soup
+cuisine: American
 keywords:
   - kabocha
   - shrimp

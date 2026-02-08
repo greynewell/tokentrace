@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 8
 calories: 282
 recipe_category: Salad
+cuisine: American
 keywords:
   - crab
   - ingredient

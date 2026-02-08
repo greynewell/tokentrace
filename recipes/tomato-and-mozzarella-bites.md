@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 225
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - bites
   - mozzarella

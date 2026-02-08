@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 32
 calories: 125
 recipe_category: Soup
+cuisine: American
 keywords:
   - canned
   - soup

@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 2
 calories: 732
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bordelaise
   - course

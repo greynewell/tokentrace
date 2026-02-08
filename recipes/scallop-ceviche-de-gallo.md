@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 6
 calories: 134
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - ceviche

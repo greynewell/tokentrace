@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 289
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blackberry
   - curd

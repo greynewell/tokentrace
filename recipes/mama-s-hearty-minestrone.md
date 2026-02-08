@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 237
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - hearty
   - mama

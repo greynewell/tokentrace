@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 16
 calories: 228
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - dessert

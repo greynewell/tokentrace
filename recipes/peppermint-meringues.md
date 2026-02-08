@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 48
 calories: 13
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - meringues

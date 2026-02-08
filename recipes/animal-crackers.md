@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 40
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - animal
   - appetizer

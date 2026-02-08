@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 79
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - asparagus
   - dish

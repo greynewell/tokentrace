@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 261
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - bread

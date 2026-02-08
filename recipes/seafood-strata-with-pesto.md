@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 790
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - pesto

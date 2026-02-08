@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 35
 calories: 182
 recipe_category: Bread
+cuisine: American
 keywords:
   - bagels
   - bread

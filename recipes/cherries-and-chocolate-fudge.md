@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 60
 calories: 61
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cherries
   - chocolate

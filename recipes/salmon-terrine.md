@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 12
 calories: 202
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - salmon

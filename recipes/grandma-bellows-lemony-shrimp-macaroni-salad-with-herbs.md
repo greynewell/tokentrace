@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 214
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - bellows
   - grandma

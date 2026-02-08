@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 4
 calories: 413
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beef
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 12
 calories: 94
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - caponata

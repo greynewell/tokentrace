@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 291
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cobbler
   - dessert

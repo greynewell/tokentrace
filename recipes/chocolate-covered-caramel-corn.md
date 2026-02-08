@@ -7,6 +7,7 @@ cook_time: PT1H21M
 servings: 16
 calories: 544
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - chocolate

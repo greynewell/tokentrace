@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 84
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - pudding

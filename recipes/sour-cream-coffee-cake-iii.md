@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 306
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coffee

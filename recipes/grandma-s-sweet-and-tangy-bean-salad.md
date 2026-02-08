@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 10
 calories: 273
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - grandma

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 329
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - almost
   - kale

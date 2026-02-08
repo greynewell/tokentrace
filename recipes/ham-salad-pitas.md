@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 460
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - ham

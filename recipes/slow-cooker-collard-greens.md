@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 16
 calories: 99
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - collard
   - cooker

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 75
 calories: 148
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cut
   - dessert

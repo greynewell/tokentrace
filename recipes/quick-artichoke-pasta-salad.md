@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 5
 calories: 155
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - artichoke
   - pasta

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 363
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - crawfish
   - etoufee

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 212
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bars
   - course

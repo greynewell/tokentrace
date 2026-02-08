@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 192
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cranberry

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 168
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - curry
   - fruited

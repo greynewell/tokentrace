@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 467
 recipe_category: Soup
+cuisine: American
 keywords:
   - ahead
   - beef

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 530
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - caramel
   - dessert

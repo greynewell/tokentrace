@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 24
 calories: 268
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - poppy

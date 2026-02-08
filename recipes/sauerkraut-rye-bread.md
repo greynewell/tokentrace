@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 12
 calories: 63
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - rye

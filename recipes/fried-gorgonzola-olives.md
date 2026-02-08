@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 359
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - fried

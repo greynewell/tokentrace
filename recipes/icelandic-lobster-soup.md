@@ -7,6 +7,7 @@ cook_time: PT2H19M
 servings: 12
 calories: 276
 recipe_category: Soup
+cuisine: American
 keywords:
   - icelandic
   - lobster

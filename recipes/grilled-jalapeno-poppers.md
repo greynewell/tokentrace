@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 164
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - grilled

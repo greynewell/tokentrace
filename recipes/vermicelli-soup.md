@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 217
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - soup
   - vermicelli

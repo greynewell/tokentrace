@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 205
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cucumber

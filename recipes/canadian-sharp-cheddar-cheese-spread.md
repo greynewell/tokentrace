@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 116
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - canadian

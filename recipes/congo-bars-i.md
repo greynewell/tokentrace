@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 35
 calories: 189
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - congo

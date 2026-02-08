@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 96
 calories: 22
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - antipasto
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 288
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - chowder

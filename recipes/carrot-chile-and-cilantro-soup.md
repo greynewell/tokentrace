@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 140
 recipe_category: Soup
+cuisine: American
 keywords:
   - carrot
   - chile

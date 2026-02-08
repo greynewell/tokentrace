@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 24
 calories: 135
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - puffed

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 262
 recipe_category: Soup
+cuisine: American
 keywords:
   - chilled
   - kale

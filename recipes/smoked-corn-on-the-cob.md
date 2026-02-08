@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 133
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cob

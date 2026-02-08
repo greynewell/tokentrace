@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 115
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - chickpea
   - deviled

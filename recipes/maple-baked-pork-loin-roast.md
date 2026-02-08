@@ -7,6 +7,7 @@ cook_time: PT2H5M
 servings: 8
 calories: 397
 recipe_category: Main Course
+cuisine: American
 keywords:
   - baked
   - course

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 315
 recipe_category: Salad
+cuisine: Thai
 keywords:
   - broccoli
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 80
 calories: 100
 recipe_category: Beverage
+cuisine: American
 keywords:
   - apple
   - beverage

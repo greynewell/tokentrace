@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 36
 calories: 190
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - wheat

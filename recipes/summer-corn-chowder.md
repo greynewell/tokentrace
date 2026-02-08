@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 5
 calories: 441
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - corn

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 48
 calories: 43
 recipe_category: Main Course
+cuisine: American
 keywords:
   - asparagus
   - course

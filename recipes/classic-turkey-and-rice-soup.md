@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 8
 calories: 115
 recipe_category: Soup
+cuisine: American
 keywords:
   - classic
   - rice

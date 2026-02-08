@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 153
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - hamentaschen

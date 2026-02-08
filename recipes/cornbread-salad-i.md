@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 623
 recipe_category: Salad
+cuisine: Southern
 keywords:
   - cornbread
   - salad

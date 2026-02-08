@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 608
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - artichoke
   - salad

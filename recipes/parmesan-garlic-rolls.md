@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 12
 calories: 110
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - garlic

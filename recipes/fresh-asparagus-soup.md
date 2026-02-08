@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 167
 recipe_category: Soup
+cuisine: American
 keywords:
   - asparagus
   - fresh

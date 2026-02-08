@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 159
 recipe_category: Salad
+cuisine: American
 keywords:
   - freezer
   - salad

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 121
 recipe_category: Bread
+cuisine: American
 keywords:
   - alice
   - bread

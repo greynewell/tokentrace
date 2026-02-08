@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 8
 calories: 295
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - crab
   - creamy

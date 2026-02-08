@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 5
 calories: 187
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - chicken
   - ground

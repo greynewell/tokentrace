@@ -7,6 +7,7 @@ cook_time: PT47M
 servings: 3
 calories: 417
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

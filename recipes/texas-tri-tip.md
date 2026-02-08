@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 32
 calories: 274
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

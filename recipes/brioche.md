@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 228
 recipe_category: Bread
+cuisine: French
 keywords:
   - bread
   - brioche

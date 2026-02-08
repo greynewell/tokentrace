@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 30
 calories: 66
 recipe_category: Main Course
+cuisine: American
 keywords:
   - ahead
   - course

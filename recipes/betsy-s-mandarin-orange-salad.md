@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 397
 recipe_category: Salad
+cuisine: American
 keywords:
   - betsy
   - mandarin

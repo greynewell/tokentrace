@@ -7,6 +7,7 @@ cook_time: PT2H20M
 servings: 4
 calories: 355
 recipe_category: Main Course
+cuisine: American
 keywords:
   - country
   - course

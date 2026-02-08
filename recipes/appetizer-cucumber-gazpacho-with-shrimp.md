@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 175
 recipe_category: Soup
+cuisine: American
 keywords:
   - appetizer
   - cucumber

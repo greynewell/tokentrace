@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 234
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - herb

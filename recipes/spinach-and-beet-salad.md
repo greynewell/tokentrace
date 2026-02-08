@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 738
 recipe_category: Salad
+cuisine: French
 keywords:
   - beet
   - salad

@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 6
 calories: 294
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - potato

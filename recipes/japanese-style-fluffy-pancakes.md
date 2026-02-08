@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 282
 recipe_category: Breakfast
+cuisine: Japanese
 keywords:
   - breakfast
   - fluffy

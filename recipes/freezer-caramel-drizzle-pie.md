@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 309
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - dessert

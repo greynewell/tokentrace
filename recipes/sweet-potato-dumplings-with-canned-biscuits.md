@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 205
 recipe_category: Dessert
+cuisine: Chinese
 keywords:
   - biscuits
   - canned

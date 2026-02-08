@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 90
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - celery

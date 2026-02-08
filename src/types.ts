@@ -38,6 +38,8 @@ export interface ParsedRecipe {
 export interface HowToStep {
   '@type': 'HowToStep';
   text: string;
+  name: string;
+  url?: string;
   position: number;
 }
 

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 319
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - guatemalan

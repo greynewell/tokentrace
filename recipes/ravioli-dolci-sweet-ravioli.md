@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 64
 calories: 63
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - dolci

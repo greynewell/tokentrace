@@ -7,6 +7,7 @@ cook_time: PT4H10M
 servings: 8
 calories: 360
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - hatch

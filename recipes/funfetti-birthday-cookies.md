@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 24
 calories: 124
 recipe_category: Dessert
+cuisine: American
 keywords:
   - birthday
   - cookies

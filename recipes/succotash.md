@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 477
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - side

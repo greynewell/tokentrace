@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 829
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - pasta
   - pea

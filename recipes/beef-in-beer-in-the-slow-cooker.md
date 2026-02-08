@@ -7,6 +7,7 @@ cook_time: PT5H20M
 servings: 4
 calories: 512
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - beer

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 28
 calories: 238
 recipe_category: Dessert
+cuisine: American
 keywords:
   - amish
   - caramel

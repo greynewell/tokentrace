@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 140
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - baked
   - course

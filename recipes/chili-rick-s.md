@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 20
 calories: 508
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chili
   - rick

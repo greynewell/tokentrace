@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 6
 calories: 502
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - soup
   - taco

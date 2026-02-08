@@ -7,6 +7,7 @@ cook_time: PT4H15M
 servings: 6
 calories: 191
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - black

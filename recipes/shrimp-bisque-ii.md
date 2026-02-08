@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 481
 recipe_category: Soup
+cuisine: American
 keywords:
   - bisque
   - shrimp

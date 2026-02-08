@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 590
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bacon
   - dish

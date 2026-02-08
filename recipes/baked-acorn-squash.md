@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 4
 calories: 320
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - acorn
   - baked

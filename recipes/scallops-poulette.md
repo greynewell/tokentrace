@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 4
 calories: 266
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 66
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - coconut
   - cookies

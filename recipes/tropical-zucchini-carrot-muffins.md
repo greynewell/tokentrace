@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 105
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - carrot

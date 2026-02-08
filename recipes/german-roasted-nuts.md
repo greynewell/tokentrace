@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 249
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - german

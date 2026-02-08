@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 560
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - buckwheat

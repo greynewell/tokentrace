@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 4
 calories: 676
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - beef
   - course

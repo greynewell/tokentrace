@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 578
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bars
   - cheese

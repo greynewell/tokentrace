@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 190
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - bites

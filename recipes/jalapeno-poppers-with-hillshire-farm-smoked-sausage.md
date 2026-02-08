@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 121
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - farm

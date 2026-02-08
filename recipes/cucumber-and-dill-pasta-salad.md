@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 203
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - cucumber
   - dill

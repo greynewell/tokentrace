@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 6
 calories: 528
 recipe_category: Soup
+cuisine: American
 keywords:
   - goulash
   - hungarian

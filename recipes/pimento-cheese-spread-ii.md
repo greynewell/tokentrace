@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 962
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - cheese

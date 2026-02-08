@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 6
 calories: 616
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brown

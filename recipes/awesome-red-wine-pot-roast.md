@@ -7,6 +7,7 @@ cook_time: PT4H15M
 servings: 12
 calories: 243
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - course

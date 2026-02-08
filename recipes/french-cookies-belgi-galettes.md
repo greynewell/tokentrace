@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 144
 calories: 71
 recipe_category: Main Course
+cuisine: French
 keywords:
   - belgi
   - cookies

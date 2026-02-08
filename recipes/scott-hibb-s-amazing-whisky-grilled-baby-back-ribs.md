@@ -7,6 +7,7 @@ cook_time: PT2H40M
 servings: 4
 calories: 1029
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amazing
   - baby

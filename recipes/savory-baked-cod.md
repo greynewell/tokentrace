@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 705
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - cod

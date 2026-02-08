@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 290
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beer
   - beverage

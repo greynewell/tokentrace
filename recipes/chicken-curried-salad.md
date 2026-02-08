@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 425
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - chicken
   - curried

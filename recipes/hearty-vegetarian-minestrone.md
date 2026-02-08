@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 293
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - hearty
   - minestrone

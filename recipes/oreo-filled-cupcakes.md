@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 619
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cupcakes
   - dessert

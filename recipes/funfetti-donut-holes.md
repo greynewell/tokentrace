@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 36
 calories: 106
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - donut

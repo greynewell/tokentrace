@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 4
 calories: 327
 recipe_category: Main Course
+cuisine: American
 keywords:
   - awesome
   - beef

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 18
 calories: 417
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - butterscotch

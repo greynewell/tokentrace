@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 4
 calories: 406
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - beef
   - chicago

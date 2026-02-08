@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 107
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cones
   - cream

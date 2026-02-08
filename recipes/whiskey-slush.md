@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 170
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - slush

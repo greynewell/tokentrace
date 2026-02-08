@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 31
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cloud

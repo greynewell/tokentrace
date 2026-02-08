@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 306
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicago
   - chicken

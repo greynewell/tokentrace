@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 489
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

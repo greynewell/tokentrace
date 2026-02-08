@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 188
 recipe_category: Salad
+cuisine: American
 keywords:
   - radish
   - salad

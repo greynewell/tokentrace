@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 271
 recipe_category: Main Course
+cuisine: American
 keywords:
   - berry
   - course

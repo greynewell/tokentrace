@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 508
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chocolate

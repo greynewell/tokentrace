@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 8
 calories: 493
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - casserole

@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 96
 calories: 30
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chili
   - dish

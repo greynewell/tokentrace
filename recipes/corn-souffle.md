@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 239
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - corn
   - dish

@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 260
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - roasted
   - soup

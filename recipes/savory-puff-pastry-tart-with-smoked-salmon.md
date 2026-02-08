@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 640
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - pastry

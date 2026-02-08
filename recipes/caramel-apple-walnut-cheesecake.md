@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 980
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - caramel

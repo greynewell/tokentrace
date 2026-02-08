@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 236
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - german

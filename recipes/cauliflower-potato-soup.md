@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 4
 calories: 416
 recipe_category: Soup
+cuisine: American
 keywords:
   - cauliflower
   - potato

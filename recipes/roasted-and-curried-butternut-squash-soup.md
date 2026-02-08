@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 142
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - butternut
   - curried

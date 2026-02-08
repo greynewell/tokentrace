@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 474
 recipe_category: Breakfast
+cuisine: Mediterranean
 keywords:
   - bread
   - breakfast

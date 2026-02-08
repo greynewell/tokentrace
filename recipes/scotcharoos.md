@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 240
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - scotcharoos

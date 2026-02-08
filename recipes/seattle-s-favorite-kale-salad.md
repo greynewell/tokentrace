@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 211
 recipe_category: Salad
+cuisine: American
 keywords:
   - kale
   - salad

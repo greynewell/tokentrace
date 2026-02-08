@@ -7,6 +7,7 @@ cook_time: PT5H10M
 servings: 10
 calories: 465
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - authentic
   - beans

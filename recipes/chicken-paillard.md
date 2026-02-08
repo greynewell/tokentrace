@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 4
 calories: 280
 recipe_category: Salad
+cuisine: American
 keywords:
   - chicken
   - paillard

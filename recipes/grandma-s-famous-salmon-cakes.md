@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 306
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cakes

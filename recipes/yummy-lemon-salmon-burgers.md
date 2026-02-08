@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 6
 calories: 209
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - burgers
   - course

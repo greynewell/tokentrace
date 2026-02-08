@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 70
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brigadeiro
   - course

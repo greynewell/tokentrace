@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 286
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - brie

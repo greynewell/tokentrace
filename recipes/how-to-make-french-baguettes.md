@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 305
 recipe_category: Bread
+cuisine: French
 keywords:
   - baguettes
   - bread

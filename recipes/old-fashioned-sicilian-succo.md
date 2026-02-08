@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 20
 calories: 234
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - sicilian

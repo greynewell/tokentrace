@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 9
 calories: 670
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - lemonade

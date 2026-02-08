@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 6
 calories: 655
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - black

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 697
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - awesome
   - ham

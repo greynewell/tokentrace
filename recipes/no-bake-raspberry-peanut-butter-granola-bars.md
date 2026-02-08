@@ -7,6 +7,7 @@ cook_time: PT1M
 servings: 10
 calories: 158
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bake

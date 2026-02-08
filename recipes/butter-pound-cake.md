@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 14
 calories: 532
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - cake

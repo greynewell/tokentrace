@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 505
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - cheese

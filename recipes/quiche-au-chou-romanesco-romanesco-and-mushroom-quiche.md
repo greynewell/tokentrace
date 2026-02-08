@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 8
 calories: 334
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - chou

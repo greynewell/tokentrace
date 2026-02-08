@@ -7,6 +7,7 @@ cook_time: PT1H4M
 servings: 6
 calories: 174
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - course

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 828
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apricot
   - arugula

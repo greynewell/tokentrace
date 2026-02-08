@@ -7,6 +7,7 @@ cook_time: PT58M
 servings: 24
 calories: 143
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

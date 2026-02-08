@@ -7,6 +7,7 @@ cook_time: PT1H11M
 servings: 4
 calories: 773
 recipe_category: Soup
+cuisine: American
 keywords:
   - chips
   - coconut

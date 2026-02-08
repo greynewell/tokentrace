@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 62
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - dough

@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 447
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blueberry
   - cheese

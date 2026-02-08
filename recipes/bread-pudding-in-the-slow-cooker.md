@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 396
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bread
   - cooker

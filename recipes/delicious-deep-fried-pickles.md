@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 504
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - deep

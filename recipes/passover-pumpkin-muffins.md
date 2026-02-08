@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 40
 calories: 324
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - muffins

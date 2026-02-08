@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 425
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brown
   - casserole

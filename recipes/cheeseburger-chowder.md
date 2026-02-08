@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 540
 recipe_category: Soup
+cuisine: American
 keywords:
   - cheeseburger
   - chowder

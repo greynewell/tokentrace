@@ -7,6 +7,7 @@ cook_time: PT1H3M
 servings: 10
 calories: 233
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - awesome

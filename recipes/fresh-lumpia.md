@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 30
 calories: 156
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - fresh

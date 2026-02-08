@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 436
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cheesecake

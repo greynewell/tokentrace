@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 230
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - macaroni
   - soup

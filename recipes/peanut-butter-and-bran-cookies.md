@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 84
 calories: 65
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bran
   - butter

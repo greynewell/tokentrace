@@ -7,6 +7,7 @@ cook_time: PT22M
 servings: 12
 calories: 197
 recipe_category: Bread
+cuisine: American
 keywords:
   - banana
   - bread

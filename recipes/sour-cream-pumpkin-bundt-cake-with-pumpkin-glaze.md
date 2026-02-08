@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 12
 calories: 602
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bundt
   - cake

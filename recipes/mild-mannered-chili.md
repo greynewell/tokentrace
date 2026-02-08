@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 10
 calories: 198
 recipe_category: Soup
+cuisine: American
 keywords:
   - chili
   - mannered

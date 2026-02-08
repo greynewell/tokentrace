@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 236
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - awesome

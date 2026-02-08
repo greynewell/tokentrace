@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 20
 calories: 120
 recipe_category: Salad
+cuisine: American
 keywords:
   - beet
   - herring

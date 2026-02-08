@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 205
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - ambrosia
   - holiday

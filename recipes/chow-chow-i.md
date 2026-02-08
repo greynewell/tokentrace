@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 96
 calories: 36
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chow
   - dish

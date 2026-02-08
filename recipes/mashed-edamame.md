@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 4
 calories: 219
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - edamame

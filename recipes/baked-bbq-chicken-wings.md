@@ -7,6 +7,7 @@ cook_time: PT1H40M
 servings: 8
 calories: 388
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - baked

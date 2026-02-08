@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 1257
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - boys
   - course

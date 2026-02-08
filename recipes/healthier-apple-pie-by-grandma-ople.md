@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 8
 calories: 413
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - dessert

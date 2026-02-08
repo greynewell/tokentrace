@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 1066
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - dish
   - noci

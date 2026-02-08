@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 20
 calories: 135
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bagel

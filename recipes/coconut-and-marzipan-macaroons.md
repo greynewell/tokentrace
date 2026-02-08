@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 65
 calories: 90
 recipe_category: Dessert
+cuisine: American
 keywords:
   - coconut
   - dessert

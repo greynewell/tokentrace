@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 272
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - pumpkin
   - shrimp

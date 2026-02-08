@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 24
 calories: 157
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chocolate
   - cupcakes

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 20
 calories: 293
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - lemon

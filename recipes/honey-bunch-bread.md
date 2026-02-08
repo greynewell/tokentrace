@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 36
 calories: 110
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - bunch

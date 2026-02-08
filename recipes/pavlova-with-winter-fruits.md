@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 3
 calories: 962
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fruits

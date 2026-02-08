@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 297
 recipe_category: Bread
+cuisine: American
 keywords:
   - balls
   - bread

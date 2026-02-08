@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 20
 calories: 178
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - italian

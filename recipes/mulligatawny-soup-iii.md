@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 231
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - mulligatawny
   - soup

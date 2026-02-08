@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 265
 recipe_category: Salad
+cuisine: American
 keywords:
   - harvest
   - salad

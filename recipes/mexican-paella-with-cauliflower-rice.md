@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 368
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cauliflower
   - course

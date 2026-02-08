@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 4
 calories: 59
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - peas

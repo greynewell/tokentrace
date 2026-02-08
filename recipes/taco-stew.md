@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 520
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - soup
   - stew

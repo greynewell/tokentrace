@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 143
 recipe_category: Soup
+cuisine: American
 keywords:
   - chile
   - pepper

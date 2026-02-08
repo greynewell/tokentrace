@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 806
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - eggs

@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 278
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banoffee
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 362
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - casserole
   - course

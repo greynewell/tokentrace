@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 146
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - poblano

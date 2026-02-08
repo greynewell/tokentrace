@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 243
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barbecue
   - bass

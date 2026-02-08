@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 120
 calories: 33
 recipe_category: Bread
+cuisine: American
 keywords:
   - amish
   - bread

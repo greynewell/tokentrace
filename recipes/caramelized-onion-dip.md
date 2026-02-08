@@ -7,6 +7,7 @@ cook_time: PT28M
 servings: 12
 calories: 160
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - caramelized

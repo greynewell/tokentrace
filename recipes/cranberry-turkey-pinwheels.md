@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 70
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cranberry

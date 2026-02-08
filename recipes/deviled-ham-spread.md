@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 101
 recipe_category: Salad
+cuisine: American
 keywords:
   - deviled
   - ham

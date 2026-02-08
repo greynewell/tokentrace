@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 8
 calories: 383
 recipe_category: Soup
+cuisine: American
 keywords:
   - beef
   - dutch

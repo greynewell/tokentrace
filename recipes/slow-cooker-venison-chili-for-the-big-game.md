@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 8
 calories: 338
 recipe_category: Soup
+cuisine: American
 keywords:
   - big
   - chili

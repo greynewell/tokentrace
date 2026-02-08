@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 581
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - crab

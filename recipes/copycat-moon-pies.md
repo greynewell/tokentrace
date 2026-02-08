@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 894
 recipe_category: Main Course
+cuisine: American
 keywords:
   - copycat
   - course

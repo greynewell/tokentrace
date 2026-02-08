@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 64
 calories: 54
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butter
   - chocolate

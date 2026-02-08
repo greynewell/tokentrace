@@ -7,6 +7,7 @@ cook_time: PT34M
 servings: 8
 calories: 816
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - alfredo
   - course

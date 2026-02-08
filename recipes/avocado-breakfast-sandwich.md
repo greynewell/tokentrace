@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 1
 calories: 855
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - avocado
   - breakfast

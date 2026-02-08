@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 537
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

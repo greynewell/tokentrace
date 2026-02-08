@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 5
 calories: 494
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brunch

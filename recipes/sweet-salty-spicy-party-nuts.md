@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 16
 calories: 219
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - nuts

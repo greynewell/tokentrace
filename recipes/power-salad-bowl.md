@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 1
 calories: 554
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - bowl
   - power

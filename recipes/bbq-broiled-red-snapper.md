@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 312
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bbq
   - broiled

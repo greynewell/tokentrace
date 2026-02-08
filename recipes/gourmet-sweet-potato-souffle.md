@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 250
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - dish
   - gourmet

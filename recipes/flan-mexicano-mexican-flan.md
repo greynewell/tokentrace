@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 434
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - course
   - flan

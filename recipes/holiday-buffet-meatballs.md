@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 266
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - buffet

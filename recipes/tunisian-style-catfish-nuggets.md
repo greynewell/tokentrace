@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 3
 calories: 1162
 recipe_category: Main Course
+cuisine: American
 keywords:
   - catfish
   - course

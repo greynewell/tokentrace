@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 12
 calories: 363
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - beans

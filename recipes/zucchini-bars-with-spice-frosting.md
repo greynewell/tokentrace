@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 16
 calories: 359
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - bars
   - dish

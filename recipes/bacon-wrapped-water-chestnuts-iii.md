@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 404
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bacon

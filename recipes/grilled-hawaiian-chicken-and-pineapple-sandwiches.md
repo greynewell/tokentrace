@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 6
 calories: 554
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

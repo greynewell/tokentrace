@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 24
 calories: 182
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - onion

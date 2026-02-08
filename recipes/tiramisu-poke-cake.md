@@ -7,6 +7,7 @@ cook_time: PT29M
 servings: 12
 calories: 564
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - cake
   - dessert

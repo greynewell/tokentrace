@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 515
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - crust

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 42
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - bean
   - black

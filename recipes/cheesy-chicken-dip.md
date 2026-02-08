@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 20
 calories: 188
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - cheesy

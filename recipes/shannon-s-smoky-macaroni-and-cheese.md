@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 651
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cheese
   - course

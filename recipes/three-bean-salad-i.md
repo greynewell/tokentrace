@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 10
 calories: 322
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - salad

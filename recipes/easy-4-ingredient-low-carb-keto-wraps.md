@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 69
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - carb

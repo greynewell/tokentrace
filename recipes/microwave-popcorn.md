@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 3
 calories: 137
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - microwave

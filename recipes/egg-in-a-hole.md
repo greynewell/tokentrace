@@ -7,6 +7,7 @@ cook_time: PT4M
 servings: 1
 calories: 231
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - egg

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 940
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bagel
   - breakfast

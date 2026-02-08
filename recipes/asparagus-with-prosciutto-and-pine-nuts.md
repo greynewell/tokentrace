@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 220
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - asparagus
   - dish

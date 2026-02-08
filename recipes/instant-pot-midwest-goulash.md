@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 460
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - goulash
   - instant

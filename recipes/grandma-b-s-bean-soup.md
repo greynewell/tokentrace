@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 8
 calories: 324
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - grandma

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 7
 calories: 433
 recipe_category: Salad
+cuisine: American
 keywords:
   - fresh
   - salad

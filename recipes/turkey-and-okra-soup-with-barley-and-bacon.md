@@ -7,6 +7,7 @@ cook_time: PT8H
 servings: 15
 calories: 185
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - bacon
   - barley

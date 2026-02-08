@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 104
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - ginger

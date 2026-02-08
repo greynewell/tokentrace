@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 709
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chinese
   - course

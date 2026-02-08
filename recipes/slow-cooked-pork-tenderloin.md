@@ -7,6 +7,7 @@ cook_time: PT3H15M
 servings: 8
 calories: 361
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cooked
   - course

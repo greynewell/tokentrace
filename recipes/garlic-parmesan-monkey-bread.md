@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 10
 calories: 339
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - garlic

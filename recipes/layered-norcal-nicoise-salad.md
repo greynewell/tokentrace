@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 1
 calories: 1592
 recipe_category: Salad
+cuisine: French
 keywords:
   - layered
   - nicoise

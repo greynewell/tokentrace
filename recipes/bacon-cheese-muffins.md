@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 24
 calories: 205
 recipe_category: Bread
+cuisine: American
 keywords:
   - bacon
   - bread

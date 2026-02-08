@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 14
 calories: 357
 recipe_category: Salad
+cuisine: American
 keywords:
   - ham
   - lucy

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 331
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bacon
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 374
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - chance
   - chicken

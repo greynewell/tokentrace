@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 109
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - free

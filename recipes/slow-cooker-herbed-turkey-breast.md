@@ -7,6 +7,7 @@ cook_time: PT6H
 servings: 12
 calories: 308
 recipe_category: Main Course
+cuisine: American
 keywords:
   - breast
   - cooker

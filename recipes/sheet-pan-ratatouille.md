@@ -7,6 +7,7 @@ cook_time: PT42M
 servings: 4
 calories: 164
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - main

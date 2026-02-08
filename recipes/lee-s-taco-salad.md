@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 619
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - lee
   - salad

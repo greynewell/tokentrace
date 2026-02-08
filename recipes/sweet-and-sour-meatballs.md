@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 152
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - meatballs

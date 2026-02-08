@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 8
 calories: 149
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - scones

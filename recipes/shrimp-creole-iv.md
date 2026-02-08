@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 428
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - course
   - creole

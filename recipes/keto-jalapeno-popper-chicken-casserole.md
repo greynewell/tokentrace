@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 501
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - casserole
   - chicken

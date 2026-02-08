@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 10
 calories: 131
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cooker

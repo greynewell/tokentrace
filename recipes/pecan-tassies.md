@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 60
 calories: 166
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pecan

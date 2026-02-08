@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 288
 recipe_category: Salad
+cuisine: American
 keywords:
   - fall
   - festive

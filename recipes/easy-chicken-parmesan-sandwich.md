@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 569
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

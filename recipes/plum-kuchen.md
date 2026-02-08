@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 232
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - dessert
   - kuchen

@@ -7,6 +7,7 @@ cook_time: PT1H33M
 servings: 6
 calories: 691
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - ciabatta
   - course

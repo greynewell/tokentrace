@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 40
 calories: 97
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buttery

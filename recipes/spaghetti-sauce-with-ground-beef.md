@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 8
 calories: 185
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - beef
   - dish

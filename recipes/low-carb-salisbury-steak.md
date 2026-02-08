@@ -7,6 +7,7 @@ cook_time: PT39M
 servings: 6
 calories: 536
 recipe_category: Main Course
+cuisine: American
 keywords:
   - carb
   - course

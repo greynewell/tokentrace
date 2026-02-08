@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 475
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - course

@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 4
 calories: 103
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - fenchel
   - fennel

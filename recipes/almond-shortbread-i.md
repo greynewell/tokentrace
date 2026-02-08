@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 18
 calories: 191
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - dessert

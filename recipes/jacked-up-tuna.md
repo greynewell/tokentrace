@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 4
 calories: 374
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - jacked

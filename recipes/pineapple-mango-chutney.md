@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 42
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - chutney

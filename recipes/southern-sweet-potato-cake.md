@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 728
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - cake
   - dessert

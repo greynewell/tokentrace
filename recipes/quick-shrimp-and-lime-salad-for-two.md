@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 2
 calories: 563
 recipe_category: Salad
+cuisine: American
 keywords:
   - lime
   - salad

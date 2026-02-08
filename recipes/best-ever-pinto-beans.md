@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 6
 calories: 352
 recipe_category: Soup
+cuisine: American
 keywords:
   - beans
   - pinto

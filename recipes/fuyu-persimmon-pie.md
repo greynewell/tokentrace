@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 538
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fuyu

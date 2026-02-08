@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 243
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - drunken

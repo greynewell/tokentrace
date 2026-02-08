@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 288
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - grain

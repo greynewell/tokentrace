@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 18
 calories: 133
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cinnamon
   - course

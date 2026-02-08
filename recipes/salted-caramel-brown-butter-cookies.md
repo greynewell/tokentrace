@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 35
 calories: 185
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brown
   - butter

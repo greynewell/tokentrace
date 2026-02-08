@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 136
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baby
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 24
 calories: 103
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 16
 calories: 466
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownie
   - cake

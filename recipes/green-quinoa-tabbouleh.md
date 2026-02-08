@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 402
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - green
   - quinoa

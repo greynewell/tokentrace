@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 6
 calories: 342
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - grandma

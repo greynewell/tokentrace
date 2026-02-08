@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 300
 recipe_category: Salad
+cuisine: American
 keywords:
   - caviar
   - cowboy

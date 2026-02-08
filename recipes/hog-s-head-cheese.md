@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 24
 calories: 95
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - cheese

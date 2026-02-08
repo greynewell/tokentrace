@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 424
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - beef

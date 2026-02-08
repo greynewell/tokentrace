@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 10
 calories: 356
 recipe_category: Soup
+cuisine: American
 keywords:
   - bigos
   - hunter

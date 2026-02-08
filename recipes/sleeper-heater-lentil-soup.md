@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 267
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - heater
   - lentil

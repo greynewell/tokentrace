@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 12
 calories: 361
 recipe_category: Soup
+cuisine: American
 keywords:
   - burgoo
   - kentucky

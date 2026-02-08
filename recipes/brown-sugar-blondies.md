@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 16
 calories: 260
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blondies
   - brown

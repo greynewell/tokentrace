@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 597
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - casserole
   - chow

@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 12
 calories: 346
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cabbage

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 16
 calories: 210
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 1
 calories: 558
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - egg

@@ -7,6 +7,7 @@ cook_time: PT26M
 servings: 16
 calories: 371
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bar
   - chip

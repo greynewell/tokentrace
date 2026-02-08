@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 3
 calories: 460
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - duck

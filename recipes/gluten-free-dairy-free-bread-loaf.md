@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 10
 calories: 268
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - dairy

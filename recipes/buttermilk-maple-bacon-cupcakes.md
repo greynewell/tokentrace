@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 20
 calories: 204
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - buttermilk

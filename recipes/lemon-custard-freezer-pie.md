@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 253
 recipe_category: Dessert
+cuisine: American
 keywords:
   - custard
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT1H1M
 servings: 14
 calories: 438
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coconut

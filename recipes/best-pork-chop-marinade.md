@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 756
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chop
   - dish

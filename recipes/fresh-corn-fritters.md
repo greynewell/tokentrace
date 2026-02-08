@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 20
 calories: 97
 recipe_category: Main Course
+cuisine: American
 keywords:
   - corn
   - course

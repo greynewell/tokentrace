@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 107
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - eggplant

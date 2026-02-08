@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 312
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - crunchy

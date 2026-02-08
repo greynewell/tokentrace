@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 8
 calories: 285
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - cream

@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 6
 calories: 963
 recipe_category: Main Course
+cuisine: American
 keywords:
   - butter
   - course

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 452
 recipe_category: Soup
+cuisine: American
 keywords:
   - chef
   - ham

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 143
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - chicken
   - fajita

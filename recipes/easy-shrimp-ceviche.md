@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 163
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - ceviche
   - salad

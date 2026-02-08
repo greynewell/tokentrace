@@ -7,6 +7,7 @@ cook_time: PT48M
 servings: 20
 calories: 620
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

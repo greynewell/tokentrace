@@ -7,6 +7,7 @@ cook_time: PT1H13M
 servings: 6
 calories: 410
 recipe_category: Main Course
+cuisine: American
 keywords:
   - belly
   - caramelized

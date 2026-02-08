@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 6
 calories: 288
 recipe_category: Soup
+cuisine: American
 keywords:
   - andalucian
   - lentejas

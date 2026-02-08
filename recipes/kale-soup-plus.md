@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 6
 calories: 367
 recipe_category: Soup
+cuisine: American
 keywords:
   - kale
   - plus

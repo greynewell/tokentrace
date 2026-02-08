@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 486
 recipe_category: Soup
+cuisine: American
 keywords:
   - collins
   - goulash

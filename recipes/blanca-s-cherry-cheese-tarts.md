@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 26
 calories: 143
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blanca
   - cheese

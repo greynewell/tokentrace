@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 260
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - biscuit
   - chicken

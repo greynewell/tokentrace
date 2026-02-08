@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 319
 recipe_category: Soup
+cuisine: American
 keywords:
   - creamy
   - fish

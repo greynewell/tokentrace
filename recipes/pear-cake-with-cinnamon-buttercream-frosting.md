@@ -7,6 +7,7 @@ cook_time: PT23M
 servings: 10
 calories: 379
 recipe_category: Main Course
+cuisine: American
 keywords:
   - buttercream
   - cake

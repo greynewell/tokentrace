@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 4
 calories: 939
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cheesesteak

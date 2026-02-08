@@ -7,6 +7,7 @@ cook_time: PT4H12M
 servings: 8
 calories: 296
 recipe_category: Soup
+cuisine: American
 keywords:
   - bean
   - bone

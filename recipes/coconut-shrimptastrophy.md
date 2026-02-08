@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 40
 calories: 300
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - coconut

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 166
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bread
   - buns

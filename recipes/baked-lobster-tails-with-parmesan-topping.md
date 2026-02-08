@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 2
 calories: 200
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - baked
   - course

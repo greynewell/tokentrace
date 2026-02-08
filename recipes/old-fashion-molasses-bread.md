@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 15
 calories: 41
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fashion

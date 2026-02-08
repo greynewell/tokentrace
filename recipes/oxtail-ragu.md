@@ -7,6 +7,7 @@ cook_time: PT4H45M
 servings: 4
 calories: 607
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - oxtail

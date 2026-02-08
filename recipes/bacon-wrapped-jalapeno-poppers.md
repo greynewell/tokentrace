@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 213
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bacon

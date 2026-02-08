@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 490
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - capirotada
   - course

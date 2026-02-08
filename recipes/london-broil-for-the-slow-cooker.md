@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 5
 calories: 220
 recipe_category: Main Course
+cuisine: American
 keywords:
   - broil
   - cooker

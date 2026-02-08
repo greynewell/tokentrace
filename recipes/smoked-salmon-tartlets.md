@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 894
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - salmon

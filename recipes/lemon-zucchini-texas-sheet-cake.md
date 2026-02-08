@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 363
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - cake
   - dish

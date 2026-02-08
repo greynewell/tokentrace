@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 293
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - air
   - appetizer

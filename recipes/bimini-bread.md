@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 106
 recipe_category: Bread
+cuisine: American
 keywords:
   - bimini
   - bread

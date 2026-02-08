@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 776
 recipe_category: Salad
+cuisine: American
 keywords:
   - caesar
   - hearty

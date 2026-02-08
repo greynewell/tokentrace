@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 753
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - curd

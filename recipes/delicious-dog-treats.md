@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 54
 calories: 47
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - delicious

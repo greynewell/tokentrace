@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 9
 calories: 476
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - eclairs

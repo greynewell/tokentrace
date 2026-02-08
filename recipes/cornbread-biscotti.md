@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 24
 calories: 104
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - biscotti
   - bread

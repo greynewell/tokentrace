@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 30
 calories: 120
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cookies
   - course

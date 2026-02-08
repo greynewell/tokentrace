@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 12
 calories: 262
 recipe_category: Salad
+cuisine: American
 keywords:
   - almond
   - salad

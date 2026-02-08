@@ -7,6 +7,7 @@ cook_time: PT3H5M
 servings: 6
 calories: 167
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - broccoli
   - cheese

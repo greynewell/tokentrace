@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 104
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - barbarella
   - breakfast

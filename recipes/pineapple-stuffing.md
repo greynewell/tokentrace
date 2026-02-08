@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 5
 calories: 506
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - pineapple

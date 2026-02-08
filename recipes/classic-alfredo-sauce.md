@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 714
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - alfredo
   - classic

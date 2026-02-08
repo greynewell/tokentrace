@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 340
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - pizza

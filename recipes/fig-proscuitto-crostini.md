@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 24
 calories: 81
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - crostini

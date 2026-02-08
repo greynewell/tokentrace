@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 718
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cranberry

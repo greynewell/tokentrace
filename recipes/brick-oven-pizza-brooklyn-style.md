@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 16
 calories: 145
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - brick
   - brooklyn

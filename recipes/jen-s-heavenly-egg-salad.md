@@ -7,6 +7,7 @@ cook_time: PT16M
 servings: 4
 calories: 212
 recipe_category: Salad
+cuisine: American
 keywords:
   - egg
   - heavenly

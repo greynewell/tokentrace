@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 463
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - kahala
   - macaroni

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 554
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - delicious
   - soup

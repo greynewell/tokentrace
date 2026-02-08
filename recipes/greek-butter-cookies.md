@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 48
 calories: 74
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - butter
   - cookies

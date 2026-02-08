@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 10
 calories: 331
 recipe_category: Dessert
+cuisine: American
 keywords:
   - abby
   - bars

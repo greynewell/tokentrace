@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 284
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - loaded

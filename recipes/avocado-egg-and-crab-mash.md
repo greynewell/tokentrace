@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 277
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - avocado
   - crab

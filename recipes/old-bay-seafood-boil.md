@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 14
 calories: 738
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bay
   - boil

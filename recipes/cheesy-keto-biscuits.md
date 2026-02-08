@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 329
 recipe_category: Bread
+cuisine: American
 keywords:
   - biscuits
   - bread

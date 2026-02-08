@@ -7,6 +7,7 @@ cook_time: PT22H
 servings: 6
 calories: 555
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - cooker

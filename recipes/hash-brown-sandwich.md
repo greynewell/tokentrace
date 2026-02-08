@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 487
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brown

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 230
 recipe_category: Bread
+cuisine: American
 keywords:
   - bagels
   - bread

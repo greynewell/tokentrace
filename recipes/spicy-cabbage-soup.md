@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 134
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cabbage
   - soup

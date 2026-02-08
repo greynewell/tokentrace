@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 302
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - cheesy

@@ -7,6 +7,7 @@ cook_time: PT4H
 servings: 6
 calories: 180
 recipe_category: Main Course
+cuisine: American
 keywords:
   - amazing
   - cooker

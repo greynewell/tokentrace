@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 5
 calories: 356
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - grilled

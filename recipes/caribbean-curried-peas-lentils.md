@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 4
 calories: 373
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - caribbean
   - curried

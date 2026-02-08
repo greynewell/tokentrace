@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 48
 calories: 162
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - ezekiel

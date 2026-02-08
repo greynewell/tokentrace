@@ -7,6 +7,7 @@ cook_time: PT3H55M
 servings: 6
 calories: 508
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - beans
   - course

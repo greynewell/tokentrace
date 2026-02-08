@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 6
 calories: 228
 recipe_category: Soup
+cuisine: Indian
 keywords:
   - carrot
   - ginger

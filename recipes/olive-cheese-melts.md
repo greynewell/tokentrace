@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 16
 calories: 168
 recipe_category: Appetizer
+cuisine: Indian
 keywords:
   - appetizer
   - cheese

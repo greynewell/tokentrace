@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 10
 calories: 275
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - fudge

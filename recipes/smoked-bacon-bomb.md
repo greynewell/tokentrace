@@ -7,6 +7,7 @@ cook_time: PT2H30M
 servings: 8
 calories: 609
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - bacon
   - bomb

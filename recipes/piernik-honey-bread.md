@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 32
 calories: 175
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - honey

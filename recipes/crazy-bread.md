@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 12
 calories: 269
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - crazy

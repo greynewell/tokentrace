@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 86
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - apricot
   - bites

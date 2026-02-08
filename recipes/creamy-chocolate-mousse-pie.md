@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 399
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chocolate
   - creamy

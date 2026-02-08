@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 6
 calories: 418
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - broil
   - cooker

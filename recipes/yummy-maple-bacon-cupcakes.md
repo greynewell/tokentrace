@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 48
 calories: 127
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - course

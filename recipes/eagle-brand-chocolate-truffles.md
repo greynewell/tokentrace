@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 72
 calories: 65
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brand
   - chocolate

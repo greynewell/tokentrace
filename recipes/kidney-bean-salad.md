@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 285
 recipe_category: Salad
+cuisine: American
 keywords:
   - bean
   - kidney

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 565
 recipe_category: Salad
+cuisine: American
 keywords:
   - ahi
   - chile

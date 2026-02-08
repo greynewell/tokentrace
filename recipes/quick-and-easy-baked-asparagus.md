@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 89
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - asparagus
   - baked

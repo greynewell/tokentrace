@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 196
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - raita

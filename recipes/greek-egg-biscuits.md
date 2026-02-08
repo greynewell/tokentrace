@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 96
 calories: 74
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - biscuits
   - course

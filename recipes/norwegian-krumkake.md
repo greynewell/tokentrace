@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 50
 calories: 51
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - krumkake

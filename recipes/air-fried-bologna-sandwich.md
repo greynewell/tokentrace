@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 1
 calories: 385
 recipe_category: Main Course
+cuisine: American
 keywords:
   - air
   - bologna

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 560
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blackberry
   - cream

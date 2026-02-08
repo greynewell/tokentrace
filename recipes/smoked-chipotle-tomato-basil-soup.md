@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 190
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - basil
   - chipotle

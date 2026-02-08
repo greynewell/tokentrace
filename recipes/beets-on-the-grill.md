@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 2
 calories: 208
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beets
   - dish

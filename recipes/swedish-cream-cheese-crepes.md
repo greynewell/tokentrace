@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 15
 calories: 242
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - cheese

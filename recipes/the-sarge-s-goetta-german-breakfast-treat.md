@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 511
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - german

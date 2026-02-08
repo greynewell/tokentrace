@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 10
 calories: 436
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dijon

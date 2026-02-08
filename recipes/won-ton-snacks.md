@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 48
 calories: 86
 recipe_category: Appetizer
+cuisine: Thai
 keywords:
   - appetizer
   - snacks

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 555
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bread

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 179
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - lemonade

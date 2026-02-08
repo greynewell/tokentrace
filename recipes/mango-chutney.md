@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 240
 calories: 46
 recipe_category: Side Dish
+cuisine: Indian
 keywords:
   - chutney
   - dish

@@ -7,6 +7,7 @@ cook_time: PT3H30M
 servings: 6
 calories: 364
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - cornmeal
   - dumplings

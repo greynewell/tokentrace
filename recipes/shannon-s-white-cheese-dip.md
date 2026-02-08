@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 20
 calories: 171
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cheese

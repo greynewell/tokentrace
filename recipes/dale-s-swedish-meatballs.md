@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 325
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - dale

@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 236
 recipe_category: Salad
+cuisine: American
 keywords:
   - fresh
   - fruit

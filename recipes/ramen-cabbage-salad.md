@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 266
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cabbage
   - ramen

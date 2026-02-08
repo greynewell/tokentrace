@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 88
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - escargot

@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 72
 calories: 112
 recipe_category: Dessert
+cuisine: American
 keywords:
   - beth
   - chip

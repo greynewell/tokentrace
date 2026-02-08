@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 179
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - firecrackers

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 20
 calories: 140
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bacon

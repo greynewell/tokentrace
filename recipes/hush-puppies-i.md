@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 531
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - hush

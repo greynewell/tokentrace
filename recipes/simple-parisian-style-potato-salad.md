@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 210
 recipe_category: Salad
+cuisine: French
 keywords:
   - parisian
   - potato

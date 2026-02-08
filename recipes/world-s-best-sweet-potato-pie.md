@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 24
 calories: 301
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - pie

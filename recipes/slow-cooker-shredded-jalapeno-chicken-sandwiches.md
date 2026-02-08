@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 4
 calories: 496
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - chicken
   - cooker

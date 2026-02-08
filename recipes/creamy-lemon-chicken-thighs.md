@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 12
 calories: 247
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 12
 calories: 183
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - kid

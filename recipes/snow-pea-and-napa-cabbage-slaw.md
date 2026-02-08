@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 123
 recipe_category: Salad
+cuisine: American
 keywords:
   - cabbage
   - napa

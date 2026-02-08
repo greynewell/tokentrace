@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 72
 calories: 44
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - fabulous

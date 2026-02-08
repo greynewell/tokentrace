@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 12
 calories: 377
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - black
   - bread

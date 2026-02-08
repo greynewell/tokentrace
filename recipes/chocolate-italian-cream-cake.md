@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 10
 calories: 1018
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cake
   - chocolate

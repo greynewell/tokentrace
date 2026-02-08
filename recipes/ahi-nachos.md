@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 476
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - ahi
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 6
 calories: 143
 recipe_category: Main Course
+cuisine: American
 keywords:
   - blueberry
   - coconut

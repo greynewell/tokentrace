@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 4
 calories: 782
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chips
   - classic

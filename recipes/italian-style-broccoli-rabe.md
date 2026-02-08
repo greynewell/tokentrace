@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 6
 calories: 269
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - broccoli
   - dish

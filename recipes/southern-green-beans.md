@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 189
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - beans
   - dish

@@ -7,6 +7,7 @@ cook_time: PT8H20M
 servings: 8
 calories: 460
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - german

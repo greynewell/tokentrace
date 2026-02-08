@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 16
 calories: 415
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - coconut

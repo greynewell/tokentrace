@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 72
 calories: 188
 recipe_category: Soup
+cuisine: American
 keywords:
   - big
   - crab

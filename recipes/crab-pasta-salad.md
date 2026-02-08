@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 526
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - crab
   - pasta

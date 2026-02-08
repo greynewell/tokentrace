@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 80
 calories: 13
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crackers

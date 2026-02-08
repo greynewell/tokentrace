@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 27
 calories: 149
 recipe_category: Main Course
+cuisine: American
 keywords:
   - balls
   - butter

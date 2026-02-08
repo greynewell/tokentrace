@@ -7,6 +7,7 @@ cook_time: PT42M
 servings: 15
 calories: 124
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - gougeres

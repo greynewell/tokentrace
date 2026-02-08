@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 335
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - chicken
   - chinese

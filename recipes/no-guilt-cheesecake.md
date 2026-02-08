@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 222
 recipe_category: Dessert
+cuisine: French
 keywords:
   - cheesecake
   - dessert

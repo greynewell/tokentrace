@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 12
 calories: 243
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - fudge

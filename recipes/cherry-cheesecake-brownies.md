@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 18
 calories: 326
 recipe_category: Dessert
+cuisine: American
 keywords:
   - brownies
   - cheesecake

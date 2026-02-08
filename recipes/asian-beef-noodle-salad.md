@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 7
 calories: 209
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - asian
   - beef

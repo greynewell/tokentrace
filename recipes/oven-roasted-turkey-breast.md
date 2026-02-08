@@ -7,6 +7,7 @@ cook_time: PT1H35M
 servings: 6
 calories: 385
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - breast
   - course

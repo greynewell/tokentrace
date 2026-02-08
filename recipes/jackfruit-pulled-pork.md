@@ -7,6 +7,7 @@ cook_time: PT6H13M
 servings: 8
 calories: 207
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - jackfruit

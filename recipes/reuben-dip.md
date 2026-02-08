@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 9
 calories: 393
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - dip

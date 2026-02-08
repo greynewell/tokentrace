@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 8
 calories: 513
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - jersey

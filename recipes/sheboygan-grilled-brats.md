@@ -7,6 +7,7 @@ cook_time: PT47M
 servings: 10
 calories: 534
 recipe_category: Main Course
+cuisine: American
 keywords:
   - brats
   - course

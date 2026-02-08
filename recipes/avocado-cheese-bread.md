@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 8
 calories: 256
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - avocado
   - bread

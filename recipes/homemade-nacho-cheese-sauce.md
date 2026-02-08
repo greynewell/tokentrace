@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 20
 calories: 132
 recipe_category: Side Dish
+cuisine: Mexican
 keywords:
   - cheese
   - dish

@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 2
 calories: 536
 recipe_category: Salad
+cuisine: American
 keywords:
   - bleu
   - cheese

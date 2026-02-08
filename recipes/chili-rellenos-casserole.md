@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 6
 calories: 387
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - chili

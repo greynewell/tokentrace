@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 12
 calories: 404
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - breakfast
   - dad

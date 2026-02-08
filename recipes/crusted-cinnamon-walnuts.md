@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 16
 calories: 216
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - cinnamon

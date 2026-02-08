@@ -7,6 +7,7 @@ cook_time: PT2H10M
 servings: 4
 calories: 248
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - gravy

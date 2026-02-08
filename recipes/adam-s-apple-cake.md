@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 487
 recipe_category: Dessert
+cuisine: American
 keywords:
   - adam
   - apple

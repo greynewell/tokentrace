@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 8
 calories: 347
 recipe_category: Soup
+cuisine: Mexican
 keywords:
   - chicken
   - scottie

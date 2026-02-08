@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 274
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - cauliflower
   - dish

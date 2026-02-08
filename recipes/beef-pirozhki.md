@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 15
 calories: 293
 recipe_category: Bread
+cuisine: American
 keywords:
   - beef
   - bread

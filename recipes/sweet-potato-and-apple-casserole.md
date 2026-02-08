@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 8
 calories: 239
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - apple
   - casserole

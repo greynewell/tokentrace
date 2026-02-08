@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 8
 calories: 704
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - dumplings

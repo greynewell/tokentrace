@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 7
 calories: 206
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - egg

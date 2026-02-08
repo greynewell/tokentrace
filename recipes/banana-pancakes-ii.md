@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 192
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - banana
   - breakfast

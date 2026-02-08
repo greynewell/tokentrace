@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 8
 calories: 271
 recipe_category: Bread
+cuisine: American
 keywords:
   - beth
   - bread

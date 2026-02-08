@@ -7,6 +7,7 @@ cook_time: PT14M
 servings: 6
 calories: 607
 recipe_category: Main Course
+cuisine: American
 keywords:
   - cheese
   - course

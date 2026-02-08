@@ -7,6 +7,7 @@ cook_time: PT19M
 servings: 4
 calories: 3566
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - crab
   - creamy

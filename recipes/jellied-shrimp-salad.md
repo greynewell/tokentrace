@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 260
 recipe_category: Salad
+cuisine: American
 keywords:
   - jellied
   - salad

@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 6
 calories: 206
 recipe_category: Soup
+cuisine: American
 keywords:
   - authentic
   - orgorkowa

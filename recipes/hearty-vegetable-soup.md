@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 354
 recipe_category: Soup
+cuisine: American
 keywords:
   - hearty
   - soup

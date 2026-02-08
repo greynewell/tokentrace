@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 30
 calories: 195
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - cheese

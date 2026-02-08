@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 40
 calories: 120
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bark
   - chocolate

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 473
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - apple
   - breakfast

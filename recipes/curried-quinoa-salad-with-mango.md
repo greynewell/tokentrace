@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 162
 recipe_category: Salad
+cuisine: Indian
 keywords:
   - curried
   - mango

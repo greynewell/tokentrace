@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 12
 calories: 343
 recipe_category: Dessert
+cuisine: American
 keywords:
   - better
   - blueberry

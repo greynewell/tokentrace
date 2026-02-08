@@ -7,6 +7,7 @@ cook_time: PT2H50M
 servings: 6
 calories: 305
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - chicken

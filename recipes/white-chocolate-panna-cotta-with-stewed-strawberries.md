@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 6
 calories: 454
 recipe_category: Dessert
+cuisine: Italian
 keywords:
   - chocolate
   - cotta

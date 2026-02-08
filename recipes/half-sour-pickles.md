@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 85
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - half

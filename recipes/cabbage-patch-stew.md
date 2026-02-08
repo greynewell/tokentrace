@@ -7,6 +7,7 @@ cook_time: PT7H
 servings: 4
 calories: 374
 recipe_category: Soup
+cuisine: American
 keywords:
   - cabbage
   - patch

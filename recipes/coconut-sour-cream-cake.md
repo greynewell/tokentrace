@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 14
 calories: 473
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - coconut

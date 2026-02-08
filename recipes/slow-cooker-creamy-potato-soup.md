@@ -7,6 +7,7 @@ cook_time: PT6H30M
 servings: 6
 calories: 553
 recipe_category: Soup
+cuisine: American
 keywords:
   - cooker
   - creamy

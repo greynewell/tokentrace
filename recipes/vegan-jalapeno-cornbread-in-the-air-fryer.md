@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 294
 recipe_category: Bread
+cuisine: Mexican
 keywords:
   - air
   - bread

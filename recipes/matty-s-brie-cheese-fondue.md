@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 4
 calories: 456
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - brie

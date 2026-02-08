@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 5
 calories: 683
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - chips

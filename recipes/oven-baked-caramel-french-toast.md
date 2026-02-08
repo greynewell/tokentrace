@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 8
 calories: 615
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - baked
   - breakfast

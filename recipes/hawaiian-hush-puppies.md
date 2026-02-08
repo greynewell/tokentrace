@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 50
 calories: 79
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - dish
   - hawaiian

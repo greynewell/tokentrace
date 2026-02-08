@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 32
 calories: 117
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - pecan

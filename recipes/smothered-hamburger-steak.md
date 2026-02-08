@@ -7,6 +7,7 @@ cook_time: PT36M
 servings: 8
 calories: 298
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - hamburger

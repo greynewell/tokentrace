@@ -7,6 +7,7 @@ cook_time: PT11M
 servings: 4
 calories: 119
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - beans
   - dish

@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 87
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - burger
   - dish

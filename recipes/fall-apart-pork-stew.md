@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 522
 recipe_category: Soup
+cuisine: American
 keywords:
   - apart
   - fall

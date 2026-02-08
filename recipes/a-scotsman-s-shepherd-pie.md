@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 386
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

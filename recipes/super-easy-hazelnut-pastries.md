@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 34
 calories: 116
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - hazelnut

@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 14
 calories: 455
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bundt
   - cake

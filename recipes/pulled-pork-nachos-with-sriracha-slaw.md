@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 426
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - nachos

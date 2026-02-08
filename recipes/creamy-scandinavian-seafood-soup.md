@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 466
 recipe_category: Soup
+cuisine: American
 keywords:
   - creamy
   - scandinavian

@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 287
 recipe_category: Bread
+cuisine: Indian
 keywords:
   - bacon
   - bread

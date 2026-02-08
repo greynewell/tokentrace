@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 16
 calories: 494
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - cream

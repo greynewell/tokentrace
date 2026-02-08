@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 18
 calories: 111
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - ida

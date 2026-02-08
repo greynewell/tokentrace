@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 8
 calories: 396
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - chicken
   - course

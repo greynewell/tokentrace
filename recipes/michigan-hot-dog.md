@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 10
 calories: 430
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dog

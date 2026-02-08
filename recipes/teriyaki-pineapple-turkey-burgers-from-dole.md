@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 797
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - burgers
   - course

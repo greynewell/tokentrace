@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 5
 calories: 385
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - bay

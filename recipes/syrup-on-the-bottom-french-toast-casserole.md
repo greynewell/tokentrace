@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 382
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - bottom
   - breakfast

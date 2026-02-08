@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 46
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - cucumber

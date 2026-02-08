@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 6
 calories: 519
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - potato

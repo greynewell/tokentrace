@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 548
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - side

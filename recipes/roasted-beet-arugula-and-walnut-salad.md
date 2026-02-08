@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 4
 calories: 231
 recipe_category: Salad
+cuisine: American
 keywords:
   - arugula
   - beet

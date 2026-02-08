@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 150
 calories: 25
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - noodle
   - soup

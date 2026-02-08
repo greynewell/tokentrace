@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 16
 calories: 178
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - juice

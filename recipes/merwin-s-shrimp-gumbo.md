@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 8
 calories: 837
 recipe_category: Soup
+cuisine: Southern
 keywords:
   - gumbo
   - merwin

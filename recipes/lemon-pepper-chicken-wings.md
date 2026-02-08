@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 291
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chicken

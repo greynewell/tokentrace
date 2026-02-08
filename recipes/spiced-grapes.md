@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 60
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - grapes

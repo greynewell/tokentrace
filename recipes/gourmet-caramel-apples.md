@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 831
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apples
   - caramel

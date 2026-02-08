@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 16
 calories: 250
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - course
   - main

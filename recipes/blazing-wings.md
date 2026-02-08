@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 541
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - blazing

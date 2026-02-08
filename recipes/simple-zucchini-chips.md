@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 2
 calories: 23
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - chips

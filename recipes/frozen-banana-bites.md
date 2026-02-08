@@ -7,6 +7,7 @@ cook_time: PT1H45M
 servings: 48
 calories: 76
 recipe_category: Dessert
+cuisine: American
 keywords:
   - banana
   - bites

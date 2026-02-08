@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 6
 calories: 166
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - baked

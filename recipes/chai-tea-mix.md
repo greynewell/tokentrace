@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 36
 calories: 100
 recipe_category: Beverage
+cuisine: French
 keywords:
   - beverage
   - chai

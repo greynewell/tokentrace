@@ -7,6 +7,7 @@ cook_time: PT4H30M
 servings: 16
 calories: 246
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - chicken
   - cooker

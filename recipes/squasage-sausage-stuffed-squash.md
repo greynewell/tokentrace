@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 4
 calories: 523
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - sausage

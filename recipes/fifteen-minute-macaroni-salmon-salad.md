@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 12
 calories: 470
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - fifteen
   - macaroni

@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 109
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - balsamic
   - carrots

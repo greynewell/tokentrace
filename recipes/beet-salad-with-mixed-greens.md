@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 6
 calories: 193
 recipe_category: Salad
+cuisine: American
 keywords:
   - beet
   - greens

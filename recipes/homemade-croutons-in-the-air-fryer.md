@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 6
 calories: 97
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - air
   - croutons

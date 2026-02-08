@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 280
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - bacon

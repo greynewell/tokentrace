@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 10
 calories: 189
 recipe_category: Soup
+cuisine: American
 keywords:
   - herbal
   - kluski

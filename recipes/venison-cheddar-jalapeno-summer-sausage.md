@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 40
 calories: 48
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - cheddar
   - course

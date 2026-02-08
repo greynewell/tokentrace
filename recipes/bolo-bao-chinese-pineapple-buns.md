@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 36
 calories: 242
 recipe_category: Bread
+cuisine: Chinese
 keywords:
   - bao
   - bolo

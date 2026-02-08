@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 9
 calories: 442
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - rounds

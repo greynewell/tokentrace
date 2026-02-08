@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 223
 recipe_category: Bread
+cuisine: American
 keywords:
   - bird
   - bread

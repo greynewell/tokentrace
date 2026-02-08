@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 5
 calories: 1134
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bones
   - course

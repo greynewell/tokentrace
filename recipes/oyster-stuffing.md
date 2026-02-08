@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 14
 calories: 108
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - oyster

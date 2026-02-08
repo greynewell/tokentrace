@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 177
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - aubergines
   - grilled

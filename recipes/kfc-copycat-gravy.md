@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 4
 calories: 122
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - copycat
   - dish

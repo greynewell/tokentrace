@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 12
 calories: 548
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cheesecake
   - chip

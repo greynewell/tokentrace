@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 8
 calories: 34
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - brooklyn

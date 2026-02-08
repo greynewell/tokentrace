@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 48
 calories: 261
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - chocolate

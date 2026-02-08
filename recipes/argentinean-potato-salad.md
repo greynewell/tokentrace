@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 6
 calories: 271
 recipe_category: Salad
+cuisine: American
 keywords:
   - argentinean
   - potato

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 573
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - butter

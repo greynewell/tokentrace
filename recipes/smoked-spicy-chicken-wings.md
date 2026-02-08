@@ -7,6 +7,7 @@ cook_time: PT2H15M
 servings: 9
 calories: 236
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - chicken

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 30
 calories: 331
 recipe_category: Dessert
+cuisine: American
 keywords:
   - buckeyes
   - dessert

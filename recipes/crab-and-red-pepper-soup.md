@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 2
 calories: 251
 recipe_category: Soup
+cuisine: American
 keywords:
   - crab
   - pepper

@@ -7,6 +7,7 @@ cook_time: PT33M
 servings: 8
 calories: 607
 recipe_category: Main Course
+cuisine: American
 keywords:
   - chicken
   - course

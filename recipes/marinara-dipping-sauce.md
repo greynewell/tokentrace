@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 4
 calories: 64
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - dipping

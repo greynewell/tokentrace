@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 36
 calories: 130
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - amazing
   - appetizer

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 72
 calories: 36
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - dreams

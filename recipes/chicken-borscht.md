@@ -7,6 +7,7 @@ cook_time: PT1H20M
 servings: 12
 calories: 232
 recipe_category: Soup
+cuisine: American
 keywords:
   - borscht
   - chicken

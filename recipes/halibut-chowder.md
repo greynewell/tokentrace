@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 16
 calories: 327
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - halibut

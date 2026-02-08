@@ -7,6 +7,7 @@ cook_time: PT17M
 servings: 6
 calories: 165
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - beef
   - breakfast

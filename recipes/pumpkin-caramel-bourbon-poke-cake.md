@@ -7,6 +7,7 @@ cook_time: PT36M
 servings: 8
 calories: 518
 recipe_category: Side Dish
+cuisine: Southern
 keywords:
   - bourbon
   - cake

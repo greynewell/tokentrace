@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 186
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - healthy

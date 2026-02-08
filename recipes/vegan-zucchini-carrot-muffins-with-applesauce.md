@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 12
 calories: 179
 recipe_category: Bread
+cuisine: American
 keywords:
   - applesauce
   - bread

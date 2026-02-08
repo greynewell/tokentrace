@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 2
 calories: 513
 recipe_category: Main Course
+cuisine: American
 keywords:
   - apple
   - cheese

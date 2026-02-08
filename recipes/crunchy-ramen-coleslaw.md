@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 15
 calories: 146
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - coleslaw
   - crunchy

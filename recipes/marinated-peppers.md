@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 3
 calories: 204
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - marinated

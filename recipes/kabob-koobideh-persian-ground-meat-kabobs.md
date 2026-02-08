@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 8
 calories: 260
 recipe_category: Main Course
+cuisine: Mediterranean
 keywords:
   - course
   - ground

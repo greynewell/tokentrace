@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 6
 calories: 340
 recipe_category: Soup
+cuisine: American
 keywords:
   - pepper
   - soup

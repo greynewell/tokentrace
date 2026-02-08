@@ -7,6 +7,7 @@ cook_time: PT39M
 servings: 6
 calories: 423
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - creamy

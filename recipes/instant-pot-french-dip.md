@@ -7,6 +7,7 @@ cook_time: PT1H25M
 servings: 8
 calories: 463
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - dip

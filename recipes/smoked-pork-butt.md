@@ -7,6 +7,7 @@ cook_time: PT18H
 servings: 16
 calories: 321
 recipe_category: Main Course
+cuisine: American
 keywords:
   - butt
   - course

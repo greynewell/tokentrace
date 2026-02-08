@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 1
 calories: 280
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - bubble

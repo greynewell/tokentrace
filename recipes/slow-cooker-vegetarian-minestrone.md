@@ -7,6 +7,7 @@ cook_time: PT6H15M
 servings: 8
 calories: 138
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - cooker
   - minestrone

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 5
 calories: 544
 recipe_category: Salad
+cuisine: American
 keywords:
   - caesar
   - salad

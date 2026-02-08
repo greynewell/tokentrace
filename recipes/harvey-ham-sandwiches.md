@@ -7,6 +7,7 @@ cook_time: PT10H
 servings: 24
 calories: 445
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - ham

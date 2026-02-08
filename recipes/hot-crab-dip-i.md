@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 12
 calories: 372
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - crab

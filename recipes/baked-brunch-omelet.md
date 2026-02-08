@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 12
 calories: 375
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - baked
   - breakfast

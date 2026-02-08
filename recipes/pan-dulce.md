@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 331
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - dulce

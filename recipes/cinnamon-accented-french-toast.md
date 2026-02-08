@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 109
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - accented
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 8
 calories: 198
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - oatmeal

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 12
 calories: 117
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - crab

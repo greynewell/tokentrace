@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 444
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - den

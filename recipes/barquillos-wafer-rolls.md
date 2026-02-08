@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 18
 calories: 86
 recipe_category: Main Course
+cuisine: American
 keywords:
   - barquillos
   - course

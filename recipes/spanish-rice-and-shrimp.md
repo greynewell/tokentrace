@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 4
 calories: 247
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - main

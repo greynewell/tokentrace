@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 4
 calories: 596
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - chicken
   - course

@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 6
 calories: 56
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - cucumber
   - pacific

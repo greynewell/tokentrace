@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 8
 calories: 218
 recipe_category: Salad
+cuisine: American
 keywords:
   - concord
   - dressing

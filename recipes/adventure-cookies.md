@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 48
 calories: 89
 recipe_category: Dessert
+cuisine: American
 keywords:
   - adventure
   - cookies

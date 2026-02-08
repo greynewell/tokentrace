@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 14
 calories: 498
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - dessert

@@ -7,6 +7,7 @@ cook_time: PT6M
 servings: 12
 calories: 139
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - cakes

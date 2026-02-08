@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 15
 calories: 154
 recipe_category: Bread
+cuisine: American
 keywords:
   - beer
   - bread

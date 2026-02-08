@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 417
 recipe_category: Soup
+cuisine: Italian
 keywords:
   - beans
   - butter

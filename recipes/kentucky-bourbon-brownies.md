@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 342
 recipe_category: Dessert
+cuisine: Southern
 keywords:
   - bourbon
   - brownies

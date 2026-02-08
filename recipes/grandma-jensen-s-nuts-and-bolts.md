@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 24
 calories: 229
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - bolts

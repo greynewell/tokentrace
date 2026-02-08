@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 15
 calories: 334
 recipe_category: Soup
+cuisine: American
 keywords:
   - chicken
   - chile

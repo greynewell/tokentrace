@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 10
 calories: 195
 recipe_category: Soup
+cuisine: American
 keywords:
   - broccoli
   - cheese

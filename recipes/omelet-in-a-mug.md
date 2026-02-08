@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 1
 calories: 217
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - mug

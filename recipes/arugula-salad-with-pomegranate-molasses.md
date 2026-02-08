@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 132
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - arugula
   - molasses

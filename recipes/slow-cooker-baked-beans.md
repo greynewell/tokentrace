@@ -7,6 +7,7 @@ cook_time: PT14H
 servings: 8
 calories: 364
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - baked
   - beans

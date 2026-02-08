@@ -7,6 +7,7 @@ cook_time: PT43M
 servings: 4
 calories: 204
 recipe_category: Main Course
+cuisine: American
 keywords:
   - churrasco
   - course

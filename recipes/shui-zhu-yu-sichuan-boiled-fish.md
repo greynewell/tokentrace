@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 2
 calories: 291
 recipe_category: Main Course
+cuisine: Chinese
 keywords:
   - boiled
   - course

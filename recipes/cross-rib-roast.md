@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 8
 calories: 523
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - cross

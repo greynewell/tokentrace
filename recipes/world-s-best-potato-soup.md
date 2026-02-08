@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 9
 calories: 642
 recipe_category: Soup
+cuisine: American
 keywords:
   - potato
   - soup

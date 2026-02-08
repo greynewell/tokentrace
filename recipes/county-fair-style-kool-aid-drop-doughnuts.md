@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 50
 calories: 101
 recipe_category: Bread
+cuisine: American
 keywords:
   - aid
   - bread

@@ -7,6 +7,7 @@ cook_time: PT5H
 servings: 6
 calories: 526
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - easiest

@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 8
 calories: 554
 recipe_category: Appetizer
+cuisine: Italian
 keywords:
   - appetizer
   - barbecued

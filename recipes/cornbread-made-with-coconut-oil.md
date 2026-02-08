@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 225
 recipe_category: Bread
+cuisine: Southern
 keywords:
   - bread
   - coconut

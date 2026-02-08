@@ -7,6 +7,7 @@ cook_time: PT1H5M
 servings: 4
 calories: 246
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - chicken
   - course

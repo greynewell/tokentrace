@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 2
 calories: 694
 recipe_category: Main Course
+cuisine: American
 keywords:
   - boar
   - bold

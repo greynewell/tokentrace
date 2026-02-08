@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 9
 calories: 218
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cobbler
   - dessert

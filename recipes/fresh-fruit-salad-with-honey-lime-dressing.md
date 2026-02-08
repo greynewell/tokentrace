@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 14
 calories: 103
 recipe_category: Salad
+cuisine: American
 keywords:
   - dressing
   - fresh

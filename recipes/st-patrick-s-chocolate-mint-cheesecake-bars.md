@@ -7,6 +7,7 @@ cook_time: PT55M
 servings: 24
 calories: 369
 recipe_category: Dessert
+cuisine: American
 keywords:
   - bars
   - cheesecake

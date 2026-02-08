@@ -7,6 +7,7 @@ cook_time: PT5H35M
 servings: 8
 calories: 248
 recipe_category: Soup
+cuisine: Chinese
 keywords:
   - chicken
   - cooker

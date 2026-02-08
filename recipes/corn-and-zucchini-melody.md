@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 123
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - corn
   - dish

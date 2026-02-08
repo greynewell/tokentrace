@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 50
 calories: 108
 recipe_category: Beverage
+cuisine: American
 keywords:
   - beverage
   - luscious

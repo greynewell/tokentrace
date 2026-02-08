@@ -7,6 +7,7 @@ cook_time: PT12M
 servings: 30
 calories: 71
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - pinwheels

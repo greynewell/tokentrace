@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 10
 calories: 452
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - peas
   - salad

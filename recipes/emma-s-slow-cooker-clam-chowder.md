@@ -7,6 +7,7 @@ cook_time: PT8H10M
 servings: 4
 calories: 476
 recipe_category: Soup
+cuisine: American
 keywords:
   - chowder
   - clam

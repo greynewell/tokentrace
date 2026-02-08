@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 947
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - aid
   - first

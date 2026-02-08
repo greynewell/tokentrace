@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 5
 calories: 692
 recipe_category: Bread
+cuisine: American
 keywords:
   - beef
   - bread

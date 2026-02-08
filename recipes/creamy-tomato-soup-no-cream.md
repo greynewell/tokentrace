@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 4
 calories: 231
 recipe_category: Soup
+cuisine: American
 keywords:
   - cream
   - creamy

@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 193
 recipe_category: Main Course
+cuisine: American
 keywords:
   - beef
   - breakfast

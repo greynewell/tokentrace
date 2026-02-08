@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 15
 calories: 314
 recipe_category: Bread
+cuisine: Italian
 keywords:
   - bread
   - hubby

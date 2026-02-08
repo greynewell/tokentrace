@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 12
 calories: 422
 recipe_category: Main Course
+cuisine: Mexican
 keywords:
   - annatto
   - cochinita

@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 2
 calories: 444
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bloody
   - course

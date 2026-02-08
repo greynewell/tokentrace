@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 6
 calories: 291
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - asparagus
   - blue

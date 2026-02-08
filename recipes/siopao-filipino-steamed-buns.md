@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 16
 calories: 153
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - buns

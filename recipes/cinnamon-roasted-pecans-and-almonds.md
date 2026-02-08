@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 16
 calories: 240
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - almonds
   - appetizer

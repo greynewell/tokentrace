@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 12
 calories: 107
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - quinoa
   - salad

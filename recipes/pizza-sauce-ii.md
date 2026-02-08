@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 32
 calories: 33
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - pizza

@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 6
 calories: 213
 recipe_category: Main Course
+cuisine: Japanese
 keywords:
   - course
   - fig

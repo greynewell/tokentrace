@@ -7,6 +7,7 @@ cook_time: PT2M
 servings: 18
 calories: 148
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - doughnuts

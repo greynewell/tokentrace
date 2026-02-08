@@ -7,6 +7,7 @@ cook_time: PT38M
 servings: 12
 calories: 270
 recipe_category: Dessert
+cuisine: Mexican
 keywords:
   - dessert
   - quesadilla

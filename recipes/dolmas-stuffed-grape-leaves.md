@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 8
 calories: 207
 recipe_category: Side Dish
+cuisine: Mediterranean
 keywords:
   - dish
   - dolmas

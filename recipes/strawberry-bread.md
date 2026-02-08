@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 24
 calories: 281
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bread
   - breakfast

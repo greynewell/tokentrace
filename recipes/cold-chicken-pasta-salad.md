@@ -7,6 +7,7 @@ cook_time: PT1H1M
 servings: 6
 calories: 374
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - chicken
   - cold

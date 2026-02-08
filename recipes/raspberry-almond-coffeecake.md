@@ -7,6 +7,7 @@ cook_time: PT1H
 servings: 10
 calories: 173
 recipe_category: Dessert
+cuisine: American
 keywords:
   - almond
   - coffeecake

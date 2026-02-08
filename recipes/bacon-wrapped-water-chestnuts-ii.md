@@ -7,6 +7,7 @@ cook_time: PT50M
 servings: 18
 calories: 172
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chestnuts

@@ -7,6 +7,7 @@ cook_time: PT1H15M
 servings: 6
 calories: 299
 recipe_category: Side Dish
+cuisine: Italian
 keywords:
   - dish
   - marinara

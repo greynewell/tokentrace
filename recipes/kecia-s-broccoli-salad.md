@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 7
 calories: 675
 recipe_category: Salad
+cuisine: American
 keywords:
   - broccoli
   - kecia

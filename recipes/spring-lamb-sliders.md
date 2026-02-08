@@ -7,6 +7,7 @@ cook_time: PT3H10M
 servings: 4
 calories: 955
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - lamb

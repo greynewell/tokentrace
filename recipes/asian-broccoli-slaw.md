@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 8
 calories: 340
 recipe_category: Salad
+cuisine: Japanese
 keywords:
   - asian
   - broccoli

@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 18
 calories: 222
 recipe_category: Dessert
+cuisine: American
 keywords:
   - apple
   - crisp

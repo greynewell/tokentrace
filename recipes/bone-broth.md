@@ -7,6 +7,7 @@ cook_time: PT24H
 servings: 8
 calories: 49
 recipe_category: Soup
+cuisine: American
 keywords:
   - bone
   - broth

@@ -7,6 +7,7 @@ cook_time: PT4H5M
 servings: 12
 calories: 331
 recipe_category: Main Course
+cuisine: Italian
 keywords:
   - cooker
   - course

@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 5
 calories: 873
 recipe_category: Breakfast
+cuisine: French
 keywords:
   - breakfast
   - crepes

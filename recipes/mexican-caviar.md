@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 32
 calories: 17
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - caviar

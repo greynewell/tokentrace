@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 352
 recipe_category: Salad
+cuisine: Mexican
 keywords:
   - lime
   - mexicali

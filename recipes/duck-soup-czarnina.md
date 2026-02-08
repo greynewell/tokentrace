@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 12
 calories: 712
 recipe_category: Soup
+cuisine: American
 keywords:
   - czarnina
   - duck

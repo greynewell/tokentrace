@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 348
 recipe_category: Salad
+cuisine: Italian
 keywords:
   - italian
   - potato

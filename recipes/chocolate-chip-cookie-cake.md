@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 649
 recipe_category: Dessert
+cuisine: American
 keywords:
   - cake
   - chip

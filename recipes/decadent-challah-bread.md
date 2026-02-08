@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 24
 calories: 183
 recipe_category: Bread
+cuisine: American
 keywords:
   - bread
   - challah

@@ -7,6 +7,7 @@ cook_time: PT1H10M
 servings: 6
 calories: 359
 recipe_category: Salad
+cuisine: American
 keywords:
   - salad
   - squid

@@ -7,6 +7,7 @@ cook_time: PT9M
 servings: 16
 calories: 42
 recipe_category: Side Dish
+cuisine: Chinese
 keywords:
   - dish
   - fruity

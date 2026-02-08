@@ -7,6 +7,7 @@ cook_time: PT13M
 servings: 4
 calories: 312
 recipe_category: Appetizer
+cuisine: French
 keywords:
   - appetizer
   - beans

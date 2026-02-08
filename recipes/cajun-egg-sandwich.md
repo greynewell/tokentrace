@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 1
 calories: 614
 recipe_category: Breakfast
+cuisine: Southern
 keywords:
   - breakfast
   - cajun

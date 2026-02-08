@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 7
 calories: 340
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - appetizers

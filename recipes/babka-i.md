@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 24
 calories: 490
 recipe_category: Bread
+cuisine: American
 keywords:
   - babka
   - bread

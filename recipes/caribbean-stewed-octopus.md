@@ -7,6 +7,7 @@ cook_time: PT2H35M
 servings: 4
 calories: 366
 recipe_category: Main Course
+cuisine: American
 keywords:
   - caribbean
   - course

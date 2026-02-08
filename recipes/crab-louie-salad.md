@@ -7,6 +7,7 @@ cook_time: PT7M
 servings: 6
 calories: 341
 recipe_category: Salad
+cuisine: American
 keywords:
   - crab
   - louie

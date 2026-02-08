@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 60
 calories: 102
 recipe_category: Dessert
+cuisine: American
 keywords:
   - blossoms
   - dessert

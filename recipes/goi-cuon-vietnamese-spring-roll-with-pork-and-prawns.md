@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 328
 recipe_category: Appetizer
+cuisine: Chinese
 keywords:
   - appetizer
   - cuon

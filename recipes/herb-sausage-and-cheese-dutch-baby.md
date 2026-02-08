@@ -7,6 +7,7 @@ cook_time: PT24M
 servings: 4
 calories: 287
 recipe_category: Breakfast
+cuisine: Italian
 keywords:
   - baby
   - breakfast

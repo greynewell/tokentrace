@@ -7,6 +7,7 @@ cook_time: PT35M
 servings: 6
 calories: 238
 recipe_category: Soup
+cuisine: American
 keywords:
   - amazing
   - lentil

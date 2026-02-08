@@ -7,6 +7,7 @@ cook_time: PT2H45M
 servings: 8
 calories: 360
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - loin

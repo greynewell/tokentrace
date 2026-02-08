@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 12
 calories: 169
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - bars
   - breakfast

@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 6
 calories: 135
 recipe_category: Appetizer
+cuisine: Japanese
 keywords:
   - appetizer
   - baked

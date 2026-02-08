@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 2
 calories: 474
 recipe_category: Breakfast
+cuisine: Mexican
 keywords:
   - breakfast
   - chorizo

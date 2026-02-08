@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 4
 calories: 90
 recipe_category: Salad
+cuisine: Chinese
 keywords:
   - egg
   - kick

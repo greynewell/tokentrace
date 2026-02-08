@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 5
 calories: 612
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - breakfast
   - brown

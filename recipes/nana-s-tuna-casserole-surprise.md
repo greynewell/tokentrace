@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 15
 calories: 144
 recipe_category: Main Course
+cuisine: American
 keywords:
   - casserole
   - course

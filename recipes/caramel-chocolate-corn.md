@@ -7,6 +7,7 @@ cook_time: PT8M
 servings: 32
 calories: 147
 recipe_category: Dessert
+cuisine: American
 keywords:
   - caramel
   - chocolate

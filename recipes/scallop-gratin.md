@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 2
 calories: 354
 recipe_category: Main Course
+cuisine: French
 keywords:
   - course
   - gratin

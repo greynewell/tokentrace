@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 40
 calories: 30
 recipe_category: Dessert
+cuisine: American
 keywords:
   - butterscotch
   - candy

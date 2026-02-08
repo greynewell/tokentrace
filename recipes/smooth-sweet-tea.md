@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 8
 calories: 73
 recipe_category: Beverage
+cuisine: Southern
 keywords:
   - beverage
   - smooth

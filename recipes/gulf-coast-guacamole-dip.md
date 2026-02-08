@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 20
 calories: 103
 recipe_category: Appetizer
+cuisine: Mexican
 keywords:
   - appetizer
   - coast

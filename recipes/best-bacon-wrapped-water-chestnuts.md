@@ -7,6 +7,7 @@ cook_time: PT25M
 servings: 10
 calories: 198
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - chestnuts

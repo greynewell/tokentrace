@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 15
 calories: 148
 recipe_category: Breakfast
+cuisine: American
 keywords:
   - blintzes
   - breakfast

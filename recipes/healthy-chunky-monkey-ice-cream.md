@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 2
 calories: 189
 recipe_category: Dessert
+cuisine: American
 keywords:
   - chunky
   - cream

@@ -7,6 +7,7 @@ cook_time: PT1H30M
 servings: 15
 calories: 562
 recipe_category: Main Course
+cuisine: American
 keywords:
   - course
   - garlic

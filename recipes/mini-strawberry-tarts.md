@@ -7,6 +7,7 @@ cook_time: PT18M
 servings: 35
 calories: 280
 recipe_category: Dessert
+cuisine: American
 keywords:
   - dessert
   - mini

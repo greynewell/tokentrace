@@ -7,6 +7,7 @@ cook_time: PT0M
 servings: 4
 calories: 449
 recipe_category: Salad
+cuisine: American
 keywords:
   - poppin
   - salad

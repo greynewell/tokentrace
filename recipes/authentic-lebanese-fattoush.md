@@ -7,6 +7,7 @@ cook_time: PT5M
 servings: 4
 calories: 235
 recipe_category: Salad
+cuisine: Mediterranean
 keywords:
   - authentic
   - fattoush

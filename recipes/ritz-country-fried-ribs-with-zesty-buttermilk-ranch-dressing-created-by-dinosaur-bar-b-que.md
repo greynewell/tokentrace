@@ -7,6 +7,7 @@ cook_time: PT3H
 servings: 24
 calories: 897
 recipe_category: Main Course
+cuisine: Southern
 keywords:
   - bar
   - buttermilk

@@ -7,6 +7,7 @@ cook_time: PT40M
 servings: 32
 calories: 78
 recipe_category: Main Course
+cuisine: American
 keywords:
   - bacon
   - blue

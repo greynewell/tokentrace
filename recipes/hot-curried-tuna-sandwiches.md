@@ -7,6 +7,7 @@ cook_time: PT3M
 servings: 4
 calories: 212
 recipe_category: Main Course
+cuisine: Indian
 keywords:
   - course
   - curried

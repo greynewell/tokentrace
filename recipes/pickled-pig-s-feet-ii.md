@@ -7,6 +7,7 @@ cook_time: PT2H
 servings: 6
 calories: 200
 recipe_category: Appetizer
+cuisine: American
 keywords:
   - appetizer
   - feet

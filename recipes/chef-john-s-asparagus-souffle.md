@@ -7,6 +7,7 @@ cook_time: PT30M
 servings: 4
 calories: 239
 recipe_category: Side Dish
+cuisine: French
 keywords:
   - asparagus
   - chef

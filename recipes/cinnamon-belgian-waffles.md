@@ -7,6 +7,7 @@ cook_time: PT15M
 servings: 3
 calories: 380
 recipe_category: Bread
+cuisine: American
 keywords:
   - belgian
   - bread

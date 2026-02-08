@@ -7,6 +7,7 @@ cook_time: PT10M
 servings: 18
 calories: 112
 recipe_category: Dessert
+cuisine: American
 keywords:
   - christmas
   - dessert

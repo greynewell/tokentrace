@@ -7,6 +7,7 @@ cook_time: PT20M
 servings: 12
 calories: 164
 recipe_category: Appetizer
+cuisine: Southern
 keywords:
   - appetizer
   - bacon

@@ -7,6 +7,7 @@ cook_time: PT45M
 servings: 192
 calories: 32
 recipe_category: Side Dish
+cuisine: American
 keywords:
   - dish
   - green
